@@ -1,0 +1,8 @@
+difficultie observe:
+1> so much abriviation:
+	Ex1: The patient had a smear there consistent with ALL . ||| c="a smear" 19:3 19:4||r="TeRP"||c="all"
+
+2> sentences are not complete:
+	Ex1:  	3. Apnea and bradycardia of prematurity . ||| c="prematurity" 91:5 91:5||r="PIP"||c="bradycardia" 
+	 	3. Apnea and bradycardia of prematurity . ||| c="prematurity" 91:5 91:5||r="PIP"||c="apnea" 91:1 91:1
+3> 

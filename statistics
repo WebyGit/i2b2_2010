@@ -1,0 +1,70 @@
+Definition:
+
+1> TrIP: Treatment  improves medical  problem (TrIP).  Includes mention where the treatment improves or cures the problem, for example:
+hypertension was controlled on hydrochlorothiazide . TrIP(hydrochlorothiazide, hypertension) 
+
+
+2> TrIP: Treatment  improves medical  problem (TrIP).  Includes mention where the treatment improves or cures the problem, for example
+the tumor was growing despite the available chemotherapeutic regimen . > TrWP(chemotherapeutic regimen, tumor)  
+
+
+3> Treatment causes medical problem (TrCP). The implied context is that the treatment was not administered for the medical problem that it ended up causing, for example:
+Bactrim could be a cause of these abnormalities . TrCP(bactrim, abnormalities) 
+
+
+4> reatment is administered for medical problem (TrAP). Includes mention where a treatment is given for a problem, but outcome is not mentioned in the sentence, for example:
+he was given Lasix periodically to prevent him from going into congestive heart failure .  TrAP(Lasix, congestive heart failure)  
+
+
+5> reatment is not administered because of medical problem (TrNAP). Includes mentions where treatment was not given or discontinued because of a medical problem that the treatment did not cause, for example :
+Relafen which is contraindicated because of ulcers . TrNAP(Relafen, ulcers) 
+
+
+6> Test reveals medical problem (TeRP). Includes mentions where a test is conducted and the outcome is not known,
+for example:
+an echocardiogram revealed a pericardial effusion . TeRP(echocardiogram, effusion)  
+
+
+7> Test conducted to investigate medical problem (TeCP). Includes mentions where a test is conducted and the outcome is not known, for ex:
+a VQ scan was performed to investigate pulmonary embolus . TeCP(vq scan, pulmonary embolus)  
+
+8> Medical problem indicates medical problem (PIP). Includes medical problems that describe or reveal aspects of the same medical problem and those that cause other medical problem, for example:
+Azotemia presumed secondary to sepsis . PIP(Azotemia, sepsis)  
+
+
+
+++++++++++++++++++++Relation Statistics:++++++++++++++++++
+
+{'TrWP': 132, 'TeCP': 503, 'TrCP': 525, 'TrNAP': 173, 'TrAP': 2616, 'PIP': 2202, 'TrIP': 202, 'TeRP': 3052}
+
+total = 9405
+
+{'TeCP_': 221, 'TrWP': 51, 'TrAP_': 1344, 'PIP_': 699, 'TeRP_': 443, 'TeCP': 281, 'TrCP': 207, 'TrIP_': 137, 'TrNAP': 117, 'TrAP': 1271, 'PIP': 1502, 'TrWP_': 80, 'TrCP_': 317, 'TrNAP_': 55, 'TrIP': 64, 'TeRP': 2608}
+
+
++++++++++Documents+++++++++++++++++++++++
+
+Beth: 73
+Partner: 97
+Test: 256
+unanno(partner): 267
+
+
+
+++++++++++++++Sentence legth:++++++++++++++++++++++
+number of sample 65256
+number sent (lenth > 100 word) : 2445
+number sent (lenth > 75 word) :  6076
+number sent (lenth > 50 word) :  12093
+
+number sent (lenth < 5 word) :  136
+number sent (lenth < 10 word) :  2315
+number sent (lenth < 20 word) :  15755
+number sent (lenth < 30 word) :  33212
+number sent (lenth > 40 word) :  46708
+
+
+
+
+
+
