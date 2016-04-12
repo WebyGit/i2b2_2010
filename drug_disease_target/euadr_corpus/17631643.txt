@@ -1,0 +1,57 @@
+Target-Disorder	True	concept	stomach cancer	76	90	annotator1,Computer,annotator2,annotator3	['umls/C0002691']	2	Diseases & Disorders
+Target-Disorder	False	concept		102	108	Computer	['umls/C0003573']	35	Diseases & Disorders
+Target-Disorder	False	concept		231	239	Computer	['umls/C0000161']	36	Diseases & Disorders
+Target-Disorder	False	concept	cancer	291	297	annotator1,Computer	['umls/C0000617']	5	Diseases & Disorders
+Target-Disorder	False	concept		433	439	Computer	['umls/C0003573']	37	Diseases & Disorders
+Target-Disorder	True	concept	ADH1B	523	528	annotator1,Computer,annotator2,annotator3	['uniprot/3088336']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	Ex9 5C>T	530	538	annotator1,annotator2,annotator3	['sda/1', 'sda/21']	8	SNP & Sequence variations
+Target-Disorder	True	concept	Ex3 23A>G	540	549	annotator1,annotator2,annotator3	['sda/2', 'sda/22']	9	SNP & Sequence variations
+Target-Disorder	True	concept	Ex3 58A>T	551	560	annotator1,annotator2,annotator3	['sda/3', 'sda/23', 'sda/19']	10	SNP & Sequence variations
+Target-Disorder	True	concept	Ex9 77A>G	565	574	annotator1,annotator2,annotator3	['sda/4', 'sda/24', 'sda/20']	11	SNP & Sequence variations
+Target-Disorder	True	concept	ADH1C	577	582	annotator1,Computer,annotator2,annotator3	['uniprot/4000360']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	Ex8-56A>G	584	593	annotator1,annotator2,annotator3	['sda/5', 'sda/21']	13	SNP & Sequence variations
+Target-Disorder	True	concept	Ex6-14G>A	598	607	annotator1,annotator2,annotator3	['sda/6', 'sda/22']	14	SNP & Sequence variations
+Target-Disorder	True	concept	ALDH2	613	618	annotator1,Computer,annotator2,annotator3	['uniprot/3055480', 'sda/14']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	Ex1 82A>G	620	629	annotator1,annotator2,annotator3	['sda/7', 'sda/19', 'sda/13']	16	SNP & Sequence variations
+Target-Disorder	False	concept		653	661	Computer	['umls/C0000161']	38	Diseases & Disorders
+Target-Disorder	True	concept	stomach cancer	684	698	annotator1,Computer,annotator2,annotator3	['umls/C0002691']	18	Diseases & Disorders
+Target-Disorder	False	concept		758	766	Computer	['umls/C0000161']	39	Diseases & Disorders
+Target-Disorder	False	concept		834	845	Computer	['umls/C0010068']	40	Diseases & Disorders
+Target-Disorder	False	concept	AA	874	876	annotator1	['sda/8']	21	SNP & Sequence variations
+Target-Disorder	False	concept		878	880	annotator1	['sda/9']	22	SNP & Sequence variations
+Target-Disorder	False	concept		885	887	annotator1	['sda/10']	23	SNP & Sequence variations
+Target-Disorder	True	concept	ALDH2 Ex1 82A>G	901	916	annotator1,annotator2,annotator3	['sda/11', 'sda/19', 'sda/13']	24	SNP & Sequence variations
+Target-Disorder	True	concept	ALDH2 Ex1 82A>G	901	916	Computer,annotator2,annotator3	['uniprot/3055480', 'sda/14']	24	Genes & Molecular Sequences
+Target-Disorder	False	concept		955	961	Computer	['umls/C0000161']	41	Diseases & Disorders
+Target-Disorder	True	concept	stomach cancer	1074	1088	annotator1,Computer,annotator2,annotator3	['umls/C0002691']	25	Diseases & Disorders
+Target-Disorder	True	concept	ALDH2 Ex1 82A>G	1114	1129	annotator1,annotator2,annotator3	['sda/11', 'sda/19', 'sda/13']	26	SNP & Sequence variations
+Target-Disorder	True	concept	ALDH2 Ex1 82A>G	1114	1129	Computer,annotator2,annotator3	['uniprot/3055480', 'sda/14']	26	Genes & Molecular Sequences
+Target-Disorder	True	concept	stomach cancer	1173	1187	annotator1,Computer,annotator2,annotator3	['umls/C0002691']	28	Diseases & Disorders
+Target-Disorder	False	concept	AG	1233	1235	annotator1,annotator3	['sda/12', 'sda/29']	29	SNP & Sequence variations
+Target-Disorder	False	concept		1236	1238	annotator1	['sda/10']	30	SNP & Sequence variations
+Target-Disorder	True	concept	ALDH2 Ex1 82 G	1457	1471	annotator1,annotator2,annotator3	['sda/13', 'sda/1', 'sda/16']	31	SNP & Sequence variations
+Target-Disorder	False	concept	ALDH2 Ex1 82 G	1457	1471	Computer,annotator2	['uniprot/3055480']	31	Genes & Molecular Sequences
+Target-Disorder	False	concept		1560	1568	Computer	['umls/C0000161']	42	Diseases & Disorders
+Target-Disorder	True	concept	stomach cancer	1693	1707	annotator1,Computer,annotator2,annotator3	['umls/C0002691']	34	Diseases & Disorders
+Target-Disorder	False	relation	30	28	['sda/10']	['umls/C0002691']	1236:1238	1173:1187	annotator1	PA
+Target-Disorder	False	relation	29	28	['sda/12', 'sda/29']	['umls/C0002691']	1233:1235	1173:1187	annotator1,annotator3	PA
+Target-Disorder	False	relation	7	18	['uniprot/3088336']	['umls/C0002691']	523:528	684:698	Computer,annotator2	PA
+Target-Disorder	False	relation	7	37	['uniprot/3088336']	['umls/C0003573']	523:528	433:439	Computer	PA
+Target-Disorder	False	relation	7	38	['uniprot/3088336']	['umls/C0000161']	523:528	653:661	Computer	PA
+Target-Disorder	False	relation	12	18	['uniprot/4000360']	['umls/C0002691']	577:582	684:698	Computer,annotator2	PA
+Target-Disorder	False	relation	12	37	['uniprot/4000360']	['umls/C0003573']	577:582	433:439	Computer	PA
+Target-Disorder	False	relation	12	38	['uniprot/4000360']	['umls/C0000161']	577:582	653:661	Computer	PA
+Target-Disorder	False	relation	15	18	['uniprot/3055480', 'sda/14']	['umls/C0002691']	613:618	684:698	Computer,annotator2	PA
+Target-Disorder	False	relation	15	37	['uniprot/3055480', 'sda/14']	['umls/C0003573']	613:618	433:439	Computer	PA
+Target-Disorder	False	relation	15	38	['uniprot/3055480', 'sda/14']	['umls/C0000161']	613:618	653:661	Computer	PA
+Target-Disorder	False	relation	24	41	['sda/11', 'uniprot/3055480', 'sda/19', 'sda/14', 'sda/13']	['umls/C0000161']	901:916	955:961	Computer	PA
+Target-Disorder	False	relation	24	40	['sda/11', 'uniprot/3055480', 'sda/19', 'sda/14', 'sda/13']	['umls/C0010068']	901:916	834:845	Computer	PA
+Target-Disorder	True	relation	26	28	['sda/11', 'uniprot/3055480', 'sda/19', 'sda/14', 'sda/13']	['umls/C0002691']	1114:1129	1173:1187	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	31	42	['sda/13', 'uniprot/3055480', 'sda/1', 'sda/16']	['umls/C0000161']	1457:1471	1560:1568	Computer	PA
+Target-Disorder	False	relation	13	18	['sda/5', 'sda/21']	['umls/C0002691']	584:593	684:698	annotator2	SA
+Target-Disorder	False	relation	14	18	['sda/6', 'sda/22']	['umls/C0002691']	598:607	684:698	annotator2	SA
+Target-Disorder	False	relation	16	18	['sda/7', 'sda/19', 'sda/13']	['umls/C0002691']	620:629	684:698	annotator2	SA
+Target-Disorder	False	relation	8	18	['sda/1', 'sda/21']	['umls/C0002691']	530:538	684:698	annotator2	SA
+Target-Disorder	False	relation	9	18	['sda/2', 'sda/22']	['umls/C0002691']	540:549	684:698	annotator2	SA
+Target-Disorder	False	relation	10	18	['sda/3', 'sda/23', 'sda/19']	['umls/C0002691']	551:560	684:698	annotator2	SA
+Target-Disorder	False	relation	11	18	['sda/4', 'sda/24', 'sda/20']	['umls/C0002691']	565:574	684:698	annotator2	SA

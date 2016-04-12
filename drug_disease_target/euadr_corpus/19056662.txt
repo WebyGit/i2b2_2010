@@ -1,0 +1,81 @@
+Target-Drug	False	concept	Short-chain fatty acids	0	23	annotator1,annotator2	['sda/3', 'sda/2']	0	Chemicals & Drugs
+Target-Drug	False	concept	Short-chain fatty acids	0	23	annotator3	['sda/7']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	transient receptor potential vanilloid type 6	31	87	annotator1,annotator2,annotator3	['sda/2', 'sda/3', 'sda/6']	1	Genes & Molecular Sequences
+Target-Drug	False	concept	Fructooligosaccharides	125	147	annotator2,annotator3	['sda/4', 'sda/13']	31	Chemicals & Drugs
+Target-Drug	True	concept	FOS	149	152	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	2	Chemicals & Drugs
+Target-Drug	False	concept	FOS	149	152	Computer	['uniprot/3003844']	2	Genes & Molecular Sequences
+Target-Drug	False	concept		158	187	annotator1	['sda/10']	3	Chemicals & Drugs
+Target-Drug	False	concept	calcium	202	209	annotator2,annotator3	['sda/5', 'sda/4']	32	Chemicals & Drugs
+Target-Drug	True	concept	FOS	335	338	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	4	Chemicals & Drugs
+Target-Drug	False	concept	FOS	335	338	Computer	['uniprot/3003844']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	calcium	377	384	annotator2,annotator3	['sda/5', 'sda/4']	33	Chemicals & Drugs
+Target-Drug	True	concept	FOS	460	463	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	5	Chemicals & Drugs
+Target-Drug	False	concept	FOS	460	463	Computer	['uniprot/3003844']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	transient receptor potential vanilloid type 6	533	578	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/6']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	580	585	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	calbindin-D9k	588	601	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/10']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	calcium-ATPase 1b	607	640	annotator1,annotator2,annotator3	['sda/12', 'sda/8', 'sda/9']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	PMCA1b	642	648	annotator1,annotator2,annotator3	['sda/13', 'sda/9', 'sda/8']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	FOS	655	658	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	11	Chemicals & Drugs
+Target-Drug	False	concept	FOS	655	658	Computer	['uniprot/3003844']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	688	693	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	calbindin-D9k	698	711	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/10']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	PMCA1b	731	737	annotator1,annotator2,annotator3	['sda/13', 'sda/9', 'sda/8']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	FOS	758	761	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	15	Chemicals & Drugs
+Target-Drug	False	concept	FOS	758	761	Computer	['uniprot/3003844']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	SCFA	805	809	annotator1,annotator2	['sda/14', 'sda/10']	16	Chemicals & Drugs
+Target-Drug	False	concept	SCFA	805	809	annotator3	['sda/11']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	FOS	845	848	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	17	Chemicals & Drugs
+Target-Drug	False	concept	FOS	845	848	Computer	['uniprot/3003844']	17	Genes & Molecular Sequences
+Target-Drug	False	concept	SCFA	890	894	annotator1,annotator2	['sda/14', 'sda/10']	18	Chemicals & Drugs
+Target-Drug	False	concept	SCFA	890	894	annotator3	['sda/11']	18	Genes & Molecular Sequences
+Target-Drug	False	concept		1003	1007	annotator3	['sda/12']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	1022	1027	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	19	Genes & Molecular Sequences
+Target-Drug	False	concept	SCFA	1057	1061	annotator1,annotator2	['sda/14', 'sda/10']	20	Chemicals & Drugs
+Target-Drug	False	concept	SCFA	1057	1061	annotator3	['sda/11']	20	Genes & Molecular Sequences
+Target-Drug	False	concept		1065	1069	annotator3	['sda/12']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	1101	1106	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	21	Genes & Molecular Sequences
+Target-Drug	False	concept	SCFA	1273	1277	annotator1,annotator2	['sda/14', 'sda/10']	22	Chemicals & Drugs
+Target-Drug	False	concept	SCFA	1273	1277	annotator3	['sda/11']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	FOS	1306	1309	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	23	Chemicals & Drugs
+Target-Drug	False	concept	FOS	1306	1309	Computer	['uniprot/3003844']	23	Genes & Molecular Sequences
+Target-Drug	False	concept	calcium	1319	1326	annotator2,annotator3	['sda/5', 'sda/4']	34	Chemicals & Drugs
+Target-Drug	False	concept		1352	1356	annotator3	['sda/12']	38	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	1371	1376	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	24	Genes & Molecular Sequences
+Target-Drug	False	concept	SCFA	1437	1441	annotator1,annotator2	['sda/14', 'sda/10']	25	Chemicals & Drugs
+Target-Drug	False	concept	SCFA	1437	1441	annotator3	['sda/11']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	FOS	1471	1474	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	26	Chemicals & Drugs
+Target-Drug	False	concept	FOS	1471	1474	Computer	['uniprot/3003844']	26	Genes & Molecular Sequences
+Target-Drug	False	concept		1506	1510	annotator3	['sda/12']	39	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	1525	1530	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	TRPV6	1598	1603	annotator1,Computer,annotator2,annotator3	['uniprot/3056812']	28	Genes & Molecular Sequences
+Target-Drug	False	concept	SCFA	1623	1627	annotator1,annotator2	['sda/14', 'sda/10']	29	Chemicals & Drugs
+Target-Drug	False	concept	SCFA	1623	1627	annotator3	['sda/11']	29	Genes & Molecular Sequences
+Target-Drug	False	concept	calcium	1686	1693	annotator2,annotator3	['sda/5', 'sda/4']	35	Chemicals & Drugs
+Target-Drug	True	concept	FOS	1708	1711	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/14']	30	Chemicals & Drugs
+Target-Drug	False	concept	FOS	1708	1711	Computer	['uniprot/3003844']	30	Genes & Molecular Sequences
+Target-Drug	False	relation	0	1	['sda/3', 'sda/2', 'sda/7']	['sda/2', 'sda/3', 'sda/6']	0:23	31:87	annotator1,annotator2	PA
+Target-Drug	True	relation	5	7	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['uniprot/3056812']	460:463	580:585	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	5	8	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/11', 'sda/7', 'sda/10']	460:463	588:601	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	5	10	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/13', 'sda/9', 'sda/8']	460:463	642:648	annotator1	NA
+Target-Drug	True	relation	11	12	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['uniprot/3056812']	655:658	688:693	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	11	13	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/11', 'sda/7', 'sda/10']	655:658	698:711	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	11	14	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/13', 'sda/9', 'sda/8']	655:658	731:737	annotator1,annotator2	NA
+Target-Drug	False	relation	18	19	['sda/14', 'sda/10', 'sda/11']	['uniprot/3056812']	890:894	1022:1027	annotator1,annotator2	PA
+Target-Drug	True	relation	26	27	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['uniprot/3056812']	1471:1474	1525:1530	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	25	27	['sda/14', 'sda/10', 'sda/11']	['uniprot/3056812']	1437:1441	1525:1530	annotator1,annotator2	PA
+Target-Drug	True	relation	30	28	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['uniprot/3056812']	1708:1711	1598:1603	annotator1,annotator2,annotator3	SA
+Target-Drug	False	relation	29	28	['sda/14', 'sda/10', 'sda/11']	['uniprot/3056812']	1623:1627	1598:1603	annotator1,annotator2	PA
+Target-Drug	False	relation	5	9	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/12', 'sda/8', 'sda/9']	460:463	607:640	annotator2,annotator3	SA
+Target-Drug	False	relation	5	10	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/13', 'sda/9', 'sda/8']	460:463	642:648	annotator2,annotator3	SA
+Target-Drug	False	relation	35	28	['sda/5', 'sda/4']	['uniprot/3056812']	1686:1693	1598:1603	annotator2,annotator3	PA
+Target-Drug	False	relation	5	6	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/7', 'sda/3', 'sda/6']	460:463	533:578	annotator3	SA
+Target-Drug	False	relation	11	14	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/13', 'sda/9', 'sda/8']	655:658	731:737	annotator3	SA
+Target-Drug	False	relation	17	16	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/14', 'sda/10', 'sda/11']	845:848	805:809	annotator3	SA
+Target-Drug	False	relation	34	27	['sda/5', 'sda/4']	['uniprot/3056812']	1319:1326	1525:1530	annotator3	PA
+Target-Drug	False	relation	34	25	['sda/5', 'sda/4']	['sda/14', 'sda/10', 'sda/11']	1319:1326	1437:1441	annotator3	PA
+Target-Drug	False	relation	34	39	['sda/5', 'sda/4']	['sda/12']	1319:1326	1506:1510	annotator3	PA
+Target-Drug	False	relation	26	25	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/14', 'sda/10', 'sda/11']	1471:1474	1437:1441	annotator3	PA
+Target-Drug	False	relation	26	39	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/12']	1471:1474	1506:1510	annotator3	PA
+Target-Drug	False	relation	35	29	['sda/5', 'sda/4']	['sda/14', 'sda/10', 'sda/11']	1686:1693	1623:1627	annotator3	PA
+Target-Drug	False	relation	30	29	['sda/2', 'uniprot/3003844', 'sda/6', 'sda/14']	['sda/14', 'sda/10', 'sda/11']	1708:1711	1623:1627	annotator3	PA

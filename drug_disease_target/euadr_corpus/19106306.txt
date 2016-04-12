@@ -1,0 +1,53 @@
+Target-Disorder	True	concept	chitinase 3-like 1	44	62	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/36']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	atopy	82	87	annotator1,Computer,annotator2,annotator3	['umls/C0038659']	1	Diseases & Disorders
+Target-Disorder	True	concept	Atopy	100	105	annotator1,Computer,annotator2,annotator3	['umls/C0038659']	2	Diseases & Disorders
+Target-Disorder	True	concept	atopic syndrome	109	124	annotator1,Computer,Computer,annotator2,annotator2,annotator3,annotator3	['sda/1', 'umls/C0099046', 'umls/C0004277']	3	Diseases & Disorders
+Target-Disorder	True	concept	hypersensitivity	140	156	Computer,annotator2,annotator3	['umls/C0002127']	33	Diseases & Disorders
+Target-Disorder	True	concept	chitinase 3-like 1	214	232	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/36']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	CHI3L1	234	240	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/37']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	YKL-40	257	263	annotator1,Computer,annotator2,annotator3	['uniprot/3055569']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	HC gp-39	267	275	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/39']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept		296	308	Computer	['umls/C0082204']	34	Diseases & Disorders
+Target-Disorder	True	concept	inflammatory and allergic diseases	312	346	annotator1,Computer,annotator2,annotator3,annotator3	['sda/2', 'umls/C0001185', 'sda/1']	8	Diseases & Disorders
+Target-Disorder	True	concept	CHI3L1	388	394	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/37']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	atopic	403	409	Computer,annotator2,annotator3	['umls/C0099046', 'sda/3']	35	Diseases & Disorders
+Target-Disorder	True	concept	CHI3L1	536	542	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/37']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	atopy	604	609	annotator1,Computer,annotator2,annotator3	['umls/C0038659']	11	Diseases & Disorders
+Target-Disorder	True	concept	YKL-40	642	648	annotator1,Computer,annotator2,annotator3	['uniprot/3055569']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	IgE	653	656	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/35']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	g.-247C/T	741	750	annotator1,annotator2,annotator3	['sda/5', 'sda/16', 'sda/29']	14	SNP & Sequence variations
+Target-Disorder	True	concept	g.-247C/T	904	913	annotator1,annotator2,annotator3	['sda/5', 'sda/16', 'sda/29']	15	SNP & Sequence variations
+Target-Disorder	True	concept	rs10399805	951	961	annotator1,annotator2,annotator3	['sda/6', 'sda/4']	16	SNP & Sequence variations
+Target-Disorder	True	concept	IVS7 82C/T	983	993	annotator1,annotator2,annotator3	['sda/1', 'sda/7', 'sda/32']	17	SNP & Sequence variations
+Target-Disorder	False	concept	IVS7 82C/T	983	993	annotator2	['sda/8']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs2275353	1020	1029	annotator1,annotator2,annotator3	['sda/9', 'sda/11', 'sda/5']	18	SNP & Sequence variations
+Target-Disorder	True	concept	CHI3L1	1046	1052	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/37']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	atopy	1091	1096	annotator1,Computer,annotator2,annotator3	['umls/C0038659']	20	Diseases & Disorders
+Target-Disorder	True	concept	g.-247T	1116	1123	annotator1,annotator2,annotator3	['sda/10', 'sda/15', 'sda/27']	21	SNP & Sequence variations
+Target-Disorder	True	concept	YKL-40	1167	1173	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/38']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	IgE	1191	1194	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/35']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		1248	1253	annotator3	['sda/2']	36	Genes & Molecular Sequences
+Target-Disorder	False	concept	g.-247	1293	1320	annotator1,annotator3	['sda/14', 'sda/26']	24	SNP & Sequence variations
+Target-Disorder	True	concept	g.-247T	1401	1408	annotator1,annotator2,annotator3	['sda/10', 'sda/15', 'sda/27']	25	SNP & Sequence variations
+Target-Disorder	False	concept	CCAAT enhancer-binding protein	1449	1479	annotator1,annotator3	['sda/15', 'sda/34']	26	Genes & Molecular Sequences
+Target-Disorder	True	concept	g.-247TT	1593	1601	annotator1,annotator2,annotator3	['sda/16', 'sda/20', 'sda/12']	27	SNP & Sequence variations
+Target-Disorder	True	concept	CHI3L1	1641	1647	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/37']	28	Genes & Molecular Sequences
+Target-Disorder	True	concept	g.-247CC	1719	1727	annotator1,annotator2,annotator3	['sda/17', 'sda/21', 'sda/25']	29	SNP & Sequence variations
+Target-Disorder	True	concept	g.-247C/T	1791	1800	annotator1,annotator2,annotator3	['sda/5', 'sda/16', 'sda/29']	30	SNP & Sequence variations
+Target-Disorder	True	concept	CHI3L1	1821	1827	annotator1,Computer,annotator2,annotator3	['uniprot/3055569', 'sda/37']	31	Genes & Molecular Sequences
+Target-Disorder	True	concept	atopy	1875	1880	annotator1,Computer,annotator2,annotator3	['umls/C0038659']	32	Diseases & Disorders
+Target-Disorder	True	relation	7	8	['uniprot/3055569', 'sda/39']	['sda/2', 'umls/C0001185', 'sda/1']	267:275	312:346	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	15	20	['sda/5', 'sda/16', 'sda/29']	['umls/C0038659']	904:913	1091:1096	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	16	20	['sda/6', 'sda/4']	['umls/C0038659']	951:961	1091:1096	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	17	20	['sda/1', 'sda/8', 'sda/7', 'sda/32']	['umls/C0038659']	983:993	1091:1096	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	18	20	['sda/9', 'sda/11', 'sda/5']	['umls/C0038659']	1020:1029	1091:1096	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	30	32	['sda/5', 'sda/16', 'sda/29']	['umls/C0038659']	1791:1800	1875:1880	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	0	1	['uniprot/3055569', 'sda/36']	['umls/C0038659']	44:62	82:87	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	7	34	['uniprot/3055569', 'sda/39']	['umls/C0082204']	267:275	296:308	Computer	PA
+Target-Disorder	True	relation	9	35	['uniprot/3055569', 'sda/37']	['umls/C0099046', 'sda/3']	388:394	403:409	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	10	11	['uniprot/3055569', 'sda/37']	['umls/C0038659']	536:542	604:609	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	20	['uniprot/3055569', 'sda/37']	['umls/C0038659']	1046:1052	1091:1096	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	31	32	['uniprot/3055569', 'sda/37']	['umls/C0038659']	1821:1827	1875:1880	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	6	8	['uniprot/3055569']	['sda/2', 'umls/C0001185', 'sda/1']	257:263	312:346	annotator3	PA
+Target-Disorder	False	relation	4	8	['uniprot/3055569', 'sda/36']	['sda/2', 'umls/C0001185', 'sda/1']	214:232	312:346	annotator3	PA
+Target-Disorder	False	relation	5	8	['uniprot/3055569', 'sda/37']	['sda/2', 'umls/C0001185', 'sda/1']	234:240	312:346	annotator3	PA

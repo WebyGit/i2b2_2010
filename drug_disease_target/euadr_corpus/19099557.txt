@@ -1,0 +1,8 @@
+Target-Disorder	True	concept	inherited hypertrophic	38	60	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0002151', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	True	concept	dilated cardiomyopathies	65	89	annotator1,Computer,annotator3	['sda/3', 'umls/C0000672']	1	Diseases & Disorders
+Target-Disorder	True	concept	cardiomyopathies	191	207	annotator1,Computer,annotator2,annotator3	['umls/C0105137']	2	Diseases & Disorders
+Target-Disorder	True	concept	Hypertrophic cardiomyopathy	209	236	annotator1,Computer,annotator2,annotator3	['umls/C0000673']	3	Diseases & Disorders
+Target-Disorder	True	concept	cardiomyopathy	254	290	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0105137']	4	Diseases & Disorders
+Target-Disorder	True	concept	familial diseases	295	312	Computer,annotator2,annotator3	['umls/C0026971']	7	Diseases & Disorders
+Target-Disorder	True	concept	cardiomyopathy	736	750	annotator1,Computer,annotator2,annotator3	['umls/C0105137']	5	Diseases & Disorders
+Target-Disorder	True	concept	cardiomyopathies	957	983	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0105137']	6	Diseases & Disorders

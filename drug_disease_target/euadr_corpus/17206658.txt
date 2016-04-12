@@ -1,0 +1,13 @@
+Drug-Disorder	True	concept	Urtica ferox neuropathy	0	23	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0052774']	0	Diseases & Disorders
+Drug-Disorder	False	concept	Urtica ferox neuropathy	0	23	annotator4	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	motor polyneuropathy	94	114	annotator1,annotator4,Computer,annotator5	['umls/C0024392']	1	Diseases & Disorders
+Drug-Disorder	False	concept		148	153	Computer	['umls/C0038665']	6	Diseases & Disorders
+Drug-Disorder	False	concept		166	178	annotator4	['sda/1']	4	Chemicals & Drugs
+Drug-Disorder	False	concept		224	232	Computer	['umls/C0148591']	7	Diseases & Disorders
+Drug-Disorder	False	concept		459	471	annotator4	['sda/1']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	acute polyneuropathy	485	505	annotator1,annotator4,Computer,annotator5	['umls/C0095541']	2	Diseases & Disorders
+Drug-Disorder	False	concept		519	527	Computer	['umls/C0079110']	8	Diseases & Disorders
+Drug-Disorder	False	concept		545	568	annotator1	['sda/5']	3	Chemicals & Drugs
+Drug-Disorder	False	relation	3	2	['sda/5']	['umls/C0095541']	545:568	485:505	annotator1	PA
+Drug-Disorder	False	relation	4	1	['sda/1']	['umls/C0024392']	166:178	94:114	annotator4	PA
+Drug-Disorder	False	relation	5	2	['sda/1']	['umls/C0095541']	459:471	485:505	annotator4	PA

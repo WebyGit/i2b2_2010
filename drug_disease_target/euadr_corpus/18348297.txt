@@ -1,0 +1,24 @@
+Target-Drug	True	concept	gonadotropin-releasing hormone agonist	25	63	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/4500333', 'sda/9', 'sda/3']	0	Chemicals & Drugs
+Target-Drug	True	concept	gonadotropin-releasing hormone	183	213	annotator1,Computer,annotator2,annotator3	['uniprot/4500333', 'uniprot/8002319']	4	Chemicals & Drugs
+Target-Drug	True	concept	GnRH) agonists	215	229	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/6']	5	Chemicals & Drugs
+Target-Drug	False	concept	insulin	258	265	annotator1	['sda/3']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	GnRH agonists	432	445	annotator1,annotator2,annotator3	['sda/4', 'sda/8', 'sda/7']	9	Chemicals & Drugs
+Target-Drug	True	concept	leuprolide	614	624	annotator1,Computer,annotator2,annotator3	['uniprot/4500508', 'uniprot/8004679']	12	Chemicals & Drugs
+Target-Drug	False	concept		703	709	annotator3	['sda/12']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	adipocytokines	711	725	annotator1,annotator2,annotator3	['sda/5', 'sda/11']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	C-reactive protein	731	749	annotator1,Computer,annotator2,annotator3	['uniprot/3000476']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	high-density lipoprotein	1255	1279	annotator1,annotator2,annotator3	['sda/6', 'sda/13']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	HDL) cholesterol	1281	1297	annotator1,annotator2,annotator3	['sda/8', 'sda/7', 'sda/18']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	adiponectin	1355	1366	annotator1,Computer,annotator2,annotator3	['uniprot/3003525']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	Resistin	1491	1499	annotator1,Computer,annotator2,annotator3	['uniprot/2015424']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	C-reactive protein	1504	1522	annotator1,Computer,annotator2,annotator3	['uniprot/3000476']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	GnRH agonists	1655	1668	annotator1,annotator2,annotator3	['sda/4', 'sda/8', 'sda/7']	22	Chemicals & Drugs
+Target-Drug	True	concept	GnRH agonists	1737	1750	annotator1,annotator2,annotator3	['sda/4', 'sda/8', 'sda/7']	25	Chemicals & Drugs
+Target-Drug	True	concept	HDL cholesterol	1783	1798	annotator1,annotator2,annotator3	['sda/9', 'sda/7', 'sda/16']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	adiponectin	1804	1815	annotator1,Computer,annotator2,annotator3	['uniprot/3003525']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	C-reactive protein	1877	1895	annotator1,Computer,annotator2,annotator3	['uniprot/3000476']	28	Genes & Molecular Sequences
+Target-Drug	False	relation	4	6	['uniprot/4500333', 'uniprot/8002319']	['sda/3']	183:213	258:265	annotator1	PA
+Target-Drug	False	relation	5	6	['sda/2', 'sda/1', 'sda/6']	['sda/3']	215:229	258:265	annotator1	PA
+Target-Drug	True	relation	25	28	['sda/4', 'sda/8', 'sda/7']	['uniprot/3000476']	1737:1750	1877:1895	annotator1,annotator2,annotator3	NA
+Target-Drug	True	relation	25	27	['sda/4', 'sda/8', 'sda/7']	['uniprot/3003525']	1737:1750	1804:1815	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	25	26	['sda/4', 'sda/8', 'sda/7']	['sda/9', 'sda/7', 'sda/16']	1737:1750	1783:1798	annotator1,annotator2,annotator3	PA

@@ -1,0 +1,18 @@
+Drug-Disorder	True	concept	Oritavancin	0	11	annotator1,annotator4,annotator5	['sda/1', 'sda/7']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	infections	55	96	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0002244', 'sda/4']	1	Diseases & Disorders
+Drug-Disorder	False	concept		98	108	annotator1	['sda/3']	2	Diseases & Disorders
+Drug-Disorder	True	concept	community-acquired infections	113	176	annotator1,annotator4,Computer	['sda/4', 'umls/C0009829']	3	Diseases & Disorders
+Drug-Disorder	False	concept		132	142	annotator5	['sda/4']	14	Diseases & Disorders
+Drug-Disorder	False	concept		260	274	Computer	['umls/C0038081']	11	Diseases & Disorders
+Drug-Disorder	False	concept	spp	275	278	annotator4	['uniprot/8005303']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	spp	297	300	annotator4	['uniprot/8005303']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	Oritavancin	302	313	annotator1,annotator4,annotator5	['sda/1', 'sda/7']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	semisynthetic glycopeptide	321	358	annotator1,annotator5	['sda/5']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		360	370	Computer	['umls/C0094486']	12	Diseases & Disorders
+Drug-Disorder	False	concept		481	494	Computer	['umls/C0038081']	13	Diseases & Disorders
+Drug-Disorder	False	concept	spp	567	570	annotator4	['uniprot/8005303']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	vancomycin	642	652	annotator1,Computer,annotator5	['uniprot/4500830']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	oritavancin	900	911	annotator1,annotator4,annotator5	['sda/1', 'sda/7']	10	Chemicals & Drugs
+Drug-Disorder	True	relation	0	1	['sda/1', 'sda/7']	['sda/2', 'umls/C0002244', 'sda/4']	0:11	55:96	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	9	13	['uniprot/4500830']	['umls/C0038081']	642:652	481:494	Computer	PA
+Drug-Disorder	False	relation	9	12	['uniprot/4500830']	['umls/C0094486']	642:652	360:370	Computer	PA

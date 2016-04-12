@@ -1,0 +1,13 @@
+Drug-Disorder	False	concept		23	51	annotator1	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	abdominal aortic aneurysm	71	96	annotator4,Computer,annotator5	['umls/C0009517']	4	Diseases & Disorders
+Drug-Disorder	False	concept	contrast media	180	208	annotator1,annotator5	['sda/2', 'sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	aortic aneurysm	259	274	annotator4,Computer,annotator5	['umls/C0000315']	5	Diseases & Disorders
+Drug-Disorder	False	concept		340	371	annotator1	['sda/3']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		655	669	annotator5	['sda/1']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	renal obstruction	693	710	annotator1,annotator4,Computer,annotator5	['umls/C0088339', 'umls/C0003100']	3	Diseases & Disorders
+Drug-Disorder	False	concept		714	735	annotator5	['sda/4']	7	Diseases & Disorders
+Drug-Disorder	False	concept		762	777	annotator5	['sda/2']	8	Diseases & Disorders
+Drug-Disorder	False	relation	1	5	['sda/2', 'sda/1']	['umls/C0000315']	180:208	259:274	annotator5	PA
+Drug-Disorder	False	relation	6	3	['sda/1']	['umls/C0088339', 'umls/C0003100']	655:669	693:710	annotator5	PA
+Drug-Disorder	False	relation	6	8	['sda/1']	['sda/2']	655:669	762:777	annotator5	NA
+Drug-Disorder	False	relation	6	7	['sda/1']	['sda/4']	655:669	714:735	annotator5	PA

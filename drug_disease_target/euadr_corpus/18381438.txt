@@ -1,0 +1,61 @@
+Target-Disorder	False	concept	topoisomerase I	78	93	annotator1,annotator2	['sda/2', 'sda/1']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	Rad51	117	122	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	139	142	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept	topoisomerase I	208	223	annotator1,annotator2	['sda/2', 'sda/1']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	Topo I	225	231	annotator1,annotator2	['sda/3', 'sda/2']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	solid tumors	336	348	annotator1,Computer,annotator2	['umls/C0028112']	6	Diseases & Disorders
+Target-Disorder	False	concept	tumors	378	384	annotator1,Computer	['umls/C0002994']	7	Diseases & Disorders
+Target-Disorder	False	concept		409	415	Computer	['umls/C0078763']	38	Diseases & Disorders
+Target-Disorder	True	concept	p53	421	424	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	579	591	annotator1,Computer,annotator2,annotator3	['umls/C0000642']	9	Diseases & Disorders
+Target-Disorder	False	concept		615	630	annotator1	['sda/12']	10	SNP & Sequence variations
+Target-Disorder	False	concept	p53	634	652	annotator1	['sda/14']	11	SNP & Sequence variations
+Target-Disorder	True	concept	p53	634	652	Computer,annotator2,annotator3	['uniprot/3000460']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53	805	811	annotator1	['sda/7']	14	SNP & Sequence variations
+Target-Disorder	False	concept	p53	805	811	annotator2	['uniprot/3000460']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept		836	842	annotator1	['sda/8']	15	SNP & Sequence variations
+Target-Disorder	False	concept		836	842	annotator2	['uniprot/3000460']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	903	906	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	Rad51	941	946	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept		950	968	Computer	['uniprot/3001448']	39	Genes & Molecular Sequences
+Target-Disorder	True	concept	Rad51	1007	1012	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53-Ser(15)	1022	1033	annotator1,annotator2,annotator3	['sda/9', 'uniprot/3000460', 'sda/7']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53	1161	1167	annotator1	['sda/7']	20	SNP & Sequence variations
+Target-Disorder	False	concept	p53	1161	1167	annotator2	['uniprot/3000460']	20	Genes & Molecular Sequences
+Target-Disorder	False	concept		1209	1220	Computer	['umls/C0010146']	40	Diseases & Disorders
+Target-Disorder	True	concept	Rad51	1224	1229	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	1235	1238	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	Rad51	1270	1275	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53	1325	1331	annotator1	['sda/7']	24	SNP & Sequence variations
+Target-Disorder	False	concept	p53	1325	1331	annotator2	['uniprot/3000460']	24	Genes & Molecular Sequences
+Target-Disorder	False	concept		1336	1342	annotator1	['sda/8']	25	SNP & Sequence variations
+Target-Disorder	False	concept		1336	1342	annotator2	['uniprot/3000460']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	H2AX	1399	1403	annotator1,Computer,annotator3	['uniprot/3068227']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept		1417	1427	Computer	['umls/C0001212']	41	Diseases & Disorders
+Target-Disorder	True	concept	Rad51	1459	1464	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53	1473	1479	annotator1	['sda/7']	29	SNP & Sequence variations
+Target-Disorder	False	concept	p53	1473	1479	annotator2	['uniprot/3000460']	29	Genes & Molecular Sequences
+Target-Disorder	True	concept	Cdk9	1547	1551	annotator1,Computer,annotator2,annotator3	['uniprot/3055566']	30	Genes & Molecular Sequences
+Target-Disorder	True	concept	Cdk9	1581	1585	annotator1,Computer,annotator2,annotator3	['uniprot/3055566']	31	Genes & Molecular Sequences
+Target-Disorder	False	concept		1655	1666	Computer	['umls/C0010146']	42	Diseases & Disorders
+Target-Disorder	True	concept	Rad51	1670	1675	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	33	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53	1711	1717	annotator1	['sda/7']	34	SNP & Sequence variations
+Target-Disorder	False	concept	p53	1711	1717	annotator2	['uniprot/3000460']	34	Genes & Molecular Sequences
+Target-Disorder	False	concept		1746	1756	Computer	['umls/C0001212']	43	Diseases & Disorders
+Target-Disorder	False	concept	Topo I	1760	1766	annotator1,annotator2	['sda/3', 'sda/2']	35	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	1832	1835	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	36	Genes & Molecular Sequences
+Target-Disorder	True	concept	Rad51	1865	1870	annotator1,Computer,annotator2,annotator3	['uniprot/3002155', 'sda/6']	37	Genes & Molecular Sequences
+Target-Disorder	True	relation	8	6	['uniprot/3000460']	['umls/C0028112']	421:424	336:348	annotator1,Computer,annotator2	PA
+Target-Disorder	False	relation	8	7	['uniprot/3000460']	['umls/C0002994']	421:424	378:384	annotator1,Computer	PA
+Target-Disorder	False	relation	8	38	['uniprot/3000460']	['umls/C0078763']	421:424	409:415	Computer	PA
+Target-Disorder	False	relation	11	9	['sda/14', 'uniprot/3000460']	['umls/C0000642']	634:652	579:591	Computer,annotator2	PA
+Target-Disorder	False	relation	21	40	['uniprot/3002155', 'sda/6']	['umls/C0010146']	1224:1229	1209:1220	Computer	PA
+Target-Disorder	False	relation	22	40	['uniprot/3000460']	['umls/C0010146']	1235:1238	1209:1220	Computer	PA
+Target-Disorder	False	relation	23	41	['uniprot/3002155', 'sda/6']	['umls/C0001212']	1270:1275	1417:1427	Computer	PA
+Target-Disorder	False	relation	27	41	['uniprot/3068227']	['umls/C0001212']	1399:1403	1417:1427	Computer	PA
+Target-Disorder	False	relation	33	42	['uniprot/3002155', 'sda/6']	['umls/C0010146']	1670:1675	1655:1666	Computer	PA
+Target-Disorder	False	relation	31	42	['uniprot/3055566']	['umls/C0010146']	1581:1585	1655:1666	Computer	PA
+Target-Disorder	False	relation	37	43	['uniprot/3002155', 'sda/6']	['umls/C0001212']	1865:1870	1746:1756	Computer	PA
+Target-Disorder	False	relation	36	43	['uniprot/3000460']	['umls/C0001212']	1832:1835	1746:1756	Computer	PA
+Target-Disorder	False	relation	3	6	['sda/2', 'sda/1']	['umls/C0028112']	208:223	336:348	annotator2	PA
+Target-Disorder	False	relation	4	6	['sda/3', 'sda/2']	['umls/C0028112']	225:231	336:348	annotator2	PA

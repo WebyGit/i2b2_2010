@@ -1,0 +1,19 @@
+Target-Disorder	True	concept	proliferative vitreoretinopathy	36	67	annotator1,Computer,annotator2,annotator3	['umls/C0016744']	0	Diseases & Disorders
+Target-Disorder	False	concept		200	204	Computer	['umls/C0031168']	11	Diseases & Disorders
+Target-Disorder	True	concept	proliferative vitreoretinopathy	250	281	annotator1,Computer,annotator2,annotator3	['umls/C0016744']	1	Diseases & Disorders
+Target-Disorder	True	concept	PVR	283	286	annotator1,Computer,annotator2,annotator3	['umls/C0189165', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	True	concept	PVR	283	286	annotator1,Computer,annotator2	['uniprot/4000602']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	rhegmatogenous retinal detachment	321	362	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0023920']	3	Diseases & Disorders
+Target-Disorder	True	concept	RD	364	366	annotator1,annotator2,annotator3	['sda/1', 'sda/8']	4	Diseases & Disorders
+Target-Disorder	True	concept	PVR	510	513	annotator1,Computer,annotator2,annotator3	['umls/C0189165', 'sda/2']	5	Diseases & Disorders
+Target-Disorder	True	concept	PVR	510	513	annotator1,Computer,annotator2	['uniprot/4000602']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	primary rhegmatogenous RD	524	549	annotator1,annotator2,annotator3	['sda/3', 'sda/1', 'sda/9']	6	Diseases & Disorders
+Target-Disorder	True	concept	PVR RD	575	581	annotator1,Computer,annotator2,annotator2,annotator3	['sda/4', 'umls/C0189165', 'sda/1', 'sda/10']	7	Diseases & Disorders
+Target-Disorder	False	concept	PVR RD	575	581	Computer,annotator2	['uniprot/4000602']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept		803	807	Computer	['umls/C0031168']	12	Diseases & Disorders
+Target-Disorder	False	concept		1225	1229	Computer	['umls/C0031168']	13	Diseases & Disorders
+Target-Disorder	True	concept	rs2229094	1264	1273	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/3']	8	SNP & Sequence variations
+Target-Disorder	True	concept	tumor necrosis factor	1281	1302	annotator1,Computer,annotator2,annotator3	['uniprot/3000496']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	PVR	1402	1405	annotator1,Computer,annotator2,annotator3	['umls/C0189165', 'sda/2']	10	Diseases & Disorders
+Target-Disorder	True	concept	PVR	1402	1405	annotator1,Computer,annotator2	['uniprot/4000602']	10	Genes & Molecular Sequences
+Target-Disorder	False	relation	9	13	['uniprot/3000496']	['umls/C0031168']	1281:1302	1225:1229	Computer	PA

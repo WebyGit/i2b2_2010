@@ -1,0 +1,18 @@
+Drug-Disorder	False	concept		17	23	annotator5	['sda/1']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		163	176	Computer	['umls/C0000013']	8	Diseases & Disorders
+Drug-Disorder	True	concept	inflammatory bowel disease	227	253	annotator1,annotator4,Computer,annotator5	['umls/C0002270']	0	Diseases & Disorders
+Drug-Disorder	True	concept	colorectal cancer	258	275	annotator1,annotator4,Computer,annotator5	['umls/C0000909']	1	Diseases & Disorders
+Drug-Disorder	False	concept		291	297	Computer	['umls/C0002582']	9	Diseases & Disorders
+Drug-Disorder	False	concept		378	384	annotator5	['sda/1']	11	Chemicals & Drugs
+Drug-Disorder	False	concept		604	610	annotator5	['sda/1']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	Absence	666	673	annotator1,annotator4,Computer,annotator5	['umls/C0158184']	2	Diseases & Disorders
+Drug-Disorder	False	concept		677	683	annotator5	['sda/1']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	dextran sodium sulfate	704	726	annotator1,Computer,Computer,annotator5	['sda/1', 'uniprot/4501500', 'uniprot/4501409']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	colitis	735	742	annotator1,annotator4,Computer,annotator5	['umls/C0000898']	4	Diseases & Disorders
+Drug-Disorder	False	concept		860	866	annotator5	['sda/1']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		885	891	annotator5	['sda/1']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		988	994	annotator5	['sda/1']	16	Chemicals & Drugs
+Drug-Disorder	False	concept		1182	1188	annotator5	['sda/1']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		1380	1386	annotator5	['sda/1']	18	Chemicals & Drugs
+Drug-Disorder	True	relation	3	4	['sda/1', 'uniprot/4501500', 'uniprot/4501409']	['umls/C0000898']	704:726	735:742	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	13	4	['sda/1']	['umls/C0000898']	677:683	735:742	annotator5	PA

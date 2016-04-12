@@ -1,0 +1,33 @@
+Drug-Disorder	True	concept	sarcoidosis	15	26	annotator1,annotator4,Computer,annotator5	['umls/C0003925']	0	Diseases & Disorders
+Drug-Disorder	True	concept	etanercept	30	40	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	rheumatoid arthritis	49	69	annotator1,Computer,annotator5	['umls/C0000370']	2	Diseases & Disorders
+Drug-Disorder	True	concept	rheumatoid arthritis	94	114	annotator1,Computer,annotator5	['umls/C0000370']	3	Diseases & Disorders
+Drug-Disorder	True	concept	sarcoidosis	135	146	annotator1,annotator4,Computer,annotator5	['umls/C0003925']	4	Diseases & Disorders
+Drug-Disorder	True	concept	etanercept	167	177	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	rheumatoid-factor-positive rheumatoid arthritis	220	267	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0042092', 'umls/C0000370']	6	Diseases & Disorders
+Drug-Disorder	False	concept	RA	269	271	annotator1,annotator5	['sda/5']	7	Diseases & Disorders
+Drug-Disorder	True	concept	infliximab	330	340	annotator1,annotator4,Computer,annotator5	['uniprot/4500016', 'uniprot/4002573']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	cough	444	449	annotator1,Computer,annotator5	['umls/C0000993']	9	Diseases & Disorders
+Drug-Disorder	True	concept	dyspnea	454	461	annotator1,Computer,annotator5	['umls/C0001266']	10	Diseases & Disorders
+Drug-Disorder	True	concept	etanercept	480	490	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	erythema nodosum	522	538	annotator1,annotator4,Computer,annotator5	['umls/C0001451']	12	Diseases & Disorders
+Drug-Disorder	True	concept	plaque	545	558	annotator1,Computer,annotator5	['sda/6', 'umls/C0001091']	13	Diseases & Disorders
+Drug-Disorder	True	concept	etanercept	592	602	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	mediastinal adenopathies	635	659	annotator1,annotator4,Computer,annotator5	['umls/C0127824']	15	Diseases & Disorders
+Drug-Disorder	True	concept	sarcoidosis	691	702	annotator1,annotator4,Computer,annotator5	['umls/C0003925']	16	Diseases & Disorders
+Drug-Disorder	True	concept	Etanercept	704	714	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	noninfectious granulomatous syndromes	792	829	annotator1,Computer,annotator5	['sda/11', 'umls/C0004277', 'sda/6']	18	Diseases & Disorders
+Drug-Disorder	True	concept	etanercept	852	862	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	19	Chemicals & Drugs
+Drug-Disorder	False	concept	diseases	880	888	annotator1,Computer	['umls/C0001185']	20	Diseases & Disorders
+Drug-Disorder	True	concept	etanercept	934	944	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	etanercept	1000	1010	annotator1,annotator4,annotator4,annotator5	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	22	Chemicals & Drugs
+Drug-Disorder	False	relation	1	2	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0000370']	30:40	49:69	annotator1,annotator5	SA
+Drug-Disorder	True	relation	5	4	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0003925']	167:177	135:146	annotator1,annotator4,annotator5	SA
+Drug-Disorder	False	relation	19	20	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0001185']	852:862	880:888	annotator1	PA
+Drug-Disorder	False	relation	19	18	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['sda/11', 'umls/C0004277', 'sda/6']	852:862	792:829	annotator1,annotator5	PA
+Drug-Disorder	False	relation	1	0	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0003925']	30:40	15:26	annotator4,annotator5	SA
+Drug-Disorder	False	relation	14	12	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0001451']	592:602	522:538	annotator4,annotator5	SA
+Drug-Disorder	False	relation	5	3	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0000370']	167:177	94:114	annotator5	SA
+Drug-Disorder	False	relation	11	9	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0000993']	480:490	444:449	annotator5	PA
+Drug-Disorder	False	relation	11	10	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['umls/C0001266']	480:490	454:461	annotator5	PA
+Drug-Disorder	False	relation	14	13	['sda/1', 'uniprot/3000829', 'uniprot/8530371']	['sda/6', 'umls/C0001091']	592:602	545:558	annotator5	PA

@@ -1,0 +1,14 @@
+Target-Drug	False	concept	tetracyclic metabotropic glutamate receptor 1	13	77	annotator1,annotator3	['sda/1', 'sda/6']	0	Chemicals & Drugs
+Target-Drug	False	concept	tetracyclic metabotropic glutamate receptor 1	13	77	Computer,annotator2	['uniprot/3000649']	0	Genes & Molecular Sequences
+Target-Drug	False	concept		79	98	annotator1	['sda/2']	1	Chemicals & Drugs
+Target-Drug	False	concept		79	98	Computer,annotator2	['uniprot/3000649']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	Metabotropic glutamate receptor 1	134	167	annotator1,Computer,annotator2,annotator3	['uniprot/3000649']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	mGluR1	169	175	annotator1,Computer,annotator2,annotator3	['uniprot/3000649']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	mGlur1	300	321	annotator1	['sda/3']	8	Chemicals & Drugs
+Target-Drug	True	concept	mGlur1	300	321	Computer,annotator2,annotator3	['uniprot/3000649']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	tetracyclic mGluR1 antagonists	429	459	annotator1,annotator3	['sda/4', 'sda/3']	9	Chemicals & Drugs
+Target-Drug	False	concept	mGluR1	441	447	Computer,annotator2	['uniprot/3000649']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	23c	469	472	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	10	Chemicals & Drugs
+Target-Drug	True	concept	23e	477	480	annotator1,annotator2,annotator3	['sda/6', 'sda/3', 'sda/5']	11	Chemicals & Drugs
+Target-Drug	False	relation	10	13	['sda/5', 'sda/2', 'sda/4']	['uniprot/3000649']	469:472	441:447	annotator2	PA
+Target-Drug	False	relation	11	13	['sda/6', 'sda/3', 'sda/5']	['uniprot/3000649']	477:480	441:447	annotator2	PA

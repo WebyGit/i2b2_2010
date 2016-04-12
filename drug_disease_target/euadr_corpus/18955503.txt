@@ -1,0 +1,24 @@
+Target-Drug	True	concept	CHIP	20	24	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	nitric oxide synthase	264	295	annotator1,annotator2,annotator3	['sda/3', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		274	286	Computer	['uniprot/4500735']	23	Chemicals & Drugs
+Target-Drug	True	concept	iNOS	297	301	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	339	343	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	carboxy terminus of Hsp70-interacting protein	345	390	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	541	545	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	614	618	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	iNOS	634	638	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	752	756	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	iNOS	766	770	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	821	825	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	iNOS	835	839	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	872	876	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	iNOS	893	897	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	963	967	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	cystic fibrosis transconductance regulator	1013	1055	annotator1,annotator2	['sda/4', 'sda/6']	16	Genes & Molecular Sequences
+Target-Drug	False	concept	CFTRDeltaF508	1057	1070	annotator1,annotator2	['sda/5', 'sda/7']	17	SNP & Sequence variations
+Target-Drug	True	concept	ubiquitin ligase	1107	1123	annotator1,Computer,annotator2,annotator3	['uniprot/3011112']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	1136	1140	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	iNOS	1224	1228	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	histone deacetylase 6	1246	1267	annotator1,Computer,annotator2,annotator3	['uniprot/3031353']	21	Genes & Molecular Sequences
+Target-Drug	False	concept		1335	1341	annotator2	['sda/8']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	CHIP	1388	1392	annotator1,Computer,annotator2,annotator3	['uniprot/4000639']	22	Genes & Molecular Sequences

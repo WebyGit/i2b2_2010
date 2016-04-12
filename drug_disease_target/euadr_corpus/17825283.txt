@@ -1,0 +1,29 @@
+Target-Drug	True	concept	calponin 3	18	28	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	0	Genes & Molecular Sequences
+Target-Drug	False	concept		40	62	annotator1,annotator2	['sda/7', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	66	69	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	2	Genes & Molecular Sequences
+Target-Drug	False	concept	Bone morphogenetic proteins	104	131	annotator1,annotator3	['sda/3', 'sda/2']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	133	136	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	213	216	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	301	304	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	Smads	383	388	annotator1,annotator2	['sda/11', 'sda/5']	9	Genes & Molecular Sequences
+Target-Drug	False	concept		395	396	annotator1	['sda/5']	10	Genes & Molecular Sequences
+Target-Drug	False	concept		460	481	annotator1,annotator2	['sda/8', 'sda/4']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	calponin 3	482	492	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	Smad-binding protein	504	524	annotator1,annotator2,annotator3	['sda/9', 'sda/1', 'sda/3']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	Smads	571	576	annotator1,annotator2	['sda/11', 'sda/5']	14	Genes & Molecular Sequences
+Target-Drug	False	concept		583	584	annotator1	['sda/5']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	629	632	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	Calponin 3	658	668	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	calponin 3	904	914	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	936	939	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	19	Genes & Molecular Sequences
+Target-Drug	False	concept	Smad	994	1009	annotator1,annotator2	['sda/10', 'sda/1']	20	Genes & Molecular Sequences
+Target-Drug	False	concept		1014	1015	annotator1	['sda/5']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	1038	1041	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	calponin 3	1065	1075	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	BMP	1125	1128	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	24	Genes & Molecular Sequences
+Target-Drug	False	concept	Smads	1212	1217	annotator1,annotator2	['sda/11', 'sda/5']	25	Genes & Molecular Sequences
+Target-Drug	False	concept		1249	1254	annotator2	['sda/4']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	calponin 3	1277	1287	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	calponin 3	1312	1322	annotator1,Computer,annotator2,annotator3	['uniprot/3037533']	27	Genes & Molecular Sequences
+Target-Drug	False	concept	BMPs	1411	1415	annotator1,annotator3	['sda/12', 'sda/4']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	calponin 1	1529	1539	annotator1,Computer,annotator2,annotator3	['uniprot/3000995']	29	Genes & Molecular Sequences

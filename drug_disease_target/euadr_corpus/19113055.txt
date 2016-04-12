@@ -1,0 +1,5 @@
+Target-Disorder	True	concept	Otosclerosis	0	12	annotator1,Computer,annotator2,annotator3	['umls/C0003294']	0	Diseases & Disorders
+Target-Disorder	True	concept	TGF-beta 1	17	27	annotator1,Computer,annotator2,annotator3	['uniprot/3000540']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	otosclerosis	126	138	annotator1,Computer,annotator2,annotator3	['umls/C0003294']	2	Diseases & Disorders
+Target-Disorder	True	concept	otosclerosis	302	314	annotator1,Computer,annotator2,annotator3	['umls/C0003294']	3	Diseases & Disorders
+Target-Disorder	False	relation	1	0	['uniprot/3000540']	['umls/C0003294']	17:27	0:12	Computer	PA

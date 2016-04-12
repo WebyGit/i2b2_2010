@@ -1,0 +1,27 @@
+Drug-Disorder	True	concept	botulinum toxin type a	10	32	annotator1,annotator4,Computer,annotator5	['uniprot/4500007', 'sda/2']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	tear	36	40	Computer,annotator5	['umls/C0006102', 'sda/4']	13	Diseases & Disorders
+Drug-Disorder	False	concept		71	94	annotator1	['sda/2']	1	Diseases & Disorders
+Drug-Disorder	True	concept	dry eye	144	151	annotator1,annotator4,Computer,annotator5	['umls/C0001230', 'sda/4']	2	Diseases & Disorders
+Drug-Disorder	False	concept	tear	186	190	Computer,annotator5	['umls/C0006102', 'sda/4']	14	Diseases & Disorders
+Drug-Disorder	False	concept		221	244	annotator1	['sda/2']	3	Diseases & Disorders
+Drug-Disorder	True	concept	botulinum toxin type A	250	283	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/2', 'uniprot/4500007']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	botulinum toxin type A	342	364	annotator1,annotator4,Computer,annotator5	['uniprot/4500007', 'sda/2']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	botulinum toxin	437	452	annotator1,annotator4,Computer,annotator5	['uniprot/4500007', 'sda/2']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	dry-eye	1273	1280	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/1']	8	Diseases & Disorders
+Drug-Disorder	False	concept		1281	1289	Computer	['umls/C0148591']	15	Diseases & Disorders
+Drug-Disorder	True	concept	Botulinum toxin	1492	1507	annotator1,annotator4,Computer,annotator5	['uniprot/4500007', 'sda/2']	9	Chemicals & Drugs
+Drug-Disorder	False	concept		1512	1535	annotator1	['sda/2']	10	Diseases & Disorders
+Drug-Disorder	False	concept	tear	1562	1566	Computer,annotator5	['umls/C0006102', 'sda/4']	16	Diseases & Disorders
+Drug-Disorder	False	concept		1598	1613	annotator5	['sda/4']	18	Diseases & Disorders
+Drug-Disorder	True	concept	botulinum toxin	1620	1635	annotator1,annotator4,Computer,annotator5	['uniprot/4500007', 'sda/2']	11	Chemicals & Drugs
+Drug-Disorder	False	concept		1676	1688	Computer	['umls/C0000923']	17	Diseases & Disorders
+Drug-Disorder	True	concept	dry eye	1766	1773	annotator1,annotator4,Computer,annotator5	['umls/C0001230', 'sda/4']	12	Diseases & Disorders
+Drug-Disorder	False	relation	4	3	['sda/3', 'sda/2', 'uniprot/4500007']	['sda/2']	250:283	221:244	annotator1	PA
+Drug-Disorder	False	relation	9	10	['uniprot/4500007', 'sda/2']	['sda/2']	1492:1507	1512:1535	annotator1	PA
+Drug-Disorder	True	relation	11	12	['uniprot/4500007', 'sda/2']	['umls/C0001230', 'sda/4']	1620:1635	1766:1773	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	0	13	['uniprot/4500007', 'sda/2']	['umls/C0006102', 'sda/4']	10:32	36:40	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	14	['sda/3', 'sda/2', 'uniprot/4500007']	['umls/C0006102', 'sda/4']	250:283	186:190	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	2	['sda/3', 'sda/2', 'uniprot/4500007']	['umls/C0001230', 'sda/4']	250:283	144:151	Computer,annotator5	PA
+Drug-Disorder	False	relation	9	16	['uniprot/4500007', 'sda/2']	['umls/C0006102', 'sda/4']	1492:1507	1562:1566	Computer,annotator5	PA
+Drug-Disorder	False	relation	11	17	['uniprot/4500007', 'sda/2']	['umls/C0000923']	1620:1635	1676:1688	Computer	PA
+Drug-Disorder	False	relation	11	18	['uniprot/4500007', 'sda/2']	['sda/4']	1620:1635	1598:1613	annotator5	PA

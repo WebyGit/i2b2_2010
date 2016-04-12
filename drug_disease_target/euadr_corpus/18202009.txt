@@ -1,0 +1,61 @@
+Target-Drug	True	concept	CXCR4	0	5	annotator1,Computer,annotator2,annotator3	['uniprot/3020739']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	23	31	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	1	Chemicals & Drugs
+Target-Drug	False	concept	CML	70	73	Computer	['uniprot/3003192']	28	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	147	150	Computer	['uniprot/3003192']	29	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	188	191	Computer	['uniprot/3003192']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcr-Abl tyrosine kinase	231	254	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	295	298	Computer	['uniprot/3003192']	31	Genes & Molecular Sequences
+Target-Drug	False	concept	p210Bcr-Abl	350	361	annotator1,annotator2	['sda/3']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	CXCR4	392	397	annotator1,Computer,annotator2,annotator3	['uniprot/3020739']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	468	471	Computer	['uniprot/3003192']	32	Genes & Molecular Sequences
+Target-Drug	False	concept	tyrosine kinase inhibitors	490	516	annotator1,annotator3	['sda/4', 'sda/3']	8	Chemicals & Drugs
+Target-Drug	True	concept	imatinib	518	526	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	9	Chemicals & Drugs
+Target-Drug	True	concept	INNO-406	530	538	annotator1,annotator2,annotator3	['sda/5', 'sda/4']	10	Chemicals & Drugs
+Target-Drug	True	concept	CXCR4	552	557	annotator1,Computer,annotator2,annotator3	['uniprot/3020739']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	596	599	Computer	['uniprot/3003192']	33	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	721	724	Computer	['uniprot/3003192']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	767	775	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	12	Chemicals & Drugs
+Target-Drug	True	concept	INNO-406	777	785	annotator1,annotator2,annotator3	['sda/5', 'sda/4']	13	Chemicals & Drugs
+Target-Drug	True	concept	IFN-alpha	790	799	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	14	Chemicals & Drugs
+Target-Drug	True	concept	CXCR4	810	815	annotator1,Computer,annotator2,annotator3	['uniprot/3020739']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	CXCR4	859	864	annotator1,Computer,annotator2,annotator3	['uniprot/3020739']	16	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	875	878	Computer	['uniprot/3003192']	35	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	931	934	Computer	['uniprot/3003192']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	957	965	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	17	Chemicals & Drugs
+Target-Drug	True	concept	IFN-alpha	969	978	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	18	Chemicals & Drugs
+Target-Drug	True	concept	Imatinib	980	988	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	19	Chemicals & Drugs
+Target-Drug	False	concept	CML	1023	1026	Computer	['uniprot/3003192']	37	Genes & Molecular Sequences
+Target-Drug	False	concept		1089	1092	Computer	['uniprot/3003738']	38	Genes & Molecular Sequences
+Target-Drug	False	concept		1112	1115	Computer	['uniprot/3003738']	39	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	1153	1161	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	21	Chemicals & Drugs
+Target-Drug	False	concept	CXCR4 antagonist	1232	1248	annotator1,annotator3	['sda/7', 'sda/6']	22	Chemicals & Drugs
+Target-Drug	False	concept	CXCR4 antagonist	1232	1248	Computer,annotator2	['uniprot/3020739']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	AMD3465	1249	1256	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/7']	23	Chemicals & Drugs
+Target-Drug	False	concept	inhibitor of integrin-linked kinase	1263	1298	annotator1,annotator3	['sda/10', 'sda/8']	24	Chemicals & Drugs
+Target-Drug	False	concept	inhibitor of integrin-linked kinase	1263	1298	Computer,annotator2	['uniprot/3003318']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	QLT0267	1299	1306	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/9']	25	Chemicals & Drugs
+Target-Drug	True	concept	CXCR4	1369	1374	annotator1,Computer,annotator2,annotator3	['uniprot/3020739']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	1378	1386	annotator1,Computer,annotator2,annotator3	['uniprot/4501065', 'uniprot/9015274']	27	Chemicals & Drugs
+Target-Drug	False	concept	CML	1409	1412	Computer	['uniprot/3003192']	40	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	1523	1526	Computer	['uniprot/3003192']	41	Genes & Molecular Sequences
+Target-Drug	True	relation	1	0	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3020739']	23:31	0:5	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	9	11	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3020739']	518:526	552:557	annotator1,Computer,annotator2,annotator3	SA
+Target-Drug	False	relation	8	11	['sda/4', 'sda/3']	['uniprot/3020739']	490:516	552:557	annotator1,annotator3	SA
+Target-Drug	True	relation	10	11	['sda/5', 'sda/4']	['uniprot/3020739']	530:538	552:557	annotator1,annotator2,annotator3	SA
+Target-Drug	True	relation	12	15	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3020739']	767:775	810:815	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	13	15	['sda/5', 'sda/4']	['uniprot/3020739']	777:785	810:815	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	14	15	['sda/6', 'sda/5']	['uniprot/3020739']	790:799	810:815	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	27	26	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3020739']	1378:1386	1369:1374	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	1	29	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003192']	23:31	147:150	Computer	PA
+Target-Drug	False	relation	9	34	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003192']	518:526	721:724	Computer	PA
+Target-Drug	False	relation	17	36	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003192']	957:965	931:934	Computer	PA
+Target-Drug	True	relation	17	16	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3020739']	957:965	859:864	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	19	37	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003192']	980:988	1023:1026	Computer	PA
+Target-Drug	False	relation	19	38	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003738']	980:988	1089:1092	Computer	PA
+Target-Drug	False	relation	21	39	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003738']	1153:1161	1112:1115	Computer	PA
+Target-Drug	False	relation	27	41	['uniprot/4501065', 'uniprot/9015274']	['uniprot/3003192']	1378:1386	1523:1526	Computer	PA
+Target-Drug	False	relation	18	16	['sda/6', 'sda/5']	['uniprot/3020739']	969:978	859:864	annotator2,annotator3	PA
+Target-Drug	False	relation	23	22	['sda/8', 'sda/6', 'sda/7']	['sda/7', 'uniprot/3020739', 'sda/6']	1249:1256	1232:1248	annotator2	PA
+Target-Drug	False	relation	23	24	['sda/8', 'sda/6', 'sda/7']	['sda/10', 'uniprot/3003318', 'sda/8']	1249:1256	1263:1298	annotator2	NA
+Target-Drug	False	relation	25	22	['sda/11', 'sda/7', 'sda/9']	['sda/7', 'uniprot/3020739', 'sda/6']	1299:1306	1232:1248	annotator2	NA
+Target-Drug	False	relation	25	24	['sda/11', 'sda/7', 'sda/9']	['sda/10', 'uniprot/3003318', 'sda/8']	1299:1306	1263:1298	annotator2	PA

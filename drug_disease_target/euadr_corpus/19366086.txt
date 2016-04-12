@@ -1,0 +1,24 @@
+Target-Disorder	True	concept	C677T	32	37	annotator1,annotator2,annotator3	['sda/1']	0	SNP & Sequence variations
+Target-Disorder	True	concept	A1298C MTHFR	42	71	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	1	SNP & Sequence variations
+Target-Disorder	True	concept	A1298C MTHFR	42	71	Computer,annotator2,annotator3	['uniprot/4001340']	1	Genes & Molecular Sequences
+Target-Disorder	False	concept		49	58	Computer	['umls/C0158858']	16	Diseases & Disorders
+Target-Disorder	True	concept	hyperhomocysteinemia	90	110	annotator1,Computer,annotator2,annotator3	['umls/C0078916', 'sda/4']	2	Diseases & Disorders
+Target-Disorder	True	concept	deep thrombosis	126	141	annotator1,Computer,annotator2	['umls/C0005275', 'sda/5']	3	Diseases & Disorders
+Target-Disorder	True	concept	deep vein thrombosis	219	239	annotator1,Computer,annotator2,annotator3	['umls/C0005275', 'sda/6', 'sda/8']	4	Diseases & Disorders
+Target-Disorder	True	concept	DVT	241	244	annotator1,annotator2,annotator3	['sda/4', 'sda/9']	5	Diseases & Disorders
+Target-Disorder	True	concept	DVT	353	356	annotator1,annotator2,annotator3	['sda/4', 'sda/9']	6	Diseases & Disorders
+Target-Disorder	False	concept		386	398	annotator1	['sda/5']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	hyperhomocysteinemia	506	526	annotator1,Computer,annotator2,annotator3	['umls/C0078916']	8	Diseases & Disorders
+Target-Disorder	False	concept		548	572	Computer	['umls/C0009431']	17	Diseases & Disorders
+Target-Disorder	False	concept		662	674	annotator1	['sda/5']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	folate	802	808	annotator1	['sda/8']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept		847	857	annotator1	['sda/7']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	folate	862	868	annotator1	['sda/8']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	venous thromboembolic disease	912	941	annotator1,Computer,annotator2,annotator3	['umls/C0202420']	15	Diseases & Disorders
+Target-Disorder	False	relation	13	15	['sda/7']	['umls/C0202420']	847:857	912:941	annotator1	SA
+Target-Disorder	False	relation	14	15	['sda/8']	['umls/C0202420']	862:868	912:941	annotator1	SA
+Target-Disorder	False	relation	1	16	['sda/3', 'uniprot/4001340', 'sda/2']	['umls/C0158858']	42:71	49:58	Computer	PA
+Target-Disorder	True	relation	1	2	['sda/3', 'uniprot/4001340', 'sda/2']	['umls/C0078916', 'sda/4']	42:71	90:110	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	1	3	['sda/3', 'uniprot/4001340', 'sda/2']	['umls/C0005275', 'sda/5']	42:71	126:141	Computer,annotator2	PA
+Target-Disorder	False	relation	0	2	['sda/1']	['umls/C0078916', 'sda/4']	32:37	90:110	annotator2,annotator3	SA
+Target-Disorder	False	relation	0	3	['sda/1']	['umls/C0005275', 'sda/5']	32:37	126:141	annotator2	SA

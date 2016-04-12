@@ -1,0 +1,31 @@
+Drug-Disorder	True	concept	seizures	14	42	annotator1,annotator4,Computer,annotator5	['sda/8', 'umls/C0004005']	0	Diseases & Disorders
+Drug-Disorder	True	concept	primary brain tumors	60	80	annotator1,annotator4,Computer,annotator5	['umls/C0089891', 'sda/1']	1	Diseases & Disorders
+Drug-Disorder	True	concept	oxcarbazepine	110	123	annotator1,annotator4,Computer,annotator5	['uniprot/4500612', 'uniprot/8509166']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	seizures	125	153	annotator1,annotator4,Computer,annotator5	['sda/8', 'umls/C0004005']	3	Diseases & Disorders
+Drug-Disorder	False	concept		255	267	Computer	['umls/C0000923']	20	Diseases & Disorders
+Drug-Disorder	True	concept	brain tumors	285	312	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000567']	4	Diseases & Disorders
+Drug-Disorder	True	concept	seizures	406	428	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0004005']	5	Diseases & Disorders
+Drug-Disorder	True	concept	antiepileptic agents	541	561	annotator1,annotator4,annotator5	['sda/4', 'sda/3', 'sda/1']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	seizures	584	606	annotator1,annotator4,Computer,annotator5	['sda/5', 'umls/C0004005']	7	Diseases & Disorders
+Drug-Disorder	True	concept	gliomas	692	720	annotator1,annotator4,Computer,annotator5	['sda/7', 'umls/C0001736']	8	Diseases & Disorders
+Drug-Disorder	True	concept	oxcarbazepine	760	773	annotator1,annotator4,Computer,annotator5	['uniprot/4500612', 'uniprot/8509166']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	seizures	824	852	annotator1,annotator4,Computer,annotator5	['sda/8', 'umls/C0004005']	10	Diseases & Disorders
+Drug-Disorder	True	concept	seizures	941	949	annotator1,annotator4,Computer,annotator5	['umls/C0004005']	11	Diseases & Disorders
+Drug-Disorder	True	concept	minor skin rash	1121	1136	annotator1,annotator4,annotator4,Computer,Computer,annotator5	['sda/9', 'umls/C0148209', 'umls/C0001490']	12	Diseases & Disorders
+Drug-Disorder	True	concept	hyponatremia	1161	1173	annotator1,annotator4,Computer,annotator5	['umls/C0002178']	13	Diseases & Disorders
+Drug-Disorder	True	concept	oxcarbazepine	1211	1224	annotator1,annotator4,Computer,annotator5	['uniprot/4500612', 'uniprot/8509166']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	antiepileptic agents	1266	1286	annotator1,annotator4,annotator5	['sda/4', 'sda/3', 'sda/1']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	seizures	1308	1330	annotator1,annotator4,Computer,annotator5	['sda/5', 'umls/C0004005']	16	Diseases & Disorders
+Drug-Disorder	False	concept	side effects	1466	1484	annotator1,Computer	['sda/10', 'umls/C0105312']	17	Diseases & Disorders
+Drug-Disorder	True	concept	oxcarbazepine	1570	1583	annotator1,annotator4,Computer,annotator5	['uniprot/4500612', 'uniprot/8509166']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	hematological side effects	1701	1727	annotator1,Computer,annotator5	['sda/11', 'umls/C0105312', 'sda/2']	19	Diseases & Disorders
+Drug-Disorder	False	relation	6	7	['sda/4', 'sda/3', 'sda/1']	['sda/5', 'umls/C0004005']	541:561	584:606	annotator1,annotator5	SA
+Drug-Disorder	True	relation	14	16	['uniprot/4500612', 'uniprot/8509166']	['sda/5', 'umls/C0004005']	1211:1224	1308:1330	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	14	17	['uniprot/4500612', 'uniprot/8509166']	['sda/10', 'umls/C0105312']	1211:1224	1466:1484	annotator1	NA
+Drug-Disorder	True	relation	18	19	['uniprot/4500612', 'uniprot/8509166']	['sda/11', 'umls/C0105312', 'sda/2']	1570:1583	1701:1727	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	15	16	['sda/4', 'sda/3', 'sda/1']	['sda/5', 'umls/C0004005']	1266:1286	1308:1330	annotator4,annotator5	PA
+Drug-Disorder	False	relation	2	0	['uniprot/4500612', 'uniprot/8509166']	['sda/8', 'umls/C0004005']	110:123	14:42	Computer,annotator5	PA
+Drug-Disorder	False	relation	2	1	['uniprot/4500612', 'uniprot/8509166']	['umls/C0089891', 'sda/1']	110:123	60:80	Computer,annotator5	PA
+Drug-Disorder	False	relation	9	10	['uniprot/4500612', 'uniprot/8509166']	['sda/8', 'umls/C0004005']	760:773	824:852	Computer,annotator5	PA
+Drug-Disorder	False	relation	9	8	['uniprot/4500612', 'uniprot/8509166']	['sda/7', 'umls/C0001736']	760:773	692:720	Computer,annotator5	PA
+Drug-Disorder	False	relation	14	17	['uniprot/4500612', 'uniprot/8509166']	['sda/10', 'umls/C0105312']	1211:1224	1466:1484	Computer	PA

@@ -1,0 +1,15 @@
+Target-Drug	True	concept	indane-ureido-thioisobutyric acids	24	58	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	PPARalpha agonists	77	95	annotator1,annotator3	['sda/2']	1	Chemicals & Drugs
+Target-Drug	False	concept	PPARalpha agonists	77	95	Computer,annotator2	['uniprot/3021047']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		109	132	annotator3	['sda/3']	9	Chemicals & Drugs
+Target-Drug	False	concept	PPARalpha agonists	173	191	annotator1,annotator3	['sda/2']	2	Chemicals & Drugs
+Target-Drug	False	concept	PPARalpha agonists	173	191	Computer,annotator2	['uniprot/3021047']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARalpha	262	271	annotator1,Computer,annotator2,annotator3	['uniprot/3021047']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARalpha	287	296	annotator1,Computer,annotator2,annotator3	['uniprot/3021047']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	HD	323	325	annotator1,annotator3	['sda/3', 'sda/4']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	SAR	332	335	Computer,annotator2,annotator3	['uniprot/3005149']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	triglycerides	497	510	annotator2	['sda/2']	8	Chemicals & Drugs
+Target-Drug	False	concept	triglycerides	497	510	annotator3	['sda/5']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	glucose	522	529	Computer,annotator2	['uniprot/4501947']	7	Chemicals & Drugs
+Target-Drug	False	concept	glucose	522	529	annotator3	['sda/6']	7	Genes & Molecular Sequences
+Target-Drug	False	relation	0	1	['sda/1']	['sda/2', 'uniprot/3021047']	24:58	77:95	annotator2	PA

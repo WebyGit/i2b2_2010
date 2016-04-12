@@ -1,0 +1,23 @@
+Target-Disorder	False	concept	disease	65	72	Computer,annotator3	['umls/C0001185', 'sda/5']	12	Diseases & Disorders
+Target-Disorder	True	concept	age-related disease proteins	105	133	annotator1,annotator2,annotator3	['sda/1', 'sda/3']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept	age-related disease proteins	105	133	Computer	['umls/C0142383']	0	Diseases & Disorders
+Target-Disorder	False	concept	ARDPs	135	140	annotator1,annotator2	['sda/2']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	longevity-associated proteins	146	175	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	LAPs	177	181	annotator1,annotator2,annotator3	['umls/C0039407', 'sda/3']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	LAPs	177	181	Computer	['umls/C0039407']	3	Diseases & Disorders
+Target-Disorder	False	concept	insulin	564	571	annotator1	['sda/4']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept		648	656	Computer	['umls/C0000104']	13	Diseases & Disorders
+Target-Disorder	False	concept		721	729	annotator3	['sda/4']	16	Diseases & Disorders
+Target-Disorder	False	concept		828	836	Computer	['umls/C0000104']	14	Diseases & Disorders
+Target-Disorder	True	concept	PTK2	844	848	annotator1,Computer,annotator2,annotator3	['uniprot/3007314', 'sda/5']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	fibronectin	880	891	annotator1,Computer,annotator2,annotator3	['uniprot/3001533']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	FN1	892	895	annotator1,Computer,annotator2,annotator3	['uniprot/3001533']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	paxillin	897	905	annotator1,Computer,annotator2,annotator3	['uniprot/3037697']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	PXN	906	909	annotator1,Computer,annotator2,annotator3	['uniprot/3037697']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	vinculin	915	923	annotator1,Computer,annotator2,annotator3	['uniprot/3007594', 'sda/4']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	VCL	924	927	annotator1,Computer,annotator2,annotator3	['uniprot/3007594', 'sda/5']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept		1089	1097	Computer	['umls/C0001185']	15	Diseases & Disorders
+Target-Disorder	False	relation	9	14	['uniprot/3037697']	['umls/C0000104']	906:909	828:836	Computer	PA
+Target-Disorder	False	relation	11	14	['uniprot/3007594', 'sda/5']	['umls/C0000104']	924:927	828:836	Computer	PA
+Target-Disorder	False	relation	5	14	['uniprot/3007314', 'sda/5']	['umls/C0000104']	844:848	828:836	Computer	PA
+Target-Disorder	False	relation	7	14	['uniprot/3001533']	['umls/C0000104']	892:895	828:836	Computer	PA

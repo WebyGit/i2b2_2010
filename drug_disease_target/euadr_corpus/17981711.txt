@@ -1,0 +1,22 @@
+Target-Drug	True	concept	Acid ceramidase	0	15	annotator1,Computer,annotator2	['uniprot/3010310']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	Acid ceramidase	0	15	annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	sphingolipid	87	99	annotator1	['sda/1']	2	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingolipid	87	99	annotator2	['sda/2']	2	Chemicals & Drugs
+Target-Drug	False	concept	ceramide	168	176	annotator1,annotator3	['sda/2', 'sda/6']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	ceramide	168	176	annotator2	['sda/3']	3	Chemicals & Drugs
+Target-Drug	False	concept	sphingolipid	200	212	annotator1	['sda/1']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingolipid	200	212	annotator2	['sda/2']	4	Chemicals & Drugs
+Target-Drug	False	concept	sphingosine-1-phosphate	213	236	annotator1,annotator3	['sda/3']	5	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingosine-1-phosphate	213	236	annotator2	['sda/4']	5	Chemicals & Drugs
+Target-Drug	False	concept	sphingolipid	408	420	annotator1	['sda/1']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingolipid	408	420	annotator2	['sda/2']	7	Chemicals & Drugs
+Target-Drug	False	concept	ceramide	473	481	annotator1,annotator3	['sda/2', 'sda/6']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	ceramide	473	481	annotator2	['sda/3']	8	Chemicals & Drugs
+Target-Drug	False	concept	sphingosine-1-phosphate	497	520	annotator1,annotator3	['sda/3']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingosine-1-phosphate	497	520	annotator2	['sda/4']	9	Chemicals & Drugs
+Target-Drug	False	concept	ceramide	554	582	annotator1,annotator3	['sda/4', 'sda/6']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	ceramide	554	582	annotator2	['sda/3']	10	Chemicals & Drugs
+Target-Drug	True	concept	acid ceramidase	583	598	annotator1,Computer,annotator2,annotator3	['uniprot/3010310']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	acid ceramidase inhibitors	789	815	annotator1,annotator2,annotator3	['sda/5', 'sda/4']	13	Chemicals & Drugs
+Target-Drug	False	concept	acid ceramidase inhibitors	789	815	Computer	['uniprot/3010310']	13	Genes & Molecular Sequences
+Target-Drug	False	relation	10	11	['sda/4', 'sda/3', 'sda/6']	['uniprot/3010310']	554:582	583:598	annotator2	PA

@@ -1,0 +1,17 @@
+Target-Disorder	True	concept	melanotic neuroectodermal tumor of infancy	0	52	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0009816']	0	Diseases & Disorders
+Target-Disorder	False	concept		220	230	Computer	['umls/C0000139']	9	Diseases & Disorders
+Target-Disorder	True	concept	melanotic neuroectodermal tumor of infancy	231	283	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0009816']	1	Diseases & Disorders
+Target-Disorder	True	concept	MNTI	285	289	annotator1,Computer,annotator2,annotator3	['umls/C0009816']	2	Diseases & Disorders
+Target-Disorder	True	concept	neuroblastoma	691	704	annotator1,Computer,annotator2,annotator3	['umls/C0003040']	3	Diseases & Disorders
+Target-Disorder	False	concept	tumor	810	815	annotator1,Computer	['umls/C0002994']	4	Diseases & Disorders
+Target-Disorder	False	concept	loss of heterozygosity of chromosome 1p	823	862	annotator1	['sda/1']	5	SNP & Sequence variations
+Target-Disorder	False	concept	loss of heterozygosity of chromosome 1p	823	862	annotator2,annotator3	['sda/1']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	gain of chromosome 7q	867	888	annotator1	['umls/C0150279']	6	SNP & Sequence variations
+Target-Disorder	False	concept	gain of chromosome 7q	867	888	Computer	['umls/C0150279']	6	Diseases & Disorders
+Target-Disorder	False	concept	gain of chromosome 7q	867	888	annotator2,annotator3	['sda/2', 'sda/3']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	neuroblastomas	901	915	annotator1,Computer,annotator2,annotator3	['umls/C0003040']	7	Diseases & Disorders
+Target-Disorder	True	concept	MNTI	1017	1021	annotator1,Computer,annotator2,annotator3	['umls/C0009816']	8	Diseases & Disorders
+Target-Disorder	True	relation	6	7	['umls/C0150279', 'sda/2', 'sda/3']	['umls/C0003040']	867:888	901:915	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	6	4	['umls/C0150279', 'sda/2', 'sda/3']	['umls/C0002994']	867:888	810:815	annotator1	PA
+Target-Disorder	True	relation	5	7	['sda/1']	['umls/C0003040']	823:862	901:915	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	5	4	['sda/1']	['umls/C0002994']	823:862	810:815	annotator1	PA

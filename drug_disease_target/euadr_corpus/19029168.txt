@@ -1,0 +1,8 @@
+Target-Drug	True	concept	Ankylosing Spondylitis	23	45	annotator1,Computer,annotator2,annotator3	['uniprot/2001914']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	ankylosing spondylitis	152	174	annotator1,Computer,annotator2,annotator3	['uniprot/2001914']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	Ankylosing Spondylitis	250	272	annotator1,Computer,annotator2,annotator3	['uniprot/2001914']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	ankylosing spondylitis	505	527	annotator1,Computer,annotator2,annotator3	['uniprot/2001914']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	non-steroidal anti-inflammatory drugs	895	932	annotator1,annotator2,annotator3	['sda/1', 'sda/4']	10	Chemicals & Drugs
+Target-Drug	True	concept	tumour necrosis factor alpha inhibitors	937	976	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	11	Chemicals & Drugs
+Target-Drug	False	relation	10	21	['sda/1', 'sda/4']	[]	895:932	837:839	annotator2	PA
+Target-Drug	False	relation	11	21	['sda/2', 'sda/5']	[]	937:976	837:839	annotator2	PA

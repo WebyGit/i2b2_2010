@@ -1,0 +1,37 @@
+Target-Disorder	False	concept		9	17	Computer	['umls/C0026969']	16	Diseases & Disorders
+Target-Disorder	True	concept	hyperthyroidism	21	36	annotator1,Computer,annotator2,annotator3	['umls/C0002145']	0	Diseases & Disorders
+Target-Disorder	True	concept	sporadic non-autoimmune hyperthyroidism	102	141	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0002145', 'sda/3']	1	Diseases & Disorders
+Target-Disorder	True	concept	thyrotropin receptor	169	189	annotator1,Computer,annotator2	['uniprot/3000315']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept	thyrotropin receptor	169	189	annotator3	['sda/1']	2	SNP & Sequence variations
+Target-Disorder	False	concept	germline mutations	191	215	annotator1	['sda/2']	3	SNP & Sequence variations
+Target-Disorder	False	concept	germline mutations	191	215	Computer,annotator2	['uniprot/3000315']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	germline mutations	191	215	Computer	['umls/C0158861']	3	Diseases & Disorders
+Target-Disorder	True	concept	congenital hyperthyroidism	261	287	annotator1,Computer,annotator2,annotator3	['umls/C0110876']	4	Diseases & Disorders
+Target-Disorder	False	concept		303	312	Computer	['umls/C0026969']	17	Diseases & Disorders
+Target-Disorder	True	concept	hyperthyroidism	313	328	annotator1,Computer,annotator2,annotator3	['umls/C0002145']	5	Diseases & Disorders
+Target-Disorder	False	concept		456	464	Computer	['umls/C0026969']	18	Diseases & Disorders
+Target-Disorder	True	concept	hyperthyroidism	468	483	annotator1,Computer,annotator2,annotator3	['umls/C0002145']	6	Diseases & Disorders
+Target-Disorder	False	concept		522	525	Computer	['uniprot/3068469']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept		592	600	Computer	['umls/C0026969']	20	Diseases & Disorders
+Target-Disorder	True	concept	hyperthyroidism	604	619	annotator1,Computer,annotator2,annotator3	['umls/C0002145']	7	Diseases & Disorders
+Target-Disorder	True	concept	TSHR	677	681	annotator1,Computer,annotator2,annotator3	['uniprot/3000315']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept		715	723	Computer	['umls/C0158858']	21	Diseases & Disorders
+Target-Disorder	False	concept	aspartate to tyrosine in codon 633	743	789	annotator1,annotator3	['sda/4', 'sda/5']	9	SNP & Sequence variations
+Target-Disorder	False	concept	TSH	848	851	annotator2	['sda/1']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	absence	866	873	annotator1,Computer,annotator2,annotator3	['umls/C0158184']	11	Diseases & Disorders
+Target-Disorder	False	concept		881	889	Computer	['umls/C0158858']	23	Diseases & Disorders
+Target-Disorder	True	concept	TSHR	943	947	annotator1,Computer,annotator2	['uniprot/3000315']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept	TSHR	943	947	annotator3	['sda/2']	12	SNP & Sequence variations
+Target-Disorder	False	concept		948	956	Computer	['umls/C0158858']	24	Diseases & Disorders
+Target-Disorder	False	concept	germline mutation	971	988	annotator1	['umls/C0158861']	13	SNP & Sequence variations
+Target-Disorder	False	concept	germline mutation	971	988	Computer	['umls/C0158861']	13	Diseases & Disorders
+Target-Disorder	True	concept	hyperthyroidism	1033	1048	annotator1,Computer,annotator2,annotator3	['umls/C0002145']	14	Diseases & Disorders
+Target-Disorder	True	concept	sporadic non-autoimmune hyperthyroidism	1303	1342	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0002145', 'sda/3']	15	Diseases & Disorders
+Target-Disorder	True	relation	3	4	['sda/2', 'uniprot/3000315', 'umls/C0158861']	['umls/C0110876']	191:215	261:287	annotator1,Computer,annotator2	PA
+Target-Disorder	False	relation	3	3	['sda/2', 'uniprot/3000315', 'umls/C0158861']	['sda/2', 'uniprot/3000315', 'umls/C0158861']	191:215	191:215	Computer	PA
+Target-Disorder	False	relation	19	18	['uniprot/3068469']	['umls/C0026969']	522:525	456:464	Computer	PA
+Target-Disorder	False	relation	19	6	['uniprot/3068469']	['umls/C0002145']	522:525	468:483	Computer	PA
+Target-Disorder	False	relation	8	21	['uniprot/3000315']	['umls/C0158858']	677:681	715:723	Computer	PA
+Target-Disorder	False	relation	12	13	['uniprot/3000315', 'sda/2']	['umls/C0158861']	943:947	971:988	Computer	PA
+Target-Disorder	False	relation	12	24	['uniprot/3000315', 'sda/2']	['umls/C0158858']	943:947	948:956	Computer	PA
+Target-Disorder	False	relation	2	4	['uniprot/3000315', 'sda/1']	['umls/C0110876']	169:189	261:287	annotator3	PA

@@ -1,0 +1,54 @@
+Target-Drug	True	concept	MAPK p38	0	8	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3002391']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	47	56	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	104	107	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	MAPK-p38	109	117	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	200	203	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	297	306	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	386	389	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	485	494	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	10	Genes & Molecular Sequences
+Target-Drug	True	concept		535	559	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3002971']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	inducible NO synthase	561	582	annotator1,Computer,annotator2,annotator3	['uniprot/3055473', 'sda/3']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	620	623	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	647	656	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	715	718	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	760	769	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	799	802	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	IL-1beta	852	860	annotator1,Computer,annotator3	['uniprot/3000481']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	IL-1beta	852	860	annotator2	['uniprot/3000481']	18	Chemicals & Drugs
+Target-Drug	True	concept	IFN-gamma	865	874	annotator1,Computer,annotator3	['uniprot/3055526']	19	Genes & Molecular Sequences
+Target-Drug	False	concept	IFN-gamma	865	874	annotator2	['uniprot/3055526']	19	Chemicals & Drugs
+Target-Drug	True	concept	inducible NO synthase	912	933	annotator1,Computer,annotator2,annotator3	['uniprot/3055473', 'sda/3']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	971	974	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	21	Genes & Molecular Sequences
+Target-Drug	False	concept		1004	1021	annotator1	['sda/11']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	p300	1034	1038	annotator1,Computer,annotator2,annotator3	['uniprot/3001094']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1048	1051	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	p300	1083	1087	annotator1,Computer,annotator2,annotator3	['uniprot/3001094']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1093	1096	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	26	Genes & Molecular Sequences
+Target-Drug	False	concept	acetyltransferase	1133	1150	annotator1,annotator2	['sda/11', 'uniprot/3005134']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1208	1211	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	28	Genes & Molecular Sequences
+Target-Drug	False	concept	acetyltransferase	1259	1276	annotator1,annotator2	['sda/11', 'uniprot/3005134']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	1300	1303	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1357	1360	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/12']	31	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	1422	1431	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	32	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1492	1495	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	p300	1501	1505	annotator1,Computer,annotator2,annotator3	['uniprot/3001094']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1528	1531	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/12']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	1549	1552	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1587	1590	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	p300	1595	1599	annotator1,Computer,annotator2,annotator3	['uniprot/3001094']	38	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	1610	1613	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	40	Genes & Molecular Sequences
+Target-Drug	True	concept	p65-K310	1650	1658	annotator1,annotator2,annotator3	['sda/7', 'uniprot/2008615', 'sda/9']	41	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	1772	1775	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	MAP kinase	1812	1822	annotator1,annotator2,annotator3	['sda/8', 'sda/4', 'sda/10']	43	Genes & Molecular Sequences
+Target-Drug	True	concept	NF-kappaB	1847	1856	annotator1,Computer,annotator2,annotator3	['uniprot/3002971']	44	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	1857	1860	annotator1,Computer,annotator2,annotator3	['uniprot/2008615', 'sda/8']	45	Genes & Molecular Sequences
+Target-Drug	False	concept		1875	1892	annotator1	['sda/11']	46	Genes & Molecular Sequences
+Target-Drug	True	concept	p300	1917	1921	annotator1,Computer,annotator2,annotator3	['uniprot/3001094']	47	Genes & Molecular Sequences
+Target-Drug	False	relation	18	21	['uniprot/3000481']	['uniprot/3002391']	852:860	971:974	annotator2	PA
+Target-Drug	False	relation	18	26	['uniprot/3000481']	['uniprot/2008615', 'sda/8']	852:860	1093:1096	annotator2	PA
+Target-Drug	False	relation	18	20	['uniprot/3000481']	['uniprot/3055473', 'sda/3']	852:860	912:933	annotator2	PA
+Target-Drug	False	relation	18	25	['uniprot/3000481']	['uniprot/3001094']	852:860	1083:1087	annotator2	PA
+Target-Drug	False	relation	19	21	['uniprot/3055526']	['uniprot/3002391']	865:874	971:974	annotator2	PA
+Target-Drug	False	relation	19	26	['uniprot/3055526']	['uniprot/2008615', 'sda/8']	865:874	1093:1096	annotator2	PA
+Target-Drug	False	relation	19	20	['uniprot/3055526']	['uniprot/3055473', 'sda/3']	865:874	912:933	annotator2	PA
+Target-Drug	False	relation	19	25	['uniprot/3055526']	['uniprot/3001094']	865:874	1083:1087	annotator2	PA

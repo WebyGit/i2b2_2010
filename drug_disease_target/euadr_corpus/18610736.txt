@@ -1,0 +1,25 @@
+Target-Drug	True	concept	cisplatin	29	38	annotator1,Computer,annotator2,annotator3	['uniprot/9019042', 'uniprot/4501141']	0	Chemicals & Drugs
+Target-Drug	True	concept	cisplatin	102	111	annotator1,Computer,annotator2,annotator3	['uniprot/9019042', 'uniprot/4501141']	1	Chemicals & Drugs
+Target-Drug	False	concept		374	386	annotator3	['sda/12']	17	Genes & Molecular Sequences
+Target-Drug	False	concept	transporting ATPases	387	407	annotator2,annotator3	['sda/17', 'sda/13']	15	Genes & Molecular Sequences
+Target-Drug	False	concept		409	413	annotator3	['sda/10']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	transporting ATPases	414	434	annotator2,annotator3	['sda/17', 'sda/13']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	glutamate transporters of the solute carrier family 31	436	490	annotator1,annotator2,annotator3	['sda/5', 'sda/9']	4	Genes & Molecular Sequences
+Target-Drug	False	concept		466	480	Computer	['uniprot/4001415']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	copper transporters of the solute carrier family 31	492	543	annotator1,annotator2,annotator3	['sda/6', 'sda/10', 'sda/23']	5	Genes & Molecular Sequences
+Target-Drug	False	concept		519	533	Computer	['uniprot/4001415']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	ATP-binding cassette	549	569	annotator1,annotator2,annotator3	['sda/7', 'sda/11', 'sda/1']	6	Genes & Molecular Sequences
+Target-Drug	True	concept		571	587	annotator1,annotator2,annotator3	['sda/7', 'sda/14', 'sda/2']	7	Genes & Molecular Sequences
+Target-Drug	False	concept		571	587	Computer	['uniprot/4500967']	7	Chemicals & Drugs
+Target-Drug	True	concept	cisplatin	704	713	annotator1,Computer,annotator2,annotator3	['uniprot/9019042', 'uniprot/4501141']	8	Chemicals & Drugs
+Target-Drug	True	concept	cisplatin	832	841	annotator1,Computer,annotator2,annotator3	['uniprot/9019042', 'uniprot/4501141']	9	Chemicals & Drugs
+Target-Drug	True	concept	ATP7B	959	964	annotator1,Computer,annotator2,annotator3	['uniprot/3020063']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	copper ions	1003	1014	annotator1,annotator2,annotator3	['sda/10', 'sda/19', 'sda/21']	11	Chemicals & Drugs
+Target-Drug	False	concept		1192	1209	annotator3	['sda/18']	19	Chemicals & Drugs
+Target-Drug	True	relation	11	10	['sda/10', 'sda/19', 'sda/21']	['uniprot/3020063']	1003:1014	959:964	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	7	14	['sda/7', 'uniprot/4500967', 'sda/14', 'sda/2']	['uniprot/4001415']	571:587	519:533	Computer	PA
+Target-Drug	False	relation	4	3	['sda/5', 'sda/9']	[]	436:490	320:324	annotator2	PA
+Target-Drug	False	relation	5	3	['sda/6', 'sda/10', 'sda/23']	[]	492:543	320:324	annotator2	PA
+Target-Drug	False	relation	6	3	['sda/7', 'sda/11', 'sda/1']	[]	549:569	320:324	annotator2	PA
+Target-Drug	False	relation	7	3	['sda/7', 'uniprot/4500967', 'sda/14', 'sda/2']	[]	571:587	320:324	annotator2	PA
+Target-Drug	False	relation	16	3	['sda/17', 'sda/13']	[]	414:434	320:324	annotator2	PA

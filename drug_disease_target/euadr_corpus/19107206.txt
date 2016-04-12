@@ -1,0 +1,53 @@
+Target-Disorder	False	concept	HIV-RNA	37	44	annotator2,annotator3	['sda/2', 'sda/1']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept	HIV-DNA	58	65	annotator2,annotator3	['sda/4', 'sda/2']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept	HIV-1	76	81	annotator2,annotator3	['sda/10', 'sda/3']	29	Diseases & Disorders
+Target-Disorder	False	concept		82	91	Computer	['umls/C0002244']	19	Diseases & Disorders
+Target-Disorder	True	concept	HIV-1 disease	160	173	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0001185', 'sda/10', 'sda/3']	0	Diseases & Disorders
+Target-Disorder	True	concept	HLA	190	193	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/21']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	Chemokine receptor	198	216	annotator1,annotator2,annotator3	['sda/4', 'sda/7', 'sda/23']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept		244	263	Computer	['umls/C0016725']	20	Diseases & Disorders
+Target-Disorder	True	concept		350	379	annotator1,annotator2,annotator3	['sda/1', 'sda/10', 'sda/3']	3	Diseases & Disorders
+Target-Disorder	False	concept	HIV-RNA	441	448	annotator2,annotator3	['sda/2', 'sda/1']	30	Genes & Molecular Sequences
+Target-Disorder	False	concept	HIV-DNA	462	469	annotator2,annotator3	['sda/4', 'sda/2']	31	Genes & Molecular Sequences
+Target-Disorder	False	concept	HIV-RNA	520	527	annotator2,annotator3	['sda/2', 'sda/1']	32	Genes & Molecular Sequences
+Target-Disorder	True	concept	6p21 major histocompatibility complex	557	594	annotator1,annotator2,annotator3,annotator3	['sda/5', 'sda/11', 'sda/7', 'sda/9']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	MHC	596	599	annotator1,annotator2,annotator3	['sda/6', 'sda/12', 'sda/8']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept		697	704	Computer	['umls/C0001185']	21	Diseases & Disorders
+Target-Disorder	True	concept	MHC	728	731	annotator1,annotator2,annotator3	['sda/6', 'sda/12', 'sda/8']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs2395029	739	748	annotator1,annotator2,annotator3	['sda/7', 'sda/18', 'sda/10']	7	SNP & Sequence variations
+Target-Disorder	True	concept	rs13199524	750	760	annotator1,annotator2,annotator3	['sda/8', 'sda/19', 'sda/11']	8	SNP & Sequence variations
+Target-Disorder	True	concept	rs12198173	762	772	annotator1,annotator2,annotator3	['sda/9', 'sda/20', 'sda/12']	9	SNP & Sequence variations
+Target-Disorder	True	concept	rs3093662	777	786	annotator1,annotator2,annotator3	['sda/10', 'sda/21', 'sda/13']	10	SNP & Sequence variations
+Target-Disorder	True	concept	HIV	848	851	Computer,annotator2,annotator3	['umls/C0002040']	22	Diseases & Disorders
+Target-Disorder	False	concept	HIV-DNA	895	902	annotator2,annotator3	['sda/4', 'sda/2']	33	Genes & Molecular Sequences
+Target-Disorder	True	concept	HIV	926	929	Computer,annotator2,annotator3	['umls/C0002040']	23	Diseases & Disorders
+Target-Disorder	False	concept		1018	1031	annotator1	['sda/14']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs6503919	1033	1042	annotator1,annotator2,annotator3	['sda/15', 'sda/22', 'sda/14']	12	SNP & Sequence variations
+Target-Disorder	True	concept	DDX40	1077	1082	annotator1,Computer,annotator2,annotator3	['uniprot/3057000']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	YPEL2	1087	1092	annotator1,Computer,annotator2,annotator3	['uniprot/3070791']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept		1104	1116	annotator1	['sda/16']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs2575735	1118	1127	annotator1,annotator2,annotator3	['sda/17', 'sda/25', 'sda/15']	16	SNP & Sequence variations
+Target-Disorder	True	concept	Syndecan 2	1140	1150	annotator1,Computer,annotator2,annotator3	['uniprot/4000808']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	MHC	1193	1196	annotator1,annotator2,annotator3	['sda/6', 'sda/12', 'sda/8']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	HIV	1211	1214	Computer,annotator2,annotator3	['umls/C0002040', 'sda/29']	24	Diseases & Disorders
+Target-Disorder	True	concept	HIV	1231	1234	Computer,annotator2,annotator3	['umls/C0002040']	25	Diseases & Disorders
+Target-Disorder	True	concept	HIV	1316	1319	Computer,annotator2,annotator3	['umls/C0002040']	26	Diseases & Disorders
+Target-Disorder	True	relation	1	0	['sda/3', 'sda/6', 'sda/21']	['sda/2', 'umls/C0001185', 'sda/10', 'sda/3']	190:193	160:173	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	2	0	['sda/4', 'sda/7', 'sda/23']	['sda/2', 'umls/C0001185', 'sda/10', 'sda/3']	198:216	160:173	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	13	23	['uniprot/3057000']	['umls/C0002040']	1077:1082	926:929	Computer,annotator2	PA
+Target-Disorder	False	relation	14	23	['uniprot/3070791']	['umls/C0002040']	1087:1092	926:929	Computer,annotator2	PA
+Target-Disorder	True	relation	17	23	['uniprot/4000808']	['umls/C0002040']	1140:1150	926:929	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	27	29	['sda/2', 'sda/1']	['sda/10', 'sda/3']	37:44	76:81	annotator2	PA
+Target-Disorder	False	relation	28	29	['sda/4', 'sda/2']	['sda/10', 'sda/3']	58:65	76:81	annotator2	PA
+Target-Disorder	False	relation	30	3	['sda/2', 'sda/1']	['sda/1', 'sda/10', 'sda/3']	441:448	350:379	annotator2,annotator3	PA
+Target-Disorder	False	relation	31	3	['sda/4', 'sda/2']	['sda/1', 'sda/10', 'sda/3']	462:469	350:379	annotator2,annotator3	PA
+Target-Disorder	False	relation	6	22	['sda/6', 'sda/12', 'sda/8']	['umls/C0002040']	728:731	848:851	annotator2,annotator3	PA
+Target-Disorder	False	relation	7	22	['sda/7', 'sda/18', 'sda/10']	['umls/C0002040']	739:748	848:851	annotator2,annotator3	PA
+Target-Disorder	False	relation	8	22	['sda/8', 'sda/19', 'sda/11']	['umls/C0002040']	750:760	848:851	annotator2,annotator3	PA
+Target-Disorder	False	relation	9	22	['sda/9', 'sda/20', 'sda/12']	['umls/C0002040']	762:772	848:851	annotator2,annotator3	PA
+Target-Disorder	False	relation	10	22	['sda/10', 'sda/21', 'sda/13']	['umls/C0002040']	777:786	848:851	annotator2,annotator3	PA
+Target-Disorder	False	relation	33	23	['sda/4', 'sda/2']	['umls/C0002040']	895:902	926:929	annotator2,annotator3	PA
+Target-Disorder	False	relation	12	23	['sda/15', 'sda/22', 'sda/14']	['umls/C0002040']	1033:1042	926:929	annotator2,annotator3	PA
+Target-Disorder	False	relation	16	23	['sda/17', 'sda/25', 'sda/15']	['umls/C0002040']	1118:1127	926:929	annotator2,annotator3	PA
+Target-Disorder	False	relation	18	25	['sda/6', 'sda/12', 'sda/8']	['umls/C0002040']	1193:1196	1231:1234	annotator2,annotator3	PA
+Target-Disorder	False	relation	18	24	['sda/6', 'sda/12', 'sda/8']	['umls/C0002040', 'sda/29']	1193:1196	1211:1214	annotator3	PA

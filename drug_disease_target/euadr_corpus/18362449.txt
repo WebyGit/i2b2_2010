@@ -1,0 +1,37 @@
+Target-Disorder	False	concept	Gitelman's syndrome gene	38	62	annotator1,annotator3	['sda/2', 'sda/1']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept	Gitelman's syndrome gene	38	62	Computer,annotator2	['umls/C0021963']	0	Diseases & Disorders
+Target-Disorder	True	concept	essential hypertension	66	88	annotator1,Computer,annotator2,annotator3	['umls/C0004931']	1	Diseases & Disorders
+Target-Disorder	True	concept	Gitelman's syndrome	102	121	annotator1,Computer,annotator2,annotator3	['umls/C0021963']	2	Diseases & Disorders
+Target-Disorder	False	concept		146	154	Computer	['umls/C0001185']	17	Diseases & Disorders
+Target-Disorder	False	concept	wasting	179	186	Computer,annotator2	['umls/C0012585', 'sda/1']	18	Diseases & Disorders
+Target-Disorder	False	concept	secondary hyperaldosteronism	208	236	Computer,annotator2	['umls/C0024431']	19	Diseases & Disorders
+Target-Disorder	False	concept	metabolic alkalosis	238	257	Computer,annotator2	['umls/C0010076']	20	Diseases & Disorders
+Target-Disorder	False	concept		259	270	annotator2	['sda/2']	23	Diseases & Disorders
+Target-Disorder	False	concept		272	302	annotator2	['sda/4']	24	Diseases & Disorders
+Target-Disorder	False	concept	hypocalciuria	308	321	Computer,annotator2	['umls/C0002166']	21	Diseases & Disorders
+Target-Disorder	False	concept		358	366	Computer	['umls/C0004277']	22	Diseases & Disorders
+Target-Disorder	False	concept	mutations SLC12A3	386	410	annotator1	['sda/5']	3	SNP & Sequence variations
+Target-Disorder	False	concept	mutations SLC12A3	386	410	Computer	['umls/C0158858']	3	Diseases & Disorders
+Target-Disorder	True	concept	mutations SLC12A3	386	410	Computer,annotator2,annotator3	['uniprot/3000287', 'sda/11']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	thiazide-sensitive Na ( )-Cl (-) cotransporter	429	475	annotator1,annotator2	['sda/7', 'uniprot/3000287']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	NCC	477	480	annotator1,Computer,annotator2,annotator3	['uniprot/3000287']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	SLC12A3	594	601	annotator1,Computer,annotator2,annotator3	['uniprot/3000287', 'sda/11']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	SLC12A3	761	787	annotator1	['sda/9']	7	SNP & Sequence variations
+Target-Disorder	True	concept	SLC12A3	761	787	Computer,annotator2,annotator3	['uniprot/3000287', 'sda/11']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	essential hypertension	797	819	annotator1,Computer,annotator2,annotator3	['umls/C0004931']	8	Diseases & Disorders
+Target-Disorder	True	concept	EH	821	823	annotator1,annotator2,annotator3	['sda/8', 'sda/5', 'sda/4']	9	Diseases & Disorders
+Target-Disorder	True	concept	SLC12A3	878	885	annotator1,Computer,annotator2,annotator3	['uniprot/3000287', 'sda/11']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	T180K	892	897	annotator1,annotator2,annotator3	['sda/10', 'sda/6', 'sda/5']	11	SNP & Sequence variations
+Target-Disorder	True	concept	A569V	899	904	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/6']	12	SNP & Sequence variations
+Target-Disorder	True	concept	L849H	906	911	annotator1,annotator2,annotator3	['sda/13', 'sda/8', 'sda/7']	13	SNP & Sequence variations
+Target-Disorder	True	concept	EH	956	958	annotator1,annotator2,annotator3	['sda/8', 'sda/5', 'sda/4']	14	Diseases & Disorders
+Target-Disorder	True	concept	EH	1131	1133	annotator1,annotator2,annotator3	['sda/8', 'sda/5', 'sda/4']	15	Diseases & Disorders
+Target-Disorder	True	concept	Gitelman's syndrome	1197	1216	annotator1,Computer,annotator2,annotator3	['umls/C0021963']	16	Diseases & Disorders
+Target-Disorder	False	relation	5	22	['uniprot/3000287']	['umls/C0004277']	477:480	358:366	Computer	PA
+Target-Disorder	False	relation	5	3	['uniprot/3000287']	['sda/5', 'umls/C0158858', 'uniprot/3000287', 'sda/11']	477:480	386:410	Computer	PA
+Target-Disorder	False	relation	7	8	['sda/9', 'uniprot/3000287', 'sda/11']	['umls/C0004931']	761:787	797:819	Computer,annotator2	PA
+Target-Disorder	False	relation	7	9	['sda/9', 'uniprot/3000287', 'sda/11']	['sda/8', 'sda/5', 'sda/4']	761:787	821:823	annotator2	SA
+Target-Disorder	False	relation	10	14	['uniprot/3000287', 'sda/11']	['sda/8', 'sda/5', 'sda/4']	878:885	956:958	annotator2	SA
+Target-Disorder	False	relation	11	14	['sda/10', 'sda/6', 'sda/5']	['sda/8', 'sda/5', 'sda/4']	892:897	956:958	annotator2	SA
+Target-Disorder	False	relation	12	14	['sda/11', 'sda/7', 'sda/6']	['sda/8', 'sda/5', 'sda/4']	899:904	956:958	annotator2	SA
+Target-Disorder	False	relation	13	14	['sda/13', 'sda/8', 'sda/7']	['sda/8', 'sda/5', 'sda/4']	906:911	956:958	annotator2	SA

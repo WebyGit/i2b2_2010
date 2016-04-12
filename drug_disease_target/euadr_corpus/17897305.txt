@@ -1,0 +1,30 @@
+Drug-Disorder	True	concept	venous thrombosis	8	25	annotator1,annotator4,Computer,annotator5	['umls/C0004640']	0	Diseases & Disorders
+Drug-Disorder	False	concept	obesity	27	34	Computer,annotator5	['umls/C0003097']	16	Diseases & Disorders
+Drug-Disorder	True	concept	oral contraceptive	61	79	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	1	Chemicals & Drugs
+Drug-Disorder	False	concept		102	111	Computer	['umls/C0158858']	17	Diseases & Disorders
+Drug-Disorder	True	concept	venous thrombosis	186	203	annotator1,annotator4,Computer,annotator5	['umls/C0004640']	2	Diseases & Disorders
+Drug-Disorder	False	concept		223	229	Computer	['umls/C0046216']	18	Diseases & Disorders
+Drug-Disorder	False	concept	obesity	330	337	Computer,annotator5	['umls/C0003097']	19	Diseases & Disorders
+Drug-Disorder	True	concept	oral contraceptive	352	370	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	3	Chemicals & Drugs
+Drug-Disorder	False	concept		393	402	Computer	['umls/C0158858']	20	Diseases & Disorders
+Drug-Disorder	True	concept	venous thrombosis	418	435	annotator1,annotator4,Computer,annotator5	['umls/C0004640']	4	Diseases & Disorders
+Drug-Disorder	True	concept	venous thrombosis	518	535	annotator1,annotator4,Computer,annotator5	['umls/C0004640']	5	Diseases & Disorders
+Drug-Disorder	True	concept	malignancies	606	625	annotator1,Computer,annotator5	['sda/5', 'umls/C0000617']	6	Diseases & Disorders
+Drug-Disorder	False	concept	overweight	678	688	Computer,annotator5	['umls/C0058311']	21	Diseases & Disorders
+Drug-Disorder	True	concept	venous thrombosis	748	765	annotator1,annotator4,Computer,annotator5	['umls/C0004640']	7	Diseases & Disorders
+Drug-Disorder	False	concept	obesity	860	867	Computer,annotator5	['umls/C0003097']	22	Diseases & Disorders
+Drug-Disorder	False	concept	thrombotic	1006	1016	annotator1,Computer	['umls/C0005118']	8	Diseases & Disorders
+Drug-Disorder	False	concept	Obese	1023	1028	Computer,annotator5	['umls/C0003097']	23	Diseases & Disorders
+Drug-Disorder	True	concept	oral contraceptives	1044	1063	annotator1,annotator4,annotator5	['sda/6', 'sda/2', 'sda/4']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	thrombotic	1085	1095	annotator1,Computer	['umls/C0005118']	10	Diseases & Disorders
+Drug-Disorder	True	concept	oral contraceptives	1182	1201	annotator1,annotator4,annotator5	['sda/6', 'sda/2', 'sda/4']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	obesity	1283	1290	Computer,annotator5	['umls/C0003097']	24	Diseases & Disorders
+Drug-Disorder	False	concept		1465	1471	Computer	['umls/C0046216']	25	Diseases & Disorders
+Drug-Disorder	False	concept	obesity	1476	1483	Computer,annotator5	['umls/C0003097']	26	Diseases & Disorders
+Drug-Disorder	True	concept	venous thrombosis	1505	1522	annotator1,annotator4,Computer,annotator5	['umls/C0004640']	14	Diseases & Disorders
+Drug-Disorder	False	concept	obesity	1535	1542	Computer,annotator5	['umls/C0003097']	27	Diseases & Disorders
+Drug-Disorder	True	concept	oral contraceptives	1558	1577	annotator1,annotator4,annotator5	['sda/6', 'sda/2', 'sda/4']	15	Chemicals & Drugs
+Drug-Disorder	False	relation	11	10	['sda/6', 'sda/2', 'sda/4']	['umls/C0005118']	1182:1201	1085:1095	annotator1	PA
+Drug-Disorder	True	relation	15	14	['sda/6', 'sda/2', 'sda/4']	['umls/C0004640']	1558:1577	1505:1522	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	11	23	['sda/6', 'sda/2', 'sda/4']	['umls/C0003097']	1182:1201	1023:1028	annotator5	PA
+Drug-Disorder	False	relation	15	27	['sda/6', 'sda/2', 'sda/4']	['umls/C0003097']	1558:1577	1535:1542	annotator5	PA

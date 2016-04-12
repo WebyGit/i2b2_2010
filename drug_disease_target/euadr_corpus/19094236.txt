@@ -1,0 +1,8 @@
+Target-Disorder	True	concept	substance dependence	28	48	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0004239', 'sda/4']	0	Diseases & Disorders
+Target-Disorder	True	concept	Dependences on	132	146	Computer,annotator2,annotator3	['umls/C0052665', 'sda/1']	6	Diseases & Disorders
+Target-Disorder	False	concept		204	213	Computer	['umls/C0001185']	7	Diseases & Disorders
+Target-Disorder	False	concept		621	640	annotator1	['sda/2']	1	Diseases & Disorders
+Target-Disorder	True	concept	substance dependence	782	802	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0004239', 'sda/4']	2	Diseases & Disorders
+Target-Disorder	False	concept		1215	1234	annotator1	['sda/2']	4	Diseases & Disorders
+Target-Disorder	False	concept		1473	1477	Computer	['umls/C0004103']	8	Diseases & Disorders
+Target-Disorder	True	concept	substance dependence	1864	1884	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0004239', 'sda/4']	5	Diseases & Disorders

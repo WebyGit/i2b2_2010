@@ -1,0 +1,38 @@
+Drug-Disorder	True	concept	BiRD	0	4	annotator1,annotator4,annotator5	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	Biaxin	6	12	annotator1,annotator4,Computer,annotator5	['uniprot/4500513', 'uniprot/8004732']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	clarithromycin	14	28	annotator1,annotator4,Computer,annotator5	['uniprot/4500513', 'uniprot/8004732']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	Revlimid	30	38	annotator1,annotator4,Computer,annotator5	['uniprot/4500730', 'uniprot/8556051']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	lenalidomide	40	52	annotator1,annotator4,Computer,annotator5	['uniprot/4500730', 'uniprot/8556051']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	dexamethasone	54	67	annotator1,annotator4,Computer,annotator5	['uniprot/4500785', 'uniprot/4006922']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	multiple myeloma	173	189	annotator1,annotator4,Computer,annotator5	['umls/C0002874']	6	Diseases & Disorders
+Drug-Disorder	True	concept	clarithromycin	264	278	annotator1,annotator4,Computer,annotator5	['uniprot/4500513', 'uniprot/8004732']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	Biaxin	280	286	annotator1,annotator4,Computer,annotator5	['uniprot/4500513', 'uniprot/8004732']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	lenalidomide	289	301	annotator1,annotator4,Computer,annotator5	['uniprot/4500730', 'uniprot/8556051']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	Revlimid	303	311	annotator1,annotator4,Computer,annotator5	['uniprot/4500730', 'uniprot/8556051']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	dexamethasone	318	331	annotator1,annotator4,Computer,annotator5	['uniprot/4500785', 'uniprot/4006922']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	BiRD	333	337	annotator1,annotator4,annotator5	['sda/1']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	multiple myeloma	365	381	annotator1,annotator4,Computer,annotator5	['umls/C0002874']	13	Diseases & Disorders
+Drug-Disorder	True	concept	BiRD	401	405	annotator1,annotator4,annotator5	['sda/1']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	Dexamethasone	424	437	annotator1,annotator4,Computer,annotator5	['uniprot/4500785', 'uniprot/4006922']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	clarithromycin	476	490	annotator1,annotator4,Computer,annotator5	['uniprot/4500513', 'uniprot/8004732']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	lenalidomide	534	546	annotator1,annotator4,Computer,annotator5	['uniprot/4500730', 'uniprot/8556051']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		670	688	annotator5	['sda/6']	24	Chemicals & Drugs
+Drug-Disorder	False	concept		690	699	annotator5	['sda/7']	25	Chemicals & Drugs
+Drug-Disorder	False	concept		742	751	annotator5	['sda/7']	26	Chemicals & Drugs
+Drug-Disorder	False	concept		983	992	annotator5	['sda/7']	27	Chemicals & Drugs
+Drug-Disorder	True	concept	thromboembolic events	1246	1267	annotator1,annotator4,Computer,annotator5	['umls/C0099029']	18	Diseases & Disorders
+Drug-Disorder	False	concept		1269	1301	annotator1	['sda/2']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1269	1301	annotator5	['sda/8']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	cytopenias	1307	1317	annotator1,annotator4,Computer,annotator5	['umls/C0001048']	20	Diseases & Disorders
+Drug-Disorder	True	concept	BiRD	1319	1323	annotator1,annotator4,annotator5	['sda/1']	21	Chemicals & Drugs
+Drug-Disorder	False	concept		1364	1393	Computer	['umls/C0105312']	23	Diseases & Disorders
+Drug-Disorder	True	concept	multiple myeloma	1426	1442	annotator1,annotator4,Computer,annotator5	['umls/C0002874']	22	Diseases & Disorders
+Drug-Disorder	False	relation	2	6	['uniprot/4500513', 'uniprot/8004732']	['umls/C0002874']	14:28	173:189	annotator1,Computer	PA
+Drug-Disorder	False	relation	4	6	['uniprot/4500730', 'uniprot/8556051']	['umls/C0002874']	40:52	173:189	annotator1,Computer	PA
+Drug-Disorder	False	relation	5	6	['uniprot/4500785', 'uniprot/4006922']	['umls/C0002874']	54:67	173:189	annotator1,Computer	PA
+Drug-Disorder	False	relation	0	6	['sda/1']	['umls/C0002874']	0:4	173:189	annotator1,annotator5	PA
+Drug-Disorder	False	relation	8	13	['uniprot/4500513', 'uniprot/8004732']	['umls/C0002874']	280:286	365:381	annotator1,Computer	PA
+Drug-Disorder	False	relation	10	13	['uniprot/4500730', 'uniprot/8556051']	['umls/C0002874']	303:311	365:381	annotator1,Computer	PA
+Drug-Disorder	False	relation	11	13	['uniprot/4500785', 'uniprot/4006922']	['umls/C0002874']	318:331	365:381	annotator1,Computer	PA
+Drug-Disorder	False	relation	12	13	['sda/1']	['umls/C0002874']	333:337	365:381	annotator1,annotator5	PA
+Drug-Disorder	True	relation	21	22	['sda/1']	['umls/C0002874']	1319:1323	1426:1442	annotator1,annotator4,annotator5	PA

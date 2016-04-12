@@ -1,0 +1,50 @@
+Target-Disorder	True	concept	GPx2	0	4	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	PGE2	17	21	annotator1,Computer,annotator2,annotator3	['uniprot/3011819']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	COX-2	46	51	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	mPGES-1	56	63	annotator1,Computer,annotator2,annotator3	['uniprot/3003587']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	84	96	annotator1,Computer,annotator2	['umls/C0000642']	4	Diseases & Disorders
+Target-Disorder	True	concept	GPx2	104	108	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	gastrointestinal glutathione peroxidase	114	153	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	selenoprotein	160	173	annotator1,Computer,annotator2,annotator3	['uniprot/3003145']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	colitis	310	317	annotator1,Computer,annotator2,annotator3	['umls/C0000898']	8	Diseases & Disorders
+Target-Disorder	True	concept	intestinal cancer	322	339	annotator1,Computer,annotator2,annotator3	['umls/C0036118']	9	Diseases & Disorders
+Target-Disorder	True	concept	GPx1	343	347	annotator1,Computer,annotator2,annotator3	['uniprot/3020155']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	GPx2	352	356	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	Nrf2	401	405	annotator1,Computer,annotator2,annotator3	['uniprot/3001543']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	GPx2	428	432	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	COX-2	479	484	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	inflammation	528	540	annotator1,Computer,annotator2	['umls/C0002255']	15	Diseases & Disorders
+Target-Disorder	True	concept	GPx2	602	606	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	COX-2	611	616	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	colorectal cancer	736	753	annotator1,Computer,annotator2,annotator3	['umls/C0000909']	18	Diseases & Disorders
+Target-Disorder	True	concept	colitis	758	765	annotator1,Computer,annotator2,annotator3	['umls/C0000898']	19	Diseases & Disorders
+Target-Disorder	True	concept	GPx2	836	840	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	20	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL-1	894	898	annotator1,Computer,annotator2,annotator3	['uniprot/3000480']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	COX-2	921	926	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	mPGES-1	931	938	annotator1,Computer,annotator2,annotator3	['uniprot/3003587']	23	Genes & Molecular Sequences
+Target-Disorder	True	concept	PGE(2)	1000	1006	annotator1,annotator2,annotator3	['sda/3', 'uniprot/3011819']	24	Genes & Molecular Sequences
+Target-Disorder	False	concept		1024	1028	annotator2	['uniprot/3020479']	38	Genes & Molecular Sequences
+Target-Disorder	True	concept	PGE(2)	1067	1073	annotator1,annotator2,annotator3	['sda/3', 'uniprot/3011819']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	GPx2	1110	1114	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	26	Genes & Molecular Sequences
+Target-Disorder	True	concept	COX-2	1122	1127	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	27	Genes & Molecular Sequences
+Target-Disorder	True	concept	mPGES-1	1132	1139	annotator1,Computer,annotator2,annotator3	['uniprot/3003587']	28	Genes & Molecular Sequences
+Target-Disorder	True	concept	GPx1	1231	1235	annotator1,Computer,annotator2,annotator3	['uniprot/3020155']	29	Genes & Molecular Sequences
+Target-Disorder	True	concept	GPx2	1258	1262	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	30	Genes & Molecular Sequences
+Target-Disorder	False	concept		1310	1318	Computer	['umls/C0100096']	36	Diseases & Disorders
+Target-Disorder	True	concept	COX-2	1319	1324	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	31	Genes & Molecular Sequences
+Target-Disorder	True	concept	PGE(2)	1349	1355	annotator1,annotator2,annotator3	['sda/3', 'uniprot/3011819']	32	Genes & Molecular Sequences
+Target-Disorder	True	concept	COX-2	1366	1371	annotator1,Computer,annotator2,annotator3	['uniprot/3005017']	33	Genes & Molecular Sequences
+Target-Disorder	True	concept	GPx2	1390	1394	annotator1,Computer,annotator2,annotator3	['uniprot/3020479']	34	Genes & Molecular Sequences
+Target-Disorder	True	concept	carcinogenesis	1502	1516	annotator1,Computer,annotator2	['umls/C0078704', 'sda/1']	35	Diseases & Disorders
+Target-Disorder	True	relation	11	8	['uniprot/3020479']	['umls/C0000898']	352:356	310:317	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	11	9	['uniprot/3020479']	['umls/C0036118']	352:356	322:339	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	10	8	['uniprot/3020155']	['umls/C0000898']	343:347	310:317	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	10	9	['uniprot/3020155']	['umls/C0036118']	343:347	322:339	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	14	15	['uniprot/3005017']	['umls/C0002255']	479:484	528:540	annotator1,Computer,annotator2	PA
+Target-Disorder	True	relation	34	35	['uniprot/3020479']	['umls/C0078704', 'sda/1']	1390:1394	1502:1516	annotator1,Computer,annotator2	SA
+Target-Disorder	False	relation	0	4	['uniprot/3020479']	['umls/C0000642']	0:4	84:96	Computer,annotator2	PA
+Target-Disorder	False	relation	1	4	['uniprot/3011819']	['umls/C0000642']	17:21	84:96	Computer,annotator2	PA
+Target-Disorder	False	relation	2	4	['uniprot/3005017']	['umls/C0000642']	46:51	84:96	Computer,annotator2	PA
+Target-Disorder	False	relation	3	4	['uniprot/3003587']	['umls/C0000642']	56:63	84:96	Computer,annotator2	PA
+Target-Disorder	False	relation	30	36	['uniprot/3020479']	['umls/C0100096']	1258:1262	1310:1318	Computer	PA
+Target-Disorder	False	relation	33	36	['uniprot/3005017']	['umls/C0100096']	1366:1371	1310:1318	Computer	PA

@@ -1,0 +1,17 @@
+Drug-Disorder	False	concept		0	20	annotator4	['sda/1']	2	Diseases & Disorders
+Drug-Disorder	False	concept		28	99	annotator1	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	steroid	74	81	annotator4,annotator5	['sda/3', 'sda/1']	3	Chemicals & Drugs
+Drug-Disorder	False	concept		137	164	annotator4	['sda/5']	4	Diseases & Disorders
+Drug-Disorder	False	concept		168	185	annotator5	['sda/2']	12	Chemicals & Drugs
+Drug-Disorder	False	concept		193	277	annotator1	['sda/3']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	steroid	248	255	annotator4,annotator5	['sda/3', 'sda/1']	5	Chemicals & Drugs
+Drug-Disorder	False	concept		327	336	Computer	['umls/C0090186']	9	Diseases & Disorders
+Drug-Disorder	False	concept		538	558	annotator4	['sda/1']	6	Diseases & Disorders
+Drug-Disorder	False	concept		585	595	Computer	['umls/C0082281']	10	Diseases & Disorders
+Drug-Disorder	False	concept		616	633	annotator5	['sda/2']	13	Chemicals & Drugs
+Drug-Disorder	False	concept		877	890	Computer	['umls/C0000923']	11	Diseases & Disorders
+Drug-Disorder	False	concept		894	921	annotator4	['sda/5']	7	Diseases & Disorders
+Drug-Disorder	False	concept		925	942	annotator5	['sda/2']	14	Chemicals & Drugs
+Drug-Disorder	False	concept	steroid	947	954	annotator4,annotator5	['sda/3', 'sda/1']	8	Chemicals & Drugs
+Drug-Disorder	False	relation	5	4	['sda/3', 'sda/1']	['sda/5']	248:255	137:164	annotator4	SA
+Drug-Disorder	False	relation	8	7	['sda/3', 'sda/1']	['sda/5']	947:954	894:921	annotator4	SA

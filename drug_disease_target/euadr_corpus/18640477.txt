@@ -1,0 +1,56 @@
+Drug-Disorder	True	concept	montelukast	28	39	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	asthma	78	89	annotator1,annotator4,annotator5	['sda/7', 'sda/1']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Asthma	103	109	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000398']	2	Diseases & Disorders
+Drug-Disorder	False	concept		115	130	Computer	['umls/C0000843']	30	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	260	266	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000398']	3	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	380	386	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000398']	4	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	396	402	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000398']	5	Diseases & Disorders
+Drug-Disorder	False	concept	inhaled corticosteroids	496	519	annotator1	['sda/1']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	inhaled corticosteroids	496	519	annotator5	['sda/3']	6	Diseases & Disorders
+Drug-Disorder	True	concept	mild persistent asthma	559	581	annotator1,annotator4,Computer,annotator5	['sda/4', 'sda/1', 'umls/C0198733']	7	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	686	697	annotator1,annotator4,annotator5	['sda/7', 'sda/1']	8	Diseases & Disorders
+Drug-Disorder	True	concept	montelukast	711	722	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	leukotriene receptor antagonist	726	757	annotator1,annotator5	['sda/5']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	asthma	796	802	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000398']	11	Diseases & Disorders
+Drug-Disorder	True	concept	allergic rhinitis	807	824	annotator1,annotator4,annotator4,Computer,annotator5	['sda/3', 'umls/C0008021', 'umls/C0000172', 'sda/7']	12	Diseases & Disorders
+Drug-Disorder	True	concept	montelukast	1029	1040	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	leukotriene receptor antagonist	1042	1073	annotator1,annotator5	['sda/5']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	asthma	1075	1091	annotator1,annotator4,Computer,annotator5	['sda/6', 'sda/1', 'umls/C0000398']	15	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	1093	1104	annotator1,annotator4,Computer,annotator5	['sda/7', 'sda/1', 'umls/C0000399']	16	Diseases & Disorders
+Drug-Disorder	True	concept	exercise-induced asthma	1106	1129	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/8', 'umls/C0000399', 'sda/1', 'umls/C0000398']	17	Diseases & Disorders
+Drug-Disorder	False	concept	bronchoconstriction	1135	1154	annotator1,annotator5	['sda/9', 'sda/10']	18	Diseases & Disorders
+Drug-Disorder	True	concept	montelukast	1211	1222	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	asthmatics	1360	1388	annotator1,Computer,annotator5	['sda/2', 'umls/C0000398']	20	Diseases & Disorders
+Drug-Disorder	False	concept	asthmatics	1472	1482	Computer,annotator5	['umls/C0000398']	31	Diseases & Disorders
+Drug-Disorder	True	concept	asthmatic	1511	1536	annotator1,Computer,annotator5	['sda/1', 'umls/C0000398']	21	Diseases & Disorders
+Drug-Disorder	False	concept	asthmatics	1616	1626	Computer,annotator5	['umls/C0000398']	32	Diseases & Disorders
+Drug-Disorder	True	concept	montelukast	1655	1666	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	fluticasone	1672	1683	annotator1,annotator4,Computer,annotator5	['uniprot/9006419', 'uniprot/4500775']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	asthmatics	1721	1731	Computer,annotator5	['umls/C0000398']	33	Diseases & Disorders
+Drug-Disorder	True	concept	exercise-induced asthma	1793	1816	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/8', 'umls/C0000399', 'sda/1']	24	Diseases & Disorders
+Drug-Disorder	False	concept		1912	1920	Computer	['umls/C0148591']	34	Diseases & Disorders
+Drug-Disorder	True	concept	montelukast	1933	1944	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	25	Chemicals & Drugs
+Drug-Disorder	True	concept	asthma	1979	1985	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000398']	26	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	2030	2041	annotator1,annotator4,annotator5	['sda/7', 'sda/1']	27	Diseases & Disorders
+Drug-Disorder	True	concept	montelukast	2082	2093	annotator1,annotator4,Computer,annotator5	['uniprot/9012490', 'uniprot/4500965']	28	Chemicals & Drugs
+Drug-Disorder	True	concept	asthma	2150	2161	annotator1,annotator4,annotator5	['sda/7', 'sda/1']	29	Diseases & Disorders
+Drug-Disorder	False	relation	0	1	['uniprot/9012490', 'uniprot/4500965']	['sda/7', 'sda/1']	28:39	78:89	annotator1,annotator5	PA
+Drug-Disorder	False	relation	6	7	['sda/1', 'sda/3']	['sda/4', 'sda/1', 'umls/C0198733']	496:519	559:581	annotator1	PA
+Drug-Disorder	False	relation	9	11	['uniprot/9012490', 'uniprot/4500965']	['sda/2', 'sda/1', 'umls/C0000398']	711:722	796:802	annotator1,Computer	PA
+Drug-Disorder	True	relation	9	12	['uniprot/9012490', 'uniprot/4500965']	['sda/3', 'umls/C0008021', 'umls/C0000172', 'sda/7']	711:722	807:824	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	9	8	['uniprot/9012490', 'uniprot/4500965']	['sda/7', 'sda/1']	711:722	686:697	annotator1,annotator5	PA
+Drug-Disorder	False	relation	10	11	['sda/5']	['sda/2', 'sda/1', 'umls/C0000398']	726:757	796:802	annotator1	PA
+Drug-Disorder	False	relation	10	12	['sda/5']	['sda/3', 'umls/C0008021', 'umls/C0000172', 'sda/7']	726:757	807:824	annotator1,annotator5	PA
+Drug-Disorder	False	relation	10	8	['sda/5']	['sda/7', 'sda/1']	726:757	686:697	annotator1	PA
+Drug-Disorder	True	relation	13	16	['uniprot/9012490', 'uniprot/4500965']	['sda/7', 'sda/1', 'umls/C0000399']	1029:1040	1093:1104	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	25	26	['uniprot/9012490', 'uniprot/4500965']	['sda/2', 'sda/1', 'umls/C0000398']	1933:1944	1979:1985	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	25	27	['uniprot/9012490', 'uniprot/4500965']	['sda/7', 'sda/1']	1933:1944	2030:2041	annotator1	PA
+Drug-Disorder	True	relation	28	29	['uniprot/9012490', 'uniprot/4500965']	['sda/7', 'sda/1']	2082:2093	2150:2161	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	13	17	['uniprot/9012490', 'uniprot/4500965']	['sda/8', 'umls/C0000399', 'sda/1', 'umls/C0000398']	1029:1040	1106:1129	Computer	PA
+Drug-Disorder	False	relation	22	33	['uniprot/9012490', 'uniprot/4500965']	['umls/C0000398']	1655:1666	1721:1731	Computer	PA
+Drug-Disorder	False	relation	22	24	['uniprot/9012490', 'uniprot/4500965']	['sda/8', 'umls/C0000399', 'sda/1']	1655:1666	1793:1816	Computer,annotator5	PA
+Drug-Disorder	False	relation	23	33	['uniprot/9006419', 'uniprot/4500775']	['umls/C0000398']	1672:1683	1721:1731	Computer	PA
+Drug-Disorder	False	relation	23	24	['uniprot/9006419', 'uniprot/4500775']	['sda/8', 'umls/C0000399', 'sda/1']	1672:1683	1793:1816	Computer	PA
+Drug-Disorder	False	relation	25	34	['uniprot/9012490', 'uniprot/4500965']	['umls/C0148591']	1933:1944	1912:1920	Computer	PA
+Drug-Disorder	False	relation	13	18	['uniprot/9012490', 'uniprot/4500965']	['sda/9', 'sda/10']	1029:1040	1135:1154	annotator5	PA
+Drug-Disorder	False	relation	14	18	['sda/5']	['sda/9', 'sda/10']	1042:1073	1135:1154	annotator5	PA

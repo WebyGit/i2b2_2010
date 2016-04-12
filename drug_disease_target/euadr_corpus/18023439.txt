@@ -1,0 +1,26 @@
+Target-Drug	True	concept	gonadotropin-releasing hormone	34	64	annotator1,Computer,annotator2,annotator3	['uniprot/4500333', 'uniprot/8002319', 'sda/2']	0	Chemicals & Drugs
+Target-Drug	False	concept		66	82	annotator1	['sda/2']	1	Chemicals & Drugs
+Target-Drug	True	concept	GnRH agonist	107	119	annotator1,annotator2,annotator3	['sda/3', 'sda/9', 'sda/4']	2	Chemicals & Drugs
+Target-Drug	True	concept	GnRH agonist	236	261	annotator1,annotator2,annotator3	['sda/4', 'sda/9']	3	Chemicals & Drugs
+Target-Drug	True	concept	GnRH antagonist	312	327	annotator1,annotator2,annotator3	['sda/5', 'sda/6', 'sda/10']	4	Chemicals & Drugs
+Target-Drug	True	concept	GnRH antagonist	502	517	annotator1,annotator2,annotator3	['sda/5', 'sda/6', 'sda/10']	6	Chemicals & Drugs
+Target-Drug	True	concept	hCG	630	633	annotator1,annotator2,annotator3	['sda/6', 'sda/10', 'sda/11']	7	Chemicals & Drugs
+Target-Drug	False	concept	hCG	630	633	Computer	['uniprot/3032520']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	triptorelin	708	719	annotator1,Computer,annotator2,annotator3	['uniprot/4502255', 'uniprot/6306173']	9	Chemicals & Drugs
+Target-Drug	True	concept	hCG	747	750	annotator1,annotator2,annotator3	['sda/6', 'sda/10', 'sda/11']	10	Chemicals & Drugs
+Target-Drug	False	concept		859	863	annotator1	['sda/9']	11	Genes & Molecular Sequences
+Target-Drug	False	concept		859	863	annotator2	['sda/14']	11	Chemicals & Drugs
+Target-Drug	False	concept	P	865	866	annotator1,annotator2	['sda/11', 'sda/13']	12	Chemicals & Drugs
+Target-Drug	False	concept	LH	868	870	annotator1	['sda/8']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	LH	868	870	annotator2	['sda/15']	13	Chemicals & Drugs
+Target-Drug	False	concept	FSH	876	879	annotator1	['sda/7']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	FSH	876	879	annotator2	['sda/16']	14	Chemicals & Drugs
+Target-Drug	False	concept	FSH	1170	1173	annotator1	['sda/7']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	FSH	1170	1173	annotator2	['sda/16']	15	Chemicals & Drugs
+Target-Drug	False	concept	LH	1266	1268	annotator1	['sda/8']	16	Genes & Molecular Sequences
+Target-Drug	False	concept	LH	1266	1268	annotator2	['sda/15']	16	Chemicals & Drugs
+Target-Drug	True	concept	triptorelin	1890	1901	annotator1,Computer,annotator2,annotator3	['uniprot/4502255', 'uniprot/6306173']	17	Chemicals & Drugs
+Target-Drug	True	concept	hCG	1926	1929	annotator1,annotator2,annotator3	['sda/6', 'sda/10', 'sda/11']	18	Chemicals & Drugs
+Target-Drug	True	concept	GnRH antagonist	1948	1963	annotator1,annotator2,annotator3	['sda/5', 'sda/6', 'sda/10']	19	Chemicals & Drugs
+Target-Drug	True	concept	GnRH receptor	2135	2160	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/3000350', 'sda/17']	20	Genes & Molecular Sequences
+Target-Drug	False	relation	9	7	['uniprot/4502255', 'uniprot/6306173']	['sda/6', 'uniprot/3032520', 'sda/10', 'sda/11']	708:719	630:633	Computer	PA

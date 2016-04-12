@@ -1,0 +1,23 @@
+Drug-Disorder	True	concept	cancer nausea and vomiting	35	61	annotator1,annotator4,annotator4,Computer,Computer,annotator5,annotator5	['sda/6', 'sda/7', 'umls/C0000617', 'umls/C0002970', 'sda/3', 'sda/5']	0	Diseases & Disorders
+Drug-Disorder	False	concept		42	48	annotator4	['sda/1']	11	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	102	108	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/7', 'umls/C0000617']	1	Diseases & Disorders
+Drug-Disorder	False	concept		132	144	annotator5	['sda/2']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		164	172	Computer	['umls/C0148591']	13	Diseases & Disorders
+Drug-Disorder	True	concept	nausea and vomiting	176	195	annotator1,annotator4,annotator4,Computer,annotator5	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	2	Diseases & Disorders
+Drug-Disorder	False	concept		257	265	Computer	['umls/C0148591']	14	Diseases & Disorders
+Drug-Disorder	True	concept	Cancer	522	528	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/7', 'umls/C0000617']	3	Diseases & Disorders
+Drug-Disorder	False	concept		547	555	Computer	['umls/C0148591']	15	Diseases & Disorders
+Drug-Disorder	False	concept		556	568	Computer	['umls/C0105312']	16	Diseases & Disorders
+Drug-Disorder	True	concept	nausea and vomiting	621	640	annotator1,annotator4,annotator4,Computer,annotator5	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	4	Diseases & Disorders
+Drug-Disorder	True	concept	emesis	765	771	annotator4,Computer,annotator5	['umls/C0004689']	12	Diseases & Disorders
+Drug-Disorder	False	concept		820	832	annotator5	['sda/2']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	nausea and vomiting	868	887	annotator1,annotator4,annotator4,Computer,annotator5	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	5	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	925	931	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/7', 'umls/C0013651']	6	Diseases & Disorders
+Drug-Disorder	True	concept	small bowel obstruction	936	959	annotator1,annotator4,Computer,annotator5	['sda/4', 'sda/8', 'umls/C0012557']	7	Diseases & Disorders
+Drug-Disorder	True	concept	nausea and vomiting	1023	1042	annotator1,annotator4,annotator4,Computer,annotator5	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	8	Diseases & Disorders
+Drug-Disorder	True	concept	nausea and vomiting	1101	1120	annotator1,annotator4,annotator4,Computer,annotator5	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	9	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	1124	1130	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/7', 'umls/C0000617']	10	Diseases & Disorders
+Drug-Disorder	False	relation	17	1	['sda/2']	['sda/3', 'sda/7', 'umls/C0000617']	132:144	102:108	annotator5	PA
+Drug-Disorder	False	relation	17	2	['sda/2']	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	132:144	176:195	annotator5	PA
+Drug-Disorder	False	relation	18	12	['sda/2']	['umls/C0004689']	820:832	765:771	annotator5	PA
+Drug-Disorder	False	relation	18	5	['sda/2']	['sda/5', 'sda/1', 'sda/6', 'umls/C0002970']	820:832	868:887	annotator5	PA

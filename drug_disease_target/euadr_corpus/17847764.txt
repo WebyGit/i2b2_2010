@@ -1,0 +1,8 @@
+Target-Drug	True	concept	GnRH agonist	13	25	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	True	concept	gonadotropin-releasing hormone agonist	180	218	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/4500333', 'uniprot/8002319']	1	Chemicals & Drugs
+Target-Drug	True	concept	GnRHa	220	225	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	2	Chemicals & Drugs
+Target-Drug	True	concept	GnRHa	382	387	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	3	Chemicals & Drugs
+Target-Drug	True	concept	GnRHa	584	589	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	4	Chemicals & Drugs
+Target-Drug	True	concept	GnRHa	651	656	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	5	Chemicals & Drugs
+Target-Drug	True	concept	human chorionic gonadotropin	683	711	annotator1,Computer,annotator2,annotator3	['uniprot/4500031', 'uniprot/4003423']	6	Chemicals & Drugs
+Target-Drug	True	concept	GnRHa	1120	1125	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	8	Chemicals & Drugs

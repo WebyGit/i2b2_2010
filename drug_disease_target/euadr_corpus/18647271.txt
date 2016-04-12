@@ -1,0 +1,24 @@
+Drug-Disorder	False	concept	intravenous fluid	12	29	annotator4,annotator5	['sda/2', 'sda/1']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		185	209	annotator5	['sda/2']	18	Chemicals & Drugs
+Drug-Disorder	False	concept		769	775	annotator1	['sda/1']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		777	779	annotator1	['sda/2']	3	Chemicals & Drugs
+Drug-Disorder	False	concept		799	809	annotator5	['sda/5']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		834	840	Computer	['umls/C0046216']	15	Diseases & Disorders
+Drug-Disorder	False	concept	hypotonic maintenance fluid	1006	1033	annotator1,annotator5	['sda/2', 'sda/4']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	hypotonic maintenance fluid	1006	1033	Computer	['umls/C0016525']	4	Diseases & Disorders
+Drug-Disorder	False	concept	maintenance fluid	1083	1100	annotator1,annotator5	['sda/1', 'sda/4']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	hypotonic maintenance fluid	1144	1171	annotator1,annotator4,annotator5	['sda/2', 'sda/4']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	hypotonic maintenance fluid	1144	1171	Computer	['umls/C0016525']	6	Diseases & Disorders
+Drug-Disorder	False	concept	maintenance fluid	1209	1226	annotator1,annotator5	['sda/1', 'sda/4']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		1278	1284	Computer	['umls/C0046216']	16	Diseases & Disorders
+Drug-Disorder	False	concept		1444	1450	Computer	['umls/C0046216']	17	Diseases & Disorders
+Drug-Disorder	True	concept	sodium chloride	1495	1510	annotator1,annotator4,Computer,annotator5	['sda/3', 'uniprot/9017513', 'uniprot/4502553']	8	Chemicals & Drugs
+Drug-Disorder	False	concept		1585	1595	annotator5	['sda/5']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	hyponatremia	1632	1644	annotator1,annotator4,Computer,annotator5	['umls/C0002178']	9	Diseases & Disorders
+Drug-Disorder	False	concept		1647	1649	annotator1	['sda/2']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	Hypotonic maintenance fluid	1725	1752	annotator1,annotator4,annotator5	['sda/2', 'sda/4']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	Hypotonic maintenance fluid	1725	1752	Computer	['umls/C0016525']	11	Diseases & Disorders
+Drug-Disorder	True	concept	hyponatremia	1790	1802	annotator1,annotator4,Computer,annotator5	['umls/C0002178']	12	Diseases & Disorders
+Drug-Disorder	False	concept		1871	1881	annotator5	['sda/5']	21	Chemicals & Drugs
+Drug-Disorder	False	relation	10	9	['sda/2']	['umls/C0002178']	1647:1649	1632:1644	annotator1	PA
+Drug-Disorder	False	relation	11	12	['sda/2', 'umls/C0016525', 'sda/4']	['umls/C0002178']	1725:1752	1790:1802	annotator5	PA

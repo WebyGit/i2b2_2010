@@ -1,0 +1,45 @@
+Target-Drug	True	concept	F90	22	25	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	0	Chemicals & Drugs
+Target-Drug	False	concept	epidermal growth factor receptor tyrosine kinase inhibitor	30	88	annotator1,annotator3	['sda/2', 'sda/1']	1	Chemicals & Drugs
+Target-Drug	False	concept	epidermal growth factor receptor tyrosine kinase inhibitor	30	88	Computer,annotator2	['uniprot/3074545']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		116	122	annotator3	['sda/3']	40	Genes & Molecular Sequences
+Target-Drug	True	concept	epidermal growth factor receptor	155	187	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	189	193	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	426	430	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	524	528	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	F90	714	717	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	16	Chemicals & Drugs
+Target-Drug	False	concept		726	732	annotator3	['sda/3']	41	Genes & Molecular Sequences
+Target-Drug	True	concept		816	822	annotator1,annotator2,annotator3	['sda/3', 'uniprot/3074545']	17	Genes & Molecular Sequences
+Target-Drug	True	concept		824	830	annotator1,annotator2,annotator3	['sda/4', 'uniprot/3055682']	18	Genes & Molecular Sequences
+Target-Drug	True	concept		832	837	annotator1,annotator2,annotator3	['sda/5', 'uniprot/3056760']	19	Genes & Molecular Sequences
+Target-Drug	True	concept		839	844	annotator1,annotator2,annotator3	['sda/6', 'uniprot/3002391']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl2	846	850	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	P53	855	858	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	F90	878	881	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	23	Chemicals & Drugs
+Target-Drug	False	concept		966	972	annotator3	['sda/3']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	F90	1008	1011	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	25	Chemicals & Drugs
+Target-Drug	True	concept	EGFR	1079	1083	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	ERK1	1137	1141	annotator1,Computer,annotator2,annotator3	['uniprot/3055682']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	JNK	1143	1146	annotator1,Computer,annotator2,annotator3	['uniprot/3056760']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	P38	1151	1154	annotator1,Computer,annotator2,annotator3	['uniprot/3002391']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	F90	1205	1208	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	31	Chemicals & Drugs
+Target-Drug	True	concept	Bcl2	1247	1251	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	P53	1277	1280	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	F90	1351	1354	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	35	Chemicals & Drugs
+Target-Drug	False	concept		1403	1409	annotator3	['sda/3']	43	Genes & Molecular Sequences
+Target-Drug	True	concept	F90	1467	1470	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/5']	37	Chemicals & Drugs
+Target-Drug	True	relation	31	26	['sda/1', 'sda/2', 'sda/5']	['uniprot/3074545']	1205:1208	1079:1083	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	31	27	['sda/1', 'sda/2', 'sda/5']	['uniprot/3055682']	1205:1208	1137:1141	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	31	28	['sda/1', 'sda/2', 'sda/5']	['uniprot/3056760']	1205:1208	1143:1146	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	31	29	['sda/1', 'sda/2', 'sda/5']	['uniprot/3002391']	1205:1208	1151:1154	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	1	2	['sda/2', 'uniprot/3074545', 'sda/1']	[]	30:88	93:105	annotator2	PA
+Target-Drug	False	relation	0	1	['sda/1', 'sda/2', 'sda/5']	['sda/2', 'uniprot/3074545', 'sda/1']	22:25	30:88	annotator2	PA
+Target-Drug	False	relation	0	2	['sda/1', 'sda/2', 'sda/5']	[]	22:25	93:105	annotator2	PA
+Target-Drug	False	relation	4	5	['uniprot/3074545']	[]	189:193	253:263	annotator2	PA
+Target-Drug	False	relation	4	6	['uniprot/3074545']	[]	189:193	333:340	annotator2	PA
+Target-Drug	False	relation	4	39	['uniprot/3074545']	[]	189:193	265:296	annotator2	PA
+Target-Drug	False	relation	10	12	['uniprot/3074545']	[]	426:430	496:499	annotator2	PA
+Target-Drug	False	relation	13	14	['uniprot/3074545']	[]	524:528	591:594	annotator2	PA
+Target-Drug	False	relation	37	38	['sda/1', 'sda/2', 'sda/5']	[]	1467:1470	1520:1523	annotator2	PA
+Target-Drug	False	relation	16	41	['sda/1', 'sda/2', 'sda/5']	['sda/3']	714:717	726:732	annotator3	SA
+Target-Drug	False	relation	25	42	['sda/1', 'sda/2', 'sda/5']	['sda/3']	1008:1011	966:972	annotator3	PA
+Target-Drug	False	relation	37	43	['sda/1', 'sda/2', 'sda/5']	['sda/3']	1467:1470	1403:1409	annotator3	PA

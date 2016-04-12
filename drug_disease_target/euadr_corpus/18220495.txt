@@ -1,0 +1,17 @@
+Drug-Disorder	True	concept	Clozapine	0	9	annotator1,annotator4,Computer,annotator5	['uniprot/4500252', 'uniprot/8000975']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	clozapine	76	85	annotator1,annotator4,Computer,annotator5	['uniprot/4500252', 'uniprot/8000975']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	schizophrenia	110	143	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0003961']	2	Diseases & Disorders
+Drug-Disorder	True	concept	adverse effects	227	242	annotator1,annotator4,Computer,annotator5	['umls/C0105312']	3	Diseases & Disorders
+Drug-Disorder	True	concept	clozapine	296	305	annotator1,annotator4,Computer,annotator5	['uniprot/4500252', 'uniprot/8000975']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	schizophrenia	332	345	annotator1,annotator4,Computer,annotator5	['umls/C0003961']	5	Diseases & Disorders
+Drug-Disorder	True	concept	adverse effects	375	390	annotator1,annotator4,Computer,annotator5	['umls/C0105312']	6	Diseases & Disorders
+Drug-Disorder	True	concept	clozapine	443	452	annotator1,annotator4,Computer,annotator5	['uniprot/4500252', 'uniprot/8000975']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	childhood-onset schizophrenia	532	572	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0003961']	8	Diseases & Disorders
+Drug-Disorder	True	concept	clozapine	584	593	annotator1,annotator4,Computer,annotator5	['uniprot/4500252', 'uniprot/8000975']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	adverse effects	650	665	annotator1,annotator4,Computer,annotator5	['umls/C0105312']	10	Diseases & Disorders
+Drug-Disorder	True	concept	clozapine	679	688	annotator1,annotator4,Computer,annotator5	['uniprot/4500252', 'uniprot/8000975']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	refractory schizophrenia	770	794	annotator1,annotator4,Computer,annotator5	['umls/C0248386']	12	Diseases & Disorders
+Drug-Disorder	True	relation	1	2	['uniprot/4500252', 'uniprot/8000975']	['sda/1', 'umls/C0003961']	76:85	110:143	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	4	5	['uniprot/4500252', 'uniprot/8000975']	['umls/C0003961']	296:305	332:345	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	9	8	['uniprot/4500252', 'uniprot/8000975']	['sda/2', 'sda/1', 'umls/C0003961']	584:593	532:572	annotator1,Computer,annotator5	SA
+Drug-Disorder	True	relation	11	12	['uniprot/4500252', 'uniprot/8000975']	['umls/C0248386']	679:688	770:794	annotator1,annotator4,Computer,annotator5	PA

@@ -1,0 +1,26 @@
+Drug-Disorder	False	concept	transthyretin	9	22	annotator4	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	end-stage renal disease	80	103	annotator1,Computer,annotator5	['umls/C0002390']	1	Diseases & Disorders
+Drug-Disorder	False	concept	transthyretin	143	156	annotator4	['sda/1']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	TTR	158	161	annotator4	['sda/2']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	renal patients	204	218	annotator1,annotator5	['sda/2', 'sda/1']	4	Diseases & Disorders
+Drug-Disorder	False	concept	renal patients	252	266	annotator1,annotator5	['sda/2', 'sda/1']	5	Diseases & Disorders
+Drug-Disorder	False	concept	TTR	409	412	annotator4	['sda/2']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		414	421	Computer	['uniprot/4502258']	24	Chemicals & Drugs
+Drug-Disorder	False	concept	vitamin A	533	542	annotator4,Computer	['uniprot/9005461', 'uniprot/4500818']	22	Chemicals & Drugs
+Drug-Disorder	False	concept		559	569	Computer	['umls/C0079724']	25	Diseases & Disorders
+Drug-Disorder	False	concept	TTR	628	631	annotator4	['sda/2']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	TTR	674	677	annotator4	['sda/2']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	vitamin A	716	725	annotator4,Computer	['uniprot/9005461', 'uniprot/4500818']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	renal patients	796	810	annotator1,annotator5	['sda/2', 'sda/1']	14	Diseases & Disorders
+Drug-Disorder	False	concept	TTR	818	821	annotator4	['sda/2']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	malnourished	901	913	Computer,annotator5	['umls/C0009431', 'sda/3']	26	Diseases & Disorders
+Drug-Disorder	False	concept	TTR	1000	1003	annotator4	['sda/2']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	malnourished	1027	1039	Computer,annotator5	['umls/C0009431', 'sda/3']	27	Diseases & Disorders
+Drug-Disorder	False	concept	TTR	1100	1103	annotator4	['sda/2']	17	Chemicals & Drugs
+Drug-Disorder	False	concept	renal patients	1143	1157	annotator1,annotator5	['sda/2', 'sda/1']	18	Diseases & Disorders
+Drug-Disorder	False	concept	malnutrition	1178	1190	Computer,annotator5	['umls/C0009431', 'sda/2']	28	Diseases & Disorders
+Drug-Disorder	True	concept	inflammation	1195	1207	annotator1,Computer,annotator5	['umls/C0002255']	19	Diseases & Disorders
+Drug-Disorder	False	concept	malnourished	1277	1289	Computer,annotator5	['umls/C0009431', 'sda/3']	29	Diseases & Disorders
+Drug-Disorder	False	concept	TTR	1312	1315	annotator4	['sda/2']	20	Chemicals & Drugs
+Drug-Disorder	False	concept	renal patients	1352	1366	annotator1,annotator5	['sda/2', 'sda/1']	21	Diseases & Disorders
+Drug-Disorder	False	concept	malnutrition	1391	1403	Computer,annotator5	['umls/C0009431', 'sda/2']	30	Diseases & Disorders

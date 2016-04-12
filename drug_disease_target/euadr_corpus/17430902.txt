@@ -1,0 +1,64 @@
+Target-Disorder	False	concept	Lysophosphatidic acid	0	21	annotator1,annotator3	['sda/2', 'sda/1']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	51	63	Computer,annotator2,annotator3	['umls/C0000642']	37	Diseases & Disorders
+Target-Disorder	True	concept	Kreppel-like factor 5	87	108	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	1	Genes & Molecular Sequences
+Target-Disorder	False	concept	lysophosphatidic acid	158	179	annotator1,annotator3	['sda/2', 'sda/1']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	181	184	annotator1,Computer,annotator3	['uniprot/3087856']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	282	285	annotator1,Computer,annotator3	['uniprot/3087856']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	312	324	Computer,annotator2,annotator3	['umls/C0000642']	38	Diseases & Disorders
+Target-Disorder	True	concept	beta-catenin	354	366	annotator1,Computer,annotator2,annotator3	['uniprot/3001434']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	393	405	Computer,annotator2,annotator3	['umls/C0000642']	39	Diseases & Disorders
+Target-Disorder	True	concept	Wnt	437	440	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/11']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	beta-catenin	441	453	annotator1,Computer,annotator2	['uniprot/3001434']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	546	549	annotator1,Computer,annotator3	['uniprot/3087856']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	599	611	Computer,annotator2,annotator3	['umls/C0000642']	40	Diseases & Disorders
+Target-Disorder	True	concept	Kreppel-like factor 5	619	640	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	642	646	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	788	792	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	796	799	annotator1,Computer,annotator3	['uniprot/3087856']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	837	840	annotator1,Computer,annotator3	['uniprot/3087856']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	877	881	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	colon cancer	902	914	Computer,annotator2,annotator3	['umls/C0000642']	41	Diseases & Disorders
+Target-Disorder	False	concept	LPA(2)	958	964	annotator1,annotator3	['sda/5']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept	LPA(3)	969	975	annotator1,annotator3	['sda/6']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept		977	986	Computer	['umls/C0100096']	42	Diseases & Disorders
+Target-Disorder	True	concept	KLF5	990	994	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	1056	1059	annotator1,Computer,annotator3	['uniprot/3087856']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	1110	1113	annotator1,Computer,annotator3	['uniprot/3087856']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	1123	1127	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	20	Genes & Molecular Sequences
+Target-Disorder	False	concept		1152	1159	Computer	['umls/C0003100']	43	Diseases & Disorders
+Target-Disorder	True	concept	protein kinase kinase	1199	1220	annotator1,annotator2,annotator3	['sda/8', 'sda/4']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	protein kinase C-delta	1225	1247	annotator1,annotator2,annotator3	['sda/9', 'sda/5', 'sda/7']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	1276	1279	annotator1,Computer,annotator3	['uniprot/3087856']	23	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	1290	1294	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	24	Genes & Molecular Sequences
+Target-Disorder	True	concept	elongation factor 2 kinase	1321	1347	annotator1,Computer,annotator2,annotator3	['uniprot/3007299']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	eEF2k	1349	1354	annotator1,Computer,annotator2,annotator3	['uniprot/3007299']	26	Genes & Molecular Sequences
+Target-Disorder	False	concept	calmodulin	1371	1381	annotator1,annotator2	['sda/10', 'sda/6']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept		1385	1394	Computer	['umls/C0100096']	44	Diseases & Disorders
+Target-Disorder	True	concept	eEF2k	1398	1403	annotator1,Computer,annotator2,annotator3	['uniprot/3007299']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept		1404	1411	Computer	['umls/C0003100']	45	Diseases & Disorders
+Target-Disorder	True	concept	KLF5	1431	1435	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	29	Genes & Molecular Sequences
+Target-Disorder	True	concept	eEF2k	1461	1466	annotator1,Computer,annotator2,annotator3	['uniprot/3007299']	30	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	1490	1494	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	31	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	1508	1511	annotator1,Computer,annotator3	['uniprot/3087856']	32	Genes & Molecular Sequences
+Target-Disorder	False	concept		1545	1576	annotator3	['sda/9']	46	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	1601	1605	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	33	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	1621	1624	annotator1,Computer,annotator3	['uniprot/3087856']	34	Genes & Molecular Sequences
+Target-Disorder	True	concept	KLF5	1666	1670	annotator1,Computer,annotator2,annotator3	['uniprot/3037520']	35	Genes & Molecular Sequences
+Target-Disorder	True	concept	LPA	1737	1740	annotator1,Computer,annotator3	['uniprot/3087856']	36	Genes & Molecular Sequences
+Target-Disorder	False	relation	4	38	['uniprot/3087856']	['umls/C0000642']	282:285	312:324	Computer,annotator3	PA
+Target-Disorder	True	relation	5	38	['uniprot/3001434']	['umls/C0000642']	354:366	312:324	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	7	39	['uniprot/3001434']	['umls/C0000642']	441:453	393:405	Computer,annotator2	PA
+Target-Disorder	False	relation	8	40	['uniprot/3087856']	['umls/C0000642']	546:549	599:611	Computer,annotator3	PA
+Target-Disorder	False	relation	13	41	['uniprot/3087856']	['umls/C0000642']	837:840	902:914	Computer	PA
+Target-Disorder	False	relation	14	41	['uniprot/3037520']	['umls/C0000642']	877:881	902:914	Computer,annotator2	PA
+Target-Disorder	False	relation	18	42	['uniprot/3087856']	['umls/C0100096']	1056:1059	977:986	Computer	PA
+Target-Disorder	False	relation	17	42	['uniprot/3037520']	['umls/C0100096']	990:994	977:986	Computer	PA
+Target-Disorder	False	relation	19	43	['uniprot/3087856']	['umls/C0003100']	1110:1113	1152:1159	Computer	PA
+Target-Disorder	False	relation	20	43	['uniprot/3037520']	['umls/C0003100']	1123:1127	1152:1159	Computer	PA
+Target-Disorder	False	relation	29	44	['uniprot/3037520']	['umls/C0100096']	1431:1435	1385:1394	Computer	PA
+Target-Disorder	False	relation	29	45	['uniprot/3037520']	['umls/C0003100']	1431:1435	1404:1411	Computer	PA
+Target-Disorder	False	relation	28	44	['uniprot/3007299']	['umls/C0100096']	1398:1403	1385:1394	Computer	PA
+Target-Disorder	False	relation	28	45	['uniprot/3007299']	['umls/C0003100']	1398:1403	1404:1411	Computer	PA
+Target-Disorder	False	relation	1	37	['sda/1', 'sda/2']	['umls/C0000642']	87:108	51:63	annotator2,annotator3	PA
+Target-Disorder	False	relation	6	39	['sda/4', 'sda/2', 'sda/11']	['umls/C0000642']	437:440	393:405	annotator2,annotator3	PA
+Target-Disorder	False	relation	0	37	['sda/2', 'sda/1']	['umls/C0000642']	0:21	51:63	annotator3	PA

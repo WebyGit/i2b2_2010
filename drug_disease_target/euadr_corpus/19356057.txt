@@ -1,0 +1,5 @@
+Target-Drug	True	concept	oxazole-ring opened metabolites of muraglitazar	144	191	annotator1,annotator2,annotator3	['sda/1', 'sda/4']	0	Chemicals & Drugs
+Target-Drug	True	concept	oxazole-ring opened metabolites of muraglitazar	300	347	annotator1,annotator2,annotator3	['sda/1', 'sda/4']	1	Chemicals & Drugs
+Target-Drug	True	concept	muraglitazar metabolites	415	439	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/5']	2	Chemicals & Drugs
+Target-Drug	False	concept		504	512	annotator3	['sda/7']	5	Chemicals & Drugs
+Target-Drug	False	concept		516	521	annotator3	['sda/6']	6	Chemicals & Drugs

@@ -1,0 +1,36 @@
+Drug-Disorder	False	concept	virus	30	52	annotator4,Computer	['sda/3', 'umls/C0004665']	18	Diseases & Disorders
+Drug-Disorder	True	concept	varicella-zoster infection	84	119	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0089501', 'umls/C0002244']	0	Diseases & Disorders
+Drug-Disorder	True	concept	acyclovir	137	158	annotator1,annotator4,Computer,annotator5	['sda/2', 'uniprot/9012500', 'uniprot/4500966']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	acute lymphocytic leukemia	187	213	annotator1,Computer,annotator5	['umls/C0002507']	2	Diseases & Disorders
+Drug-Disorder	False	concept	ALL	215	218	annotator1,annotator5	['sda/3', 'sda/2']	3	Diseases & Disorders
+Drug-Disorder	True	concept	varicella-zoster virus	234	265	annotator1,annotator4,Computer	['sda/4', 'sda/3', 'umls/C0004665']	4	Diseases & Disorders
+Drug-Disorder	True	concept	infection	267	281	annotator1,Computer,annotator5	['sda/5', 'umls/C0002244', 'sda/6']	5	Diseases & Disorders
+Drug-Disorder	True	concept	acyclovir	371	392	annotator1,annotator4,Computer,annotator5	['sda/2', 'uniprot/9012500', 'uniprot/4500966']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	ACV	394	397	annotator1,annotator4,Computer,annotator5	['uniprot/4500966', 'uniprot/9012500']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	ACV	394	397	annotator1,annotator4,Computer,annotator5	['umls/C0190346']	7	Diseases & Disorders
+Drug-Disorder	False	concept	ALL	425	428	annotator1,annotator5	['sda/3', 'sda/2']	8	Diseases & Disorders
+Drug-Disorder	True	concept	epigastric pain	439	461	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0011179']	9	Diseases & Disorders
+Drug-Disorder	True	concept	blistering eruptions	496	516	annotator1,annotator4,Computer,annotator5	['umls/C0000528']	10	Diseases & Disorders
+Drug-Disorder	True	concept	visceral varicella-zoster disease	546	579	annotator1,annotator4,Computer,annotator5	['sda/7', 'sda/4', 'umls/C0001185', 'sda/5']	11	Diseases & Disorders
+Drug-Disorder	True	concept	ACV	600	615	annotator1,annotator4,Computer,annotator5	['sda/8', 'uniprot/9012500', 'uniprot/4500966']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	ACV	600	615	annotator4,Computer,annotator5	['umls/C0190346']	12	Diseases & Disorders
+Drug-Disorder	True	concept	epigastric pain	652	667	annotator1,annotator1,Computer,Computer,annotator5,annotator5	['umls/C0011179', 'umls/C0015900']	13	Diseases & Disorders
+Drug-Disorder	True	concept	skin lesions	672	684	annotator1,Computer,annotator5	['sda/11', 'umls/C0004098']	14	Diseases & Disorders
+Drug-Disorder	True	concept	skin manifestations	857	876	annotator1,Computer,annotator5	['umls/C0004099']	15	Diseases & Disorders
+Drug-Disorder	True	concept	ACV	987	1002	annotator1,annotator4,Computer,annotator5	['sda/8', 'uniprot/9012500', 'uniprot/4500966']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	ACV	987	1002	annotator4,Computer,annotator5	['umls/C0190346']	16	Diseases & Disorders
+Drug-Disorder	False	concept		1010	1013	annotator5	['sda/6']	19	Diseases & Disorders
+Drug-Disorder	True	concept	valacyclovir	1083	1100	annotator1,annotator4,Computer,annotator5	['sda/12', 'uniprot/8522148', 'uniprot/4500697']	17	Chemicals & Drugs
+Drug-Disorder	True	relation	1	0	['sda/2', 'uniprot/9012500', 'uniprot/4500966']	['sda/1', 'umls/C0089501', 'umls/C0002244']	137:158	84:119	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	7	4	['uniprot/4500966', 'umls/C0190346', 'uniprot/9012500']	['sda/4', 'sda/3', 'umls/C0004665']	394:397	234:265	annotator1	PA
+Drug-Disorder	False	relation	7	5	['uniprot/4500966', 'umls/C0190346', 'uniprot/9012500']	['sda/5', 'umls/C0002244', 'sda/6']	394:397	267:281	annotator1	PA
+Drug-Disorder	True	relation	6	4	['sda/2', 'uniprot/9012500', 'uniprot/4500966']	['sda/4', 'sda/3', 'umls/C0004665']	371:392	234:265	annotator1,annotator4,Computer	PA
+Drug-Disorder	True	relation	6	5	['sda/2', 'uniprot/9012500', 'uniprot/4500966']	['sda/5', 'umls/C0002244', 'sda/6']	371:392	267:281	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	12	13	['sda/8', 'uniprot/9012500', 'umls/C0190346', 'uniprot/4500966']	['umls/C0011179', 'umls/C0015900']	600:615	652:667	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	12	14	['sda/8', 'uniprot/9012500', 'umls/C0190346', 'uniprot/4500966']	['sda/11', 'umls/C0004098']	600:615	672:684	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	12	11	['sda/8', 'uniprot/9012500', 'umls/C0190346', 'uniprot/4500966']	['sda/7', 'sda/4', 'umls/C0001185', 'sda/5']	600:615	546:579	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	1	18	['sda/2', 'uniprot/9012500', 'uniprot/4500966']	['sda/3', 'umls/C0004665']	137:158	30:52	Computer	PA
+Drug-Disorder	False	relation	7	2	['uniprot/4500966', 'umls/C0190346', 'uniprot/9012500']	['umls/C0002507']	394:397	187:213	Computer,annotator5	PA
+Drug-Disorder	False	relation	7	3	['uniprot/4500966', 'umls/C0190346', 'uniprot/9012500']	['sda/3', 'sda/2']	394:397	215:218	annotator5	PA
+Drug-Disorder	False	relation	16	19	['sda/8', 'uniprot/9012500', 'umls/C0190346', 'uniprot/4500966']	['sda/6']	987:1002	1010:1013	annotator5	PA
+Drug-Disorder	False	relation	17	19	['sda/12', 'uniprot/8522148', 'uniprot/4500697']	['sda/6']	1083:1100	1010:1013	annotator5	PA

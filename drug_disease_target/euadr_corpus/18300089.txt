@@ -1,0 +1,41 @@
+Drug-Disorder	True	concept	adverse effects	34	49	annotator1,Computer,annotator5	['umls/C0105312']	0	Diseases & Disorders
+Drug-Disorder	True	concept	eye diseases	80	92	annotator1,annotator4,Computer,annotator5	['umls/C0001505']	1	Diseases & Disorders
+Drug-Disorder	False	concept		98	132	annotator5	['sda/1']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	Eye Diseases	137	149	annotator1,annotator4,Computer,annotator5	['umls/C0001505']	2	Diseases & Disorders
+Drug-Disorder	True	concept	immunosuppression	258	275	annotator1,annotator4,Computer,annotator5	['umls/C0126401']	3	Diseases & Disorders
+Drug-Disorder	False	concept		291	300	annotator5	['sda/3']	20	Diseases & Disorders
+Drug-Disorder	True	concept	malignancy	305	321	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0000617']	4	Diseases & Disorders
+Drug-Disorder	False	concept		369	403	annotator5	['sda/1']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	Eye Diseases	408	420	annotator1,annotator4,Computer,annotator5	['umls/C0001505']	5	Diseases & Disorders
+Drug-Disorder	False	concept		1151	1160	annotator5	['sda/3']	22	Diseases & Disorders
+Drug-Disorder	True	concept	antimetabolites	1229	1244	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/9']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	T-cell inhibitors	1246	1263	annotator1,annotator4,annotator5	['sda/4', 'sda/2', 'sda/8']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	alkylating agents	1265	1282	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	immunosuppressives	1294	1312	annotator1,annotator4,annotator5	['sda/6', 'sda/4', 'sda/10']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	ocular inflammation	1372	1391	annotator1,Computer,annotator5	['sda/7', 'umls/C0002255', 'sda/11']	10	Diseases & Disorders
+Drug-Disorder	False	concept		1447	1456	annotator5	['sda/3']	23	Diseases & Disorders
+Drug-Disorder	False	concept		1476	1485	annotator5	['sda/3']	24	Diseases & Disorders
+Drug-Disorder	False	concept		1696	1705	annotator5	['sda/3']	25	Diseases & Disorders
+Drug-Disorder	False	concept		1776	1785	annotator5	['sda/3']	26	Diseases & Disorders
+Drug-Disorder	True	concept	malignancy	1786	1802	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0000617']	11	Diseases & Disorders
+Drug-Disorder	True	concept	antimetabolites	1858	1873	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/9']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	T-cell inhibitors	1887	1904	annotator1,annotator4,annotator5	['sda/4', 'sda/2', 'sda/8']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	alkylating agents	1922	1939	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	immunosuppressive drugs	2029	2052	annotator1,annotator4,annotator5	['sda/8', 'sda/6', 'sda/13']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	ocular inflammation	2057	2076	annotator1,Computer,annotator5	['sda/7', 'umls/C0002255', 'sda/11']	16	Diseases & Disorders
+Drug-Disorder	False	concept		2099	2108	annotator5	['sda/3']	27	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	2113	2125	annotator1,annotator4,Computer,annotator5	['sda/9', 'umls/C0000617']	17	Diseases & Disorders
+Drug-Disorder	True	concept	diseases	2239	2247	annotator1,annotator4,Computer,annotator5	['umls/C0001185', 'sda/14']	18	Diseases & Disorders
+Drug-Disorder	False	relation	6	10	['sda/3', 'sda/1', 'sda/9']	['sda/7', 'umls/C0002255', 'sda/11']	1229:1244	1372:1391	annotator1,annotator5	PA
+Drug-Disorder	False	relation	7	10	['sda/4', 'sda/2', 'sda/8']	['sda/7', 'umls/C0002255', 'sda/11']	1246:1263	1372:1391	annotator1,annotator5	PA
+Drug-Disorder	False	relation	8	10	['sda/5', 'sda/3', 'sda/7']	['sda/7', 'umls/C0002255', 'sda/11']	1265:1282	1372:1391	annotator1,annotator5	PA
+Drug-Disorder	False	relation	9	10	['sda/6', 'sda/4', 'sda/10']	['sda/7', 'umls/C0002255', 'sda/11']	1294:1312	1372:1391	annotator1,annotator5	PA
+Drug-Disorder	True	relation	12	11	['sda/3', 'sda/1', 'sda/9']	['sda/2', 'umls/C0000617']	1858:1873	1786:1802	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	13	11	['sda/4', 'sda/2', 'sda/8']	['sda/2', 'umls/C0000617']	1887:1904	1786:1802	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	14	11	['sda/5', 'sda/3', 'sda/7']	['sda/2', 'umls/C0000617']	1922:1939	1786:1802	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	15	16	['sda/8', 'sda/6', 'sda/13']	['sda/7', 'umls/C0002255', 'sda/11']	2029:2052	2057:2076	annotator1,annotator5	SA
+Drug-Disorder	True	relation	15	17	['sda/8', 'sda/6', 'sda/13']	['sda/9', 'umls/C0000617']	2029:2052	2113:2125	annotator1,annotator4,annotator5	SA
+Drug-Disorder	False	relation	14	26	['sda/5', 'sda/3', 'sda/7']	['sda/3']	1922:1939	1776:1785	annotator5	PA
+Drug-Disorder	False	relation	13	26	['sda/4', 'sda/2', 'sda/8']	['sda/3']	1887:1904	1776:1785	annotator5	PA
+Drug-Disorder	False	relation	12	26	['sda/3', 'sda/1', 'sda/9']	['sda/3']	1858:1873	1776:1785	annotator5	PA
+Drug-Disorder	False	relation	15	27	['sda/8', 'sda/6', 'sda/13']	['sda/3']	2029:2052	2099:2108	annotator5	PA

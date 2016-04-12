@@ -1,0 +1,35 @@
+Target-Disorder	True	concept	hairy and enhancer of split homolog-1	37	74	annotator1,annotator2,annotator3	['sda/1', 'sda/4']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	breast cancer	94	107	annotator1,Computer,annotator2,annotator3	['umls/C0000571']	2	Diseases & Disorders
+Target-Disorder	True	concept	hairy and enhancer of split homologue-1	165	204	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	HES-1	206	211	annotator1,Computer,annotator2,annotator3	['uniprot/3003416']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept	estradiol	216	225	annotator1	['sda/8']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	breast cancer	285	298	annotator1,Computer,annotator2,annotator3	['umls/C0000571']	7	Diseases & Disorders
+Target-Disorder	False	concept		341	364	annotator3	['sda/1']	30	Genes & Molecular Sequences
+Target-Disorder	True	concept	HES-1	377	382	annotator1,Computer,annotator2,annotator3	['uniprot/3003416']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	HES-1	428	433	annotator1,Computer,annotator2,annotator3	['uniprot/3003416']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	retinoic acid	451	464	annotator2	['sda/1']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	estrogen receptor alpha	514	537	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3047906', 'sda/5', 'sda/10']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept	ER)alpha	538	546	annotator1,annotator3	['sda/5', 'sda/13']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	ERalpha	565	572	annotator1,Computer,annotator2,annotator3	['uniprot/3047906', 'sda/7']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	estrogen response element	602	627	annotator1,annotator2	['sda/6']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	ERE	629	632	annotator1,annotator2,annotator3	['sda/7', 'sda/9', 'sda/3']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	ERE	641	644	annotator1,annotator2,annotator3	['sda/7', 'sda/9', 'sda/4']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	ERalpha	678	685	annotator1,Computer,annotator2,annotator3	['uniprot/3047906', 'sda/7']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept		726	735	annotator1	['sda/9']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	ERalpha	777	784	annotator1,Computer,annotator2,annotator3	['uniprot/3047906', 'sda/7']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	ERE	805	808	annotator1,annotator2,annotator3	['sda/7', 'sda/9', 'sda/3']	20	Genes & Molecular Sequences
+Target-Disorder	True	concept	HES-1	833	838	annotator1,Computer,annotator2,annotator3	['uniprot/3003416']	21	Genes & Molecular Sequences
+Target-Disorder	False	concept		862	873	Computer	['umls/C0024256']	29	Diseases & Disorders
+Target-Disorder	True	concept	ERE	915	918	annotator1,annotator2,annotator3	['sda/7', 'sda/9', 'sda/3']	22	Genes & Molecular Sequences
+Target-Disorder	False	concept	estradiol	934	943	annotator1	['sda/8']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		971	978	annotator1	['sda/10']	24	Genes & Molecular Sequences
+Target-Disorder	False	concept		995	1012	annotator1	['sda/11']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	HES-1	1028	1033	annotator1,Computer,annotator2,annotator3	['uniprot/3003416']	26	Genes & Molecular Sequences
+Target-Disorder	False	concept	estrogen response element	1111	1136	annotator1,annotator2	['sda/6']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept	estrogen response element	1111	1136	annotator3	['sda/16']	27	Diseases & Disorders
+Target-Disorder	True	concept	HES-1	1168	1173	annotator1,Computer,annotator2,annotator3	['uniprot/3003416']	28	Genes & Molecular Sequences
+Target-Disorder	True	relation	4	7	['uniprot/3003416']	['umls/C0000571']	206:211	285:298	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	26	29	['uniprot/3003416']	['umls/C0024256']	1028:1033	862:873	Computer	PA
+Target-Disorder	False	relation	1	2	['sda/1', 'sda/4']	['umls/C0000571']	37:74	94:107	annotator2,annotator3	PA
+Target-Disorder	False	relation	3	7	['sda/2', 'sda/1']	['umls/C0000571']	165:204	285:298	annotator2,annotator3	PA
+Target-Disorder	False	relation	28	27	['uniprot/3003416']	['sda/6', 'sda/16']	1168:1173	1111:1136	annotator3	PA

@@ -1,0 +1,13 @@
+Drug-Disorder	True	concept	Malignant fibrous histiocytoma	0	30	annotator1,annotator4,Computer,annotator5	['umls/C0030211']	0	Diseases & Disorders
+Drug-Disorder	False	concept		59	70	Computer	['umls/C0000282']	5	Diseases & Disorders
+Drug-Disorder	True	concept	malignant tumors	502	518	annotator1,annotator4,Computer,annotator5	['umls/C0000617']	1	Diseases & Disorders
+Drug-Disorder	False	concept		535	556	annotator5	['sda/2']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	sarcoma	606	626	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0110780']	2	Diseases & Disorders
+Drug-Disorder	False	concept		663	682	annotator5	['sda/3']	8	Chemicals & Drugs
+Drug-Disorder	False	concept		713	724	Computer	['umls/C0000282']	6	Diseases & Disorders
+Drug-Disorder	False	concept		870	887	annotator5	['sda/4']	9	Chemicals & Drugs
+Drug-Disorder	False	concept		895	912	annotator5	['sda/4']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	osteo-muscular-articular disorders	947	981	annotator1,Computer,annotator5	['sda/4', 'umls/C0001185', 'sda/5']	4	Diseases & Disorders
+Drug-Disorder	False	relation	7	1	['sda/2']	['umls/C0000617']	535:556	502:518	annotator5	PA
+Drug-Disorder	False	relation	8	2	['sda/3']	['sda/3', 'umls/C0110780']	663:682	606:626	annotator5	PA
+Drug-Disorder	False	relation	10	4	['sda/4']	['sda/4', 'umls/C0001185', 'sda/5']	895:912	947:981	annotator5	PA

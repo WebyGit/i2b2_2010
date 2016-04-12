@@ -1,0 +1,42 @@
+Target-Disorder	True	concept	Malic enzyme 2	0	14	annotator1,Computer,annotator2,annotator3	['uniprot/3037615']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	psychosis	37	46	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0140745', 'sda/2']	1	Diseases & Disorders
+Target-Disorder	True	concept	mania	51	56	annotator1,annotator2,annotator3	['sda/2', 'sda/3', 'umls/C0140745']	2	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	122	135	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	3	Diseases & Disorders
+Target-Disorder	True	concept	bipolar disorder	140	156	annotator1,Computer,annotator2,annotator2,annotator3	['umls/C0000499', 'umls/C0000839', 'sda/9']	4	Diseases & Disorders
+Target-Disorder	False	concept	18q21	175	180	annotator1,annotator3	['sda/4', 'sda/3']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	18q21	175	180	annotator2	['sda/4']	5	SNP & Sequence variations
+Target-Disorder	False	concept		239	248	Computer	['umls/C0001185']	24	Diseases & Disorders
+Target-Disorder	True	concept	psychosis	419	428	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0003732', 'sda/2']	6	Diseases & Disorders
+Target-Disorder	True	concept	mania	451	456	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0030774', 'sda/3']	7	Diseases & Disorders
+Target-Disorder	True	concept	malic enzyme 2	684	698	annotator1,Computer,annotator2,annotator3	['uniprot/3037615']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	ME2	700	703	annotator1,Computer,annotator2,annotator3	['uniprot/3037615']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		757	765	Computer	['umls/C0090185']	25	Diseases & Disorders
+Target-Disorder	False	concept	bipolar	800	814	annotator1,annotator3	['sda/5', 'sda/7']	10	Diseases & Disorders
+Target-Disorder	True	concept	ME2	897	900	annotator1,Computer,annotator2,annotator3	['uniprot/3037615']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	psychosis	974	983	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0003732', 'sda/2']	12	Diseases & Disorders
+Target-Disorder	True	concept	ME2	1004	1007	annotator1,Computer,annotator2,annotator3	['uniprot/3037615']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept		1036	1042	annotator1	['sda/8']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	schizophrenia	1097	1110	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	15	Diseases & Disorders
+Target-Disorder	True	concept	bipolar disorder	1115	1131	annotator1,Computer,annotator2,annotator3	['umls/C0000499', 'sda/9']	16	Diseases & Disorders
+Target-Disorder	False	concept		1172	1181	annotator1	['sda/6']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	gamma-amino butyric acid	1186	1210	annotator1	['sda/7']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	ME2	1277	1280	annotator1,Computer,annotator2,annotator3	['uniprot/3037615']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	psychotic	1310	1319	annotator1,Computer,annotator2,annotator3	['umls/C0003732']	20	Diseases & Disorders
+Target-Disorder	True	concept	manic disorders	1324	1339	annotator1,Computer,annotator2,annotator3	['umls/C0002703']	21	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	1351	1364	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	22	Diseases & Disorders
+Target-Disorder	True	concept	bipolar disorder	1369	1385	annotator1,Computer,annotator2,annotator3	['umls/C0000499', 'sda/9']	23	Diseases & Disorders
+Target-Disorder	True	relation	5	3	['sda/4', 'sda/3']	['umls/C0003961']	175:180	122:135	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	5	4	['sda/4', 'sda/3']	['umls/C0000499', 'umls/C0000839', 'sda/9']	175:180	140:156	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	9	10	['uniprot/3037615']	['sda/5', 'sda/7']	700:703	800:814	annotator1,annotator3	PA
+Target-Disorder	True	relation	11	12	['uniprot/3037615']	['sda/1', 'umls/C0003732', 'sda/2']	897:900	974:983	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	14	15	['sda/8']	['umls/C0003961']	1036:1042	1097:1110	annotator1	PA
+Target-Disorder	False	relation	14	16	['sda/8']	['umls/C0000499', 'sda/9']	1036:1042	1115:1131	annotator1	PA
+Target-Disorder	True	relation	19	22	['uniprot/3037615']	['umls/C0003961']	1277:1280	1351:1364	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	23	['uniprot/3037615']	['umls/C0000499', 'sda/9']	1277:1280	1369:1385	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	20	['uniprot/3037615']	['umls/C0003732']	1277:1280	1310:1319	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	21	['uniprot/3037615']	['umls/C0002703']	1277:1280	1324:1339	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	0	1	['uniprot/3037615']	['sda/1', 'umls/C0140745', 'sda/2']	0:14	37:46	Computer,annotator2	PA
+Target-Disorder	False	relation	9	25	['uniprot/3037615']	['umls/C0090185']	700:703	757:765	Computer	PA
+Target-Disorder	True	relation	13	15	['uniprot/3037615']	['umls/C0003961']	1004:1007	1097:1110	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	13	16	['uniprot/3037615']	['umls/C0000499', 'sda/9']	1004:1007	1115:1131	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	0	2	['uniprot/3037615']	['sda/2', 'sda/3', 'umls/C0140745']	0:14	51:56	annotator2	SA

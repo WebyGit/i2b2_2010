@@ -1,0 +1,16 @@
+Drug-Disorder	True	concept	BK virus infection	78	96	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0004665', 'sda/2']	0	Diseases & Disorders
+Drug-Disorder	False	concept		98	126	annotator5	['sda/3']	11	Diseases & Disorders
+Drug-Disorder	True	concept	nephropathy	182	193	annotator1,annotator4,Computer,annotator5	['umls/C0002388']	1	Diseases & Disorders
+Drug-Disorder	True	concept	graft dysfunction	211	228	annotator1,annotator4,Computer,annotator5	['umls/C0110060']	2	Diseases & Disorders
+Drug-Disorder	False	concept		299	302	annotator5	['sda/7']	12	Diseases & Disorders
+Drug-Disorder	True	concept	infection	357	374	annotator1,Computer,annotator5	['sda/2', 'umls/C0002244']	3	Diseases & Disorders
+Drug-Disorder	False	concept		407	419	Computer	['umls/C0082204']	9	Diseases & Disorders
+Drug-Disorder	True	concept	systemic lupus erythematosus	423	451	annotator1,annotator4,Computer,annotator5	['umls/C0002625']	4	Diseases & Disorders
+Drug-Disorder	False	concept		715	718	annotator5	['sda/7']	13	Diseases & Disorders
+Drug-Disorder	True	concept	HCMV infection	794	808	annotator1,Computer,annotator5	['sda/3', 'umls/C0002244', 'sda/6']	5	Diseases & Disorders
+Drug-Disorder	False	concept	viremia	964	974	annotator1,Computer	['sda/4', 'umls/C0004663']	6	Diseases & Disorders
+Drug-Disorder	False	concept		1411	1414	annotator5	['sda/7']	14	Diseases & Disorders
+Drug-Disorder	False	concept		1605	1624	Computer	['umls/C0000423']	10	Diseases & Disorders
+Drug-Disorder	False	concept	infectious	1697	1707	annotator4	['umls/C0000919']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	infectious	1697	1707	Computer	['umls/C0000919']	7	Diseases & Disorders
+Drug-Disorder	False	concept		1708	1714	annotator4	['sda/3']	8	Chemicals & Drugs

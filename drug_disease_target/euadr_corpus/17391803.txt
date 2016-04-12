@@ -1,0 +1,13 @@
+Drug-Disorder	True	concept	docetaxel	45	54	annotator1,annotator4,Computer,annotator5	['uniprot/4500681', 'uniprot/6324836']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	non-small-cell lung cancer	59	100	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0079715']	1	Diseases & Disorders
+Drug-Disorder	False	concept		157	180	Computer	['umls/C0164177']	8	Diseases & Disorders
+Drug-Disorder	True	concept	docetaxel	297	306	annotator1,annotator4,Computer,annotator5	['uniprot/4500681', 'uniprot/6324836']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	non-small-cell lung cancer	350	391	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0079715']	3	Diseases & Disorders
+Drug-Disorder	False	concept	disorders	470	488	annotator1,Computer	['sda/2', 'umls/C0001185']	4	Diseases & Disorders
+Drug-Disorder	True	concept	docetaxel	645	654	annotator1,annotator4,Computer,annotator5	['uniprot/4500681', 'uniprot/6324836']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	fatigue	904	911	annotator1,Computer,annotator5	['umls/C0001553']	6	Diseases & Disorders
+Drug-Disorder	True	concept	docetaxel	1166	1175	annotator1,annotator4,Computer,annotator5	['uniprot/4500681', 'uniprot/6324836']	7	Chemicals & Drugs
+Drug-Disorder	True	relation	0	1	['uniprot/4500681', 'uniprot/6324836']	['sda/1', 'umls/C0079715']	45:54	59:100	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	0	8	['uniprot/4500681', 'uniprot/6324836']	['umls/C0164177']	45:54	157:180	Computer	PA
+Drug-Disorder	False	relation	2	3	['uniprot/4500681', 'uniprot/6324836']	['sda/1', 'umls/C0079715']	297:306	350:391	Computer	PA
+Drug-Disorder	False	relation	2	4	['uniprot/4500681', 'uniprot/6324836']	['sda/2', 'umls/C0001185']	297:306	470:488	Computer	PA

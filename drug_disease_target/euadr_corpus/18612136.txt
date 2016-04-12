@@ -1,0 +1,16 @@
+Target-Disorder	True	concept	breast cancer	82	95	annotator1,Computer,annotator2,annotator3	['umls/C0000571', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	False	concept		166	173	Computer	['umls/C0001185']	13	Diseases & Disorders
+Target-Disorder	False	concept		237	244	Computer	['umls/C0001185']	14	Diseases & Disorders
+Target-Disorder	True	concept	breast cancer	416	429	annotator1,Computer,annotator2,annotator3	['umls/C0000571', 'sda/1']	1	Diseases & Disorders
+Target-Disorder	True	concept	FGFR2	492	497	annotator1,Computer,annotator2,annotator3	['uniprot/3022566']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	TNRC9	499	504	annotator1,Computer,annotator2,annotator3	['uniprot/3018257']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	TOX3	519	523	annotator1,annotator2,annotator3	['sda/1', 'sda/4']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	MAP3K1	526	532	annotator1,Computer,annotator2,annotator3	['uniprot/3008056']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	LSP1	534	538	annotator1,Computer,annotator2,annotator3	['uniprot/3001750']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	CASP8	540	545	annotator1,Computer,annotator2,annotator3	['uniprot/3007657']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	8q	566	568	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	2q35	593	597	annotator1,annotator2,annotator3	['sda/3']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	Cancer	986	992	annotator1,Computer	['umls/C0000617']	10	Diseases & Disorders
+Target-Disorder	True	concept	Breast Cancer	1005	1018	annotator1,Computer,annotator2,annotator3	['umls/C0000571', 'sda/1']	11	Diseases & Disorders
+Target-Disorder	False	concept		1126	1139	annotator3	['sda/1']	15	Diseases & Disorders
+Target-Disorder	True	concept	breast cancer	1637	1650	annotator1,Computer,annotator2,annotator3	['umls/C0000571', 'sda/1']	12	Diseases & Disorders

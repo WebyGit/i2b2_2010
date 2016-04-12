@@ -1,0 +1,47 @@
+Target-Disorder	True	concept	Chronic rhinosinusitis with nasal polyps	0	40	annotator1,Computer,Computer,annotator2,annotator3	['sda/1', 'umls/C0005131', 'umls/C0002964', 'sda/2']	0	Diseases & Disorders
+Target-Disorder	True	concept	interleukin 22 receptor	92	115	annotator1,Computer,annotator2,annotator3	['uniprot/3010943']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	Chronic rhinosinusitis with nasal polyps	131	171	annotator1,Computer,Computer,annotator2,annotator3	['sda/1', 'umls/C0005131', 'umls/C0002964', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	True	concept	CRSwNP	173	179	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	3	Diseases & Disorders
+Target-Disorder	False	concept	inflammatory disorder	187	208	annotator1,Computer	['umls/C0118294']	4	Diseases & Disorders
+Target-Disorder	False	concept	microbial colonization	268	290	Computer,annotator2	['umls/C0078928']	30	Diseases & Disorders
+Target-Disorder	False	concept		434	438	annotator1	['sda/4']	5	Diseases & Disorders
+Target-Disorder	False	concept	inflammatory diseases	443	487	annotator1,Computer	['sda/3', 'umls/C0118294']	6	Diseases & Disorders
+Target-Disorder	True	concept	interleukin-22 receptor	523	546	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/3009669', 'uniprot/3010943', 'sda/4']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL-22R1	548	555	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept		583	606	Computer	['umls/C0109900']	31	Diseases & Disorders
+Target-Disorder	True	concept	IL-22R1	630	637	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		645	657	Computer	['umls/C0082204']	32	Diseases & Disorders
+Target-Disorder	True	concept	CRSwNP	661	667	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	10	Diseases & Disorders
+Target-Disorder	True	concept	CRS	764	767	annotator1,annotator1,Computer,annotator2,annotator3	['uniprot/2003760', 'umls/C0001005', 'sda/1']	11	Diseases & Disorders
+Target-Disorder	False	concept	CRS	764	767	Computer,annotator3	['uniprot/2003760']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept		827	832	Computer	['umls/C0001608']	33	Diseases & Disorders
+Target-Disorder	True	concept	IL-22R1	923	930	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL22	1114	1118	annotator1,Computer,annotator2,annotator3	['uniprot/3009669']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL-22R1	1123	1130	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	polyps	1234	1240	annotator1,Computer,annotator2,annotator3	['umls/C0003586']	15	Diseases & Disorders
+Target-Disorder	True	concept	IL-22R1	1297	1304	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL-22R1	1364	1371	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRSsNP	1419	1425	annotator1,annotator2,annotator3	['sda/7', 'sda/6']	18	Diseases & Disorders
+Target-Disorder	True	concept	IL-22R1	1436	1443	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRSwNP	1487	1506	annotator1,annotator2,annotator3	['sda/11', 'sda/2', 'sda/3']	20	Diseases & Disorders
+Target-Disorder	True	concept	IL22R1	1532	1538	annotator1,annotator2,annotator3	['sda/8', 'sda/7']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRSwNP	1567	1586	annotator1,annotator2,annotator3	['sda/11', 'sda/2', 'sda/3']	22	Diseases & Disorders
+Target-Disorder	True	concept	CRSsNP	1612	1618	annotator1,annotator2,annotator3	['sda/7', 'sda/6']	23	Diseases & Disorders
+Target-Disorder	True	concept	IL22	1620	1624	annotator1,Computer,annotator2,annotator3	['uniprot/3009669']	24	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL-22R1	1715	1722	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRSwNP	1821	1827	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	26	Diseases & Disorders
+Target-Disorder	True	concept	IL-22R1	1885	1892	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	27	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL-22R1	1951	1958	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	28	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRSwNP	1986	1992	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	29	Diseases & Disorders
+Target-Disorder	True	relation	1	0	['uniprot/3010943']	['sda/1', 'umls/C0005131', 'umls/C0002964', 'sda/2']	92:115	0:40	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	17	18	['sda/6', 'sda/5']	['sda/7', 'sda/6']	1364:1371	1419:1425	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	20	['sda/6', 'sda/5']	['sda/11', 'sda/2', 'sda/3']	1436:1443	1487:1506	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	21	22	['sda/8', 'sda/7']	['sda/11', 'sda/2', 'sda/3']	1532:1538	1567:1586	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	27	26	['sda/6', 'sda/5']	['sda/2', 'sda/3']	1885:1892	1821:1827	annotator1,annotator2,annotator3	SA
+Target-Disorder	True	relation	28	29	['sda/6', 'sda/5']	['sda/2', 'sda/3']	1951:1958	1986:1992	annotator1,annotator2,annotator3	SA
+Target-Disorder	False	relation	7	6	['sda/5', 'uniprot/3009669', 'uniprot/3010943', 'sda/4']	['sda/3', 'umls/C0118294']	523:546	443:487	Computer	PA
+Target-Disorder	False	relation	7	31	['sda/5', 'uniprot/3009669', 'uniprot/3010943', 'sda/4']	['umls/C0109900']	523:546	583:606	Computer	PA
+Target-Disorder	False	relation	11	33	['uniprot/2003760', 'umls/C0001005', 'sda/1']	['umls/C0001608']	764:767	827:832	Computer	PA
+Target-Disorder	False	relation	9	10	['sda/6', 'sda/5']	['sda/2', 'sda/3']	630:637	661:667	annotator2	SA
+Target-Disorder	False	relation	21	23	['sda/8', 'sda/7']	['sda/7', 'sda/6']	1532:1538	1612:1618	annotator2	PA
+Target-Disorder	False	relation	21	23	['sda/8', 'sda/7']	['sda/7', 'sda/6']	1532:1538	1612:1618	annotator3	NA

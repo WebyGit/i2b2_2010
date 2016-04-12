@@ -1,0 +1,30 @@
+Drug-Disorder	True	concept	Spontaneous abortions	0	21	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0000018']	0	Diseases & Disorders
+Drug-Disorder	False	concept	ionizing radiation	70	88	annotator4,annotator5	['sda/1']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	radioisotopes halogen elements	113	157	annotator1,annotator4,annotator5,annotator5	['sda/2', 'sda/4', 'sda/8']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	spontaneous abortions	198	219	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0000018']	2	Diseases & Disorders
+Drug-Disorder	False	concept		268	274	annotator5	['sda/6']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	radioisotopes	288	301	annotator1,annotator4,annotator5	['sda/1', 'sda/4', 'sda/8']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	miscarriage	417	428	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0000018']	4	Diseases & Disorders
+Drug-Disorder	True	concept	miscarriages	489	501	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0000018']	5	Diseases & Disorders
+Drug-Disorder	True	concept	radioisotopes	525	538	annotator1,annotator4,annotator5	['sda/1', 'sda/4', 'sda/8']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		576	581	annotator5	['sda/9']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	Chromosomal aberrations	597	620	annotator4,Computer,annotator5	['umls/C0000838']	13	Diseases & Disorders
+Drug-Disorder	False	concept		622	624	annotator5	['sda/10']	16	Diseases & Disorders
+Drug-Disorder	True	concept	radioisotopes	728	741	annotator1,annotator4,annotator5	['sda/1', 'sda/4', 'sda/8']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	spontaneous abortions	790	811	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0000018']	8	Diseases & Disorders
+Drug-Disorder	False	concept		834	839	annotator5	['sda/9']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		892	897	annotator5	['sda/9']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	radioisotopes	902	915	annotator1,annotator4,annotator5	['sda/1', 'sda/4', 'sda/8']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	radioisotopes	1208	1221	annotator1,annotator4,annotator5	['sda/1', 'sda/4', 'sda/8']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	spontaneous abortions	1278	1299	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0000018']	11	Diseases & Disorders
+Drug-Disorder	False	concept		1305	1311	annotator5	['sda/6']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		1371	1373	annotator5	['sda/10']	20	Diseases & Disorders
+Drug-Disorder	False	relation	1	2	['sda/2', 'sda/4', 'sda/8']	['sda/6', 'umls/C0000018']	113:157	198:219	annotator1,annotator5	SA
+Drug-Disorder	False	relation	7	8	['sda/1', 'sda/4', 'sda/8']	['sda/6', 'umls/C0000018']	728:741	790:811	annotator1,annotator5	PA
+Drug-Disorder	True	relation	10	11	['sda/1', 'sda/4', 'sda/8']	['sda/6', 'umls/C0000018']	1208:1221	1278:1299	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	14	4	['sda/6']	['sda/3', 'umls/C0000018']	268:274	417:428	annotator5	PA
+Drug-Disorder	False	relation	3	4	['sda/1', 'sda/4', 'sda/8']	['sda/3', 'umls/C0000018']	288:301	417:428	annotator5	PA
+Drug-Disorder	False	relation	6	5	['sda/1', 'sda/4', 'sda/8']	['sda/4', 'umls/C0000018']	525:538	489:501	annotator5	PA
+Drug-Disorder	False	relation	15	5	['sda/9']	['sda/4', 'umls/C0000018']	576:581	489:501	annotator5	PA
+Drug-Disorder	False	relation	17	8	['sda/9']	['sda/6', 'umls/C0000018']	834:839	790:811	annotator5	PA
+Drug-Disorder	False	relation	19	11	['sda/6']	['sda/6', 'umls/C0000018']	1305:1311	1278:1299	annotator5	PA

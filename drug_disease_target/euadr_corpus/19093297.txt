@@ -1,0 +1,39 @@
+Target-Disorder	True	concept	rheumatoid arthritis	107	127	annotator1,Computer,annotator2,annotator3	['umls/C0000370']	1	Diseases & Disorders
+Target-Disorder	False	concept	MTX	177	180	annotator2,annotator3	['uniprot/3037623']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	rheumatoid arthritis	208	228	annotator1,Computer,annotator2,annotator3	['umls/C0000370']	4	Diseases & Disorders
+Target-Disorder	True	concept	RA	230	232	annotator1,annotator2,annotator3	['sda/1', 'sda/3']	5	Diseases & Disorders
+Target-Disorder	False	concept	MTX	310	313	annotator2,annotator3	['uniprot/3037623']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	MTX receptor	402	414	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/1']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept		441	496	annotator3	['sda/2']	31	Genes & Molecular Sequences
+Target-Disorder	True	concept	RFC	576	579	annotator1,Computer,annotator2,annotator3	['uniprot/3002187', 'sda/4']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	FOLR1	581	586	annotator1,Computer,annotator2,annotator3	['uniprot/3007322', 'sda/5']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	FPGS	588	592	annotator1,Computer,annotator2,annotator3	['uniprot/3006997', 'sda/6']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	GGH	594	597	annotator1,Computer,annotator2,annotator3	['uniprot/3002881']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	MDR1	602	606	annotator1,Computer,annotator2,annotator3	['uniprot/2120633']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept	MTX	616	619	annotator2	['uniprot/3037623']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	MTX	616	619	annotator3	['sda/1']	13	Diseases & Disorders
+Target-Disorder	False	concept	RA	632	634	annotator1,annotator2	['sda/1', 'sda/3']	14	Diseases & Disorders
+Target-Disorder	True	concept	RA	671	673	annotator1,annotator2,annotator3	['sda/1', 'sda/3']	15	Diseases & Disorders
+Target-Disorder	False	concept	MTX	792	795	annotator2,annotator3	['uniprot/3037623']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept		806	813	Computer	['umls/C0001185']	28	Diseases & Disorders
+Target-Disorder	False	concept	MTX	927	930	annotator2	['uniprot/3037623']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	MTX	927	930	annotator3	['sda/3']	17	Diseases & Disorders
+Target-Disorder	False	concept		968	978	Computer	['umls/C0079724']	29	Diseases & Disorders
+Target-Disorder	True	concept	Ala324Ala	1120	1129	annotator1,annotator2,annotator3	['sda/3', 'sda/10', 'sda/8']	18	SNP & Sequence variations
+Target-Disorder	False	concept	972 G > A	1131	1140	annotator1,annotator3	['sda/4', 'sda/9']	19	SNP & Sequence variations
+Target-Disorder	True	concept	RFC	1160	1163	annotator1,Computer,annotator2,annotator3	['uniprot/3002187', 'sda/4']	20	Genes & Molecular Sequences
+Target-Disorder	False	concept	CT	1174	1176	annotator1	['sda/5']	21	SNP & Sequence variations
+Target-Disorder	True	concept	C3435T	1189	1195	annotator1,annotator2,annotator3	['sda/6', 'sda/11', 'sda/5']	22	SNP & Sequence variations
+Target-Disorder	True	concept	MDR1	1199	1203	annotator1,Computer,annotator2,annotator3	['uniprot/2120633']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		1377	1387	Computer	['umls/C0079724']	30	Diseases & Disorders
+Target-Disorder	True	concept	GGH	1516	1519	annotator1,Computer,annotator2,annotator3	['uniprot/3002881']	24	Genes & Molecular Sequences
+Target-Disorder	True	concept	MDR1	1524	1528	annotator1,Computer,annotator2,annotator3	['uniprot/2120633']	25	Genes & Molecular Sequences
+Target-Disorder	False	concept	MTX	1669	1672	annotator2	['uniprot/3037623']	26	Genes & Molecular Sequences
+Target-Disorder	False	concept	MTX	1669	1672	annotator3	['sda/1']	26	Diseases & Disorders
+Target-Disorder	False	concept	RA	1685	1687	annotator1,annotator2	['sda/1', 'sda/3']	27	Diseases & Disorders
+Target-Disorder	False	relation	23	30	['uniprot/2120633']	['umls/C0079724']	1199:1203	1377:1387	Computer	PA
+Target-Disorder	False	relation	8	14	['uniprot/3002187', 'sda/4']	['sda/1', 'sda/3']	576:579	632:634	annotator2	SA
+Target-Disorder	False	relation	9	14	['uniprot/3007322', 'sda/5']	['sda/1', 'sda/3']	581:586	632:634	annotator2	SA
+Target-Disorder	False	relation	10	14	['uniprot/3006997', 'sda/6']	['sda/1', 'sda/3']	588:592	632:634	annotator2	SA
+Target-Disorder	False	relation	11	14	['uniprot/3002881']	['sda/1', 'sda/3']	594:597	632:634	annotator2	SA
+Target-Disorder	False	relation	12	14	['uniprot/2120633']	['sda/1', 'sda/3']	602:606	632:634	annotator2	SA

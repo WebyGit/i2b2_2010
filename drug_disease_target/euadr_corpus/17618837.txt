@@ -1,0 +1,36 @@
+Target-Disorder	True	concept	interleukin-23 receptor	31	54	annotator1,Computer,annotator2,annotator3	['uniprot/3016930']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	pediatric Crohn's disease	83	108	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0001011']	1	Diseases & Disorders
+Target-Disorder	True	concept	rs11209026	213	223	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	2	SNP & Sequence variations
+Target-Disorder	True	concept	interleukin-23 receptor	236	259	annotator1,Computer,annotator2,annotator3	['uniprot/3016930']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	IL23R	261	266	annotator1,Computer,annotator2,annotator3	['uniprot/3016930']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	Crohn's disease	278	293	annotator1,Computer,annotator2,annotator3	['umls/C0001011']	5	Diseases & Disorders
+Target-Disorder	True	concept	CD	295	297	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	6	Diseases & Disorders
+Target-Disorder	False	concept		359	366	Computer	['umls/C0001185']	19	Diseases & Disorders
+Target-Disorder	True	concept	CD	475	477	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	7	Diseases & Disorders
+Target-Disorder	True	concept	CD	592	594	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	8	Diseases & Disorders
+Target-Disorder	True	concept	IL23R	701	706	annotator1,Computer,annotator2,annotator3	['uniprot/3016930']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		745	752	Computer	['umls/C0001185']	20	Diseases & Disorders
+Target-Disorder	False	concept		799	804	Computer	['umls/C0148209']	21	Diseases & Disorders
+Target-Disorder	True	concept	rs11209026	825	835	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	10	SNP & Sequence variations
+Target-Disorder	True	concept	rs11209026	1061	1071	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	11	SNP & Sequence variations
+Target-Disorder	True	concept	rs11209026	1303	1313	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	12	SNP & Sequence variations
+Target-Disorder	False	concept		1319	1331	Computer	['umls/C0016737']	22	Diseases & Disorders
+Target-Disorder	False	concept	caspase-recruitment domain 15	1421	1450	annotator1,annotator2	['sda/6', 'sda/3']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	inflammatory bowel disease	1464	1490	annotator1,Computer,annotator2,annotator3	['umls/C0002270']	14	Diseases & Disorders
+Target-Disorder	False	concept	IL23R	1529	1542	annotator1	['sda/9']	15	SNP & Sequence variations
+Target-Disorder	True	concept	IL23R	1529	1542	Computer,annotator2,annotator3	['uniprot/3016930']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	inflammatory bowel disease	1639	1665	annotator1,Computer,annotator2,annotator3	['umls/C0002270', 'sda/3']	16	Diseases & Disorders
+Target-Disorder	False	concept	IL23R	1707	1728	annotator1	['sda/10']	17	SNP & Sequence variations
+Target-Disorder	True	concept	IL23R	1707	1728	Computer,annotator2,annotator3	['uniprot/3016930']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	CD	1772	1774	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	18	Diseases & Disorders
+Target-Disorder	True	relation	2	5	['sda/2', 'sda/1']	['umls/C0001011']	213:223	278:293	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	2	6	['sda/2', 'sda/1']	['sda/3', 'sda/2', 'sda/1']	213:223	295:297	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	9	8	['uniprot/3016930']	['sda/3', 'sda/2', 'sda/1']	701:706	592:594	annotator1,annotator2	PA
+Target-Disorder	False	relation	13	14	['sda/6', 'sda/3']	['umls/C0002270']	1421:1450	1464:1490	annotator1,annotator2	NA
+Target-Disorder	True	relation	17	18	['sda/10', 'uniprot/3016930']	['sda/3', 'sda/2', 'sda/1']	1707:1728	1772:1774	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	0	1	['uniprot/3016930']	['sda/1', 'umls/C0001011']	31:54	83:108	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	4	5	['uniprot/3016930']	['umls/C0001011']	261:266	278:293	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	4	19	['uniprot/3016930']	['umls/C0001185']	261:266	359:366	Computer	PA
+Target-Disorder	False	relation	9	20	['uniprot/3016930']	['umls/C0001185']	701:706	745:752	Computer	PA
+Target-Disorder	True	relation	15	16	['sda/9', 'uniprot/3016930']	['umls/C0002270', 'sda/3']	1529:1542	1639:1665	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	4	6	['uniprot/3016930']	['sda/3', 'sda/2', 'sda/1']	261:266	295:297	annotator2,annotator3	PA

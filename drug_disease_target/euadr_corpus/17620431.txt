@@ -1,0 +1,31 @@
+Target-Drug	True	concept	pazopanib	69	78	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	multikinase angiogenesis inhibitor	82	116	annotator1,annotator3	['sda/3', 'sda/2']	1	Chemicals & Drugs
+Target-Drug	True	concept	vascular endothelial growth factor	450	484	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/7']	2	Genes & Molecular Sequences
+Target-Drug	True	concept		486	501	annotator1,Computer,annotator2	['sda/4', 'uniprot/3002534']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	VEGFR	503	508	annotator1,Computer,annotator2,annotator3	['uniprot/4000091']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	platelet-derived growth factor receptor	511	550	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/3']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	c-Kit tyrosine kinases	556	578	annotator1,annotator2,annotator3	['sda/6', 'uniprot/3000187', 'sda/4']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	pazopanib	580	589	annotator1,annotator2,annotator3	['sda/1']	7	Chemicals & Drugs
+Target-Drug	True	concept	GW786034	591	599	annotator1,annotator2,annotator3	['sda/7', 'sda/4', 'sda/6']	8	Chemicals & Drugs
+Target-Drug	True	concept	VEGF	629	633	annotator1,Computer,annotator2,annotator3	['uniprot/3002534']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	VEGFR	906	921	annotator1	['sda/8']	11	Chemicals & Drugs
+Target-Drug	True	concept	VEGFR	906	921	Computer,annotator2,annotator3	['uniprot/4000091']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	GW771806	956	964	annotator1,annotator2,annotator3	['sda/9', 'sda/5']	13	Chemicals & Drugs
+Target-Drug	True	concept	GW786034	1016	1024	annotator1,annotator2,annotator3	['sda/7', 'sda/4', 'sda/6']	14	Chemicals & Drugs
+Target-Drug	False	concept	VEGFR	1291	1307	annotator1	['sda/10']	15	Chemicals & Drugs
+Target-Drug	True	concept	VEGFR	1291	1307	Computer,annotator2,annotator3	['uniprot/4000091']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	VEGF	1512	1516	annotator1,Computer,annotator2,annotator3	['uniprot/3002534']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	VEGFR2	1525	1531	annotator1,Computer,annotator2,annotator3	['uniprot/4000091']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	pazopanib	1611	1620	annotator1,annotator2,annotator3	['sda/1']	18	Chemicals & Drugs
+Target-Drug	False	relation	7	9	['sda/1']	['uniprot/3002534']	580:589	629:633	annotator1,annotator3	PA
+Target-Drug	True	relation	7	4	['sda/1']	['uniprot/4000091']	580:589	503:508	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	7	3	['sda/1']	['sda/4', 'uniprot/3002534']	580:589	486:501	annotator1,annotator2	PA
+Target-Drug	True	relation	7	5	['sda/1']	['sda/5', 'sda/2', 'sda/3']	580:589	511:550	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	7	6	['sda/1']	['sda/6', 'uniprot/3000187', 'sda/4']	580:589	556:578	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	8	9	['sda/7', 'sda/4', 'sda/6']	['uniprot/3002534']	591:599	629:633	annotator1,annotator3	PA
+Target-Drug	True	relation	8	4	['sda/7', 'sda/4', 'sda/6']	['uniprot/4000091']	591:599	503:508	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	8	3	['sda/7', 'sda/4', 'sda/6']	['sda/4', 'uniprot/3002534']	591:599	486:501	annotator1,annotator2	PA
+Target-Drug	True	relation	8	5	['sda/7', 'sda/4', 'sda/6']	['sda/5', 'sda/2', 'sda/3']	591:599	511:550	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	8	6	['sda/7', 'sda/4', 'sda/6']	['sda/6', 'uniprot/3000187', 'sda/4']	591:599	556:578	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	7	2	['sda/1']	['uniprot/3002534', 'sda/7']	580:589	450:484	annotator3	PA
+Target-Drug	False	relation	8	2	['sda/7', 'sda/4', 'sda/6']	['uniprot/3002534', 'sda/7']	591:599	450:484	annotator3	PA

@@ -1,0 +1,33 @@
+Drug-Disorder	True	concept	Cardiovascular thromboembolic adverse effects	0	45	annotator1,annotator4,annotator4,Computer,annotator5	['sda/22', 'sda/1', 'umls/C0105312']	0	Diseases & Disorders
+Drug-Disorder	True	concept		62	76	annotator1,annotator4,annotator5	['sda/9', 'sda/2']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	nonselective antiinflammatory drugs	104	139	annotator1,annotator4,annotator5	['sda/3']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	cardiovascular	175	189	annotator1,annotator5	['sda/4', 'sda/5']	3	Diseases & Disorders
+Drug-Disorder	True	concept	adverse effects	191	225	annotator1,annotator4,Computer	['sda/5', 'umls/C0105312']	4	Diseases & Disorders
+Drug-Disorder	True	concept	nonsteroidal antiinflammatory drugs	231	266	annotator1,annotator4,annotator5	['sda/6', 'sda/4']	5	Chemicals & Drugs
+Drug-Disorder	False	concept	NSAIDs	268	274	annotator1,annotator5	['sda/7']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	[NS]-NSAIDs	294	305	annotator1,annotator5	['sda/8']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	cyclooxygenase	310	324	annotator1,annotator5	['sda/9']	8	Chemicals & Drugs
+Drug-Disorder	False	concept		325	353	annotator1	['sda/10']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	CV adverse effects	577	595	annotator1,annotator4,Computer,annotator5	['sda/11', 'umls/C0105312']	10	Diseases & Disorders
+Drug-Disorder	True	concept	COX-2 selective inhibitors	644	670	annotator1,annotator4,annotator5	['sda/12', 'sda/7']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	NS-NSAIDs	675	684	annotator1,annotator4,annotator5	['sda/13', 'sda/8', 'sda/14']	12	Chemicals & Drugs
+Drug-Disorder	False	concept		721	731	annotator5	['sda/15']	26	Diseases & Disorders
+Drug-Disorder	True	concept	COX-2 selective inhibitors	875	901	annotator1,annotator4,annotator5	['sda/12', 'sda/7']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	NS-NSAIDs	906	915	annotator1,annotator4,annotator5	['sda/13', 'sda/8', 'sda/14']	14	Chemicals & Drugs
+Drug-Disorder	False	concept	CV events	1096	1105	annotator1,annotator5	['sda/14', 'sda/17']	15	Diseases & Disorders
+Drug-Disorder	True	concept	COX-2 selective inhibitors	1193	1219	annotator1,annotator4,annotator5	['sda/12', 'sda/7']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	rofecoxib	1247	1256	annotator1,annotator4,Computer,annotator5	['uniprot/4500941', 'uniprot/9011600']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	celecoxib	1262	1271	annotator1,annotator4,Computer,annotator5	['uniprot/4500891', 'uniprot/9010359']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	NS-NSAIDs	1331	1340	annotator1,annotator4,annotator5	['sda/13', 'sda/8', 'sda/14']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	diclofenac	1369	1379	annotator1,annotator4,Computer,annotator5	['uniprot/4501104', 'uniprot/6224994']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	naproxen	1385	1393	annotator1,annotator4,Computer,annotator5	['uniprot/4500373', 'uniprot/6101422']	21	Chemicals & Drugs
+Drug-Disorder	False	concept	NSAIDs	1581	1587	annotator1,annotator5	['sda/7']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	CV adverse effects	1801	1819	annotator1,annotator4,Computer,annotator5	['sda/11', 'umls/C0105312']	23	Diseases & Disorders
+Drug-Disorder	True	concept	COX-2 selective inhibitors	1892	1918	annotator1,annotator4,annotator5	['sda/12', 'sda/7']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	NS-NSAIDs	1923	1932	annotator1,annotator4,annotator5	['sda/13', 'sda/8', 'sda/14']	25	Chemicals & Drugs
+Drug-Disorder	False	relation	2	0	['sda/3']	['sda/22', 'sda/1', 'umls/C0105312']	104:139	0:45	annotator1,annotator4	PA
+Drug-Disorder	False	relation	1	0	['sda/9', 'sda/2']	['sda/22', 'sda/1', 'umls/C0105312']	62:76	0:45	annotator1,annotator4	PA
+Drug-Disorder	False	relation	5	3	['sda/6', 'sda/4']	['sda/4', 'sda/5']	231:266	175:189	annotator5	PA
+Drug-Disorder	False	relation	6	3	['sda/7']	['sda/4', 'sda/5']	268:274	175:189	annotator5	PA
+Drug-Disorder	False	relation	7	3	['sda/8']	['sda/4', 'sda/5']	294:305	175:189	annotator5	PA
+Drug-Disorder	False	relation	8	3	['sda/9']	['sda/4', 'sda/5']	310:324	175:189	annotator5	PA

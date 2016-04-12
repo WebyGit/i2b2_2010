@@ -1,0 +1,20 @@
+Target-Drug	True	concept	EGFR	29	33	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	non-receptor kinase c-Abl	54	79	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3003783', 'sda/2']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	CagA	84	88	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/3']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	278	282	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	EGF	322	325	annotator1,Computer,annotator2,annotator3	['uniprot/3001483']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	334	338	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	450	454	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	685	689	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	CagA	820	824	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/3']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	CagA	840	844	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/3']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	non-receptor kinase c-Abl	891	916	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3003783', 'sda/2']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR pY1173	951	974	annotator1,Computer,annotator2,annotator2,annotator3,annotator3	['sda/5', 'uniprot/3074545', 'sda/7']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	CagA	998	1002	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/3']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	CagA	1053	1057	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/3']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	CagA	1214	1218	annotator1,annotator2,annotator3	['sda/1', 'sda/2', 'sda/3']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	c-Abl	1292	1297	annotator1,Computer,annotator2,annotator3	['uniprot/3003783']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR pY1173	1324	1347	annotator1,Computer,annotator2,annotator2,annotator3,annotator3	['sda/5', 'uniprot/3074545', 'sda/7']	23	Genes & Molecular Sequences
+Target-Drug	False	relation	13	14	['uniprot/3074545']	[]	685:689	742:762	annotator2	PA
+Target-Drug	False	relation	23	24	['sda/5', 'uniprot/3074545', 'sda/7']	[]	1324:1347	1365:1374	annotator2	PA
+Target-Drug	False	relation	22	24	['uniprot/3003783']	[]	1292:1297	1365:1374	annotator2	PA

@@ -1,0 +1,29 @@
+Drug-Disorder	False	concept	poisoning	61	70	annotator1,annotator5	['sda/4', 'sda/1']	0	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	288	297	annotator1,annotator5	['sda/4', 'sda/1']	1	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	491	500	annotator1,annotator5	['sda/4', 'sda/1']	2	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	655	664	annotator1,annotator5	['sda/4', 'sda/1']	3	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	868	877	annotator1,annotator5	['sda/4', 'sda/1']	4	Diseases & Disorders
+Drug-Disorder	True	concept	suicide attempts	918	934	annotator4,Computer,annotator5,annotator5	['umls/C0004246', 'sda/2']	17	Diseases & Disorders
+Drug-Disorder	True	concept	poisoning	987	1013	annotator1,annotator5,annotator5	['sda/5', 'sda/2', 'sda/1']	5	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	1050	1073	annotator1,annotator5	['sda/6', 'sda/1']	6	Diseases & Disorders
+Drug-Disorder	False	concept		1111	1116	annotator1	['sda/8']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	poisoning	1151	1160	annotator1,annotator5	['sda/4', 'sda/1']	8	Diseases & Disorders
+Drug-Disorder	False	concept	pesticides	1175	1185	annotator1,annotator5	['sda/7', 'sda/3']	9	Chemicals & Drugs
+Drug-Disorder	False	concept		1228	1238	annotator5	['sda/5']	18	Diseases & Disorders
+Drug-Disorder	False	concept		1268	1277	annotator5	['sda/4']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1286	1296	annotator5	['sda/5']	20	Diseases & Disorders
+Drug-Disorder	False	concept		1320	1325	annotator1	['sda/8']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	pesticides	1330	1340	annotator1,annotator5	['sda/7', 'sda/3']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	poisoning	1383	1392	annotator1,annotator5	['sda/4', 'sda/1']	12	Diseases & Disorders
+Drug-Disorder	False	concept		1404	1413	annotator5	['sda/4']	21	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	1422	1431	annotator1,annotator5	['sda/4', 'sda/1']	13	Diseases & Disorders
+Drug-Disorder	False	concept	poisoning	1520	1529	annotator1,annotator5	['sda/4', 'sda/1']	14	Diseases & Disorders
+Drug-Disorder	False	concept		1533	1538	annotator1	['sda/8']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	pesticides	1543	1553	annotator1,annotator5	['sda/7', 'sda/3']	16	Chemicals & Drugs
+Drug-Disorder	False	relation	9	8	['sda/7', 'sda/3']	['sda/4', 'sda/1']	1175:1185	1151:1160	annotator1,annotator5	PA
+Drug-Disorder	False	relation	7	8	['sda/8']	['sda/4', 'sda/1']	1111:1116	1151:1160	annotator1	PA
+Drug-Disorder	False	relation	11	12	['sda/7', 'sda/3']	['sda/4', 'sda/1']	1330:1340	1383:1392	annotator1,annotator5	PA
+Drug-Disorder	False	relation	10	12	['sda/8']	['sda/4', 'sda/1']	1320:1325	1383:1392	annotator1	PA
+Drug-Disorder	False	relation	16	14	['sda/7', 'sda/3']	['sda/4', 'sda/1']	1543:1553	1520:1529	annotator1,annotator5	PA
+Drug-Disorder	False	relation	15	14	['sda/8']	['sda/4', 'sda/1']	1533:1538	1520:1529	annotator1	PA
+Drug-Disorder	False	relation	16	21	['sda/7', 'sda/3']	['sda/4']	1543:1553	1404:1413	annotator5	PA

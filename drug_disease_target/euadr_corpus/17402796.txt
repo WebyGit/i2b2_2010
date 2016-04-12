@@ -1,0 +1,23 @@
+Target-Drug	True	concept	Adalimumab	0	10	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	0	Chemicals & Drugs
+Target-Drug	True	concept	Adalimumab	32	42	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	2	Chemicals & Drugs
+Target-Drug	False	concept	IgG1 monoclonal antibody	48	120	annotator1,annotator3	['sda/1']	3	Chemicals & Drugs
+Target-Drug	False	concept	IgG1	96	100	Computer,annotator2	['uniprot/4000704']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	tumor necrosis factor	140	161	annotator1,Computer,annotator2,annotator3	['uniprot/3000496']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	TNF	163	166	annotator1,Computer,annotator2,annotator3	['uniprot/3000496', 'sda/1']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	adalimumab	205	215	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	6	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	445	455	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	8	Chemicals & Drugs
+Target-Drug	False	concept		578	581	annotator2	['sda/1']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	Adalimumab	591	601	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	9	Chemicals & Drugs
+Target-Drug	True	concept	infliximab	759	769	annotator1,Computer,annotator2,annotator3	['uniprot/4500016']	10	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	843	853	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	11	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	890	900	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	12	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	1074	1084	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	13	Chemicals & Drugs
+Target-Drug	False	concept		1118	1132	annotator1	['sda/2']	14	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	1289	1299	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	16	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	1361	1371	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	17	Chemicals & Drugs
+Target-Drug	True	concept	adalimumab	1541	1551	annotator1,Computer,annotator2,annotator3	['uniprot/4500015']	18	Chemicals & Drugs
+Target-Drug	True	relation	2	5	['uniprot/4500015']	['uniprot/3000496', 'sda/1']	32:42	163:166	annotator1,Computer,annotator2	PA
+Target-Drug	False	relation	3	5	['sda/1']	['uniprot/3000496', 'sda/1']	48:120	163:166	annotator1,annotator3	PA
+Target-Drug	False	relation	2	21	['uniprot/4500015']	['uniprot/4000704']	32:42	96:100	Computer,annotator2	PA
+Target-Drug	False	relation	2	4	['uniprot/4500015']	['uniprot/3000496']	32:42	140:161	annotator2,annotator3	PA
+Target-Drug	False	relation	8	22	['uniprot/4500015']	['sda/1']	445:455	578:581	annotator2	PA

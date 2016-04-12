@@ -1,0 +1,55 @@
+Target-Disorder	False	concept	neuroplastin	30	72	annotator1	['sda/31']	0	SNP & Sequence variations
+Target-Disorder	True	concept	neuroplastin	30	72	Computer,annotator2,annotator3	['uniprot/3007531']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	schizophrenia	82	95	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	1	Diseases & Disorders
+Target-Disorder	False	concept		135	150	annotator1	['sda/2']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept		152	156	annotator1	['sda/3']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept		162	175	annotator1	['sda/4']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept	tags	177	195	annotator1	['sda/5']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	tags	177	195	Computer	['umls/C0004103']	5	Diseases & Disorders
+Target-Disorder	False	concept	tags	356	378	annotator1	['sda/28']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	tags	356	378	Computer	['umls/C0004103']	6	Diseases & Disorders
+Target-Disorder	False	concept	PCP	361	364	Computer	['uniprot/3055867']	32	Genes & Molecular Sequences
+Target-Disorder	False	concept	PCP	361	364	Computer	['umls/C0003563']	32	Diseases & Disorders
+Target-Disorder	False	concept		450	464	annotator2	['sda/1']	34	Genes & Molecular Sequences
+Target-Disorder	True	concept	neuroplastin	483	495	annotator1,Computer,annotator2,annotator3	['uniprot/3007531']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	NPTN	497	501	annotator1,Computer,annotator2,annotator3	['uniprot/3007531']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	basigin	507	514	annotator1,Computer,annotator2,annotator3	['uniprot/3001308']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	BSG	516	519	annotator1,Computer,annotator2,annotator3	['uniprot/3001308']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	schizophrenia	555	568	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	11	Diseases & Disorders
+Target-Disorder	False	concept		720	729	annotator1	['sda/8']	12	SNP & Sequence variations
+Target-Disorder	False	concept		789	792	annotator1	['sda/9']	13	SNP & Sequence variations
+Target-Disorder	False	concept		796	801	annotator1	['sda/10']	14	SNP & Sequence variations
+Target-Disorder	True	concept	rs3840846 NPTN	835	871	annotator1,annotator2,annotator3	['sda/13', 'sda/1', 'sda/2']	15	SNP & Sequence variations
+Target-Disorder	True	concept	rs3840846 NPTN	835	871	Computer,annotator2,annotator3	['uniprot/3007531']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept		946	949	annotator1	['sda/11']	16	SNP & Sequence variations
+Target-Disorder	True	concept	rs3743500	1016	1025	annotator1,annotator2,annotator3	['sda/16', 'sda/2', 'sda/4']	17	SNP & Sequence variations
+Target-Disorder	True	concept	NPTN	1048	1052	Computer,annotator2,annotator3	['uniprot/3007531']	33	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs3840846	1102	1111	annotator1,annotator2,annotator3	['sda/7', 'sda/1', 'sda/2']	18	SNP & Sequence variations
+Target-Disorder	True	concept	rs3826047	1113	1122	annotator1,annotator2,annotator3	['sda/15', 'sda/3']	19	SNP & Sequence variations
+Target-Disorder	True	concept	rs3743500	1127	1136	annotator1,annotator2,annotator3	['sda/16', 'sda/2', 'sda/4']	20	SNP & Sequence variations
+Target-Disorder	True	concept	NPTN	1170	1174	annotator1,Computer,annotator2,annotator3	['uniprot/3007531']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	schizophrenia	1213	1226	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	22	Diseases & Disorders
+Target-Disorder	False	concept		1258	1263	annotator1	['sda/17']	23	SNP & Sequence variations
+Target-Disorder	False	concept		1290	1297	annotator1	['sda/18']	24	SNP & Sequence variations
+Target-Disorder	True	concept	schizophrenia	1382	1395	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	25	Diseases & Disorders
+Target-Disorder	False	concept		1600	1605	annotator1	['sda/17']	26	SNP & Sequence variations
+Target-Disorder	False	concept		1695	1700	annotator1	['sda/20']	27	SNP & Sequence variations
+Target-Disorder	False	concept		1704	1709	annotator1	['sda/21']	28	SNP & Sequence variations
+Target-Disorder	True	concept	BSG	1869	1872	annotator1,Computer,annotator2,annotator3	['uniprot/3001308']	29	Genes & Molecular Sequences
+Target-Disorder	True	concept	NPTN	1901	1905	annotator1,Computer,annotator2,annotator3	['uniprot/3007531']	30	Genes & Molecular Sequences
+Target-Disorder	True	concept	schizophrenia	1951	1964	annotator1,Computer,annotator2,annotator3	['umls/C0003961']	31	Diseases & Disorders
+Target-Disorder	True	relation	18	25	['sda/7', 'sda/1', 'sda/2']	['umls/C0003961']	1102:1111	1382:1395	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	25	['sda/15', 'sda/3']	['umls/C0003961']	1113:1122	1382:1395	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	20	25	['sda/16', 'sda/2', 'sda/4']	['umls/C0003961']	1127:1136	1382:1395	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	23	25	['sda/17']	['umls/C0003961']	1258:1263	1382:1395	annotator1	PA
+Target-Disorder	False	relation	24	25	['sda/18']	['umls/C0003961']	1290:1297	1382:1395	annotator1	PA
+Target-Disorder	True	relation	30	31	['uniprot/3007531']	['umls/C0003961']	1901:1905	1951:1964	annotator1,Computer,annotator2,annotator3	SA
+Target-Disorder	False	relation	0	1	['sda/31', 'uniprot/3007531']	['umls/C0003961']	30:72	82:95	Computer,annotator2	PA
+Target-Disorder	False	relation	8	11	['uniprot/3007531']	['umls/C0003961']	497:501	555:568	Computer,annotator2	PA
+Target-Disorder	False	relation	8	6	['uniprot/3007531']	['sda/28', 'umls/C0004103']	497:501	356:378	Computer	PA
+Target-Disorder	False	relation	32	11	['uniprot/3055867', 'umls/C0003563']	['umls/C0003961']	361:364	555:568	Computer	PA
+Target-Disorder	False	relation	32	6	['uniprot/3055867', 'umls/C0003563']	['sda/28', 'umls/C0004103']	361:364	356:378	Computer	PA
+Target-Disorder	False	relation	10	11	['uniprot/3001308']	['umls/C0003961']	516:519	555:568	Computer,annotator2	PA
+Target-Disorder	False	relation	10	6	['uniprot/3001308']	['sda/28', 'umls/C0004103']	516:519	356:378	Computer	PA
+Target-Disorder	True	relation	21	25	['uniprot/3007531']	['umls/C0003961']	1170:1174	1382:1395	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	34	11	['sda/1']	['umls/C0003961']	450:464	555:568	annotator2	SA

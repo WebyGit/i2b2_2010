@@ -1,0 +1,37 @@
+Drug-Disorder	True	concept	ulcerative colitis	95	113	annotator1,annotator4,Computer,annotator5	['umls/C0000899']	0	Diseases & Disorders
+Drug-Disorder	True	concept	pouchitis	133	142	annotator1,annotator4,Computer,annotator5	['umls/C0038357', 'sda/8']	1	Diseases & Disorders
+Drug-Disorder	False	concept	anastomosis	161	189	annotator1,Computer	['sda/1', 'umls/C0029107']	2	Diseases & Disorders
+Drug-Disorder	True	concept	Acute pouchitis	210	225	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/8', 'umls/C0038357', 'sda/1']	3	Diseases & Disorders
+Drug-Disorder	True	concept	AP	227	229	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	4	Diseases & Disorders
+Drug-Disorder	True	concept	chronic pouchitis	235	252	annotator1,annotator4,Computer,annotator5	['sda/4', 'sda/8', 'umls/C0038357', 'sda/3']	5	Diseases & Disorders
+Drug-Disorder	True	concept	CP	254	256	annotator1,annotator4,annotator5	['uniprot/4501022']	6	Diseases & Disorders
+Drug-Disorder	False	concept	CP	254	256	Computer	['uniprot/4501022']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	anastomosis	275	303	annotator1,Computer	['sda/1', 'umls/C0029107']	7	Diseases & Disorders
+Drug-Disorder	False	concept		305	309	annotator1	['sda/7']	8	Diseases & Disorders
+Drug-Disorder	True	concept	ulcerative colitis	315	333	annotator1,annotator4,Computer,annotator5	['umls/C0000899']	9	Diseases & Disorders
+Drug-Disorder	True	concept	AP	484	486	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	10	Diseases & Disorders
+Drug-Disorder	True	concept	CP	490	492	annotator1,annotator4,annotator5	['uniprot/4501022']	11	Diseases & Disorders
+Drug-Disorder	False	concept	CP	490	492	Computer	['uniprot/4501022']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	AP	593	595	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	12	Diseases & Disorders
+Drug-Disorder	False	concept	antibiotic	597	607	annotator1,annotator4	['sda/6', 'sda/4']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	CP	623	625	annotator1,annotator4,annotator5	['uniprot/4501022']	14	Diseases & Disorders
+Drug-Disorder	False	concept	CP	623	625	Computer	['uniprot/4501022']	14	Chemicals & Drugs
+Drug-Disorder	False	concept	antibiotic	627	637	annotator1,annotator4	['sda/6', 'sda/4']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	antibiotic	665	675	annotator1,annotator4	['sda/6', 'sda/4']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	pouchitis	975	984	annotator1,annotator4,Computer,annotator5	['umls/C0038357', 'sda/8']	17	Diseases & Disorders
+Drug-Disorder	True	concept	Pouchitis	986	995	annotator1,annotator4,Computer,annotator5	['umls/C0038357', 'sda/8']	18	Diseases & Disorders
+Drug-Disorder	True	concept	AP	1263	1265	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	19	Diseases & Disorders
+Drug-Disorder	True	concept	AP	1443	1445	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	20	Diseases & Disorders
+Drug-Disorder	True	concept	AP	1481	1483	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	21	Diseases & Disorders
+Drug-Disorder	True	concept	CP	1609	1611	annotator1,annotator4,annotator5	['uniprot/4501022']	22	Diseases & Disorders
+Drug-Disorder	False	concept	CP	1609	1611	Computer	['uniprot/4501022']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	pouchitis	1783	1792	annotator1,annotator4,Computer,annotator5	['umls/C0038357', 'sda/8']	23	Diseases & Disorders
+Drug-Disorder	False	concept		1799	1803	annotator1	['sda/7']	24	Diseases & Disorders
+Drug-Disorder	True	concept	AP	1843	1845	annotator1,annotator4,annotator5	['sda/3', 'sda/2']	25	Diseases & Disorders
+Drug-Disorder	True	concept	CP	1931	1933	annotator1,annotator4,annotator5	['uniprot/4501022']	26	Diseases & Disorders
+Drug-Disorder	False	concept	CP	1931	1933	Computer	['uniprot/4501022']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	pouchitis	2077	2086	annotator1,annotator4,Computer,annotator5	['umls/C0038357', 'sda/8']	27	Diseases & Disorders
+Drug-Disorder	False	concept		2093	2097	annotator1	['sda/7']	28	Diseases & Disorders
+Drug-Disorder	False	relation	6	9	['uniprot/4501022']	['umls/C0000899']	254:256	315:333	Computer	PA
+Drug-Disorder	False	relation	6	5	['uniprot/4501022']	['sda/4', 'sda/8', 'umls/C0038357', 'sda/3']	254:256	235:252	Computer	PA
+Drug-Disorder	False	relation	6	7	['uniprot/4501022']	['sda/1', 'umls/C0029107']	254:256	275:303	Computer	PA

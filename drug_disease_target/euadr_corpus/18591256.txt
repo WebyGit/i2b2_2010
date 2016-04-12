@@ -1,0 +1,35 @@
+Target-Drug	True	concept	Hsp90beta	53	62	annotator1,annotator2,annotator3	['sda/14', 'sda/2', 'sda/6']	1	Genes & Molecular Sequences
+Target-Drug	False	concept	tyrosine kinases	139	155	annotator1,annotator3	['sda/1', 'sda/2']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	cytochrome c	360	386	annotator1,annotator2	['sda/3', 'sda/4']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	Apaf-1/caspase-9	416	432	annotator1,Computer,Computer,annotator2,annotator2,annotator3	['sda/2', 'uniprot/3007626', 'uniprot/3031024', 'sda/5']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcr-Abl	491	498	annotator1,annotator2,annotator3	['sda/4', 'sda/5', 'sda/7']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	FLT3/D835Y	500	510	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/3003040', 'sda/10']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	FLT3/D835Y	500	510	annotator2	['sda/6']	8	SNP & Sequence variations
+Target-Drug	True	concept	Tel-PDGFRbeta	516	529	annotator1,annotator2,annotator3	['sda/6', 'sda/7', 'sda/11']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	Hsp90beta	649	658	annotator1,annotator2,annotator3	['sda/14', 'sda/2', 'sda/6']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	Apaf-1	678	684	annotator1,Computer,annotator2,annotator3	['uniprot/3007626']	11	Genes & Molecular Sequences
+Target-Drug	False	concept		697	709	annotator2	['sda/4']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	Apaf-1	718	724	annotator1,Computer,annotator2,annotator3	['uniprot/3007626']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-9	745	754	annotator1,Computer,annotator2,annotator3	['uniprot/3031024']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	Hsp90beta	768	777	annotator1,annotator2,annotator3	['sda/14', 'sda/2', 'sda/6']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	Hsp90beta	846	855	annotator1,annotator2,annotator3	['sda/14', 'sda/2', 'sda/6']	16	Genes & Molecular Sequences
+Target-Drug	False	concept		878	893	annotator3	['sda/12']	31	Genes & Molecular Sequences
+Target-Drug	False	concept	mutant	978	984	annotator3	['sda/15']	17	Genes & Molecular Sequences
+Target-Drug	False	concept	Hsp90beta	985	1008	annotator1	['sda/1']	18	SNP & Sequence variations
+Target-Drug	False	concept	Hsp90beta	985	1008	annotator2	['sda/2']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	S226A/S255A	996	1007	annotator2	['sda/14']	29	SNP & Sequence variations
+Target-Drug	False	concept	S226A/S255A	996	1007	annotator3	['sda/13']	29	Genes & Molecular Sequences
+Target-Drug	False	concept		1094	1106	annotator2	['sda/4']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	Hsp90beta	1205	1214	annotator1,annotator2,annotator3	['sda/14', 'sda/2']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	Apaf-1	1218	1224	annotator1,Computer,annotator2,annotator3	['uniprot/3007626']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcr-Abl	1229	1236	annotator1,annotator2,annotator3	['sda/4', 'sda/5', 'sda/7']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	Hsp90beta	1291	1300	annotator1,annotator2,annotator3	['sda/14', 'sda/2']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	1322	1330	annotator1,Computer,annotator2,annotator3	['uniprot/9015274', 'uniprot/4501065', 'sda/8']	23	Chemicals & Drugs
+Target-Drug	True	concept	Gleevec	1332	1339	annotator1,Computer,annotator2,annotator3	['uniprot/9015274', 'uniprot/4501065']	24	Chemicals & Drugs
+Target-Drug	False	concept	tyrosine kinases	1439	1455	annotator1,annotator3	['sda/1', 'sda/2']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	Hsp90beta	1488	1497	annotator1,annotator2,annotator3	['sda/14', 'sda/2', 'sda/6']	26	Genes & Molecular Sequences
+Target-Drug	False	relation	24	21	['uniprot/9015274', 'uniprot/4501065']	['sda/4', 'sda/5', 'sda/7']	1332:1339	1229:1236	annotator1,annotator2	PA
+Target-Drug	True	relation	24	22	['uniprot/9015274', 'uniprot/4501065']	['sda/14', 'sda/2']	1332:1339	1291:1300	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	1	2	['sda/14', 'sda/2', 'sda/6']	[]	53:62	106:115	annotator2	PA
+Target-Drug	False	relation	26	27	['sda/14', 'sda/2', 'sda/6']	[]	1488:1497	1559:1568	annotator2	PA
+Target-Drug	False	relation	23	22	['uniprot/9015274', 'uniprot/4501065', 'sda/8']	['sda/14', 'sda/2']	1322:1330	1291:1300	annotator3	PA

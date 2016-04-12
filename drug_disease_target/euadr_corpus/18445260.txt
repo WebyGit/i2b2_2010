@@ -1,0 +1,11 @@
+Target-Drug	True	concept	MBD1	81	85	annotator1,Computer,annotator2,annotator3	['uniprot/3003822', 'sda/6']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	Methyl-CpG binding domain protein 1	137	172	annotator1,Computer,annotator2,annotator3	['uniprot/3008414']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	MBD1	174	178	annotator1,Computer,annotator2,annotator3	['uniprot/3003822', 'sda/6']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	tumor	252	257	annotator2	['sda/2']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	MBD1	316	320	annotator1,Computer,annotator2,annotator3	['uniprot/3003822', 'sda/6']	7	Genes & Molecular Sequences
+Target-Drug	False	concept		412	416	annotator2	['uniprot/3003822']	16	Genes & Molecular Sequences
+Target-Drug	False	concept	pancreatic cancer	428	445	annotator3	['sda/7']	9	Genes & Molecular Sequences
+Target-Drug	False	concept		457	463	annotator3	['sda/1']	21	Genes & Molecular Sequences
+Target-Drug	False	concept	MBD1	549	553	annotator2,annotator3	['uniprot/3003822', 'sda/6']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	MBD1	963	967	annotator1,Computer,annotator2,annotator3	['uniprot/3003822', 'sda/6']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	MBD1	1027	1031	annotator1,Computer,annotator2,annotator3	['uniprot/3003822', 'sda/6']	13	Genes & Molecular Sequences

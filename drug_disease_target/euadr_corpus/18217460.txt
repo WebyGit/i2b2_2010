@@ -1,0 +1,16 @@
+Target-Drug	False	concept	alpha2-adrenoreceptor agonist	60	89	annotator1,annotator3	['sda/1', 'sda/2']	0	Chemicals & Drugs
+Target-Drug	False	concept	alpha2-adrenoreceptor agonist	60	89	annotator2	['sda/1']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	clonidine	90	99	annotator1,Computer,annotator2,annotator3	['uniprot/4501027', 'uniprot/6040619']	1	Chemicals & Drugs
+Target-Drug	True	concept	clonidine	389	398	annotator1,Computer,annotator2,annotator3	['uniprot/4501027', 'uniprot/6040619']	5	Chemicals & Drugs
+Target-Drug	True	concept	clonidine	472	481	annotator1,Computer,annotator2,annotator3	['uniprot/4501027', 'uniprot/6040619']	7	Chemicals & Drugs
+Target-Drug	True	concept	peroral clonidine	640	657	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/4501027', 'uniprot/6040619', 'sda/1']	8	Chemicals & Drugs
+Target-Drug	True	concept	epidural clonidine	676	694	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4501027', 'uniprot/6040619']	9	Chemicals & Drugs
+Target-Drug	True	concept	epidural clonidine	713	731	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4501027', 'uniprot/6040619']	10	Chemicals & Drugs
+Target-Drug	False	concept	saline	761	776	annotator1,annotator2	['sda/6', 'uniprot/9017513']	11	Chemicals & Drugs
+Target-Drug	True	concept	epidural morphine	869	886	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/4501073', 'uniprot/6049524', 'sda/4']	13	Chemicals & Drugs
+Target-Drug	True	concept	epidural clonidine	1275	1293	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4501027', 'uniprot/6040619']	16	Chemicals & Drugs
+Target-Drug	True	concept	epidural clonidine	1612	1630	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4501027', 'uniprot/6040619']	19	Chemicals & Drugs
+Target-Drug	True	concept	peroral clonidine	1699	1716	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/4501027', 'uniprot/6040619', 'sda/1']	20	Chemicals & Drugs
+Target-Drug	True	concept	epidural clonidine	1766	1784	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4501027', 'uniprot/6040619']	21	Chemicals & Drugs
+Target-Drug	True	concept	epidural clonidine	1938	1956	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4501027', 'uniprot/6040619']	22	Chemicals & Drugs
+Target-Drug	False	relation	1	0	['uniprot/4501027', 'uniprot/6040619']	['sda/1', 'sda/2']	90:99	60:89	annotator2	PA

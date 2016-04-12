@@ -1,0 +1,29 @@
+Target-Drug	True	concept	PHD	0	10	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/3001950']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	E3 ligase	20	29	annotator1,annotator2,annotator3	['sda/6', 'sda/2', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		89	100	annotator1	['sda/2']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	PHD	137	140	annotator1,Computer,annotator2,annotator3	['uniprot/3001950']	4	Genes & Molecular Sequences
+Target-Drug	False	concept		145	157	annotator1	['sda/3']	5	Genes & Molecular Sequences
+Target-Drug	False	concept		177	206	annotator1	['sda/4']	6	Genes & Molecular Sequences
+Target-Drug	False	concept		302	310	annotator1	['sda/5']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	PHD	394	404	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/3001950']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	KAP1	412	416	annotator1,Computer,annotator2,annotator3	['uniprot/3003805']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	E3 ligase	460	469	annotator1,annotator2,annotator3	['sda/6', 'sda/2', 'sda/1']	11	Genes & Molecular Sequences
+Target-Drug	False	concept		502	513	annotator1	['sda/2']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	PHD	553	563	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/3001950']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	Ubc9	585	589	annotator1,Computer,annotator2,annotator3	['uniprot/3055737']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	lysine	651	685	annotator1,annotator3	['sda/8', 'uniprot/4501039']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	lysine	651	685	Computer	['uniprot/4501039']	15	Chemicals & Drugs
+Target-Drug	True	concept	KAP1	715	719	annotator1,Computer,annotator2,annotator3	['uniprot/3003805']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	SETDB1 histone methyltransferase	785	817	annotator1,Computer,annotator2,annotator2,annotator3	['sda/10', 'uniprot/3032157', 'sda/3', 'sda/6']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	CHD3/Mi2	826	834	annotator1,Computer,annotator2,annotator3	['sda/11', 'uniprot/3062693', 'sda/7', 'sda/3']	19	Genes & Molecular Sequences
+Target-Drug	False	concept		852	856	annotator1	['sda/12']	20	Genes & Molecular Sequences
+Target-Drug	False	concept	SUMO	869	873	annotator1,annotator2	['sda/14', 'sda/9']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	KAP1	905	909	annotator1,Computer,annotator2,annotator3	['uniprot/3003805']	22	Genes & Molecular Sequences
+Target-Drug	False	concept	histone methyltransferase	925	950	annotator2,annotator3	['sda/3', 'sda/4']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	SETDB1	963	969	annotator1,Computer,annotator2,annotator3	['uniprot/3032157']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	PHD	1039	1042	annotator1,Computer,annotator2,annotator3	['uniprot/3001950']	24	Genes & Molecular Sequences
+Target-Drug	False	concept		1047	1059	annotator1	['sda/3']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	PHD	1110	1120	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/3001950']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	SUMO	1145	1149	annotator1,annotator2,annotator3	['sda/14', 'sda/10', 'sda/5']	27	Genes & Molecular Sequences
+Target-Drug	False	relation	15	13	['sda/8', 'uniprot/4501039']	['sda/7', 'uniprot/3001950']	651:685	553:563	Computer	PA
+Target-Drug	False	relation	15	14	['sda/8', 'uniprot/4501039']	['uniprot/3055737']	651:685	585:589	Computer	PA

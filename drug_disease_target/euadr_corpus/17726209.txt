@@ -1,0 +1,23 @@
+Drug-Disorder	True	concept	Stomal varices	0	14	annotator1,annotator4,Computer,annotator5	['umls/C0032642']	0	Diseases & Disorders
+Drug-Disorder	True	concept	hemorrhage	39	49	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Stomal varices portal hypertension	76	123	annotator1,annotator4,annotator4,Computer,Computer,annotator5,annotator5	['sda/5', 'umls/C0032642', 'umls/C0002140']	2	Diseases & Disorders
+Drug-Disorder	False	concept		91	100	Computer	['umls/C0002987']	17	Diseases & Disorders
+Drug-Disorder	False	concept	hemorrhage	166	176	annotator1,annotator5	['sda/2']	3	Diseases & Disorders
+Drug-Disorder	True	concept	silver nitrate	321	335	annotator1,annotator4,Computer,annotator5	['uniprot/4502536', 'uniprot/9020719']	4	Chemicals & Drugs
+Drug-Disorder	False	concept		347	360	annotator5	['sda/3']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	inflammatory bowel disease	568	594	annotator1,annotator4,Computer,annotator5	['umls/C0002270']	5	Diseases & Disorders
+Drug-Disorder	False	concept		773	777	annotator4	['uniprot/6140374']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	colostomy	790	799	annotator4,Computer	['umls/C0052873']	16	Diseases & Disorders
+Drug-Disorder	True	concept	Duke's rectal adenocarcinoma	844	874	annotator1,annotator4,annotator4,Computer,Computer,annotator5,annotator5	['sda/3', 'umls/C0135162', 'umls/C0005336']	6	Diseases & Disorders
+Drug-Disorder	True	concept	stomal bleeding	951	966	annotator1,annotator4,Computer,annotator5	['umls/C0032639']	7	Diseases & Disorders
+Drug-Disorder	True	concept	stomal varices portal hypertension	971	1018	annotator1,annotator4,annotator4,Computer,Computer,annotator5,annotator5	['sda/5', 'umls/C0032642', 'umls/C0002140']	8	Diseases & Disorders
+Drug-Disorder	False	concept		986	995	Computer	['umls/C0002987']	18	Diseases & Disorders
+Drug-Disorder	True	concept	silver nitrate	1077	1091	annotator1,annotator4,Computer,annotator5	['uniprot/4502536', 'uniprot/9020719']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	liver failure	1249	1262	annotator1,annotator4,Computer,annotator5	['umls/C0004943']	10	Diseases & Disorders
+Drug-Disorder	True	concept	metastatic cancer	1353	1370	annotator1,Computer,annotator5	['sda/6', 'umls/C0002987']	11	Diseases & Disorders
+Drug-Disorder	True	concept	stomal varices	1428	1442	annotator1,annotator4,Computer,annotator5	['umls/C0032642']	12	Diseases & Disorders
+Drug-Disorder	True	concept	liver disease	1471	1484	annotator1,annotator4,Computer,annotator5	['umls/C0002588']	13	Diseases & Disorders
+Drug-Disorder	True	concept	stomal bleeds	1512	1525	annotator1,annotator4,Computer,annotator5	['umls/C0032639']	14	Diseases & Disorders
+Drug-Disorder	True	relation	9	7	['uniprot/4502536', 'uniprot/9020719']	['umls/C0032639']	1077:1091	951:966	annotator1,annotator4,Computer	PA
+Drug-Disorder	True	relation	9	8	['uniprot/4502536', 'uniprot/9020719']	['sda/5', 'umls/C0032642', 'umls/C0002140']	1077:1091	971:1018	annotator1,annotator4,Computer	PA
+Drug-Disorder	False	relation	9	18	['uniprot/4502536', 'uniprot/9020719']	['umls/C0002987']	1077:1091	986:995	Computer	PA

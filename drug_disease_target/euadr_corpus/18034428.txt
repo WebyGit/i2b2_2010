@@ -1,0 +1,14 @@
+Target-Drug	True	concept	Toll-like receptors	0	19	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	Toll-like receptors	69	88	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	90	93	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	206	209	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	3	Genes & Molecular Sequences
+Target-Drug	False	concept		264	271	Computer	['uniprot/4501124']	14	Chemicals & Drugs
+Target-Drug	False	concept		341	367	annotator1	['sda/3']	5	Genes & Molecular Sequences
+Target-Drug	False	concept		395	401	Computer	['uniprot/3088698']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	468	471	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	588	591	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	714	717	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	803	806	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	931	934	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR	964	967	annotator1,annotator2,annotator3	['sda/2', 'sda/3']	13	Genes & Molecular Sequences
+Target-Drug	False	relation	14	15	['uniprot/4501124']	['uniprot/3088698']	264:271	395:401	Computer	PA

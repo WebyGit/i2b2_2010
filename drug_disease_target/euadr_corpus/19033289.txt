@@ -1,0 +1,50 @@
+Drug-Disorder	True	concept	intraocular inflammation	19	50	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0004599']	0	Diseases & Disorders
+Drug-Disorder	True	concept	bevacizumab	87	98	annotator4,Computer,annotator5	['uniprot/6335799', 'uniprot/4500176']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	Avastin	100	107	annotator1,annotator4,Computer,annotator5	['uniprot/6335799', 'uniprot/4500176']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	intraocular inflammatory events	149	187	annotator1,annotator5	['sda/2', 'sda/1']	2	Diseases & Disorders
+Drug-Disorder	False	concept		156	180	annotator4	['sda/1']	25	Diseases & Disorders
+Drug-Disorder	True	concept	bevacizumab	198	236	annotator1,annotator4,Computer,annotator5	['sda/2', 'uniprot/6335799', 'uniprot/4500176']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	Avastin	238	245	annotator1,annotator4,Computer,annotator5	['uniprot/6335799', 'uniprot/4500176']	4	Chemicals & Drugs
+Drug-Disorder	False	concept		327	340	Computer	['umls/C0000923']	27	Diseases & Disorders
+Drug-Disorder	True	concept	intraocular inflammation	349	373	annotator1,annotator4,Computer,annotator5	['umls/C0004599']	5	Diseases & Disorders
+Drug-Disorder	True	concept	endophthalmitis	375	390	annotator1,annotator4,Computer,annotator5	['umls/C0001386']	6	Diseases & Disorders
+Drug-Disorder	True	concept	intraocular haemorrhage	394	417	annotator1,annotator4,Computer,annotator5	['umls/C0001507']	7	Diseases & Disorders
+Drug-Disorder	True	concept	intraocular inflammation	562	593	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0004599']	8	Diseases & Disorders
+Drug-Disorder	True	concept	bevacizumab	626	637	annotator4,Computer,annotator5	['uniprot/6335799', 'uniprot/4500176']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	intraocular inflammation	782	813	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0004599']	9	Diseases & Disorders
+Drug-Disorder	False	concept		941	943	Computer	['uniprot/4500767']	28	Chemicals & Drugs
+Drug-Disorder	False	concept		1002	1013	Computer	['uniprot/4500959']	29	Chemicals & Drugs
+Drug-Disorder	False	concept		1112	1114	Computer	['uniprot/4500767']	30	Chemicals & Drugs
+Drug-Disorder	False	concept		1179	1187	Computer	['umls/C0090185']	31	Diseases & Disorders
+Drug-Disorder	False	concept		1220	1225	Computer	['umls/C0150217']	32	Diseases & Disorders
+Drug-Disorder	True	concept	hypopyon	1244	1252	annotator1,annotator4,Computer,annotator5	['umls/C0002187', 'sda/4']	12	Diseases & Disorders
+Drug-Disorder	False	concept		1262	1271	Computer	['umls/C0090186']	33	Diseases & Disorders
+Drug-Disorder	False	concept		1307	1327	Computer	['umls/C0158254']	34	Diseases & Disorders
+Drug-Disorder	True	concept	endophthalmitis	1413	1428	annotator1,annotator4,Computer,annotator5	['umls/C0001386']	13	Diseases & Disorders
+Drug-Disorder	False	concept		1460	1468	annotator1	['sda/4']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		1469	1480	annotator5	['sda/5']	38	Chemicals & Drugs
+Drug-Disorder	True	concept	uveitis	1510	1517	annotator1,annotator4,Computer,annotator5	['umls/C0004599']	15	Diseases & Disorders
+Drug-Disorder	False	concept	infiltration	1554	1595	annotator1,Computer	['sda/3', 'umls/C0029040']	16	Diseases & Disorders
+Drug-Disorder	True	concept	vitritis	1607	1615	annotator1,annotator4,Computer,annotator5	['umls/C0012810']	17	Diseases & Disorders
+Drug-Disorder	True	concept	inflammation	1692	1704	annotator1,Computer,annotator5	['umls/C0002255']	18	Diseases & Disorders
+Drug-Disorder	True	concept	bevacizumab	1716	1727	annotator1,annotator4,Computer,annotator5	['uniprot/6335799', 'uniprot/4500176']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		1783	1785	Computer	['uniprot/4500767']	35	Chemicals & Drugs
+Drug-Disorder	False	concept		1817	1834	Computer	['umls/C0023962']	36	Diseases & Disorders
+Drug-Disorder	False	concept		1856	1864	annotator1	['sda/4']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	cortisone	1868	1885	annotator1,annotator4,Computer,annotator5	['sda/5', 'uniprot/8503904', 'uniprot/4502781']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	Vitreous haemorrhage	1945	1965	annotator1,annotator4,Computer,annotator5	['umls/C0004683']	22	Diseases & Disorders
+Drug-Disorder	True	concept	infectious endophthalmitis	1970	1996	annotator1,annotator4,Computer,annotator5	['umls/C0151364']	23	Diseases & Disorders
+Drug-Disorder	False	concept		2040	2048	Computer	['umls/C0148591']	37	Diseases & Disorders
+Drug-Disorder	False	relation	14	15	['sda/4']	['umls/C0004599']	1460:1468	1510:1517	annotator1	PA
+Drug-Disorder	False	relation	14	13	['sda/4']	['umls/C0001386']	1460:1468	1413:1428	annotator1	PA
+Drug-Disorder	True	relation	19	18	['uniprot/6335799', 'uniprot/4500176']	['umls/C0002255']	1716:1727	1692:1704	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	24	0	['uniprot/6335799', 'uniprot/4500176']	['sda/1', 'umls/C0004599']	87:98	19:50	Computer,annotator5	PA
+Drug-Disorder	False	relation	26	8	['uniprot/6335799', 'uniprot/4500176']	['sda/1', 'umls/C0004599']	626:637	562:593	Computer,annotator5	PA
+Drug-Disorder	False	relation	28	9	['uniprot/4500767']	['sda/1', 'umls/C0004599']	941:943	782:813	Computer	PA
+Drug-Disorder	False	relation	29	9	['uniprot/4500959']	['sda/1', 'umls/C0004599']	1002:1013	782:813	Computer	PA
+Drug-Disorder	False	relation	19	36	['uniprot/6335799', 'uniprot/4500176']	['umls/C0023962']	1716:1727	1817:1834	Computer	PA
+Drug-Disorder	False	relation	35	18	['uniprot/4500767']	['umls/C0002255']	1783:1785	1692:1704	Computer	PA
+Drug-Disorder	False	relation	35	36	['uniprot/4500767']	['umls/C0023962']	1783:1785	1817:1834	Computer	PA
+Drug-Disorder	False	relation	4	2	['uniprot/6335799', 'uniprot/4500176']	['sda/2', 'sda/1']	238:245	149:187	annotator5	PA
+Drug-Disorder	False	relation	38	15	['sda/5']	['umls/C0004599']	1469:1480	1510:1517	annotator5	SA
+Drug-Disorder	False	relation	38	13	['sda/5']	['umls/C0001386']	1469:1480	1413:1428	annotator5	SA

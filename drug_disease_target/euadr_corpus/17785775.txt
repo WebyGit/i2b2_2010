@@ -1,0 +1,15 @@
+Target-Drug	True	concept	Bim	0	3	annotator1,Computer,annotator2,annotator3	['uniprot/2109829']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	8	13	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	1	Genes & Molecular Sequences
+Target-Drug	True	concept		159	181	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3000527']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	antiapoptotic protein Bcl-2	200	227	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/3000527', 'sda/3']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	proapoptotic protein Bim	236	260	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/2109829', 'sda/4']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	323	328	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	421	426	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	Bim	431	434	annotator1,Computer,annotator2,annotator3	['uniprot/2109829']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	Bim	488	491	annotator1,Computer,annotator2,annotator3	['uniprot/2109829']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	539	544	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	604	609	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	639	644	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	Bim	676	679	annotator1,Computer,annotator2,annotator3	['uniprot/2109829']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	Bim	736	739	annotator1,Computer,annotator2,annotator3	['uniprot/2109829']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcl-2	781	786	annotator1,Computer,annotator2,annotator3	['uniprot/3000527']	15	Genes & Molecular Sequences

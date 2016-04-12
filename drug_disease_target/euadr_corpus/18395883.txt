@@ -1,0 +1,21 @@
+Drug-Disorder	False	concept	immunomodulatory drugs	17	39	annotator1,annotator5	['sda/1', 'sda/3']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	multiple sclerosis	44	62	annotator1,annotator4,Computer,annotator5	['umls/C0002876']	1	Diseases & Disorders
+Drug-Disorder	True	concept	immunomodulatory drug	136	167	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/4']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	IMD	169	172	annotator1,annotator5	['sda/3', 'sda/5']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	multiple sclerosis	201	219	annotator1,annotator4,Computer,annotator5	['umls/C0002876']	4	Diseases & Disorders
+Drug-Disorder	False	concept	MS	221	223	annotator1,annotator5	['sda/4', 'sda/6']	5	Diseases & Disorders
+Drug-Disorder	False	concept	IMD	448	451	annotator1,annotator5	['sda/3', 'sda/5']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	MS	573	575	annotator1,annotator5	['sda/4', 'sda/6']	7	Diseases & Disorders
+Drug-Disorder	False	concept		794	804	Computer	['umls/C0079724']	14	Diseases & Disorders
+Drug-Disorder	False	concept	IMD	912	915	annotator1,annotator5	['sda/3', 'sda/5']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	alcohol	1072	1079	annotator1,annotator4,Computer,annotator5	['uniprot/4501088', 'uniprot/9017059']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	IMD	1238	1241	annotator1,annotator5	['sda/3', 'sda/5']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		1317	1325	Computer	['umls/C0026969']	15	Diseases & Disorders
+Drug-Disorder	False	concept	MS	1478	1480	annotator1,annotator5	['sda/4', 'sda/6']	11	Diseases & Disorders
+Drug-Disorder	False	concept		1506	1512	Computer	['umls/C0000161']	16	Diseases & Disorders
+Drug-Disorder	False	concept	IMD	1686	1689	annotator1,annotator5	['sda/3', 'sda/5']	12	Chemicals & Drugs
+Drug-Disorder	False	relation	0	1	['sda/1', 'sda/3']	['umls/C0002876']	17:39	44:62	annotator1,annotator5	PA
+Drug-Disorder	False	relation	2	4	['sda/2', 'sda/1', 'sda/4']	['umls/C0002876']	136:167	201:219	annotator1,annotator5	PA
+Drug-Disorder	False	relation	2	5	['sda/2', 'sda/1', 'sda/4']	['sda/4', 'sda/6']	136:167	221:223	annotator1,annotator5	PA
+Drug-Disorder	False	relation	3	4	['sda/3', 'sda/5']	['umls/C0002876']	169:172	201:219	annotator1,annotator5	PA
+Drug-Disorder	False	relation	3	5	['sda/3', 'sda/5']	['sda/4', 'sda/6']	169:172	221:223	annotator1,annotator5	PA

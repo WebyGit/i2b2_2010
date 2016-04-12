@@ -1,0 +1,18 @@
+Target-Drug	True	concept	5HT3 antagonists	22	38	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/2']	0	Chemicals & Drugs
+Target-Drug	True	concept	ondansetron	39	50	annotator1,Computer,annotator2,annotator3	['uniprot/4500515', 'uniprot/6288958']	1	Chemicals & Drugs
+Target-Drug	True	concept	alosetron	52	61	annotator1,Computer,annotator2,annotator3	['uniprot/4500705', 'uniprot/6304872']	2	Chemicals & Drugs
+Target-Drug	True	concept	GR87442	66	73	annotator1,annotator2,annotator3	['sda/3', 'sda/5', 'sda/4']	3	Chemicals & Drugs
+Target-Drug	True	concept	5HT3 antagonists	274	290	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/2']	4	Chemicals & Drugs
+Target-Drug	True	concept	ondansetron	291	302	annotator1,Computer,annotator2,annotator3	['uniprot/4500515', 'uniprot/6288958']	5	Chemicals & Drugs
+Target-Drug	True	concept	alosetron	304	313	annotator1,Computer,annotator2,annotator3	['uniprot/4500705', 'uniprot/6304872']	6	Chemicals & Drugs
+Target-Drug	True	concept	GR87442	318	325	annotator1,annotator2,annotator3	['sda/3', 'sda/5', 'sda/4']	7	Chemicals & Drugs
+Target-Drug	True	concept	5HT3 antagonists	929	945	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/2']	8	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A4	977	983	annotator1,Computer,annotator2,annotator3	['uniprot/4001097']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	2C9	992	995	annotator2,annotator3	['sda/6', 'sda/5']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	CYP1A2	1011	1017	annotator1,Computer,annotator2,annotator3	['uniprot/3068082']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	ondansetron	1209	1220	annotator1,Computer,annotator2,annotator3	['uniprot/4500515', 'uniprot/6288958']	11	Chemicals & Drugs
+Target-Drug	True	concept	alosetron	1222	1231	annotator1,Computer,annotator2,annotator3	['uniprot/4500705', 'uniprot/6304872']	12	Chemicals & Drugs
+Target-Drug	True	concept	GR87442	1236	1243	annotator1,annotator2,annotator3	['sda/3', 'sda/5', 'sda/4']	13	Chemicals & Drugs
+Target-Drug	False	relation	8	9	['sda/1', 'sda/3', 'sda/2']	['uniprot/4001097']	929:945	977:983	annotator1,annotator2	PA
+Target-Drug	False	relation	8	10	['sda/1', 'sda/3', 'sda/2']	['uniprot/3068082']	929:945	1011:1017	annotator2,annotator3	PA
+Target-Drug	False	relation	8	14	['sda/1', 'sda/3', 'sda/2']	['sda/6', 'sda/5']	929:945	992:995	annotator2	PA

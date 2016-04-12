@@ -1,0 +1,26 @@
+Target-Drug	False	concept	neutrophil alpha defensin 1	46	79	annotator1,annotator3	['sda/1']	0	Genes & Molecular Sequences
+Target-Drug	False	concept		69	77	annotator2	['sda/14']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	Human neutrophil alpha-defensins	101	133	annotator1,annotator2,annotator3	['sda/2', 'sda/4']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	HNPs	135	139	annotator1,annotator2,annotator3	['sda/3']	2	Genes & Molecular Sequences
+Target-Drug	False	concept	cationic antimicrobial peptides	145	176	annotator1,annotator3	['sda/3', 'sda/5']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	proHNPs	230	237	annotator1,annotator2,annotator3	['sda/4', 'sda/10', 'sda/6']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	anionic N-terminal inhibitory pro peptide	290	331	annotator1,annotator3	['sda/5', 'sda/7']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	proHNP1	352	359	annotator1,annotator2,annotator3	['sda/8', 'sda/11', 'sda/12']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	HNP1	436	440	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/2022972', 'sda/30', 'sda/9']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	net	489	492	annotator1,annotator2,annotator3	['uniprot/9006760']	8	Chemicals & Drugs
+Target-Drug	True	concept	proHNP1	515	522	annotator1,annotator2,annotator3	['sda/8', 'sda/11', 'sda/10']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	C-terminal defensin domain	553	579	annotator1,annotator2	['sda/4', 'sda/15']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	proHNP1	702	709	annotator1,annotator2,annotator3	['sda/8', 'sda/11', 'sda/10']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	HNP1	773	777	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/2022972', 'sda/30', 'sda/9']	12	Genes & Molecular Sequences
+Target-Drug	False	concept		849	856	annotator1,annotator3	['sda/5', 'uniprot/9014295']	13	Genes & Molecular Sequences
+Target-Drug	False	concept		858	865	annotator1,annotator3	['sda/6', 'uniprot/2108324']	14	Genes & Molecular Sequences
+Target-Drug	False	concept		858	865	annotator3	['uniprot/9014268']	14	Chemicals & Drugs
+Target-Drug	False	concept		870	877	annotator1,annotator3	['sda/7', 'uniprot/9014295']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	HNP1	925	929	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/2022972', 'sda/30', 'sda/9']	16	Genes & Molecular Sequences
+Target-Drug	False	concept		1044	1072	annotator1,annotator3	['sda/8', 'sda/15']	17	Genes & Molecular Sequences
+Target-Drug	False	concept		1051	1054	annotator3	['sda/15']	22	Genes & Molecular Sequences
+Target-Drug	False	concept		1058	1061	annotator3	['sda/15']	23	Genes & Molecular Sequences
+Target-Drug	False	concept		1065	1068	annotator3	['sda/17']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	HNP1	1106	1110	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/2022972', 'sda/30', 'sda/9']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	proHNP1	1246	1253	annotator1,annotator2,annotator3	['sda/8', 'sda/11', 'sda/10']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	HNP1	1356	1360	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/2022972', 'sda/30', 'sda/9']	20	Genes & Molecular Sequences

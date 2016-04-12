@@ -1,0 +1,48 @@
+Drug-Disorder	True	concept	Tolerance	0	9	annotator1,annotator4,Computer,annotator5	['umls/C0002218']	0	Diseases & Disorders
+Drug-Disorder	True	concept	rituximab	26	35	annotator1,annotator4,Computer,annotator5	['uniprot/4500161']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	complications	101	114	annotator4,Computer	['umls/C0000923']	31	Diseases & Disorders
+Drug-Disorder	True	concept	Sjoegren's syndrome	118	145	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0151062']	2	Diseases & Disorders
+Drug-Disorder	True	concept	rituximab	200	209	annotator1,annotator4,Computer,annotator5	['uniprot/4500161']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	RTX	211	214	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	systemic symptoms	220	237	annotator4,Computer	['umls/C0228376']	32	Diseases & Disorders
+Drug-Disorder	True	concept	Sjoegren's syndrome	255	282	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0151062']	5	Diseases & Disorders
+Drug-Disorder	False	concept	pSS	284	287	annotator1,annotator5	['sda/5', 'sda/10']	6	Diseases & Disorders
+Drug-Disorder	False	concept	pSS	378	381	annotator1,annotator5	['sda/5', 'sda/10']	7	Diseases & Disorders
+Drug-Disorder	False	concept	disease	554	561	annotator4,Computer	['umls/C0001185']	33	Diseases & Disorders
+Drug-Disorder	True	concept	RTX	598	601	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	lymphoma	621	629	annotator1,annotator4,Computer,annotator5	['umls/C0002647']	9	Diseases & Disorders
+Drug-Disorder	False	concept		639	686	annotator1	['sda/6']	10	Diseases & Disorders
+Drug-Disorder	True	concept	pulmonary disease	650	667	annotator4,Computer,annotator5	['umls/C0002616']	34	Diseases & Disorders
+Drug-Disorder	False	concept		696	716	annotator1	['sda/7']	11	Diseases & Disorders
+Drug-Disorder	True	concept	mixed cryoglobulinaemia	726	749	annotator1,annotator4,Computer,annotator5	['umls/C0061912']	12	Diseases & Disorders
+Drug-Disorder	True	concept	thrombocytopenia	759	775	annotator1,annotator4,Computer,annotator5	['umls/C0004349']	13	Diseases & Disorders
+Drug-Disorder	True	concept	mononeuritis multiplex	788	810	annotator1,annotator4,Computer,annotator5	['umls/C0005547']	14	Diseases & Disorders
+Drug-Disorder	False	concept	sickness-like reaction	942	970	annotator1,annotator5	['sda/9', 'sda/6']	15	Diseases & Disorders
+Drug-Disorder	True	concept	lymphomas	1082	1091	annotator1,annotator4,Computer,annotator5	['umls/C0002647']	16	Diseases & Disorders
+Drug-Disorder	False	concept		1143	1150	annotator5	['sda/7']	36	Diseases & Disorders
+Drug-Disorder	False	concept	Corticosteroid	1196	1210	annotator1,annotator5	['sda/8']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	RTX	1244	1247	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	18	Chemicals & Drugs
+Drug-Disorder	False	concept	tumour necrosis	1381	1396	annotator4,Computer	['umls/C0029610']	35	Diseases & Disorders
+Drug-Disorder	True	concept	tolerance	1519	1528	annotator1,annotator4,Computer,annotator5	['umls/C0002218']	21	Diseases & Disorders
+Drug-Disorder	False	concept	sickness-like reaction	1559	1587	annotator1,annotator5	['sda/9', 'sda/6']	22	Diseases & Disorders
+Drug-Disorder	True	concept	tolerance	1641	1650	annotator1,annotator4,Computer,annotator5	['umls/C0002218']	23	Diseases & Disorders
+Drug-Disorder	True	concept	RTX	1654	1657	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	RTX	1694	1697	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	25	Chemicals & Drugs
+Drug-Disorder	False	concept	corticosteroid	1731	1745	annotator1,annotator5	['sda/8']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	RTX	1850	1853	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	28	Chemicals & Drugs
+Drug-Disorder	True	concept	RTX	1920	1923	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	29	Chemicals & Drugs
+Drug-Disorder	False	concept	pSS	1927	1930	annotator1,annotator5	['sda/5', 'sda/10']	30	Diseases & Disorders
+Drug-Disorder	False	relation	8	9	['sda/3', 'sda/1']	['umls/C0002647']	598:601	621:629	annotator1	PA
+Drug-Disorder	False	relation	8	12	['sda/3', 'sda/1']	['umls/C0061912']	598:601	726:749	annotator1	PA
+Drug-Disorder	False	relation	8	13	['sda/3', 'sda/1']	['umls/C0004349']	598:601	759:775	annotator1	PA
+Drug-Disorder	False	relation	8	14	['sda/3', 'sda/1']	['umls/C0005547']	598:601	788:810	annotator1	PA
+Drug-Disorder	False	relation	8	10	['sda/3', 'sda/1']	['sda/6']	598:601	639:686	annotator1	PA
+Drug-Disorder	False	relation	8	11	['sda/3', 'sda/1']	['sda/7']	598:601	696:716	annotator1	PA
+Drug-Disorder	False	relation	29	30	['sda/3', 'sda/1']	['sda/5', 'sda/10']	1920:1923	1927:1930	annotator1,annotator5	SA
+Drug-Disorder	False	relation	18	35	['sda/3', 'sda/1']	['umls/C0029610']	1244:1247	1381:1396	annotator4	PA
+Drug-Disorder	False	relation	1	31	['uniprot/4500161']	['umls/C0000923']	26:35	101:114	Computer	PA
+Drug-Disorder	False	relation	1	2	['uniprot/4500161']	['sda/4', 'umls/C0151062']	26:35	118:145	Computer	PA
+Drug-Disorder	False	relation	3	5	['uniprot/4500161']	['sda/4', 'umls/C0151062']	200:209	255:282	Computer	PA
+Drug-Disorder	False	relation	3	32	['uniprot/4500161']	['umls/C0228376']	200:209	220:237	Computer	PA
+Drug-Disorder	False	relation	3	6	['uniprot/4500161']	['sda/5', 'sda/10']	200:209	284:287	annotator5	PA
+Drug-Disorder	False	relation	4	6	['sda/3', 'sda/1']	['sda/5', 'sda/10']	211:214	284:287	annotator5	PA

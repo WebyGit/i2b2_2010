@@ -1,0 +1,25 @@
+Target-Disorder	True	concept	TRAIL	68	73	annotator1,Computer,annotator2,annotator3	['uniprot/3002824']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	prostate cancer	96	111	annotator1,Computer,annotator2,annotator3	['umls/C0038332', 'sda/5']	1	Diseases & Disorders
+Target-Disorder	True	concept	adverse effects	126	141	annotator1,Computer,annotator2,annotator3	['umls/C0105312']	2	Diseases & Disorders
+Target-Disorder	True	concept	cancer	195	201	annotator1,Computer,annotator3	['umls/C0000617', 'umls/C0002994']	3	Diseases & Disorders
+Target-Disorder	False	concept		208	218	Computer	['umls/C0000101']	21	Diseases & Disorders
+Target-Disorder	False	concept		254	257	Computer	['umls/C0002987']	22	Diseases & Disorders
+Target-Disorder	True	concept	prostate cancer	504	519	annotator1,Computer,annotator2,annotator3	['umls/C0038332', 'sda/5']	4	Diseases & Disorders
+Target-Disorder	False	concept		530	540	Computer	['umls/C0000101']	23	Diseases & Disorders
+Target-Disorder	False	concept		552	577	annotator1	['sda/6']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept		579	582	annotator1	['sda/7']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	coxsackie and adenovirus receptor	1192	1225	annotator1,annotator2,annotator3	['sda/9', 'sda/3', 'sda/2']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept		1206	1216	Computer	['umls/C0000101']	24	Diseases & Disorders
+Target-Disorder	True	concept	CAR	1227	1230	annotator1,Computer,annotator2,annotator3	['uniprot/3000332']	13	Genes & Molecular Sequences
+Target-Disorder	True	concept	CAR	1227	1230	annotator1,Computer,annotator2,annotator3	['umls/C0041754']	13	Diseases & Disorders
+Target-Disorder	True	concept	infection adenovirus	1274	1302	annotator1,Computer,Computer,annotator3	['sda/4', 'umls/C0002244', 'umls/C0000101', 'umls/C0374189']	14	Diseases & Disorders
+Target-Disorder	True	concept	tumor necrosis factor-related apoptosis inducing ligand	1314	1370	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/3000496', 'sda/3']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	TRAIL	1371	1376	annotator1,Computer,annotator2,annotator3	['uniprot/3002824']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	TRAIL	1463	1468	annotator1,Computer,annotator2,annotator3	['uniprot/3002824']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	TRAIL	1703	1708	annotator1,Computer,annotator2,annotator3	['uniprot/3002824']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	prostate cancer	1777	1792	annotator1,Computer,annotator2,annotator3	['umls/C0038332', 'sda/5']	20	Diseases & Disorders
+Target-Disorder	False	relation	15	14	['sda/5', 'uniprot/3000496', 'sda/3']	['sda/4', 'umls/C0002244', 'umls/C0000101', 'umls/C0374189']	1314:1370	1274:1302	annotator1,Computer	PA
+Target-Disorder	False	relation	0	1	['uniprot/3002824']	['umls/C0038332', 'sda/5']	68:73	96:111	Computer,annotator2	PA
+Target-Disorder	False	relation	13	24	['uniprot/3000332', 'umls/C0041754']	['umls/C0000101']	1227:1230	1206:1216	Computer	PA
+Target-Disorder	False	relation	16	14	['uniprot/3002824']	['sda/4', 'umls/C0002244', 'umls/C0000101', 'umls/C0374189']	1371:1376	1274:1302	Computer	PA
+Target-Disorder	True	relation	19	20	['uniprot/3002824']	['umls/C0038332', 'sda/5']	1703:1708	1777:1792	Computer,annotator2,annotator3	PA

@@ -1,0 +1,12 @@
+Target-Disorder	True	concept	human immunodeficiency virus	90	118	Computer,annotator3	['umls/C0000055', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	False	concept	HIV-1	127	132	annotator3	['sda/6']	10	Diseases & Disorders
+Target-Disorder	False	concept	HIV-1	254	259	annotator3	['sda/6']	11	Diseases & Disorders
+Target-Disorder	True	concept	human immunodeficiency virus	457	485	Computer,annotator3	['umls/C0000055']	1	Diseases & Disorders
+Target-Disorder	False	concept	HIV	487	490	annotator3	['sda/3']	12	Diseases & Disorders
+Target-Disorder	False	concept	CD4	693	696	annotator2	['sda/1']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	step	746	750	Computer	['uniprot/4001071']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	HIV	774	777	Computer,annotator3	['umls/C0002040', 'sda/3']	3	Diseases & Disorders
+Target-Disorder	True	concept	HIV	1110	1113	Computer,annotator3	['umls/C0002040', 'sda/3']	4	Diseases & Disorders
+Target-Disorder	False	concept	CD4	1168	1171	annotator2	['sda/1']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept	CD4	1713	1716	annotator2	['sda/1']	9	Genes & Molecular Sequences
+Target-Disorder	False	relation	2	3	['uniprot/4001071']	['umls/C0002040', 'sda/3']	746:750	774:777	Computer	PA

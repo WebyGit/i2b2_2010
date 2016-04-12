@@ -1,0 +1,33 @@
+Drug-Disorder	False	concept	leptin	12	18	annotator4,annotator5	['sda/4', 'sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	hypothyroid	66	77	annotator1,Computer,annotator5	['umls/C0002195']	1	Diseases & Disorders
+Drug-Disorder	False	concept	Leptin	111	117	annotator4,annotator5	['sda/4', 'sda/1']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		133	139	Computer	['umls/C0046216']	24	Diseases & Disorders
+Drug-Disorder	False	concept		281	287	Computer	['umls/C0046216']	25	Diseases & Disorders
+Drug-Disorder	True	concept	thyroid hormone deficiency	306	332	annotator1,Computer,annotator5	['sda/4', 'umls/C0079013', 'sda/2']	3	Diseases & Disorders
+Drug-Disorder	False	concept	leptin	342	348	annotator4,annotator5	['sda/4', 'sda/1']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	428	434	annotator4,annotator5	['sda/4', 'sda/1']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	severe hypothyroidism	519	540	annotator1,annotator4,Computer,annotator5	['umls/C0024477', 'sda/5']	6	Diseases & Disorders
+Drug-Disorder	False	concept	leptin	687	693	annotator4,annotator5	['sda/4', 'sda/1']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	thyroxine	700	709	annotator4,Computer,annotator5	['uniprot/9014380', 'uniprot/4501047']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	triiodothyronine	711	727	annotator4,Computer,annotator5	['uniprot/9014375', 'uniprot/4501046']	21	Chemicals & Drugs
+Drug-Disorder	False	concept	TSH	732	735	Computer,annotator5	['uniprot/4500452']	26	Chemicals & Drugs
+Drug-Disorder	False	concept	Leptin	760	766	annotator4,annotator5	['sda/4', 'sda/1']	8	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	878	884	annotator4,annotator5	['sda/4', 'sda/1']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	thyroxine	913	922	annotator4,Computer,annotator5	['uniprot/9014380', 'uniprot/4501047']	22	Chemicals & Drugs
+Drug-Disorder	False	concept		924	941	annotator4	['sda/3']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	TSH	946	949	Computer,annotator5	['uniprot/4500452']	27	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	1028	1034	annotator4,annotator5	['sda/4', 'sda/1']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	1044	1050	annotator4,annotator5	['sda/4', 'sda/1']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	1064	1070	annotator4,annotator5	['sda/4', 'sda/1']	12	Chemicals & Drugs
+Drug-Disorder	False	concept	TSH	1075	1078	Computer,annotator5	['uniprot/4500452']	28	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	1189	1195	annotator4,annotator5	['sda/4', 'sda/1']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	1205	1211	annotator4,annotator5	['sda/4', 'sda/1']	14	Chemicals & Drugs
+Drug-Disorder	False	concept	leptin	1225	1231	annotator4,annotator5	['sda/4', 'sda/1']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	TSH	1236	1239	Computer,annotator5	['uniprot/4500452']	29	Chemicals & Drugs
+Drug-Disorder	False	concept	Leptin	1267	1273	annotator4,annotator5	['sda/4', 'sda/1']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	Leptin	1389	1395	annotator4,annotator5	['sda/4', 'sda/1']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	hypothyroidism	1425	1439	annotator1,annotator4,Computer,annotator5	['umls/C0002195', 'sda/5']	18	Diseases & Disorders
+Drug-Disorder	True	concept	hypothyroid	1500	1511	annotator1,Computer,annotator5	['umls/C0002195']	19	Diseases & Disorders
+Drug-Disorder	False	relation	17	18	['sda/4', 'sda/1']	['umls/C0002195', 'sda/5']	1389:1395	1425:1439	annotator4,annotator5	NA
+Drug-Disorder	False	relation	0	1	['sda/4', 'sda/1']	['umls/C0002195']	12:18	66:77	annotator5	PA
+Drug-Disorder	False	relation	4	3	['sda/4', 'sda/1']	['sda/4', 'umls/C0079013', 'sda/2']	342:348	306:332	annotator5	SA

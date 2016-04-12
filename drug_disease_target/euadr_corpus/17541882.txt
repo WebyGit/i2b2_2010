@@ -1,0 +1,20 @@
+Drug-Disorder	True	concept	Ziprasidone	0	11	annotator1,annotator4,Computer,annotator5	['uniprot/4501139', 'uniprot/6334955']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	ziprasidone	184	195	annotator1,annotator4,Computer,annotator5	['uniprot/4501139', 'uniprot/6334955']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	schizophrenia	271	284	annotator1,annotator4,Computer,annotator5	['umls/C0003961']	2	Diseases & Disorders
+Drug-Disorder	True	concept	Ziprasidone	347	358	annotator1,annotator4,Computer,annotator5	['uniprot/4501139', 'uniprot/6334955']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	negative symptoms	643	660	annotator1,Computer,annotator5	['sda/1', 'umls/C0148591']	4	Diseases & Disorders
+Drug-Disorder	True	concept	extrapyramidal symptoms	715	738	annotator1,annotator4,Computer,annotator5	['umls/C0011971']	5	Diseases & Disorders
+Drug-Disorder	False	concept		793	799	Computer	['umls/C0046216']	13	Diseases & Disorders
+Drug-Disorder	True	concept	ziprasidone	852	863	annotator1,annotator4,Computer,annotator5	['uniprot/4501139', 'uniprot/6334955']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	negative symptoms	977	994	annotator1,Computer,annotator5	['sda/1', 'umls/C0148591']	7	Diseases & Disorders
+Drug-Disorder	True	concept	ziprasidone	1030	1041	annotator1,annotator4,Computer,annotator5	['uniprot/4501139', 'uniprot/6334955']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	ziprasidone	1083	1094	annotator1,annotator4,Computer,annotator5	['uniprot/4501139', 'uniprot/6334955']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	absence	1119	1126	annotator1,annotator4,Computer,annotator5	['umls/C0158184']	10	Diseases & Disorders
+Drug-Disorder	True	concept	extrapyramidal symptoms	1130	1153	annotator1,annotator4,Computer,annotator5	['umls/C0011971']	11	Diseases & Disorders
+Drug-Disorder	False	concept		1158	1169	annotator5	['sda/2']	15	Diseases & Disorders
+Drug-Disorder	True	concept	negative symptoms schizophrenia	1321	1355	annotator1,annotator4,Computer,annotator5,annotator5	['sda/2', 'umls/C0003961', 'sda/1']	12	Diseases & Disorders
+Drug-Disorder	False	concept		1330	1338	Computer	['umls/C0148591']	14	Diseases & Disorders
+Drug-Disorder	True	relation	6	7	['uniprot/4501139', 'uniprot/6334955']	['sda/1', 'umls/C0148591']	852:863	977:994	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	9	11	['uniprot/4501139', 'uniprot/6334955']	['umls/C0011971']	1083:1094	1130:1153	annotator1,annotator4,Computer	PA
+Drug-Disorder	False	relation	9	11	['uniprot/4501139', 'uniprot/6334955']	['umls/C0011971']	1083:1094	1130:1153	annotator5	NA
+Drug-Disorder	False	relation	9	15	['uniprot/4501139', 'uniprot/6334955']	['sda/2']	1083:1094	1158:1169	annotator5	NA

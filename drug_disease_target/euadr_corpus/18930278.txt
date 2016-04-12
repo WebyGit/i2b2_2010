@@ -1,0 +1,23 @@
+Target-Disorder	False	concept	methotrexate	66	78	annotator3	['sda/2']	0	Diseases & Disorders
+Target-Disorder	True	concept	urothelial cancer	136	153	annotator1,Computer,annotator2	['sda/1', 'umls/C0000617']	4	Diseases & Disorders
+Target-Disorder	False	concept		234	271	annotator3	['sda/4']	36	Diseases & Disorders
+Target-Disorder	True	concept	cancers	276	283	annotator1,Computer,annotator2	['umls/C0000617']	5	Diseases & Disorders
+Target-Disorder	False	concept	methotrexate	613	625	annotator3	['sda/2']	6	Diseases & Disorders
+Target-Disorder	True	concept	urothelial cancer	726	743	annotator1,Computer,annotator2	['sda/1', 'umls/C0000617']	10	Diseases & Disorders
+Target-Disorder	True	concept	ABCB1	1003	1008	annotator1,Computer,annotator2,annotator3	['uniprot/3055496']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	GSTP1	1010	1015	annotator1,Computer,annotator2,annotator3	['uniprot/3000660']	20	Genes & Molecular Sequences
+Target-Disorder	True	concept	CYP3A5	1017	1023	annotator1,Computer,annotator2,annotator3	['uniprot/3088340']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	MTHFR	1028	1033	annotator1,Computer,annotator2,annotator3	['uniprot/4001340']	22	Genes & Molecular Sequences
+Target-Disorder	False	concept		1219	1263	annotator3	['sda/6']	37	Diseases & Disorders
+Target-Disorder	False	concept	CYP3A5 A6986G genotype *3/*3	1310	1338	annotator1,annotator3	['sda/7', 'sda/8']	23	SNP & Sequence variations
+Target-Disorder	True	concept	CYP3A5 A6986G genotype *3/*3	1310	1338	Computer,annotator2,annotator3	['uniprot/3088340']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		1317	1323	annotator2	['sda/2']	35	SNP & Sequence variations
+Target-Disorder	True	concept	leukocytopenia	1492	1506	annotator1,Computer,annotator2,annotator3	['umls/C0002546']	24	Diseases & Disorders
+Target-Disorder	False	concept	*3/*3	1622	1636	annotator1,annotator3	['sda/4', 'sda/7']	25	SNP & Sequence variations
+Target-Disorder	False	concept		1689	1698	annotator1	['sda/5']	26	SNP & Sequence variations
+Target-Disorder	True	concept	A6986G CYP3A5	1767	1796	annotator1,annotator2,annotator3	['sda/6', 'sda/2', 'sda/3']	27	SNP & Sequence variations
+Target-Disorder	True	concept	A6986G CYP3A5	1767	1796	Computer,annotator2,annotator3	['uniprot/3088340']	27	Genes & Molecular Sequences
+Target-Disorder	True	concept	leukocytopenia	1914	1928	annotator1,Computer,annotator2,annotator3	['umls/C0002546', 'sda/9']	30	Diseases & Disorders
+Target-Disorder	True	relation	23	24	['sda/7', 'uniprot/3088340', 'sda/8']	['umls/C0002546']	1310:1338	1492:1506	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	27	30	['sda/6', 'uniprot/3088340', 'sda/2', 'sda/3']	['umls/C0002546', 'sda/9']	1767:1796	1914:1928	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	35	24	['sda/2']	['umls/C0002546']	1317:1323	1492:1506	annotator2	PA

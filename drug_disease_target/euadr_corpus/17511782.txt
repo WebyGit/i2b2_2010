@@ -1,0 +1,14 @@
+Target-Drug	True	concept	caspase-3	88	97	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	146	150	annotator1,Computer,annotator2,annotator3	['uniprot/3074545', 'sda/1']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	200	204	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-3	372	381	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	EGFP	408	412	annotator1,annotator3	['sda/1', 'sda/2']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	tHcred1	417	424	annotator1,annotator3	['sda/2', 'sda/3']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-3	449	458	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-3	720	729	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	EGFR kinase inhibitors	800	822	annotator1,annotator3	['sda/3', 'sda/4']	11	Chemicals & Drugs
+Target-Drug	False	concept	EGFR kinase inhibitors	800	822	Computer,annotator2	['uniprot/3074545']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	5-fluorouracil	867	881	annotator1,Computer,annotator2,annotator3	['uniprot/4500927']	13	Chemicals & Drugs
+Target-Drug	True	concept	EGFR	917	921	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	14	Genes & Molecular Sequences
+Target-Drug	True	relation	13	14	['uniprot/4500927']	['uniprot/3074545']	867:881	917:921	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	11	14	['sda/3', 'uniprot/3074545', 'sda/4']	['uniprot/3074545']	800:822	917:921	annotator1,annotator3	PA

@@ -1,0 +1,6 @@
+Target-Drug	True	concept	Stat3	8	13	annotator1,Computer,annotator2,annotator3	['uniprot/3007960']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	Stat3	258	263	annotator1,Computer,annotator2,annotator3	['uniprot/3007960']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	Stat3	333	338	annotator1,Computer,annotator2,annotator3	['uniprot/3007960']	4	Genes & Molecular Sequences
+Target-Drug	False	concept		508	511	annotator3	['sda/1']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	Stat3	618	623	annotator1,Computer,annotator2,annotator3	['uniprot/3007960']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	Stat3	642	647	annotator1,Computer,annotator2,annotator3	['uniprot/3007960']	7	Genes & Molecular Sequences

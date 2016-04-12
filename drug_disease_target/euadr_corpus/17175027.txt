@@ -1,0 +1,21 @@
+Target-Drug	True	concept	manganese	65	74	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	0	Chemicals & Drugs
+Target-Drug	True	concept	manganese	175	184	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	1	Chemicals & Drugs
+Target-Drug	True	concept	Mn	186	188	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/2']	2	Chemicals & Drugs
+Target-Drug	True	concept	Mn	293	295	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/2']	3	Chemicals & Drugs
+Target-Drug	True	concept	Mn	575	577	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/2']	4	Chemicals & Drugs
+Target-Drug	True	concept	Mn	647	649	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/2']	5	Chemicals & Drugs
+Target-Drug	True	concept	Mn	806	808	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/2']	6	Chemicals & Drugs
+Target-Drug	False	concept	cytokines	877	886	annotator1,annotator2	['sda/6', 'sda/4']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	transporters	891	903	annotator1,annotator2	['sda/7', 'sda/5']	8	Genes & Molecular Sequences
+Target-Drug	False	concept		907	925	annotator1	['sda/8']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	transcriptional regulators	930	956	annotator1,annotator2	['sda/9', 'sda/6']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	chemokines	990	1016	annotator1,annotator2	['sda/10', 'sda/7']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	cytokines	1018	1027	annotator1,annotator2	['sda/6', 'sda/4']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	Mn(2 )	1418	1424	annotator1,annotator2,annotator3	['sda/5', 'sda/8', 'sda/2']	13	Chemicals & Drugs
+Target-Drug	True	concept	Mn(2 )	1505	1511	annotator1,annotator2,annotator3	['sda/5', 'sda/8', 'sda/2']	14	Chemicals & Drugs
+Target-Drug	True	concept	Mn(2 )	1711	1717	annotator1,annotator2,annotator3	['sda/5', 'sda/8', 'sda/2']	16	Chemicals & Drugs
+Target-Drug	True	concept	Mn	1963	1965	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/2']	18	Chemicals & Drugs
+Target-Drug	False	relation	6	7	['sda/4', 'sda/3', 'sda/2']	['sda/6', 'sda/4']	806:808	877:886	annotator1,annotator2	PA
+Target-Drug	False	relation	6	8	['sda/4', 'sda/3', 'sda/2']	['sda/7', 'sda/5']	806:808	891:903	annotator1,annotator2	PA
+Target-Drug	False	relation	6	9	['sda/4', 'sda/3', 'sda/2']	['sda/8']	806:808	907:925	annotator1	PA
+Target-Drug	False	relation	6	10	['sda/4', 'sda/3', 'sda/2']	['sda/9', 'sda/6']	806:808	930:956	annotator1,annotator2	PA

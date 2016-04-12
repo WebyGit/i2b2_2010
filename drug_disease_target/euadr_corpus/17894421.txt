@@ -1,0 +1,54 @@
+Drug-Disorder	True	concept	benzodiazepines	7	22	annotator1,annotator4,annotator5	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	benzodiazepine receptor agonists	27	59	annotator1,annotator4,annotator5	['sda/2']	1	Chemicals & Drugs
+Drug-Disorder	False	concept		78	94	annotator1	['sda/3']	2	Diseases & Disorders
+Drug-Disorder	True	concept	congenital malformations	99	123	annotator1,Computer,annotator5	['sda/13', 'umls/C0000013']	3	Diseases & Disorders
+Drug-Disorder	True	concept	Benzodiazepines	149	164	annotator1,annotator4,annotator5	['sda/1']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	BZD	166	169	annotator1,annotator4,annotator5	['sda/4', 'sda/3']	5	Chemicals & Drugs
+Drug-Disorder	False	concept		226	244	annotator1	['sda/5']	6	Diseases & Disorders
+Drug-Disorder	True	concept	congenital malformations	254	278	annotator1,Computer,annotator5	['sda/13', 'umls/C0000013']	7	Diseases & Disorders
+Drug-Disorder	True	concept	orofacial clefts	293	309	annotator1,annotator4,annotator5	['sda/7', 'sda/3', 'sda/4']	8	Diseases & Disorders
+Drug-Disorder	False	concept		338	354	annotator1	['sda/3']	9	Diseases & Disorders
+Drug-Disorder	True	concept	congenital malformations	359	383	annotator1,Computer,annotator5	['sda/13', 'umls/C0000013']	10	Diseases & Disorders
+Drug-Disorder	True	concept	BZD	426	429	annotator1,annotator4,annotator5	['sda/4', 'sda/3']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	hypnotic benzodiazepine receptor agonists	437	478	annotator1,annotator4,annotator5	['sda/8', 'sda/2', 'sda/6']	12	Chemicals & Drugs
+Drug-Disorder	False	concept	HBRA	480	484	annotator1,annotator5	['sda/9', 'sda/7']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	BZD	619	622	annotator1,annotator4,annotator5	['sda/4', 'sda/3']	14	Chemicals & Drugs
+Drug-Disorder	False	concept	HBRA	630	634	annotator1,annotator5	['sda/9', 'sda/7']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		753	767	Computer	['umls/C0105252']	33	Diseases & Disorders
+Drug-Disorder	False	concept		769	785	annotator1	['sda/3']	16	Diseases & Disorders
+Drug-Disorder	True	concept	congenital malformations	796	820	annotator1,Computer,annotator5	['sda/13', 'umls/C0000013']	17	Diseases & Disorders
+Drug-Disorder	True	concept	preterm birth	919	932	annotator1,Computer,annotator5	['umls/C0005690']	18	Diseases & Disorders
+Drug-Disorder	False	concept	low birth weight	937	953	annotator4,annotator5	['sda/6', 'sda/11']	31	Diseases & Disorders
+Drug-Disorder	True	concept	congenital malformations	1023	1047	annotator1,Computer,annotator5	['sda/13', 'umls/C0000013']	19	Diseases & Disorders
+Drug-Disorder	True	concept	pylorostenosis	1258	1272	annotator1,annotator4,annotator5	['sda/10', 'sda/8', 'sda/19']	20	Diseases & Disorders
+Drug-Disorder	True	concept	alimentary tract atresia	1276	1300	annotator1,annotator4,Computer,annotator5	['sda/11', 'sda/7', 'umls/C0016767', 'sda/12']	21	Diseases & Disorders
+Drug-Disorder	False	concept	malformation	1400	1412	Computer,annotator5	['umls/C0000013']	34	Diseases & Disorders
+Drug-Disorder	True	concept	BZD	1449	1452	annotator1,annotator4,annotator5	['sda/4', 'sda/3']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	HBRA	1456	1460	annotator1,annotator5	['sda/9', 'sda/7']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	orofacial clefts	1502	1518	annotator1,annotator4,annotator5	['sda/7', 'sda/3', 'sda/4']	25	Diseases & Disorders
+Drug-Disorder	True	concept	BZD	1580	1583	annotator1,annotator4,annotator5	['sda/4', 'sda/3']	26	Chemicals & Drugs
+Drug-Disorder	False	concept	HBRA	1591	1595	annotator1,annotator5	['sda/9', 'sda/7']	27	Chemicals & Drugs
+Drug-Disorder	True	concept	preterm birth	1622	1635	annotator1,Computer,annotator5	['umls/C0005690']	28	Diseases & Disorders
+Drug-Disorder	False	concept	low birth weight	1640	1656	annotator4,annotator5	['sda/6', 'sda/11']	32	Diseases & Disorders
+Drug-Disorder	False	concept		1676	1684	Computer,annotator5	['umls/C0148591', 'sda/17']	35	Diseases & Disorders
+Drug-Disorder	True	concept	pylorostenosis	1777	1791	annotator1,annotator4,annotator5	['sda/10', 'sda/8', 'sda/19']	29	Diseases & Disorders
+Drug-Disorder	True	concept	alimentary tract atresia	1796	1820	annotator1,annotator4,Computer,annotator5	['sda/11', 'sda/7', 'umls/C0016767', 'sda/12']	30	Diseases & Disorders
+Drug-Disorder	False	relation	4	6	['sda/1']	['sda/5']	149:164	226:244	annotator1	SA
+Drug-Disorder	False	relation	4	8	['sda/1']	['sda/7', 'sda/3', 'sda/4']	149:164	293:309	annotator1,annotator5	SA
+Drug-Disorder	False	relation	4	7	['sda/1']	['sda/13', 'umls/C0000013']	149:164	254:278	annotator1,annotator5	SA
+Drug-Disorder	False	relation	5	6	['sda/4', 'sda/3']	['sda/5']	166:169	226:244	annotator1	SA
+Drug-Disorder	False	relation	5	8	['sda/4', 'sda/3']	['sda/7', 'sda/3', 'sda/4']	166:169	293:309	annotator1,annotator5	SA
+Drug-Disorder	False	relation	5	7	['sda/4', 'sda/3']	['sda/13', 'umls/C0000013']	166:169	254:278	annotator1	SA
+Drug-Disorder	False	relation	26	28	['sda/4', 'sda/3']	['umls/C0005690']	1580:1583	1622:1635	annotator1,annotator5	SA
+Drug-Disorder	False	relation	27	28	['sda/9', 'sda/7']	['umls/C0005690']	1591:1595	1622:1635	annotator1,annotator5	SA
+Drug-Disorder	False	relation	26	32	['sda/4', 'sda/3']	['sda/6', 'sda/11']	1580:1583	1640:1656	annotator4,annotator5	PA
+Drug-Disorder	False	relation	0	3	['sda/1']	['sda/13', 'umls/C0000013']	7:22	99:123	annotator5	PA
+Drug-Disorder	False	relation	1	3	['sda/2']	['sda/13', 'umls/C0000013']	27:59	99:123	annotator5	PA
+Drug-Disorder	False	relation	5	7	['sda/4', 'sda/3']	['sda/13', 'umls/C0000013']	166:169	254:278	annotator5	NA
+Drug-Disorder	False	relation	11	10	['sda/4', 'sda/3']	['sda/13', 'umls/C0000013']	426:429	359:383	annotator5	NA
+Drug-Disorder	False	relation	13	10	['sda/9', 'sda/7']	['sda/13', 'umls/C0000013']	480:484	359:383	annotator5	NA
+Drug-Disorder	False	relation	23	34	['sda/4', 'sda/3']	['umls/C0000013']	1449:1452	1400:1412	annotator5	NA
+Drug-Disorder	False	relation	24	34	['sda/9', 'sda/7']	['umls/C0000013']	1456:1460	1400:1412	annotator5	NA
+Drug-Disorder	False	relation	26	35	['sda/4', 'sda/3']	['umls/C0148591', 'sda/17']	1580:1583	1676:1684	annotator5	PA
+Drug-Disorder	False	relation	27	32	['sda/9', 'sda/7']	['sda/6', 'sda/11']	1591:1595	1640:1656	annotator5	PA
+Drug-Disorder	False	relation	27	35	['sda/9', 'sda/7']	['umls/C0148591', 'sda/17']	1591:1595	1676:1684	annotator5	PA

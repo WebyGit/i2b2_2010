@@ -1,0 +1,29 @@
+Target-Disorder	True	concept	rs42524	13	20	annotator1,annotator2,annotator3	['sda/1']	0	SNP & Sequence variations
+Target-Disorder	True	concept	COL1A2	24	30	annotator1,Computer,annotator2,annotator3	['uniprot/3000069']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	sporadic intracranial aneurysms	35	66	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0000723', 'sda/5']	2	Diseases & Disorders
+Target-Disorder	True	concept	COL1A2	106	112	annotator1,Computer,annotator2,annotator3	['uniprot/3000069']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	intracranial aneurysms	174	196	annotator1,Computer,annotator2,annotator3	['umls/C0000723', 'sda/6']	4	Diseases & Disorders
+Target-Disorder	True	concept	IAs	198	201	annotator1,annotator2,annotator3	['sda/3', 'sda/4', 'sda/2']	5	Diseases & Disorders
+Target-Disorder	True	concept	rs42524	322	329	annotator1,annotator2,annotator3	['sda/1']	6	SNP & Sequence variations
+Target-Disorder	True	concept	COL1A2	346	352	annotator1,Computer,annotator2,annotator3	['uniprot/3000069']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	IAs	384	387	annotator1,annotator2,annotator3	['sda/3', 'sda/4']	8	Diseases & Disorders
+Target-Disorder	True	concept	rs42524	435	442	annotator1,annotator2,annotator3	['sda/1']	9	SNP & Sequence variations
+Target-Disorder	True	concept	COL1A2	450	456	annotator1,Computer,annotator2,annotator3	['uniprot/3000069']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	IAs	580	583	annotator1,annotator2,annotator3	['sda/3', 'sda/4']	11	Diseases & Disorders
+Target-Disorder	True	concept	IAs	1129	1132	annotator1,annotator2,annotator3	['sda/3', 'sda/4', 'sda/2']	12	Diseases & Disorders
+Target-Disorder	True	concept	rs42524	1185	1192	annotator1,annotator2,annotator3	['sda/1']	13	SNP & Sequence variations
+Target-Disorder	True	concept	COL1A2	1209	1215	annotator1,Computer,annotator2,annotator3	['uniprot/3000069']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	IAs	1260	1263	annotator1,annotator2,annotator3	['sda/3', 'sda/4']	15	Diseases & Disorders
+Target-Disorder	True	concept	COL1A2	1367	1373	annotator1,Computer,annotator2,annotator3	['uniprot/3000069']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	IAs	1378	1381	annotator1,annotator2,annotator3	['sda/3', 'sda/4', 'sda/2']	17	Diseases & Disorders
+Target-Disorder	True	relation	3	4	['uniprot/3000069']	['umls/C0000723', 'sda/6']	106:112	174:196	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	3	5	['uniprot/3000069']	['sda/3', 'sda/4', 'sda/2']	106:112	198:201	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	7	8	['uniprot/3000069']	['sda/3', 'sda/4']	346:352	384:387	annotator1,annotator2	PA
+Target-Disorder	True	relation	13	15	['sda/1']	['sda/3', 'sda/4']	1185:1192	1260:1263	annotator1,annotator2,annotator3	SA
+Target-Disorder	True	relation	16	17	['uniprot/3000069']	['sda/3', 'sda/4', 'sda/2']	1367:1373	1378:1381	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	1	2	['uniprot/3000069']	['sda/2', 'umls/C0000723', 'sda/5']	24:30	35:66	Computer,annotator2	PA
+Target-Disorder	False	relation	0	2	['sda/1']	['sda/2', 'umls/C0000723', 'sda/5']	13:20	35:66	annotator2	SA
+Target-Disorder	False	relation	6	8	['sda/1']	['sda/3', 'sda/4']	322:329	384:387	annotator2	SA
+Target-Disorder	False	relation	10	11	['uniprot/3000069']	['sda/3', 'sda/4']	450:456	580:583	annotator2	PA
+Target-Disorder	False	relation	9	11	['sda/1']	['sda/3', 'sda/4']	435:442	580:583	annotator2	PA
+Target-Disorder	False	relation	14	15	['uniprot/3000069']	['sda/3', 'sda/4']	1209:1215	1260:1263	annotator2,annotator3	PA

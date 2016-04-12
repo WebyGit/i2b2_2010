@@ -1,0 +1,9 @@
+Target-Drug	True	concept	Intravitreal bevacizumab	0	24	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/4500176', 'uniprot/6335799']	0	Chemicals & Drugs
+Target-Drug	True	concept	Avastin	26	33	annotator1,Computer,annotator2,annotator3	['uniprot/4500176', 'uniprot/6335799']	1	Chemicals & Drugs
+Target-Drug	True	concept	intravitreal bevacizumab	172	196	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/4500176', 'uniprot/6335799']	3	Chemicals & Drugs
+Target-Drug	True	concept	Avastin	198	205	annotator1,Computer,annotator2,annotator3	['uniprot/4500176', 'uniprot/6335799']	4	Chemicals & Drugs
+Target-Drug	True	concept	injections of bevacizumab	507	532	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4500176', 'uniprot/6335799', 'sda/2']	8	Chemicals & Drugs
+Target-Drug	True	concept	bevacizumab	1021	1046	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/4500176', 'uniprot/6335799']	11	Chemicals & Drugs
+Target-Drug	False	concept		1274	1277	Computer	['uniprot/4001334']	18	Genes & Molecular Sequences
+Target-Drug	False	concept		1389	1392	Computer	['uniprot/4001334']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	Intravitreal bevacizumab	1771	1795	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/4500176', 'uniprot/6335799']	16	Chemicals & Drugs

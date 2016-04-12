@@ -1,0 +1,54 @@
+Drug-Disorder	True	concept	anaemia	17	24	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	0	Diseases & Disorders
+Drug-Disorder	True	concept	human immunodeficiency	28	85	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0000055']	1	Diseases & Disorders
+Drug-Disorder	True	concept	hepatitis C	57	68	annotator4,Computer,annotator5	['umls/C0001947', 'sda/8']	23	Diseases & Disorders
+Drug-Disorder	True	concept	interferon	108	118	annotator1,annotator4,Computer,annotator5	['uniprot/4501696', 'uniprot/9020770']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	124	133	annotator1,annotator4,Computer,annotator5	['uniprot/4500430', 'uniprot/8003503']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	adverse effect	178	192	annotator1,annotator4,Computer,annotator5	['umls/C0105312']	4	Diseases & Disorders
+Drug-Disorder	True	concept	interferon	196	206	annotator1,annotator4,Computer,annotator5	['uniprot/4501696', 'uniprot/9020770']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	212	221	annotator1,annotator4,Computer,annotator5	['uniprot/4500430', 'uniprot/8003503']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	anaemia	239	246	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	7	Diseases & Disorders
+Drug-Disorder	True	concept	anaemia	324	331	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	8	Diseases & Disorders
+Drug-Disorder	True	concept	human immunodeficiency virus	350	413	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0000055']	9	Diseases & Disorders
+Drug-Disorder	True	concept	hepatitis C	379	390	annotator4,Computer,annotator5	['umls/C0001947', 'sda/8']	24	Diseases & Disorders
+Drug-Disorder	False	concept		391	396	Computer	['umls/C0004665']	28	Diseases & Disorders
+Drug-Disorder	False	concept		398	401	annotator5	['sda/7']	29	Diseases & Disorders
+Drug-Disorder	False	concept		433	449	annotator4	['sda/2']	25	Chemicals & Drugs
+Drug-Disorder	False	concept		438	441	annotator5	['sda/7']	30	Diseases & Disorders
+Drug-Disorder	True	concept	anaemia	476	483	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	10	Diseases & Disorders
+Drug-Disorder	False	concept	peginterferon	579	592	annotator1,annotator5	['sda/3', 'sda/9']	11	Chemicals & Drugs
+Drug-Disorder	True	concept		594	611	annotator1,annotator4,annotator5	['sda/4', 'sda/1', 'sda/10']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	617	626	annotator1,annotator4,Computer,annotator5	['uniprot/4500430', 'uniprot/8003503']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	interferon alpha-2b	632	651	annotator1,annotator4,Computer,annotator5	['sda/5', 'uniprot/3086655', 'uniprot/4501696', 'sda/11']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	657	666	annotator1,annotator4,Computer,annotator5	['uniprot/4500430', 'uniprot/8003503']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		738	763	annotator5	['sda/13']	31	Chemicals & Drugs
+Drug-Disorder	False	concept		765	768	annotator5	['sda/7']	32	Diseases & Disorders
+Drug-Disorder	False	concept		892	895	annotator5	['sda/7']	33	Diseases & Disorders
+Drug-Disorder	True	concept	anaemia	916	923	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	16	Diseases & Disorders
+Drug-Disorder	True	concept	anaemia	962	969	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	17	Diseases & Disorders
+Drug-Disorder	True	concept	zidovudine	1004	1014	annotator1,annotator4,Computer,annotator5	['uniprot/4500475', 'uniprot/8004365']	18	Chemicals & Drugs
+Drug-Disorder	False	concept	peg-IFN	1060	1067	annotator4,annotator5	['sda/1', 'sda/10']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	anaemia	1123	1130	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	19	Diseases & Disorders
+Drug-Disorder	True	concept	protease inhibitor	1260	1278	annotator1,annotator4,annotator5	['sda/6', 'sda/3', 'sda/15']	20	Chemicals & Drugs
+Drug-Disorder	False	concept		1285	1307	annotator5	['sda/16']	34	Chemicals & Drugs
+Drug-Disorder	True	concept	Zidovudine	1350	1360	annotator1,annotator4,Computer,annotator5	['uniprot/4500475', 'uniprot/8004365']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	anaemia	1397	1404	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	22	Diseases & Disorders
+Drug-Disorder	False	concept		1421	1437	annotator4	['sda/2']	27	Chemicals & Drugs
+Drug-Disorder	False	concept		1426	1429	annotator5	['sda/7']	35	Diseases & Disorders
+Drug-Disorder	False	relation	2	1	['uniprot/4501696', 'uniprot/9020770']	['sda/1', 'umls/C0000055']	108:118	28:85	annotator1,Computer	PA
+Drug-Disorder	False	relation	3	1	['uniprot/4500430', 'uniprot/8003503']	['sda/1', 'umls/C0000055']	124:133	28:85	annotator1,Computer	PA
+Drug-Disorder	True	relation	5	7	['uniprot/4501696', 'uniprot/9020770']	['umls/C0000234']	196:206	239:246	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	6	7	['uniprot/4500430', 'uniprot/8003503']	['umls/C0000234']	212:221	239:246	annotator1,annotator4,Computer	PA
+Drug-Disorder	True	relation	18	17	['uniprot/4500475', 'uniprot/8004365']	['umls/C0000234']	1004:1014	962:969	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	20	19	['sda/6', 'sda/3', 'sda/15']	['umls/C0000234']	1260:1278	1123:1130	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	21	22	['uniprot/4500475', 'uniprot/8004365']	['umls/C0000234']	1350:1360	1397:1404	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	26	17	['sda/1', 'sda/10']	['umls/C0000234']	1060:1067	962:969	annotator4,annotator5	PA
+Drug-Disorder	False	relation	27	22	['sda/2']	['umls/C0000234']	1421:1437	1397:1404	annotator4	PA
+Drug-Disorder	False	relation	2	0	['uniprot/4501696', 'uniprot/9020770']	['umls/C0000234']	108:118	17:24	Computer,annotator5	PA
+Drug-Disorder	False	relation	2	23	['uniprot/4501696', 'uniprot/9020770']	['umls/C0001947', 'sda/8']	108:118	57:68	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	0	['uniprot/4500430', 'uniprot/8003503']	['umls/C0000234']	124:133	17:24	Computer	PA
+Drug-Disorder	False	relation	3	23	['uniprot/4500430', 'uniprot/8003503']	['umls/C0001947', 'sda/8']	124:133	57:68	Computer,annotator5	PA
+Drug-Disorder	False	relation	14	10	['sda/5', 'uniprot/3086655', 'uniprot/4501696', 'sda/11']	['umls/C0000234']	632:651	476:483	Computer	PA
+Drug-Disorder	False	relation	15	10	['uniprot/4500430', 'uniprot/8003503']	['umls/C0000234']	657:666	476:483	Computer	PA
+Drug-Disorder	False	relation	12	10	['sda/4', 'sda/1', 'sda/10']	['umls/C0000234']	594:611	476:483	annotator5	PA
+Drug-Disorder	False	relation	31	32	['sda/13']	['sda/7']	738:763	765:768	annotator5	PA
+Drug-Disorder	False	relation	34	19	['sda/16']	['umls/C0000234']	1285:1307	1123:1130	annotator5	PA

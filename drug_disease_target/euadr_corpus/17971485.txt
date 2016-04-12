@@ -1,0 +1,18 @@
+Target-Drug	True	concept	p53	56	59	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	MDM2 inhibitors	107	122	annotator1,annotator3	['sda/1']	1	Chemicals & Drugs
+Target-Drug	False	concept	MDM2 inhibitors	107	122	Computer,annotator2	['uniprot/4001368', 'sda/7']	1	Genes & Molecular Sequences
+Target-Drug	False	concept	MDM2 inhibitors	372	387	annotator1,annotator3	['sda/1']	6	Chemicals & Drugs
+Target-Drug	False	concept	MDM2 inhibitors	372	387	Computer,annotator2	['uniprot/4001368', 'sda/7']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	MDM2 inhibitor	637	651	annotator1,annotator3	['sda/2']	8	Chemicals & Drugs
+Target-Drug	False	concept	MDM2 inhibitor	637	651	Computer,annotator2	['uniprot/4001368', 'sda/7']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	MDM2	758	762	annotator1,Computer,annotator2,annotator3	['uniprot/4001368', 'sda/7']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	p53	1007	1010	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	p53	1071	1074	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	MDM2 inhibitors	1122	1137	annotator1,annotator3	['sda/1']	12	Chemicals & Drugs
+Target-Drug	False	concept	MDM2 inhibitors	1122	1137	Computer,annotator2	['uniprot/4001368', 'sda/7']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	p53	1172	1175	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	MDM2 inhibitor	1368	1382	annotator1,annotator3	['sda/2']	15	Chemicals & Drugs
+Target-Drug	False	concept	MDM2 inhibitor	1368	1382	Computer,annotator2	['uniprot/4001368', 'sda/7']	15	Genes & Molecular Sequences
+Target-Drug	False	relation	1	0	['sda/1', 'uniprot/4001368', 'sda/7']	['uniprot/3000460']	107:122	56:59	annotator1,annotator3	PA
+Target-Drug	False	relation	8	9	['sda/2', 'uniprot/4001368', 'sda/7']	['uniprot/4001368', 'sda/7']	637:651	758:762	annotator1	PA
+Target-Drug	False	relation	12	11	['sda/1', 'uniprot/4001368', 'sda/7']	['uniprot/3000460']	1122:1137	1071:1074	annotator1,annotator3	PA

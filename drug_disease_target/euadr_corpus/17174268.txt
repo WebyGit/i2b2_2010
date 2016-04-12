@@ -1,0 +1,28 @@
+Target-Drug	True	concept	Fas	17	20	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	53	56	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	121	124	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	2	Genes & Molecular Sequences
+Target-Drug	True	concept		126	136	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3000027']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	265	268	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	360	363	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	429	432	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	535	538	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	EGF	607	610	annotator1,Computer,annotator2	['uniprot/3001483']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	EGF	607	610	annotator3	['sda/2']	10	Chemicals & Drugs
+Target-Drug	True	concept	IGF-I	612	617	annotator1,Computer,annotator2	['uniprot/3000515']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	IGF-I	612	617	annotator3	['sda/3']	11	Chemicals & Drugs
+Target-Drug	True	concept	VEGF	621	625	annotator1,Computer,annotator2	['uniprot/3002534']	12	Genes & Molecular Sequences
+Target-Drug	False	concept	VEGF	621	625	annotator3	['sda/4']	12	Chemicals & Drugs
+Target-Drug	True	concept	Fas	653	656	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	703	706	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	817	820	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	15	Genes & Molecular Sequences
+Target-Drug	False	concept		854	857	annotator2	['sda/1']	24	Genes & Molecular Sequences
+Target-Drug	False	concept		887	900	annotator1	['sda/2']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	995	998	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	17	Genes & Molecular Sequences
+Target-Drug	False	concept		1018	1024	annotator2	['sda/2']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	1076	1079	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	1154	1157	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	19	Genes & Molecular Sequences
+Target-Drug	False	concept		1249	1262	annotator1	['sda/2']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	Fas	1315	1318	annotator1,Computer,annotator2,annotator3	['uniprot/3000027']	23	Genes & Molecular Sequences
+Target-Drug	False	relation	10	13	['uniprot/3001483', 'sda/2']	['uniprot/3000027']	607:610	653:656	annotator3	PA
+Target-Drug	False	relation	11	13	['uniprot/3000515', 'sda/3']	['uniprot/3000027']	612:617	653:656	annotator3	PA
+Target-Drug	False	relation	12	13	['uniprot/3002534', 'sda/4']	['uniprot/3000027']	621:625	653:656	annotator3	PA

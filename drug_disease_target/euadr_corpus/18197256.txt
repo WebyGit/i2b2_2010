@@ -1,0 +1,59 @@
+Target-Drug	True	concept	Lysine-specific demethylase 1	0	29	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	Lysine-specific demethylase 1	0	29	Computer	['uniprot/4501039']	0	Chemicals & Drugs
+Target-Drug	False	concept		16	27	Computer	['uniprot/3002918']	55	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	31	35	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	91	101	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3031141', 'sda/5', 'sda/22']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	reverse transcriptase	102	123	annotator1,annotator2,annotator3	['uniprot/3031141']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	125	130	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	Lysine-specific demethylase 1	150	179	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	5	Genes & Molecular Sequences
+Target-Drug	False	concept	Lysine-specific demethylase 1	150	179	Computer	['uniprot/4501039']	5	Chemicals & Drugs
+Target-Drug	False	concept		166	177	Computer	['uniprot/3002918']	56	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	181	185	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	H3-K4	248	253	annotator1,annotator2,annotator2,annotator3	['sda/9', 'sda/2', 'sda/3', 'sda/25']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	K9	257	259	annotator1,annotator2,annotator3	['sda/4']	9	Genes & Molecular Sequences
+Target-Drug	False	concept		318	327	annotator1	['sda/5']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	349	359	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3031141', 'sda/5', 'sda/22']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	reverse transcriptase	360	381	annotator1,annotator2,annotator3	['uniprot/3031141']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	383	388	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	432	442	annotator1,annotator2,annotator3	['sda/6', 'sda/5', 'sda/22']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	676	681	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	806	810	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	814	819	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	876	881	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	926	930	annotator1,Computer,annotator2	['uniprot/3032240']	21	Genes & Molecular Sequences
+Target-Drug	False	concept	LSD1	926	930	annotator3	['sda/14']	21	Chemicals & Drugs
+Target-Drug	True	concept	hTERT	945	950	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	989	994	annotator1,Computer,annotator2,annotator3	['uniprot/3031141', 'sda/15']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	1018	1022	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	histone deacetylases	1027	1047	annotator1,annotator2,annotator3	['sda/7', 'sda/6', 'sda/17']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	HDACs	1049	1054	annotator1,annotator2,annotator3	['sda/8', 'sda/7', 'sda/16']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	1127	1131	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	CoREST	1136	1142	annotator1,Computer,annotator2,annotator3	['uniprot/4000185']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC	1162	1166	annotator1,Computer,annotator2,annotator3	['uniprot/3064351']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1215	1220	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	31	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	1267	1271	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1358	1363	annotator1,Computer,annotator2,annotator3	['uniprot/3031141', 'sda/15']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	1373	1383	annotator1,annotator2,annotator3	['sda/6', 'sda/5', 'sda/22']	35	Genes & Molecular Sequences
+Target-Drug	False	concept		1394	1403	annotator1	['sda/5']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	1442	1446	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1460	1465	annotator1,Computer,annotator2,annotator3	['uniprot/3031141', 'sda/1']	38	Genes & Molecular Sequences
+Target-Drug	True	concept	H3-K4	1550	1555	annotator1,annotator2,annotator2,annotator3	['sda/9', 'sda/2', 'sda/3', 'sda/25']	39	Genes & Molecular Sequences
+Target-Drug	False	concept	H3	1581	1583	annotator2,annotator3	['sda/2', 'sda/8']	58	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1696	1701	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	41	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	1736	1740	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1760	1765	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	44	Genes & Molecular Sequences
+Target-Drug	True	concept	LSD1	1802	1806	annotator1,Computer,annotator2,annotator3	['uniprot/3032240']	45	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1817	1822	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	46	Genes & Molecular Sequences
+Target-Drug	True	concept	H3-K4	1855	1860	annotator1,annotator2,annotator2,annotator3	['sda/9', 'sda/2', 'sda/3', 'sda/11']	47	Genes & Molecular Sequences
+Target-Drug	True	concept	HDACs	1910	1915	annotator1,annotator2,annotator3	['sda/8', 'sda/7', 'sda/16']	48	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	1987	1992	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	49	Genes & Molecular Sequences
+Target-Drug	True	concept	hTERT	2095	2100	annotator1,Computer,annotator2,annotator3	['uniprot/3031141']	50	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	2101	2111	annotator1,annotator2,annotator3	['sda/6', 'sda/5', 'sda/22']	51	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	2197	2207	annotator1,annotator2,annotator3	['sda/6', 'sda/5', 'sda/22']	52	Genes & Molecular Sequences
+Target-Drug	False	relation	0	4	['sda/2', 'uniprot/4501039', 'sda/1']	['uniprot/3031141']	0:29	125:130	Computer	PA
+Target-Drug	False	relation	0	55	['sda/2', 'uniprot/4501039', 'sda/1']	['uniprot/3002918']	0:29	16:27	Computer	PA
+Target-Drug	False	relation	0	1	['sda/2', 'uniprot/4501039', 'sda/1']	['uniprot/3032240']	0:29	31:35	Computer	PA
+Target-Drug	False	relation	5	56	['sda/2', 'uniprot/4501039', 'sda/1']	['uniprot/3002918']	150:179	166:177	Computer	PA
+Target-Drug	False	relation	5	6	['sda/2', 'uniprot/4501039', 'sda/1']	['uniprot/3032240']	150:179	181:185	Computer	PA
+Target-Drug	False	relation	21	23	['uniprot/3032240', 'sda/14']	['uniprot/3031141']	926:930	945:950	annotator3	PA
+Target-Drug	False	relation	21	24	['uniprot/3032240', 'sda/14']	['uniprot/3031141', 'sda/15']	926:930	989:994	annotator3	PA

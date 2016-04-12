@@ -1,0 +1,4 @@
+Target-Drug	True	concept	TLRs	77	81	annotator1,annotator2,annotator3	['sda/1']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	TLRs	348	352	annotator1,annotator2,annotator3	['sda/1']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	TLRs	394	398	annotator1,annotator2,annotator3	['sda/1']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	TLR4	584	588	annotator1,Computer,annotator2,annotator3	['uniprot/3041317']	6	Genes & Molecular Sequences

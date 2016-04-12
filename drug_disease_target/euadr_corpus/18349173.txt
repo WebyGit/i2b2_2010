@@ -1,0 +1,15 @@
+Drug-Disorder	True	concept	anemia	14	20	annotator1,annotator4,Computer,annotator5	['umls/C0000234', 'sda/1']	0	Diseases & Disorders
+Drug-Disorder	True	concept	anemia	139	145	annotator1,annotator4,Computer,annotator5	['umls/C0000234', 'sda/1']	1	Diseases & Disorders
+Drug-Disorder	False	concept		300	302	Computer	['umls/C0002910']	11	Diseases & Disorders
+Drug-Disorder	False	concept		374	384	Computer	['umls/C0374175']	12	Diseases & Disorders
+Drug-Disorder	False	concept		420	422	Computer	['umls/C0002910']	13	Diseases & Disorders
+Drug-Disorder	False	concept		569	571	Computer	['umls/C0002910']	14	Diseases & Disorders
+Drug-Disorder	True	concept	Cancer	695	701	annotator4,Computer,annotator5	['umls/C0000617']	4	Diseases & Disorders
+Drug-Disorder	True	concept	Anemia	710	716	annotator1,annotator4,Computer,annotator5	['umls/C0000234', 'sda/1']	2	Diseases & Disorders
+Drug-Disorder	False	concept	Anemia	723	729	annotator4,annotator5	['sda/1']	6	Diseases & Disorders
+Drug-Disorder	False	concept	Anemia	807	813	annotator4,annotator5	['sda/1']	8	Diseases & Disorders
+Drug-Disorder	False	concept		856	858	Computer	['umls/C0002910']	15	Diseases & Disorders
+Drug-Disorder	False	concept		1001	1003	Computer	['umls/C0002910']	16	Diseases & Disorders
+Drug-Disorder	False	concept	Anemia	1163	1169	annotator4,annotator5	['sda/1']	10	Diseases & Disorders
+Drug-Disorder	True	concept	cardiovascular disease	1315	1337	annotator1,annotator4,Computer,annotator5	['umls/C0000675']	3	Diseases & Disorders
+Drug-Disorder	False	concept		1524	1526	Computer	['umls/C0002910']	17	Diseases & Disorders

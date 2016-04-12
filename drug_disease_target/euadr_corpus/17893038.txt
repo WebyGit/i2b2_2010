@@ -1,0 +1,71 @@
+Target-Drug	True	concept	RAGE	25	29	annotator1,Computer,annotator2,annotator3	['uniprot/3000883']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	statins	80	87	annotator1,annotator2,annotator3	['sda/1', 'sda/10', 'sda/7']	2	Chemicals & Drugs
+Target-Drug	True	concept	receptor for advanced glycation endproducts	93	136	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	RAGE	138	142	annotator1,Computer,annotator2,annotator3	['uniprot/3000883']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	RAGE isoform	195	215	annotator1	['sda/3']	5	SNP & Sequence variations
+Target-Drug	False	concept	RAGE isoform	195	215	annotator3	['sda/2']	5	Genes & Molecular Sequences
+Target-Drug	False	concept	RAGE	203	207	Computer,annotator2	['uniprot/3000883']	40	Genes & Molecular Sequences
+Target-Drug	False	concept	sRAGE	217	222	annotator1	['sda/4']	6	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	217	222	annotator2,annotator3	['sda/2', 'sda/4']	6	Genes & Molecular Sequences
+Target-Drug	False	concept		358	362	annotator2	['uniprot/3000883']	41	Genes & Molecular Sequences
+Target-Drug	True	concept	nitric oxide	393	405	annotator1,Computer,annotator3	['uniprot/4500735']	8	Chemicals & Drugs
+Target-Drug	False	concept	sRAGE	519	524	annotator1	['sda/4']	10	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	519	524	annotator2,annotator3	['sda/2', 'sda/4']	10	Genes & Molecular Sequences
+Target-Drug	False	concept		533	575	annotator1	['sda/9']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	asymmetric dimethylarginine	608	635	annotator1	['sda/7']	12	Genes & Molecular Sequences
+Target-Drug	False	concept	asymmetric dimethylarginine	608	635	annotator2	['sda/9']	12	Chemicals & Drugs
+Target-Drug	False	concept	ADMA	637	641	annotator1,annotator3	['sda/8', 'sda/6']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	637	641	annotator2	['sda/8']	13	Chemicals & Drugs
+Target-Drug	True	concept	statins	686	693	annotator1,annotator2,annotator3	['sda/1', 'sda/10', 'sda/7']	14	Chemicals & Drugs
+Target-Drug	True	concept	pravastatin	695	706	annotator1,Computer,annotator2,annotator3	['uniprot/4500509', 'uniprot/6230913']	15	Chemicals & Drugs
+Target-Drug	True	concept	atorvastatin	711	723	annotator1,Computer,annotator2,annotator3	['uniprot/4501105', 'uniprot/9018214']	16	Chemicals & Drugs
+Target-Drug	False	concept	sRAGE	828	833	annotator1	['sda/4']	18	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	828	833	annotator2,annotator3	['sda/2', 'sda/4']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	859	863	annotator1,annotator3	['sda/8', 'sda/6']	19	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	859	863	annotator2	['sda/8']	19	Chemicals & Drugs
+Target-Drug	False	concept	8-iso-PGF(2alpha)	868	893	annotator1,annotator3	['sda/12', 'sda/8']	20	Genes & Molecular Sequences
+Target-Drug	False	concept		882	892	annotator2	['uniprot/9005760']	42	Chemicals & Drugs
+Target-Drug	True	concept	statin	981	987	annotator1,annotator2,annotator2,annotator3	['uniprot/2000814', 'uniprot/6101744']	21	Chemicals & Drugs
+Target-Drug	False	concept	statin	981	987	Computer	['uniprot/2000814']	21	Genes & Molecular Sequences
+Target-Drug	False	concept	8-iso-PGF(2alpha)	1044	1061	annotator1,annotator3	['sda/11', 'sda/8']	23	Genes & Molecular Sequences
+Target-Drug	False	concept		1050	1060	annotator2	['uniprot/9005760']	43	Chemicals & Drugs
+Target-Drug	False	concept	sRAGE	1070	1075	annotator1	['sda/4']	24	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	1070	1075	annotator2,annotator3	['sda/2', 'sda/4']	24	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	1091	1095	annotator1,annotator3	['sda/8', 'sda/6']	25	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	1091	1095	annotator2	['sda/8']	25	Chemicals & Drugs
+Target-Drug	False	concept	8-iso-PGF(2alpha)	1191	1208	annotator1,annotator3	['sda/11', 'sda/8']	28	Genes & Molecular Sequences
+Target-Drug	False	concept		1197	1207	annotator2	['uniprot/9005760']	44	Chemicals & Drugs
+Target-Drug	False	concept	ADMA	1213	1217	annotator1,annotator3	['sda/8', 'sda/6']	29	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	1213	1217	annotator2	['sda/8']	29	Chemicals & Drugs
+Target-Drug	False	concept	sRAGE	1228	1233	annotator1	['sda/4']	30	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	1228	1233	annotator2,annotator3	['sda/2', 'sda/4']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	statin	1274	1280	annotator1,annotator2,annotator2,annotator3	['uniprot/2000814', 'uniprot/6101744']	31	Chemicals & Drugs
+Target-Drug	False	concept	statin	1274	1280	Computer	['uniprot/2000814']	31	Genes & Molecular Sequences
+Target-Drug	False	concept	8-iso-PGF(2alpha)	1328	1353	annotator1,annotator3	['sda/12', 'sda/8']	32	Genes & Molecular Sequences
+Target-Drug	False	concept		1342	1352	annotator2	['uniprot/9005760']	45	Chemicals & Drugs
+Target-Drug	True	concept	atorvastatin	1368	1380	annotator1,Computer,annotator2,annotator3	['uniprot/4501105', 'uniprot/9018214']	33	Chemicals & Drugs
+Target-Drug	False	concept	sRAGE	1388	1393	annotator1	['sda/4']	34	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	1388	1393	annotator2,annotator3	['sda/2', 'sda/4']	34	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	1442	1446	annotator1,annotator3	['sda/8', 'sda/6']	35	Genes & Molecular Sequences
+Target-Drug	False	concept	ADMA	1442	1446	annotator2	['sda/8']	35	Chemicals & Drugs
+Target-Drug	False	concept	sRAGE	1455	1460	annotator1	['sda/4']	36	SNP & Sequence variations
+Target-Drug	False	concept	sRAGE	1455	1460	annotator2,annotator3	['sda/2', 'sda/4']	36	Genes & Molecular Sequences
+Target-Drug	False	relation	21	25	['uniprot/2000814', 'uniprot/6101744']	['sda/8', 'sda/6']	981:987	1091:1095	annotator1	NA
+Target-Drug	False	relation	21	23	['uniprot/2000814', 'uniprot/6101744']	['sda/11', 'sda/8']	981:987	1044:1061	annotator1,annotator3	PA
+Target-Drug	False	relation	24	21	['sda/4', 'sda/2']	['uniprot/2000814', 'uniprot/6101744']	1070:1075	981:987	annotator1	PA
+Target-Drug	False	relation	33	35	['uniprot/4501105', 'uniprot/9018214']	['sda/8', 'sda/6']	1368:1380	1442:1446	annotator1,annotator3	NA
+Target-Drug	False	relation	33	32	['uniprot/4501105', 'uniprot/9018214']	['sda/12', 'sda/8']	1368:1380	1328:1353	annotator1,annotator3	PA
+Target-Drug	False	relation	31	32	['uniprot/2000814', 'uniprot/6101744']	['sda/12', 'sda/8']	1274:1280	1328:1353	annotator1,annotator3	PA
+Target-Drug	False	relation	34	33	['sda/4', 'sda/2']	['uniprot/4501105', 'uniprot/9018214']	1388:1393	1368:1380	annotator1	PA
+Target-Drug	False	relation	33	31	['uniprot/4501105', 'uniprot/9018214']	['uniprot/2000814', 'uniprot/6101744']	1368:1380	1274:1280	Computer	PA
+Target-Drug	False	relation	2	0	['sda/1', 'sda/10', 'sda/7']	['uniprot/3000883']	80:87	25:29	annotator2,annotator3	SA
+Target-Drug	False	relation	13	10	['sda/8', 'sda/6']	['sda/4', 'sda/2']	637:641	519:524	annotator2	SA
+Target-Drug	False	relation	12	10	['sda/7', 'sda/9']	['sda/4', 'sda/2']	608:635	519:524	annotator2	SA
+Target-Drug	False	relation	42	18	['uniprot/9005760']	['sda/4', 'sda/2']	882:892	828:833	annotator2	PA
+Target-Drug	False	relation	19	18	['sda/8', 'sda/6']	['sda/4', 'sda/2']	859:863	828:833	annotator2	PA
+Target-Drug	False	relation	21	24	['uniprot/2000814', 'uniprot/6101744']	['sda/4', 'sda/2']	981:987	1070:1075	annotator2,annotator3	PA
+Target-Drug	False	relation	44	30	['uniprot/9005760']	['sda/4', 'sda/2']	1197:1207	1228:1233	annotator2	PA
+Target-Drug	False	relation	29	30	['sda/8', 'sda/6']	['sda/4', 'sda/2']	1213:1217	1228:1233	annotator2	PA
+Target-Drug	False	relation	33	34	['uniprot/4501105', 'uniprot/9018214']	['sda/4', 'sda/2']	1368:1380	1388:1393	annotator2,annotator3	PA
+Target-Drug	False	relation	21	25	['uniprot/2000814', 'uniprot/6101744']	['sda/8', 'sda/6']	981:987	1091:1095	annotator3	PA
+Target-Drug	False	relation	31	35	['uniprot/2000814', 'uniprot/6101744']	['sda/8', 'sda/6']	1274:1280	1442:1446	annotator3	NA

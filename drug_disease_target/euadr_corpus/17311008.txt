@@ -1,0 +1,30 @@
+Target-Drug	True	concept	doxycycline	52	63	annotator1,Computer,annotator2,annotator3	['uniprot/4500850']	0	Chemicals & Drugs
+Target-Drug	False	concept	shRNAs	74	80	annotator1,annotator3	['sda/8', 'sda/6']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		103	108	annotator1	['sda/18']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	Drosha	127	133	Computer,annotator2,annotator3	['uniprot/3008293']	23	Genes & Molecular Sequences
+Target-Drug	False	concept		135	151	annotator1	['sda/11']	3	Chemicals & Drugs
+Target-Drug	False	concept		153	157	annotator1	['sda/12']	4	Chemicals & Drugs
+Target-Drug	False	concept		411	415	annotator1	['sda/12']	6	Chemicals & Drugs
+Target-Drug	False	concept	short hairpin RNA	472	489	annotator1,annotator3	['sda/6', 'sda/2']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	shRNA	491	496	annotator1,annotator3	['sda/7', 'sda/3']	8	Genes & Molecular Sequences
+Target-Drug	False	concept		510	514	annotator1	['sda/12']	9	Chemicals & Drugs
+Target-Drug	False	concept		548	575	annotator1	['sda/5']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	shRNAs	585	591	annotator1,annotator3	['sda/8', 'sda/6']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	tetracycline	617	648	annotator1	['sda/3']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	tetracycline	617	648	Computer,annotator2,annotator3	['uniprot/4500849']	12	Chemicals & Drugs
+Target-Drug	False	concept	TetR	650	654	annotator1,annotator3	['sda/4', 'sda/8']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	shRNAs	796	802	annotator1,annotator3	['sda/8', 'sda/6']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	doxycycline	828	839	annotator1,Computer,annotator2,annotator3	['uniprot/4500850']	15	Chemicals & Drugs
+Target-Drug	True	concept	Drosha	1010	1046	annotator1,Computer,annotator2,annotator3	['sda/9', 'uniprot/3008293']	17	Genes & Molecular Sequences
+Target-Drug	False	concept		1018	1039	annotator3	['sda/1']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	Drosha	1048	1054	annotator1,Computer,annotator2,annotator3	['uniprot/3008293']	18	Genes & Molecular Sequences
+Target-Drug	False	concept		1143	1151	annotator1	['sda/15']	19	Genes & Molecular Sequences
+Target-Drug	False	concept		1153	1158	annotator1	['sda/18']	20	Genes & Molecular Sequences
+Target-Drug	False	concept		1187	1192	annotator1	['sda/18']	21	Genes & Molecular Sequences
+Target-Drug	False	concept		1284	1289	annotator1	['sda/18']	22	Genes & Molecular Sequences
+Target-Drug	False	relation	9	7	['sda/12']	['sda/6', 'sda/2']	510:514	472:489	annotator1	PA
+Target-Drug	False	relation	9	8	['sda/12']	['sda/7', 'sda/3']	510:514	491:496	annotator1	PA
+Target-Drug	False	relation	15	14	['uniprot/4500850']	['sda/8', 'sda/6']	828:839	796:802	annotator1,annotator3	PA
+Target-Drug	False	relation	0	23	['uniprot/4500850']	['uniprot/3008293']	52:63	127:133	Computer,annotator2	PA
+Target-Drug	False	relation	0	1	['uniprot/4500850']	['sda/8', 'sda/6']	52:63	74:80	annotator3	PA
+Target-Drug	False	relation	12	13	['sda/3', 'uniprot/4500849']	['sda/4', 'sda/8']	617:648	650:654	annotator3	PA

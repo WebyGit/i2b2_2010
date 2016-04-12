@@ -1,0 +1,8 @@
+Target-Disorder	False	concept	tumor	18	23	Computer,annotator2	['umls/C0002994']	3	Diseases & Disorders
+Target-Disorder	False	concept	disorders	113	130	annotator1,Computer	['sda/1', 'umls/C0001185']	0	Diseases & Disorders
+Target-Disorder	True	concept	cancer	169	175	annotator1,Computer,annotator2	['sda/2', 'umls/C0002994']	1	Diseases & Disorders
+Target-Disorder	False	concept	genomic instability	201	220	Computer,annotator2	['umls/C0105413']	4	Diseases & Disorders
+Target-Disorder	False	concept	carcinogenesis	225	239	Computer,annotator2	['umls/C0078704']	5	Diseases & Disorders
+Target-Disorder	True	concept	breast cancer	389	402	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0000571']	2	Diseases & Disorders
+Target-Disorder	False	concept		481	488	Computer	['umls/C0001185']	6	Diseases & Disorders
+Target-Disorder	False	concept	carcinogenesis	731	745	Computer,annotator2	['umls/C0078704']	7	Diseases & Disorders

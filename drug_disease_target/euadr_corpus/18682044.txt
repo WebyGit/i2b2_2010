@@ -1,0 +1,39 @@
+Target-Drug	True	concept	Ki-67	54	59	annotator1,Computer,annotator2	['uniprot/3001814']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	54	59	annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	True	concept	endothelial nitric oxide synthase	64	97	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	Ki-67	181	186	annotator1,Computer,annotator2	['uniprot/3001814']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	181	186	annotator3	['sda/1']	3	Chemicals & Drugs
+Target-Drug	True	concept	eNOS	191	195	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	Ki-67	744	749	annotator1,Computer,annotator2	['uniprot/3001814']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	744	749	annotator3	['sda/1']	10	Chemicals & Drugs
+Target-Drug	True	concept	eNOS	754	758	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	Ki-67	828	833	annotator1,Computer,annotator2	['uniprot/3001814']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	828	833	annotator3	['sda/1']	13	Chemicals & Drugs
+Target-Drug	True	concept	eNOS	885	889	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	Ki-67	1001	1006	annotator1,Computer,annotator2	['uniprot/3001814']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	1001	1006	annotator3	['sda/1']	15	Chemicals & Drugs
+Target-Drug	True	concept	Ki-67	1030	1035	annotator1,Computer,annotator2	['uniprot/3001814']	16	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	1030	1035	annotator3	['sda/1']	16	Chemicals & Drugs
+Target-Drug	True	concept	eNOS	1040	1044	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	eNOS	1293	1297	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	eNOS	1356	1360	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	eNOS	1490	1494	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	Ki-67	1500	1505	annotator1,Computer,annotator2	['uniprot/3001814']	24	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	1500	1505	annotator3	['sda/1']	24	Chemicals & Drugs
+Target-Drug	True	concept	eNOS	1560	1564	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	Ki-67	1629	1634	annotator1,Computer,annotator2	['uniprot/3001814']	26	Genes & Molecular Sequences
+Target-Drug	False	concept	Ki-67	1629	1634	annotator3	['sda/1']	26	Chemicals & Drugs
+Target-Drug	True	concept	eNOS	1639	1643	annotator1,Computer,annotator2,annotator3	['uniprot/3000504']	27	Genes & Molecular Sequences
+Target-Drug	False	relation	1	2	['uniprot/3000504']	[]	64:97	125:135	annotator2	PA
+Target-Drug	False	relation	0	2	['uniprot/3001814', 'sda/1']	[]	54:59	125:135	annotator2	PA
+Target-Drug	False	relation	4	5	['uniprot/3000504']	[]	191:195	266:277	annotator2	PA
+Target-Drug	False	relation	3	5	['uniprot/3001814', 'sda/1']	[]	181:186	266:277	annotator2	PA
+Target-Drug	False	relation	11	12	['uniprot/3000504']	[]	754:758	783:789	annotator2	PA
+Target-Drug	False	relation	10	12	['uniprot/3001814', 'sda/1']	[]	744:749	783:789	annotator2	PA
+Target-Drug	False	relation	20	19	['uniprot/3000504']	[]	1293:1297	1240:1251	annotator2	PA
+Target-Drug	False	relation	22	21	['uniprot/3000504']	[]	1356:1360	1339:1349	annotator2	PA
+Target-Drug	False	relation	27	28	['uniprot/3000504']	[]	1639:1643	1671:1681	annotator2	PA
+Target-Drug	False	relation	26	28	['uniprot/3001814', 'sda/1']	[]	1629:1634	1671:1681	annotator2	PA
+Target-Drug	False	relation	3	4	['uniprot/3001814', 'sda/1']	['uniprot/3000504']	181:186	191:195	annotator3	SA
+Target-Drug	False	relation	10	11	['uniprot/3001814', 'sda/1']	['uniprot/3000504']	744:749	754:758	annotator3	SA
+Target-Drug	False	relation	24	25	['uniprot/3001814', 'sda/1']	['uniprot/3000504']	1500:1505	1560:1564	annotator3	SA

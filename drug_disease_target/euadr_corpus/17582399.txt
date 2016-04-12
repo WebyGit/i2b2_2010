@@ -1,0 +1,57 @@
+Target-Disorder	True	concept	amyloid beta protein	5	25	annotator1,annotator2,annotator3	['sda/2', 'sda/3', 'sda/10']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	Alzheimer's disease	102	121	annotator1,Computer,annotator2,annotator3	['umls/C0000191']	1	Diseases & Disorders
+Target-Disorder	False	concept		172	180	annotator1	['sda/14']	2	Diseases & Disorders
+Target-Disorder	True	concept	Amyloid beta protein	193	213	annotator1,annotator2,annotator3	['sda/2', 'sda/3', 'sda/1']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	Amyloid beta protein	193	213	Computer	['umls/C0001104']	3	Diseases & Disorders
+Target-Disorder	True	concept	Abeta	215	220	annotator1,annotator2,annotator3	['sda/3', 'sda/1', 'sda/2']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	Alzheimer's disease	258	277	annotator1,Computer,annotator2,annotator3	['umls/C0000191']	5	Diseases & Disorders
+Target-Disorder	False	concept	Anti-Abeta	288	309	annotator1,annotator3	['sda/4']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		293	298	annotator2	['sda/1']	36	Genes & Molecular Sequences
+Target-Disorder	False	concept		326	336	annotator1	['sda/5']	7	Diseases & Disorders
+Target-Disorder	True	concept	cognitive impairments	341	362	annotator1,Computer,annotator2,annotator3	['umls/C0030645']	8	Diseases & Disorders
+Target-Disorder	True	concept	Abeta	389	394	annotator1,annotator2,annotator3	['sda/3', 'sda/1', 'sda/2']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		586	591	Computer	['umls/C0022000']	30	Diseases & Disorders
+Target-Disorder	False	concept		659	664	Computer	['umls/C0022000']	31	Diseases & Disorders
+Target-Disorder	False	concept	albumin	729	736	annotator1	['sda/6']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept	anti-Abeta	821	863	annotator1,annotator3	['sda/17', 'sda/4']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept		826	831	annotator2	['sda/1']	37	Genes & Molecular Sequences
+Target-Disorder	False	concept	L11.3	865	870	annotator1,annotator3	['sda/9', 'sda/7']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept	HyL5	875	879	annotator1,annotator3	['sda/10', 'sda/8']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept		884	889	Computer	['umls/C0022000']	32	Diseases & Disorders
+Target-Disorder	False	concept		907	911	Computer	['uniprot/3011506']	33	Genes & Molecular Sequences
+Target-Disorder	False	concept		989	997	Computer	['umls/C0158858']	34	Diseases & Disorders
+Target-Disorder	True	concept	cognitive deficit	1027	1060	annotator1,Computer,annotator2,annotator3	['sda/11', 'umls/C0079468']	14	Diseases & Disorders
+Target-Disorder	False	concept	cognitive deficit	1027	1060	annotator2,annotator3	['sda/1', 'sda/2']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept	L11.3	1122	1127	annotator1,annotator3	['sda/9', 'sda/7']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept	HyL5	1145	1149	annotator1,annotator3	['sda/10', 'sda/8']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept	albumin	1151	1158	annotator1	['sda/6']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	IgM	1191	1194	annotator1,annotator3	['sda/16', 'sda/5']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept	L11.3	1279	1284	annotator1,annotator3	['sda/9', 'sda/7']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept		1334	1342	annotator1	['sda/14']	20	Diseases & Disorders
+Target-Disorder	True	concept	memory impairments	1347	1365	annotator1,Computer,annotator2,annotator3	['sda/21', 'umls/C0011841']	21	Diseases & Disorders
+Target-Disorder	False	concept		1394	1397	annotator1	['sda/15']	22	Genes & Molecular Sequences
+Target-Disorder	False	concept		1402	1405	annotator1	['sda/16']	23	Genes & Molecular Sequences
+Target-Disorder	True	concept	cognitive impairments	1555	1576	annotator1,Computer,annotator2,annotator3	['umls/C0030645']	24	Diseases & Disorders
+Target-Disorder	False	concept		1623	1645	annotator1	['sda/18']	25	Diseases & Disorders
+Target-Disorder	False	concept		1655	1661	annotator1	['sda/19']	26	Diseases & Disorders
+Target-Disorder	False	concept	IgM antibody	1701	1713	annotator1,annotator3	['sda/20', 'sda/9']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept		1732	1739	Computer	['umls/C0022000']	35	Diseases & Disorders
+Target-Disorder	True	concept	cognitive impairment	1759	1779	annotator1,Computer,annotator2,annotator3	['umls/C0030645']	28	Diseases & Disorders
+Target-Disorder	True	concept	Alzheimer's disease	1801	1820	annotator1,Computer,annotator2,annotator3	['umls/C0000191']	29	Diseases & Disorders
+Target-Disorder	True	relation	3	5	['sda/2', 'umls/C0001104', 'sda/3', 'sda/1']	['umls/C0000191']	193:213	258:277	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	4	5	['sda/3', 'sda/1', 'sda/2']	['umls/C0000191']	215:220	258:277	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	6	8	['sda/4']	['umls/C0030645']	288:309	341:362	annotator1,annotator3	PA
+Target-Disorder	False	relation	6	7	['sda/4']	['sda/5']	288:309	326:336	annotator1	PA
+Target-Disorder	False	relation	19	20	['sda/9', 'sda/7']	['sda/14']	1279:1284	1334:1342	annotator1	PA
+Target-Disorder	False	relation	19	21	['sda/9', 'sda/7']	['sda/21', 'umls/C0011841']	1279:1284	1347:1365	annotator1,annotator3	PA
+Target-Disorder	False	relation	22	20	['sda/15']	['sda/14']	1394:1397	1334:1342	annotator1	NA
+Target-Disorder	False	relation	22	21	['sda/15']	['sda/21', 'umls/C0011841']	1394:1397	1347:1365	annotator1	NA
+Target-Disorder	False	relation	23	20	['sda/16']	['sda/14']	1402:1405	1334:1342	annotator1	NA
+Target-Disorder	False	relation	23	21	['sda/16']	['sda/21', 'umls/C0011841']	1402:1405	1347:1365	annotator1	NA
+Target-Disorder	False	relation	27	29	['sda/20', 'sda/9']	['umls/C0000191']	1701:1713	1801:1820	annotator1,annotator3	PA
+Target-Disorder	False	relation	27	28	['sda/20', 'sda/9']	['umls/C0030645']	1701:1713	1759:1779	annotator1,annotator3	PA
+Target-Disorder	False	relation	33	32	['uniprot/3011506']	['umls/C0022000']	907:911	884:889	Computer	PA
+Target-Disorder	False	relation	0	1	['sda/2', 'sda/3', 'sda/10']	['umls/C0000191']	5:25	102:121	annotator2,annotator3	SA
+Target-Disorder	False	relation	36	8	['sda/1']	['umls/C0030645']	293:298	341:362	annotator2	PA
+Target-Disorder	False	relation	14	14	['sda/11', 'umls/C0079468', 'sda/1', 'sda/2']	['sda/11', 'umls/C0079468', 'sda/1', 'sda/2']	1027:1060	1027:1060	annotator2,annotator3	PA
+Target-Disorder	False	relation	9	8	['sda/3', 'sda/1', 'sda/2']	['umls/C0030645']	389:394	341:362	annotator3	PA

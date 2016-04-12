@@ -1,0 +1,25 @@
+Target-Drug	True	concept	recombinant FSH	39	54	annotator1,annotator2,annotator3	['sda/3', 'sda/5']	0	Chemicals & Drugs
+Target-Drug	True	concept	GnRH antagonist	75	90	annotator1,annotator2,annotator3	['sda/2', 'sda/4']	1	Chemicals & Drugs
+Target-Drug	False	concept		98	123	annotator3	['sda/7']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	follicle-stimulating hormone	258	298	annotator1,annotator2,annotator3	['sda/1', 'sda/10', 'sda/6']	2	Chemicals & Drugs
+Target-Drug	True	concept	gonadotropin-releasing hormone antagonist	319	360	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/4500333', 'sda/7', 'sda/14']	3	Chemicals & Drugs
+Target-Drug	False	concept		368	393	annotator3	['sda/7']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	follicle-stimulating hormone	535	575	annotator1,annotator2,annotator3	['sda/1', 'sda/10', 'sda/6']	4	Chemicals & Drugs
+Target-Drug	True	concept	gonadotropin-releasing hormone antagonist	580	621	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/4500333', 'sda/7', 'sda/14']	5	Chemicals & Drugs
+Target-Drug	True	concept	progesterone	629	648	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/4500779', 'uniprot/9006606']	6	Chemicals & Drugs
+Target-Drug	False	concept		845	861	annotator1	['sda/3']	7	Chemicals & Drugs
+Target-Drug	False	concept	CXCL 13	862	869	annotator1	['uniprot/3048431']	8	Chemicals & Drugs
+Target-Drug	False	concept	CXCL 13	862	869	annotator2,annotator3	['uniprot/3048431']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	Dickkopf steroidogenic acute regulatory protein	875	931	annotator1,Computer,annotator2,annotator2,annotator3,annotator3	['sda/7', 'uniprot/3000297', 'sda/9', 'sda/18']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	homeobox C6	937	948	annotator1,Computer,annotator2,annotator3	['uniprot/3019533']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	progesterone	991	1003	annotator1,Computer,annotator2,annotator3	['uniprot/9006606', 'uniprot/4500779']	11	Chemicals & Drugs
+Target-Drug	True	concept	insulin-like growth factor binding protein 5	1013	1057	annotator1,Computer,annotator2,annotator3	['uniprot/3056489']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	follicle-stimulating hormone	1099	1127	annotator1,annotator2,annotator3	['sda/9', 'sda/10', 'sda/6']	13	Chemicals & Drugs
+Target-Drug	True	concept	gonadotropin-releasing hormone antagonist	1132	1173	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/4500333', 'sda/7', 'sda/14']	14	Chemicals & Drugs
+Target-Drug	False	concept		1354	1379	annotator3	['sda/7']	19	Genes & Molecular Sequences
+Target-Drug	False	concept		1452	1463	annotator3	['sda/17']	20	Genes & Molecular Sequences
+Target-Drug	False	relation	8	10	['uniprot/3048431']	['uniprot/3019533']	862:869	937:948	annotator1	PA
+Target-Drug	False	relation	8	9	['uniprot/3048431']	['sda/7', 'uniprot/3000297', 'sda/9', 'sda/18']	862:869	875:931	annotator1	PA
+Target-Drug	False	relation	7	10	['sda/3']	['uniprot/3019533']	845:861	937:948	annotator1	PA
+Target-Drug	False	relation	7	9	['sda/3']	['sda/7', 'uniprot/3000297', 'sda/9', 'sda/18']	845:861	875:931	annotator1	PA
+Target-Drug	True	relation	11	12	['uniprot/9006606', 'uniprot/4500779']	['uniprot/3056489']	991:1003	1013:1057	annotator1,Computer,annotator2,annotator3	PA

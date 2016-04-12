@@ -1,0 +1,14 @@
+Drug-Disorder	False	concept	cholestane	10	20	annotator4,annotator5	['sda/1']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	pregnane glycosides	25	44	annotator4,annotator5	['sda/2']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		76	92	annotator5	['sda/3']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	tumour	209	215	Computer,annotator5	['umls/C0002994']	8	Diseases & Disorders
+Drug-Disorder	False	concept		287	307	annotator5	['sda/5']	11	Chemicals & Drugs
+Drug-Disorder	False	concept		354	372	annotator5	['sda/6']	12	Chemicals & Drugs
+Drug-Disorder	False	concept		472	482	Computer	['umls/C0004014']	9	Diseases & Disorders
+Drug-Disorder	False	concept	(22S,25S)-16beta,22,26-trihydroxy-cholest-4-en-3-one-16-O-beta-D-glucopyranosyl-(1-->3)-beta-D-xylopyranoside	581	690	annotator1,annotator5	['sda/7']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	(22S,25S)-16beta,22,26-trihydroxy-cholest-4-en-3-one-16-O-beta-D-glucopyranosyl-(1-->3)-beta-D-glucopyranoside	696	806	annotator1,annotator5	['sda/6', 'sda/8']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	sucrose	812	819	annotator1,annotator5	['sda/8', 'sda/9']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	D-pinitol	825	834	annotator1,annotator5	['sda/9', 'sda/10']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	3beta-hydroxy-5a-pregn-16(17)en-20-one-3-O-beta-D-xylopyranosyl-(1-->2)-[beta-D-xylopyranosyl-(1-->3)]-beta-D-glucopyranosyl-(1-->4)-[alpha-L-rhamnopyranosyl-(1-->2)]-beta-D-ga-lactopyranoside	843	1035	annotator1,annotator5	['sda/10', 'sda/11']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	steroidal compounds	1099	1118	annotator1,annotator5	['sda/11', 'sda/12']	5	Chemicals & Drugs
+Drug-Disorder	False	relation	10	8	['sda/3']	['umls/C0002994']	76:92	209:215	annotator5	PA

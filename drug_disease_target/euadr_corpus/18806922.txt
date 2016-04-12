@@ -1,0 +1,5 @@
+Drug-Disorder	True	concept	herniated disc	74	88	annotator1,annotator4,Computer,annotator5	['umls/C0016679']	0	Diseases & Disorders
+Drug-Disorder	True	concept	herniated disk	201	215	annotator1,annotator4,Computer,annotator5	['umls/C0016679']	1	Diseases & Disorders
+Drug-Disorder	False	concept		694	699	Computer	['umls/C0028922']	3	Diseases & Disorders
+Drug-Disorder	False	concept		703	711	Computer	['umls/C0148591']	4	Diseases & Disorders
+Drug-Disorder	False	concept	tear	887	897	annotator1,Computer	['sda/6', 'umls/C0006102']	2	Diseases & Disorders

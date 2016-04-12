@@ -1,0 +1,47 @@
+Target-Disorder	True	concept	p53	0	3	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept		12	24	Computer	['umls/C0082204']	16	Diseases & Disorders
+Target-Disorder	True	concept	skin cancer	28	39	annotator1,Computer,annotator2,annotator3	['umls/C0000648']	1	Diseases & Disorders
+Target-Disorder	True	concept	p53 tumor suppressor	45	65	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept		169	188	Computer	['umls/C0158743']	17	Diseases & Disorders
+Target-Disorder	True	concept	p53	200	203	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	cancer	259	265	annotator1,Computer,annotator2	['umls/C0000617']	4	Diseases & Disorders
+Target-Disorder	True	concept	cancers	328	335	annotator1,Computer,annotator2	['umls/C0000617']	5	Diseases & Disorders
+Target-Disorder	False	concept	p53 mutations	337	350	annotator1,annotator3	['sda/1']	6	SNP & Sequence variations
+Target-Disorder	False	concept	p53 mutations	337	350	Computer,annotator2	['uniprot/3000460']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53 mutations	337	350	Computer	['umls/C0158858']	6	Diseases & Disorders
+Target-Disorder	True	concept	skin cancers	378	390	annotator1,Computer,annotator2,annotator3	['umls/C0000648']	7	Diseases & Disorders
+Target-Disorder	False	concept		471	480	Computer	['umls/C0158858']	18	Diseases & Disorders
+Target-Disorder	False	concept		510	524	Computer	['umls/C0148847']	19	Diseases & Disorders
+Target-Disorder	True	concept	p53	563	566	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept		578	587	Computer	['umls/C0158858']	20	Diseases & Disorders
+Target-Disorder	False	concept		632	644	annotator3	['sda/5']	23	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	685	688	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		718	729	Computer	['umls/C0027156']	21	Diseases & Disorders
+Target-Disorder	False	concept	pre-cancerous lesions	733	754	annotator1,annotator2	['sda/4', 'sda/3']	10	Diseases & Disorders
+Target-Disorder	True	concept	non-melanoma skin cancers	759	784	annotator1,Computer,annotator2,annotator3	['umls/C0082232']	11	Diseases & Disorders
+Target-Disorder	True	concept	Li-Fraumeni syndrome	841	861	annotator1,Computer,annotator2,annotator3	['umls/C0004893']	12	Diseases & Disorders
+Target-Disorder	False	concept	p53 mutation	893	905	annotator1,annotator3	['sda/5', 'sda/2']	13	SNP & Sequence variations
+Target-Disorder	False	concept	p53 mutation	893	905	Computer,annotator2	['uniprot/3000460']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53 mutation	893	905	Computer	['umls/C0158858']	13	Diseases & Disorders
+Target-Disorder	False	concept	immune suppression	931	949	Computer,annotator2	['umls/C0126401']	22	Diseases & Disorders
+Target-Disorder	False	concept	p53 mutations	953	966	annotator1,annotator3	['sda/1']	14	SNP & Sequence variations
+Target-Disorder	False	concept	p53 mutations	953	966	Computer,annotator2	['uniprot/3000460']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept	p53 mutations	953	966	Computer	['umls/C0158858']	14	Diseases & Disorders
+Target-Disorder	True	concept	non-melanoma skin cancer	997	1021	annotator1,Computer,annotator2,annotator3	['umls/C0082232']	15	Diseases & Disorders
+Target-Disorder	True	relation	3	5	['uniprot/3000460']	['umls/C0000617']	200:203	328:335	annotator1,Computer,annotator2	PA
+Target-Disorder	True	relation	6	7	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0000648']	337:350	378:390	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	0	16	['uniprot/3000460']	['umls/C0082204']	0:3	12:24	Computer	PA
+Target-Disorder	False	relation	0	1	['uniprot/3000460']	['umls/C0000648']	0:3	28:39	Computer,annotator2	PA
+Target-Disorder	False	relation	6	17	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0158743']	337:350	169:188	Computer	PA
+Target-Disorder	False	relation	6	18	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0158858']	337:350	471:480	Computer	PA
+Target-Disorder	False	relation	6	19	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0148847']	337:350	510:524	Computer	PA
+Target-Disorder	False	relation	8	20	['uniprot/3000460']	['umls/C0158858']	563:566	578:587	Computer	PA
+Target-Disorder	False	relation	9	21	['uniprot/3000460']	['umls/C0027156']	685:688	718:729	Computer	PA
+Target-Disorder	True	relation	9	11	['uniprot/3000460']	['umls/C0082232']	685:688	759:784	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	14	14	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['sda/1', 'uniprot/3000460', 'umls/C0158858']	953:966	953:966	Computer	PA
+Target-Disorder	True	relation	14	15	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0082232']	953:966	997:1021	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	14	12	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0004893']	953:966	841:861	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	14	22	['sda/1', 'uniprot/3000460', 'umls/C0158858']	['umls/C0126401']	953:966	931:949	Computer,annotator2	PA
+Target-Disorder	False	relation	9	10	['uniprot/3000460']	['sda/4', 'sda/3']	685:688	733:754	annotator2	PA
+Target-Disorder	False	relation	13	15	['sda/5', 'uniprot/3000460', 'umls/C0158858', 'sda/2']	['umls/C0082232']	893:905	997:1021	annotator3	PA
+Target-Disorder	False	relation	13	12	['sda/5', 'uniprot/3000460', 'umls/C0158858', 'sda/2']	['umls/C0004893']	893:905	841:861	annotator3	PA

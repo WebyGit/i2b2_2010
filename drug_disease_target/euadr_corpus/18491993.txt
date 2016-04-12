@@ -1,0 +1,24 @@
+Target-Drug	True	concept	Rivaroxaban	0	11	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	factor Xa inhibitor	21	47	annotator1,annotator3	['sda/4', 'sda/2']	1	Chemicals & Drugs
+Target-Drug	False	concept	factor Xa	28	37	Computer,annotator2	['uniprot/3030976']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	Rivaroxaban	49	60	annotator1,annotator2,annotator3	['sda/1']	2	Chemicals & Drugs
+Target-Drug	False	concept	Factor Xa inhibitor	82	108	annotator1,annotator3	['sda/4', 'sda/2']	3	Chemicals & Drugs
+Target-Drug	False	concept	Factor Xa	89	98	Computer,annotator2	['uniprot/3030976']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	vitamin K antagonists	160	181	annotator1,annotator2,annotator3	['sda/5', 'uniprot/9015890', 'sda/3']	4	Chemicals & Drugs
+Target-Drug	True	concept	Rivaroxaban	183	194	annotator1,annotator2,annotator3	['sda/1']	5	Chemicals & Drugs
+Target-Drug	False	concept	anticoagulants	559	578	annotator1,annotator3	['sda/6', 'sda/4']	8	Chemicals & Drugs
+Target-Drug	True	concept	rivaroxaban	616	627	annotator1,annotator2,annotator3	['sda/1']	9	Chemicals & Drugs
+Target-Drug	True	concept	rivaroxaban	689	700	annotator1,annotator2,annotator3	['sda/1']	11	Chemicals & Drugs
+Target-Drug	True	concept	rivaroxaban	741	752	annotator1,annotator2,annotator3	['sda/1']	12	Chemicals & Drugs
+Target-Drug	True	concept	rivaroxaban	911	922	annotator1,annotator2,annotator3	['sda/1']	14	Chemicals & Drugs
+Target-Drug	True	concept	warfarin	1250	1258	annotator1,Computer,annotator2,annotator3	['uniprot/8004258', 'uniprot/4500474']	22	Chemicals & Drugs
+Target-Drug	False	relation	0	23	['sda/1']	['uniprot/3030976']	0:11	28:37	annotator2	PA
+Target-Drug	False	relation	4	24	['sda/5', 'uniprot/9015890', 'sda/3']	['uniprot/3030976']	160:181	89:98	annotator2	PA
+Target-Drug	False	relation	2	24	['sda/1']	['uniprot/3030976']	49:60	89:98	annotator2	PA
+Target-Drug	False	relation	5	6	['sda/1']	[]	183:194	264:283	annotator2	PA
+Target-Drug	False	relation	12	13	['sda/1']	[]	741:752	790:812	annotator2	PA
+Target-Drug	False	relation	14	15	['sda/1']	[]	911:922	963:981	annotator2	PA
+Target-Drug	False	relation	14	17	['sda/1']	[]	911:922	1010:1034	annotator2	PA
+Target-Drug	False	relation	14	18	['sda/1']	[]	911:922	1057:1063	annotator2	PA
+Target-Drug	False	relation	14	20	['sda/1']	[]	911:922	1134:1153	annotator2	PA
+Target-Drug	False	relation	14	19	['sda/1']	[]	911:922	1095:1103	annotator2	PA

@@ -1,0 +1,4 @@
+Target-Drug	False	concept		348	360	annotator3	['sda/1']	10	Chemicals & Drugs
+Target-Drug	False	concept	chemotherapy	441	460	annotator1,annotator3	['sda/2', 'sda/1']	4	Chemicals & Drugs
+Target-Drug	False	concept		1037	1041	Computer	['uniprot/4500962']	9	Chemicals & Drugs
+Target-Drug	False	concept	chemotherapy drugs	1180	1198	annotator1,annotator3	['sda/1']	8	Chemicals & Drugs

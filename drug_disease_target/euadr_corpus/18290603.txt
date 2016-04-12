@@ -1,0 +1,6 @@
+Target-Drug	False	concept	Pim-1 kinase	32	76	annotator1	['sda/3']	0	Chemicals & Drugs
+Target-Drug	False	concept	Pim-1 kinase	32	76	annotator2,annotator3	['sda/1']	0	Genes & Molecular Sequences
+Target-Drug	False	concept		64	69	Computer	['uniprot/3003521']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	Pim-1 kinase	162	174	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/3003521', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		176	181	Computer	['uniprot/3002702']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	HTS	437	440	Computer	['uniprot/2016014']	5	Genes & Molecular Sequences

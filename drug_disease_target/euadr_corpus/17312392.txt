@@ -1,0 +1,14 @@
+Target-Disorder	True	concept	ATM	0	3	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3030952']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	ATR	8	11	annotator1,Computer,annotator2,annotator3	['uniprot/2002402']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	phosphatidylinositol 3-kinase-like kinases	54	96	annotator1,annotator2,annotator3	['sda/1']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	PIKKs	98	103	annotator1,annotator2,annotator3	['sda/2']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	ATM	105	108	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3030952']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	ATR	113	116	annotator1,Computer,annotator2,annotator3	['uniprot/2002402']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	DNA damage	186	196	annotator1,Computer	['sda/4', 'umls/C0001212']	6	Diseases & Disorders
+Target-Disorder	False	concept		332	343	annotator1	['sda/7']	7	Diseases & Disorders
+Target-Disorder	True	concept	ATM	427	430	annotator1,annotator2,annotator3	['sda/3', 'uniprot/3030952']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	ATR	436	439	annotator1,Computer,annotator2,annotator3	['uniprot/2002402']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	ATM	595	598	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3030952']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	ATR	603	606	annotator1,Computer,annotator2,annotator3	['uniprot/2002402']	11	Genes & Molecular Sequences
+Target-Disorder	False	relation	5	6	['uniprot/2002402']	['sda/4', 'umls/C0001212']	113:116	186:196	annotator1,Computer	PA
+Target-Disorder	False	relation	4	6	['sda/3', 'uniprot/3030952']	['sda/4', 'umls/C0001212']	105:108	186:196	annotator1,Computer	PA

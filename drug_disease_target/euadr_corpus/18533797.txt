@@ -1,0 +1,20 @@
+Drug-Disorder	True	concept	Epoetin beta	0	12	annotator1,annotator4,annotator5	['sda/1', 'uniprot/4003202', 'sda/3']	0	Chemicals & Drugs
+Drug-Disorder	False	concept		77	89	annotator5	['sda/1']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	anemia	98	104	annotator1,annotator4,Computer,annotator5	['umls/C0000234', 'sda/3']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Epoetin beta	106	118	annotator1,annotator4,annotator5	['sda/1', 'uniprot/4003202', 'sda/3']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		256	268	annotator5	['sda/1']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	anemia	277	283	annotator1,annotator4,Computer,annotator5	['umls/C0000234', 'sda/3']	3	Diseases & Disorders
+Drug-Disorder	True	concept	solid tumors	300	312	annotator1,Computer,annotator5,annotator5	['umls/C0028112', 'umls/C0078939']	4	Diseases & Disorders
+Drug-Disorder	True	concept	malignancies	317	338	annotator1,Computer,annotator5	['sda/2', 'umls/C0000617']	5	Diseases & Disorders
+Drug-Disorder	True	concept	epoetin beta	417	429	annotator1,annotator4,annotator5	['sda/1', 'uniprot/4003202', 'sda/3']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	epoetin beta	524	536	annotator1,annotator4,annotator5	['sda/1', 'uniprot/4003202', 'sda/3']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	cancer	587	593	annotator1,Computer,annotator5	['umls/C0000617']	8	Diseases & Disorders
+Drug-Disorder	False	relation	0	1	['sda/1', 'uniprot/4003202', 'sda/3']	['umls/C0000234', 'sda/3']	0:12	98:104	annotator1,annotator5	PA
+Drug-Disorder	True	relation	2	3	['sda/1', 'uniprot/4003202', 'sda/3']	['umls/C0000234', 'sda/3']	106:118	277:283	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	7	8	['sda/1', 'uniprot/4003202', 'sda/3']	['umls/C0000617']	524:536	587:593	annotator1,annotator5	PA
+Drug-Disorder	False	relation	9	1	['sda/1']	['umls/C0000234', 'sda/3']	77:89	98:104	annotator5	PA
+Drug-Disorder	False	relation	10	3	['sda/1']	['umls/C0000234', 'sda/3']	256:268	277:283	annotator5	PA
+Drug-Disorder	False	relation	10	4	['sda/1']	['umls/C0028112', 'umls/C0078939']	256:268	300:312	annotator5	PA
+Drug-Disorder	False	relation	10	5	['sda/1']	['sda/2', 'umls/C0000617']	256:268	317:338	annotator5	PA
+Drug-Disorder	False	relation	2	4	['sda/1', 'uniprot/4003202', 'sda/3']	['umls/C0028112', 'umls/C0078939']	106:118	300:312	annotator5	PA
+Drug-Disorder	False	relation	2	5	['sda/1', 'uniprot/4003202', 'sda/3']	['sda/2', 'umls/C0000617']	106:118	317:338	annotator5	PA

@@ -1,0 +1,54 @@
+Target-Disorder	True	concept	INSIG2	0	6	annotator1,Computer,annotator2,annotator3	['uniprot/3009400']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept		54	70	annotator3	['sda/3']	23	Diseases & Disorders
+Target-Disorder	False	concept		84	120	annotator3	['sda/8']	24	Diseases & Disorders
+Target-Disorder	True	concept	INSIG2	170	176	annotator1,Computer,annotator2,annotator3	['uniprot/3009400']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs7566605	183	192	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	2	SNP & Sequence variations
+Target-Disorder	False	concept		194	207	annotator2	['sda/2']	22	SNP & Sequence variations
+Target-Disorder	True	concept	obesity	277	284	Computer,annotator2,annotator3	['umls/C0003097']	17	Diseases & Disorders
+Target-Disorder	True	concept	adiposity	469	478	Computer,annotator2,annotator3	['umls/C0003097']	18	Diseases & Disorders
+Target-Disorder	False	concept	INSIG2	578	588	annotator1	['sda/3']	3	SNP & Sequence variations
+Target-Disorder	True	concept	INSIG2	578	588	Computer,annotator2,annotator3	['uniprot/3009400']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept		593	609	annotator3	['sda/3']	25	Diseases & Disorders
+Target-Disorder	False	concept	INSIG2	689	699	annotator1	['sda/3']	4	SNP & Sequence variations
+Target-Disorder	True	concept	INSIG2	689	699	Computer,annotator2,annotator3	['uniprot/3009400']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs7566605	700	709	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	5	SNP & Sequence variations
+Target-Disorder	True	concept	yrs	908	911	Computer,annotator2,annotator3	['uniprot/3037358']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	INSIG2	972	991	annotator1	['sda/2']	6	SNP & Sequence variations
+Target-Disorder	True	concept	INSIG2	972	991	Computer,annotator2,annotator3	['uniprot/3009400']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		995	1011	annotator3	['sda/3']	26	Diseases & Disorders
+Target-Disorder	False	concept		1120	1139	annotator3	['sda/7']	27	Diseases & Disorders
+Target-Disorder	False	concept	weight	1232	1238	Computer,annotator3	['umls/C0046216']	20	Diseases & Disorders
+Target-Disorder	False	concept	C allele	1438	1446	annotator1,annotator3	['sda/4', 'sda/5']	7	SNP & Sequence variations
+Target-Disorder	False	concept		1477	1493	annotator3	['sda/3']	28	Diseases & Disorders
+Target-Disorder	False	concept		1495	1497	annotator1	['sda/5']	8	SNP & Sequence variations
+Target-Disorder	False	concept		1532	1537	annotator1	['sda/6']	9	SNP & Sequence variations
+Target-Disorder	False	concept	G ancestral allele	1648	1666	annotator1,annotator3	['sda/7', 'sda/6']	10	SNP & Sequence variations
+Target-Disorder	False	concept		1684	1700	annotator3	['sda/3']	29	Diseases & Disorders
+Target-Disorder	False	concept	C allele	1744	1752	annotator1,annotator3	['sda/4', 'sda/5']	11	SNP & Sequence variations
+Target-Disorder	False	concept		1784	1800	annotator3	['sda/3']	30	Diseases & Disorders
+Target-Disorder	False	concept		1806	1825	annotator3	['sda/7']	31	Diseases & Disorders
+Target-Disorder	False	concept		1827	1829	annotator1	['sda/5']	12	SNP & Sequence variations
+Target-Disorder	False	concept		1860	1865	annotator1	['sda/6']	13	SNP & Sequence variations
+Target-Disorder	True	concept	INSIG2 rs7566605	1942	1958	annotator1,annotator2,annotator3	['sda/8', 'sda/1', 'sda/2']	14	SNP & Sequence variations
+Target-Disorder	True	concept	INSIG2 rs7566605	1942	1958	Computer,annotator2,annotator3	['uniprot/3009400']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	adiposity	2008	2017	Computer,annotator2,annotator3	['umls/C0003097']	21	Diseases & Disorders
+Target-Disorder	False	concept		2078	2097	annotator3	['sda/7']	32	Diseases & Disorders
+Target-Disorder	True	concept	obesity	2202	2209	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0003097']	15	Diseases & Disorders
+Target-Disorder	True	concept	INSIG2 rs7566605	2214	2230	annotator1,annotator2,annotator3	['sda/8', 'sda/1', 'sda/2']	16	SNP & Sequence variations
+Target-Disorder	True	concept	INSIG2 rs7566605	2214	2230	Computer,annotator2,annotator3	['uniprot/3009400']	16	Genes & Molecular Sequences
+Target-Disorder	False	relation	1	2	['uniprot/3009400']	['sda/1', 'sda/2']	170:176	183:192	annotator1	PA
+Target-Disorder	True	relation	16	15	['sda/8', 'uniprot/3009400', 'sda/1', 'sda/2']	['sda/1', 'umls/C0003097']	2214:2230	2202:2209	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	1	17	['uniprot/3009400']	['umls/C0003097']	170:176	277:284	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	3	18	['sda/3', 'uniprot/3009400']	['umls/C0003097']	578:588	469:478	Computer,annotator2	PA
+Target-Disorder	True	relation	14	21	['sda/8', 'uniprot/3009400', 'sda/1', 'sda/2']	['umls/C0003097']	1942:1958	2008:2017	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	2	17	['sda/1', 'sda/2']	['umls/C0003097']	183:192	277:284	annotator2,annotator3	PA
+Target-Disorder	False	relation	22	17	['sda/2']	['umls/C0003097']	194:207	277:284	annotator2	PA
+Target-Disorder	False	relation	0	23	['uniprot/3009400']	['sda/3']	0:6	54:70	annotator3	PA
+Target-Disorder	False	relation	0	24	['uniprot/3009400']	['sda/8']	0:6	84:120	annotator3	PA
+Target-Disorder	False	relation	3	25	['sda/3', 'uniprot/3009400']	['sda/3']	578:588	593:609	annotator3	SA
+Target-Disorder	False	relation	7	28	['sda/4', 'sda/5']	['sda/3']	1438:1446	1477:1493	annotator3	PA
+Target-Disorder	False	relation	11	30	['sda/4', 'sda/5']	['sda/3']	1744:1752	1784:1800	annotator3	PA
+Target-Disorder	False	relation	11	31	['sda/4', 'sda/5']	['sda/7']	1744:1752	1806:1825	annotator3	PA
+Target-Disorder	False	relation	10	30	['sda/7', 'sda/6']	['sda/3']	1648:1666	1784:1800	annotator3	PA
+Target-Disorder	False	relation	10	31	['sda/7', 'sda/6']	['sda/7']	1648:1666	1806:1825	annotator3	PA
+Target-Disorder	False	relation	14	32	['sda/8', 'uniprot/3009400', 'sda/1', 'sda/2']	['sda/7']	1942:1958	2078:2097	annotator3	PA

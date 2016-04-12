@@ -1,0 +1,34 @@
+Drug-Disorder	True	concept	topiramate	45	55	annotator1,annotator4,Computer,annotator5	['uniprot/8512984', 'uniprot/4500649']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	propranolol	59	70	annotator1,annotator4,Computer,annotator5	['uniprot/6007131', 'uniprot/4501033']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	migraine	74	82	annotator1,annotator4,Computer,annotator5	['umls/C0005305']	2	Diseases & Disorders
+Drug-Disorder	True	concept	topiramate	153	163	annotator1,annotator4,Computer,annotator5	['uniprot/8512984', 'uniprot/4500649']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	migraine	167	175	annotator1,annotator4,Computer,annotator5	['umls/C0005305']	4	Diseases & Disorders
+Drug-Disorder	True	concept	propranolol	191	202	annotator1,annotator4,Computer,annotator5	['uniprot/6007131', 'uniprot/4501033']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	migraine headaches	305	323	annotator1,annotator4,Computer,annotator5	['umls/C0005305']	6	Diseases & Disorders
+Drug-Disorder	True	concept	topiramate	466	476	annotator1,annotator4,Computer,annotator5	['uniprot/8512984', 'uniprot/4500649']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	propranolol	491	502	annotator1,annotator4,Computer,annotator5	['uniprot/6007131', 'uniprot/4501033']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	topiramate	604	614	annotator1,annotator4,Computer,annotator5	['uniprot/8512984', 'uniprot/4500649']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	migraine	671	679	annotator1,annotator4,Computer,annotator5	['umls/C0005305']	10	Diseases & Disorders
+Drug-Disorder	True	concept	headache	748	756	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0001839', 'sda/5']	11	Diseases & Disorders
+Drug-Disorder	False	concept	headache	841	849	annotator1,annotator5	['sda/1', 'sda/5']	12	Diseases & Disorders
+Drug-Disorder	True	concept	propranolol	946	957	annotator1,annotator4,Computer,annotator5	['uniprot/6007131', 'uniprot/4501033']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	headache	987	995	annotator1,Computer,annotator5	['sda/1', 'umls/C0098934', 'sda/5']	14	Diseases & Disorders
+Drug-Disorder	True	concept	headache	1063	1071	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0001839', 'sda/5']	15	Diseases & Disorders
+Drug-Disorder	False	concept	headache	1132	1140	annotator1,annotator5	['sda/1', 'sda/5']	16	Diseases & Disorders
+Drug-Disorder	True	concept	topiramate	1269	1279	annotator1,annotator4,Computer,annotator5	['uniprot/8512984', 'uniprot/4500649']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	propranolol	1284	1295	annotator1,annotator4,Computer,annotator5	['uniprot/6007131', 'uniprot/4501033']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	migraine headache	1323	1340	annotator1,annotator4,Computer,Computer,annotator5,annotator5	['sda/2', 'umls/C0005305', 'umls/C0098934', 'sda/5']	19	Diseases & Disorders
+Drug-Disorder	True	concept	propranolol	1400	1411	annotator1,annotator4,Computer,annotator5	['uniprot/6007131', 'uniprot/4501033']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	topiramate	1422	1432	annotator1,annotator4,Computer,annotator5	['uniprot/8512984', 'uniprot/4500649']	21	Chemicals & Drugs
+Drug-Disorder	True	relation	9	10	['uniprot/8512984', 'uniprot/4500649']	['umls/C0005305']	604:614	671:679	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	9	12	['uniprot/8512984', 'uniprot/4500649']	['sda/1', 'sda/5']	604:614	841:849	annotator1	PA
+Drug-Disorder	False	relation	13	16	['uniprot/6007131', 'uniprot/4501033']	['sda/1', 'sda/5']	946:957	1132:1140	annotator1	PA
+Drug-Disorder	True	relation	17	19	['uniprot/8512984', 'uniprot/4500649']	['sda/2', 'umls/C0005305', 'umls/C0098934', 'sda/5']	1269:1279	1323:1340	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	18	19	['uniprot/6007131', 'uniprot/4501033']	['sda/2', 'umls/C0005305', 'umls/C0098934', 'sda/5']	1284:1295	1323:1340	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	9	11	['uniprot/8512984', 'uniprot/4500649']	['sda/1', 'umls/C0001839', 'sda/5']	604:614	748:756	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	13	15	['uniprot/6007131', 'uniprot/4501033']	['sda/1', 'umls/C0001839', 'sda/5']	946:957	1063:1071	annotator4,Computer	PA
+Drug-Disorder	False	relation	0	2	['uniprot/8512984', 'uniprot/4500649']	['umls/C0005305']	45:55	74:82	Computer,annotator5	PA
+Drug-Disorder	False	relation	1	2	['uniprot/6007131', 'uniprot/4501033']	['umls/C0005305']	59:70	74:82	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	4	['uniprot/8512984', 'uniprot/4500649']	['umls/C0005305']	153:163	167:175	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	4	['uniprot/6007131', 'uniprot/4501033']	['umls/C0005305']	191:202	167:175	Computer,annotator5	PA
+Drug-Disorder	False	relation	13	14	['uniprot/6007131', 'uniprot/4501033']	['sda/1', 'umls/C0098934', 'sda/5']	946:957	987:995	Computer,annotator5	PA

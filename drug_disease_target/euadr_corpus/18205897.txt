@@ -1,0 +1,32 @@
+Drug-Disorder	True	concept	hirudin	59	78	annotator1,annotator4,annotator5	['sda/5', 'sda/4', 'sda/11']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	hirudin	92	111	annotator1,annotator4,annotator5	['sda/5', 'sda/4', 'sda/11']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	anticoagulant	138	151	annotator1,annotator5	['sda/2']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	heparin-induced thrombocytopenia type II	183	223	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/6', 'umls/C0024927', 'sda/5']	3	Diseases & Disorders
+Drug-Disorder	True	concept	hirudin	257	264	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	hirudin	398	417	annotator1,annotator4,annotator5	['sda/5', 'sda/4', 'sda/11']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	Hirudin	446	453	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		587	600	annotator1	['sda/6']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		602	614	annotator1	['sda/7']	8	Chemicals & Drugs
+Drug-Disorder	False	concept		620	626	annotator1	['sda/8']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	Hirudin	653	660	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		826	839	annotator1	['sda/6']	11	Chemicals & Drugs
+Drug-Disorder	False	concept		841	853	annotator1	['sda/7']	12	Chemicals & Drugs
+Drug-Disorder	False	concept		859	865	annotator1	['sda/8']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	absence	938	945	annotator1,annotator4,Computer,annotator5	['umls/C0158184']	14	Diseases & Disorders
+Drug-Disorder	True	concept	hirudin	949	956	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		958	966	Computer	['umls/C0028715']	26	Diseases & Disorders
+Drug-Disorder	False	concept		974	976	annotator4	['uniprot/8000819']	25	Chemicals & Drugs
+Drug-Disorder	False	concept		989	1001	annotator1	['sda/7']	16	Chemicals & Drugs
+Drug-Disorder	False	concept		1003	1016	annotator1	['sda/6']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		1022	1028	annotator1	['sda/8']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	hirudin	1122	1129	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		1172	1180	Computer	['umls/C0028715']	27	Diseases & Disorders
+Drug-Disorder	True	concept	hirudin	1247	1254	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	hirudin	1314	1321	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	21	Chemicals & Drugs
+Drug-Disorder	False	concept		1526	1530	Computer	['umls/C0028715']	28	Diseases & Disorders
+Drug-Disorder	False	concept		1572	1576	Computer	['umls/C0028715']	29	Diseases & Disorders
+Drug-Disorder	True	concept	hirudin	1607	1614	annotator1,annotator4,annotator5	['sda/4', 'sda/11']	22	Chemicals & Drugs
+Drug-Disorder	False	concept	anticoagulant	1746	1759	annotator1,annotator5	['sda/2']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	hirudin	1771	1790	annotator1,annotator4,annotator5	['sda/5', 'sda/4', 'sda/11']	24	Chemicals & Drugs
+Drug-Disorder	False	relation	2	3	['sda/2']	['sda/3', 'sda/6', 'umls/C0024927', 'sda/5']	138:151	183:223	annotator1,annotator5	PA
+Drug-Disorder	False	relation	1	3	['sda/5', 'sda/4', 'sda/11']	['sda/3', 'sda/6', 'umls/C0024927', 'sda/5']	92:111	183:223	annotator1,annotator5	PA

@@ -1,0 +1,25 @@
+Target-Disorder	False	concept	MBL	26	48	annotator1	['sda/12']	0	SNP & Sequence variations
+Target-Disorder	True	concept	MBL	26	48	Computer,annotator2,annotator3	['uniprot/2006508', 'sda/3']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	BOS	91	94	annotator1,Computer,annotator2,annotator3	['umls/C0019458']	1	Diseases & Disorders
+Target-Disorder	True	concept	end-stage lung disease	187	209	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0002616', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	True	concept	Mannose binding lectin	353	375	annotator1,annotator2,annotator3	['sda/3', 'sda/1', 'sda/2']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	MBL	377	380	annotator1,Computer,annotator2,annotator3	['uniprot/2006508', 'sda/3']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept		558	561	annotator2	['sda/3']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	MBL2	810	814	annotator1,Computer,annotator2,annotator3	['uniprot/3088328', 'sda/3']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	L/H	835	838	annotator1,annotator2	['sda/4']	6	SNP & Sequence variations
+Target-Disorder	False	concept	Y/X	840	843	annotator1,annotator2	['sda/5']	7	SNP & Sequence variations
+Target-Disorder	False	concept	P/Q	849	859	annotator1,annotator2	['sda/6']	8	SNP & Sequence variations
+Target-Disorder	False	concept	A/D	872	875	annotator1,annotator2	['sda/7']	9	SNP & Sequence variations
+Target-Disorder	False	concept	A/B	877	880	annotator1,annotator2	['sda/8']	10	SNP & Sequence variations
+Target-Disorder	False	concept	A/C	886	896	annotator1,annotator2	['sda/9']	11	SNP & Sequence variations
+Target-Disorder	True	concept	bronchiolitis obliterans syndrome	990	1023	annotator1,Computer,Computer,annotator2,annotator2,annotator3,annotator3	['sda/14', 'umls/C0000586', 'umls/C0004277']	12	Diseases & Disorders
+Target-Disorder	False	concept		1062	1066	Computer	['uniprot/3002848']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept		1422	1430	annotator1	['sda/11']	13	SNP & Sequence variations
+Target-Disorder	True	concept	bronchiolitis obliterans syndrome	1471	1504	annotator1,Computer,Computer,annotator2,annotator2,annotator3,annotator3	['sda/14', 'umls/C0000586', 'umls/C0004277']	14	Diseases & Disorders
+Target-Disorder	True	concept	MBL	1540	1543	annotator1,Computer,annotator2,annotator3	['uniprot/2006508', 'sda/3']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept		1619	1627	annotator1	['sda/11']	16	SNP & Sequence variations
+Target-Disorder	False	concept	LXPA haplotype	1654	1668	annotator1,annotator2	['sda/13', 'sda/10']	17	SNP & Sequence variations
+Target-Disorder	False	concept	LXPA haplotype	1654	1668	annotator3	['sda/2']	17	Genes & Molecular Sequences
+Target-Disorder	True	relation	0	1	['sda/12', 'uniprot/2006508', 'sda/3']	['umls/C0019458']	26:48	91:94	annotator1,Computer,annotator2	SA
+Target-Disorder	False	relation	13	14	['sda/11']	['sda/14', 'umls/C0000586', 'umls/C0004277']	1422:1430	1471:1504	annotator1	PA
+Target-Disorder	False	relation	18	12	['uniprot/3002848']	['sda/14', 'umls/C0000586', 'umls/C0004277']	1062:1066	990:1023	Computer	PA

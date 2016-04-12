@@ -1,0 +1,49 @@
+Drug-Disorder	True	concept	melanoma	13	21	annotator1,annotator4,Computer,annotator5	['umls/C0002747']	0	Diseases & Disorders
+Drug-Disorder	True	concept	malignancies	32	44	annotator1,Computer,annotator5	['umls/C0000617']	1	Diseases & Disorders
+Drug-Disorder	True	concept	rheumatoid arthritis	51	71	annotator1,annotator4,Computer,annotator5	['umls/C0000370']	2	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	94	106	annotator1,annotator4,Computer,annotator5	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	cancer	132	138	annotator1,annotator4,Computer,annotator5	['umls/C0000617', 'sda/1']	4	Diseases & Disorders
+Drug-Disorder	True	concept	rheumatoid arthritis	163	183	annotator1,annotator4,Computer,annotator5	['umls/C0000370']	5	Diseases & Disorders
+Drug-Disorder	False	concept	RA	185	187	annotator1,annotator5	['sda/1']	6	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	211	223	annotator1,annotator4,Computer,annotator5	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	RA	260	262	annotator1,annotator5	['sda/1']	8	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	284	296	annotator1,annotator4,Computer,annotator5	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	Cancer	415	421	annotator1,annotator4,Computer,annotator5	['umls/C0000617', 'sda/1']	10	Diseases & Disorders
+Drug-Disorder	True	concept	malignancies	447	459	annotator1,Computer,annotator5	['umls/C0000617']	11	Diseases & Disorders
+Drug-Disorder	True	concept	nonmelanoma skin cancer	468	491	annotator1,annotator4,annotator4,Computer,annotator5	['umls/C0082232', 'sda/4']	12	Diseases & Disorders
+Drug-Disorder	False	concept		556	562	annotator5	['sda/4']	34	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	617	629	annotator1,annotator4,Computer,annotator5	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	cancer	827	833	annotator1,annotator4,Computer,annotator5	['umls/C0000617', 'sda/1']	14	Diseases & Disorders
+Drug-Disorder	True	concept	malignancies	987	999	annotator1,Computer,annotator5	['umls/C0000617']	15	Diseases & Disorders
+Drug-Disorder	True	concept	malignancy	1115	1125	annotator1,Computer,annotator5	['umls/C0000617']	16	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	1132	1144	annotator1,annotator4,annotator5	['sda/5', 'uniprot/6076272']	17	Chemicals & Drugs
+Drug-Disorder	False	concept	RA	1153	1155	annotator1,annotator5	['sda/1']	18	Diseases & Disorders
+Drug-Disorder	True	concept	melanoma	1279	1287	annotator1,annotator4,Computer,annotator5	['umls/C0002747']	19	Diseases & Disorders
+Drug-Disorder	True	concept	non-Hodgkin's lymphoma	1336	1358	annotator1,annotator4,Computer,annotator5	['umls/C0002652']	20	Diseases & Disorders
+Drug-Disorder	True	concept	lung cancer	1420	1431	annotator1,annotator4,Computer,annotator5	['umls/C0079715', 'sda/2']	21	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	1509	1521	annotator1,annotator4,annotator5	['sda/5', 'uniprot/6076272']	22	Chemicals & Drugs
+Drug-Disorder	False	concept	RA	1530	1532	annotator1,annotator5	['sda/1']	23	Diseases & Disorders
+Drug-Disorder	True	concept	melanoma	1573	1581	annotator1,annotator4,Computer,annotator5	['umls/C0002747']	24	Diseases & Disorders
+Drug-Disorder	True	concept	non-Hodgkin's lymphoma	1583	1605	annotator1,annotator4,Computer,annotator5	['umls/C0002652']	25	Diseases & Disorders
+Drug-Disorder	True	concept	lung cancer	1611	1622	annotator1,annotator4,Computer,annotator5	['umls/C0079715', 'sda/2']	26	Diseases & Disorders
+Drug-Disorder	True	concept	skin cancer	1656	1667	annotator1,annotator4,Computer,annotator5	['umls/C0000648', 'sda/4']	27	Diseases & Disorders
+Drug-Disorder	False	concept	RA	1686	1688	annotator1,annotator5	['sda/1']	28	Diseases & Disorders
+Drug-Disorder	False	concept		1728	1753	annotator5	['sda/5']	35	Chemicals & Drugs
+Drug-Disorder	True	relation	3	0	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['umls/C0002747']	94:106	13:21	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	3	1	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['umls/C0000617']	94:106	32:44	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	3	2	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['umls/C0000370']	94:106	51:71	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	7	4	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['umls/C0000617', 'sda/1']	211:223	132:138	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	7	5	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['umls/C0000370']	211:223	163:183	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	7	6	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['sda/1']	211:223	185:187	annotator1,annotator5	PA
+Drug-Disorder	False	relation	9	8	['sda/5', 'uniprot/6076272', 'uniprot/4501102']	['sda/1']	284:296	260:262	annotator1,annotator5	PA
+Drug-Disorder	True	relation	17	19	['sda/5', 'uniprot/6076272']	['umls/C0002747']	1132:1144	1279:1287	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	17	16	['sda/5', 'uniprot/6076272']	['umls/C0000617']	1132:1144	1115:1125	annotator1,annotator5	PA
+Drug-Disorder	True	relation	17	20	['sda/5', 'uniprot/6076272']	['umls/C0002652']	1132:1144	1336:1358	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	17	21	['sda/5', 'uniprot/6076272']	['umls/C0079715', 'sda/2']	1132:1144	1420:1431	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	17	18	['sda/5', 'uniprot/6076272']	['sda/1']	1132:1144	1153:1155	annotator1,annotator5	PA
+Drug-Disorder	True	relation	22	24	['sda/5', 'uniprot/6076272']	['umls/C0002747']	1509:1521	1573:1581	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	22	25	['sda/5', 'uniprot/6076272']	['umls/C0002652']	1509:1521	1583:1605	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	22	26	['sda/5', 'uniprot/6076272']	['umls/C0079715', 'sda/2']	1509:1521	1611:1622	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	22	23	['sda/5', 'uniprot/6076272']	['sda/1']	1509:1521	1530:1532	annotator1,annotator5	PA
+Drug-Disorder	False	relation	35	27	['sda/5']	['umls/C0000648', 'sda/4']	1728:1753	1656:1667	annotator5	PA
+Drug-Disorder	False	relation	35	28	['sda/5']	['sda/1']	1728:1753	1686:1688	annotator5	PA

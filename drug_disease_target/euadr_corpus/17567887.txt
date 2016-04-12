@@ -1,0 +1,48 @@
+Target-Disorder	True	concept	deafness	28	36	annotator1,Computer,annotator2,annotator3	['umls/C0001053']	0	Diseases & Disorders
+Target-Disorder	True	concept	hearing loss	78	90	annotator1,annotator2,annotator3	['sda/3', 'sda/9']	1	Diseases & Disorders
+Target-Disorder	False	concept		104	112	Computer	['umls/C0001185']	21	Diseases & Disorders
+Target-Disorder	True	concept	deafness	209	217	annotator1,Computer,annotator2,annotator3	['umls/C0001053']	2	Diseases & Disorders
+Target-Disorder	True	concept	deafness	301	318	annotator1,Computer,annotator2,annotator3	['sda/2', 'umls/C0001053']	3	Diseases & Disorders
+Target-Disorder	True	concept	hearing loss	375	387	annotator1,annotator2,annotator3	['sda/3', 'sda/9']	4	Diseases & Disorders
+Target-Disorder	True	concept	GJB2	553	557	annotator1,Computer,annotator2,annotator3	['uniprot/3002975']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	GJB3	562	566	annotator1,Computer,annotator2,annotator3	['uniprot/3007338']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	del(GJB6-D13S1,830)	574	593	annotator1,annotator3	['sda/5', 'sda/2']	7	SNP & Sequence variations
+Target-Disorder	False	concept		578	592	annotator2	['sda/2']	26	SNP & Sequence variations
+Target-Disorder	False	concept	del(GJB6-D13S1,854)	598	617	annotator1,annotator3	['sda/6', 'sda/3']	8	SNP & Sequence variations
+Target-Disorder	False	concept		602	616	annotator2	['sda/5']	27	SNP & Sequence variations
+Target-Disorder	False	concept	deletions in the GJB6	618	639	annotator1	['sda/13']	9	SNP & Sequence variations
+Target-Disorder	False	concept	deletions in the GJB6	618	639	Computer	['umls/C0147577']	9	Diseases & Disorders
+Target-Disorder	True	concept	deletions in the GJB6	618	639	Computer,annotator2,annotator3	['uniprot/3004936', 'sda/1']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	Q829X	646	651	annotator1,annotator3	['sda/7', 'sda/8']	10	SNP & Sequence variations
+Target-Disorder	False	concept	Q829X	646	651	annotator2	['sda/6']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept		652	660	Computer	['umls/C0158858']	22	Diseases & Disorders
+Target-Disorder	True	concept	otoferlin	668	677	annotator1,Computer,annotator2,annotator3	['uniprot/3012892']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	OTOF	684	688	annotator1,Computer,annotator2,annotator3	['uniprot/3012892']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	A1,555G	699	706	annotator1,annotator2,annotator3	['sda/9', 'sda/7', 'sda/5']	13	SNP & Sequence variations
+Target-Disorder	True	concept	A7,445G	711	718	annotator1,annotator2,annotator3	['sda/10', 'sda/8', 'sda/7']	14	SNP & Sequence variations
+Target-Disorder	False	concept		719	728	Computer	['umls/C0158858']	23	Diseases & Disorders
+Target-Disorder	False	concept		780	789	Computer	['umls/C0158858']	24	Diseases & Disorders
+Target-Disorder	False	concept		837	846	Computer	['umls/C0158858']	25	Diseases & Disorders
+Target-Disorder	True	concept	hearing loss	902	914	annotator1,annotator2,annotator3	['sda/3', 'sda/9']	15	Diseases & Disorders
+Target-Disorder	False	concept	mutations in the GJB2	969	990	annotator1,annotator3	['sda/11', 'sda/2']	16	SNP & Sequence variations
+Target-Disorder	False	concept	mutations in the GJB2	969	990	Computer	['umls/C0158858']	16	Diseases & Disorders
+Target-Disorder	False	concept	mutations in the GJB2	969	990	Computer,annotator2	['uniprot/3002975']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept	deletions in the GJB6	1044	1065	annotator1	['sda/13']	17	SNP & Sequence variations
+Target-Disorder	False	concept	deletions in the GJB6	1044	1065	Computer	['umls/C0147577']	17	Diseases & Disorders
+Target-Disorder	True	concept	deletions in the GJB6	1044	1065	Computer,annotator2,annotator3	['uniprot/3004936', 'sda/1']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	mutations	1082	1105	annotator1	['sda/14']	18	SNP & Sequence variations
+Target-Disorder	False	concept	mutations	1082	1105	Computer	['umls/C0158858']	18	Diseases & Disorders
+Target-Disorder	True	concept	hearing loss	1143	1155	annotator1,annotator2,annotator3	['sda/3', 'sda/9']	19	Diseases & Disorders
+Target-Disorder	True	concept	deafness	1230	1238	annotator1,Computer,annotator2,annotator3	['umls/C0001053']	20	Diseases & Disorders
+Target-Disorder	False	relation	12	9	['uniprot/3012892']	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	684:688	618:639	Computer	PA
+Target-Disorder	False	relation	12	23	['uniprot/3012892']	['umls/C0158858']	684:688	719:728	Computer	PA
+Target-Disorder	False	relation	5	9	['uniprot/3002975']	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	553:557	618:639	Computer	PA
+Target-Disorder	False	relation	5	23	['uniprot/3002975']	['umls/C0158858']	553:557	719:728	Computer	PA
+Target-Disorder	False	relation	6	9	['uniprot/3007338']	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	562:566	618:639	Computer	PA
+Target-Disorder	False	relation	6	23	['uniprot/3007338']	['umls/C0158858']	562:566	719:728	Computer	PA
+Target-Disorder	False	relation	9	9	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	618:639	618:639	Computer	PA
+Target-Disorder	False	relation	9	23	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	['umls/C0158858']	618:639	719:728	Computer	PA
+Target-Disorder	False	relation	16	17	['sda/11', 'umls/C0158858', 'uniprot/3002975', 'sda/2']	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	969:990	1044:1065	Computer	PA
+Target-Disorder	False	relation	16	18	['sda/11', 'umls/C0158858', 'uniprot/3002975', 'sda/2']	['sda/14', 'umls/C0158858']	969:990	1082:1105	Computer	PA
+Target-Disorder	False	relation	17	17	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	1044:1065	1044:1065	Computer	PA
+Target-Disorder	False	relation	17	18	['sda/13', 'umls/C0147577', 'uniprot/3004936', 'sda/1']	['sda/14', 'umls/C0158858']	1044:1065	1082:1105	Computer	PA

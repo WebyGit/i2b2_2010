@@ -1,0 +1,22 @@
+Target-Drug	True	concept	MS4A12	0	6	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	calcium	43	50	annotator1,annotator3	['sda/1', 'sda/6']	1	Chemicals & Drugs
+Target-Drug	True	concept	MS4A12	209	215	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	CD20	241	245	annotator1,Computer,annotator2,annotator3	['uniprot/3007259']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	MS4A12	260	266	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	MS4A12	348	354	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	6	Genes & Molecular Sequences
+Target-Drug	False	concept		600	606	annotator1,annotator3	['sda/2']	9	Chemicals & Drugs
+Target-Drug	True	concept	MS4A12	636	642	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	10	Genes & Molecular Sequences
+Target-Drug	False	concept		682	688	annotator1,annotator3	['sda/2']	11	Chemicals & Drugs
+Target-Drug	True	concept	MS4A12	773	779	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	epidermal growth factor receptor	818	850	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	MS4A12	1000	1006	annotator1,Computer,annotator2,annotator3	['uniprot/4000033']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	epidermal growth factor	1075	1098	annotator1,Computer,annotator2,annotator3	['uniprot/3001483']	18	Genes & Molecular Sequences
+Target-Drug	False	relation	1	0	['sda/1', 'sda/6']	['uniprot/4000033']	43:50	0:6	annotator1,annotator3	PA
+Target-Drug	False	relation	11	10	['sda/2']	['uniprot/4000033']	682:688	636:642	annotator1,annotator3	PA
+Target-Drug	False	relation	0	21	['uniprot/4000033']	[]	0:6	69:78	annotator2	PA
+Target-Drug	False	relation	3	2	['uniprot/4000033']	[]	209:215	181:193	annotator2	PA
+Target-Drug	False	relation	4	2	['uniprot/3007259']	[]	241:245	181:193	annotator2	PA
+Target-Drug	False	relation	13	14	['uniprot/4000033']	[]	773:779	788:800	annotator2	PA
+Target-Drug	False	relation	15	14	['uniprot/3074545']	[]	818:850	788:800	annotator2	PA
+Target-Drug	False	relation	17	16	['uniprot/4000033']	[]	1000:1006	976:982	annotator2	PA
+Target-Drug	False	relation	18	16	['uniprot/3001483']	[]	1075:1098	976:982	annotator2	PA

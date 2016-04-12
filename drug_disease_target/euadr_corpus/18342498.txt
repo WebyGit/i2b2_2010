@@ -1,0 +1,31 @@
+Drug-Disorder	True	concept	Inhaled corticosteroids	0	23	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	inhaled corticosteroids	128	151	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	ICSs	153	157	annotator1,annotator4,annotator5	['umls/C0000862']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	ICSs	153	157	Computer	['umls/C0000862']	2	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	192	198	annotator1,annotator4,Computer,annotator5	['umls/C0000398']	3	Diseases & Disorders
+Drug-Disorder	True	concept	ICS	260	263	annotator1,annotator1,annotator4,annotator4,annotator5,annotator5	['umls/C0000862', 'uniprot/3008122']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	ICS	260	263	Computer	['umls/C0000862']	4	Diseases & Disorders
+Drug-Disorder	True	concept	ICSs	476	480	annotator1,annotator4,annotator5	['umls/C0000862']	5	Chemicals & Drugs
+Drug-Disorder	False	concept	ICSs	476	480	Computer	['umls/C0000862']	5	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	490	496	annotator1,annotator4,Computer,annotator5	['umls/C0000398']	6	Diseases & Disorders
+Drug-Disorder	True	concept	ICS	650	653	annotator1,annotator1,annotator4,annotator4,annotator5,annotator5	['umls/C0000862', 'uniprot/3008122']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	ICS	650	653	Computer	['umls/C0000862']	7	Diseases & Disorders
+Drug-Disorder	True	concept	asthma	662	668	annotator1,annotator4,Computer,annotator5	['umls/C0000398']	8	Diseases & Disorders
+Drug-Disorder	True	concept	ICS	908	911	annotator1,annotator1,annotator4,annotator4,annotator5,annotator5	['umls/C0000862', 'uniprot/3008122']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	ICS	908	911	Computer	['umls/C0000862']	9	Diseases & Disorders
+Drug-Disorder	False	concept		953	971	annotator1	['sda/3']	10	Diseases & Disorders
+Drug-Disorder	True	concept	ICS	1031	1034	annotator1,annotator1,annotator4,annotator4,annotator5,annotator5	['umls/C0000862', 'uniprot/3008122']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	ICS	1031	1034	Computer	['umls/C0000862']	11	Diseases & Disorders
+Drug-Disorder	False	concept		1043	1060	annotator1	['sda/4']	12	Diseases & Disorders
+Drug-Disorder	True	concept	ICS	1143	1146	annotator1,annotator1,annotator4,annotator4,annotator5,annotator5	['umls/C0000862', 'uniprot/3008122']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	ICS	1143	1146	Computer	['umls/C0000862']	13	Diseases & Disorders
+Drug-Disorder	False	concept		1155	1173	annotator1	['sda/3']	14	Diseases & Disorders
+Drug-Disorder	False	concept		1225	1242	annotator1	['sda/4']	15	Diseases & Disorders
+Drug-Disorder	False	concept		1264	1282	annotator1	['sda/3']	16	Diseases & Disorders
+Drug-Disorder	True	concept	ICS	1474	1477	annotator1,annotator1,annotator4,annotator4,annotator5,annotator5	['umls/C0000862', 'uniprot/3008122']	17	Chemicals & Drugs
+Drug-Disorder	False	concept	ICS	1474	1477	Computer	['umls/C0000862']	17	Diseases & Disorders
+Drug-Disorder	True	relation	2	3	['umls/C0000862']	['umls/C0000398']	153:157	192:198	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	1	3	['sda/2', 'sda/1']	['umls/C0000398']	128:151	192:198	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	5	6	['umls/C0000862']	['umls/C0000398']	476:480	490:496	annotator1	PA
+Drug-Disorder	False	relation	7	8	['umls/C0000862', 'uniprot/3008122']	['umls/C0000398']	650:653	662:668	annotator1	PA
+Drug-Disorder	False	relation	9	10	['umls/C0000862', 'uniprot/3008122']	['sda/3']	908:911	953:971	annotator1	PA

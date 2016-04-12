@@ -1,0 +1,13 @@
+Drug-Disorder	True	concept	Garcinia kola nut extracts	70	96	annotator1,annotator4,annotator5	['sda/4', 'sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	Garcinia kolanut extracts	254	279	annotator1,annotator4,annotator5	['sda/5', 'sda/2']	1	Chemicals & Drugs
+Drug-Disorder	False	concept		380	397	annotator5	['sda/3']	13	Diseases & Disorders
+Drug-Disorder	True	concept	Garcinia kolanut extract	608	632	annotator1,annotator4,annotator5	['sda/6', 'sda/5', 'sda/4']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	garcinia kola nut extract	915	940	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/5']	3	Chemicals & Drugs
+Drug-Disorder	False	concept		967	974	Computer	['uniprot/4500980']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		1062	1078	annotator5	['sda/8']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	miosis	1442	1448	annotator1,annotator4,annotator5	['sda/2', 'sda/6', 'sda/9']	4	Diseases & Disorders
+Drug-Disorder	True	concept	Garcinia kola nut extract	1482	1507	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/5']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	Garcinia kola nut extract	1586	1611	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/5']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		1633	1639	annotator1	['sda/1']	7	Diseases & Disorders
+Drug-Disorder	True	relation	5	4	['sda/3', 'sda/1', 'sda/5']	['sda/2', 'sda/6', 'sda/9']	1482:1507	1442:1448	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	6	7	['sda/3', 'sda/1', 'sda/5']	['sda/1']	1586:1611	1633:1639	annotator1	PA

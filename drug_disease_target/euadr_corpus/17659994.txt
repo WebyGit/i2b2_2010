@@ -1,0 +1,31 @@
+Target-Disorder	True	concept	TGFBIp/betaig-h3	0	16	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	TGF-beta	65	73	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	TGFBIp/betaig-h3	75	91	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	adenocarcinoma	164	178	annotator1,Computer,annotator2,annotator3	['umls/C0000090']	3	Diseases & Disorders
+Target-Disorder	True	concept	TGF-beta	198	206	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	TGFBIp/betaig-h3	459	475	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	corneal dystrophy	490	507	annotator1,Computer,annotator2,annotator3	['umls/C0000976']	6	Diseases & Disorders
+Target-Disorder	True	concept	corneal dystrophy	490	507	annotator1,Computer,annotator2,annotator3	['uniprot/4000333']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	TGFBIp/betaig-h3	734	750	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept		780	793	annotator2	['sda/6']	13	Diseases & Disorders
+Target-Disorder	False	concept		795	828	annotator2	['sda/7']	14	Diseases & Disorders
+Target-Disorder	False	concept		830	838	Computer,annotator2	['umls/C0000104', 'sda/8']	11	Diseases & Disorders
+Target-Disorder	True	concept	corneal dystrophy	850	867	annotator1,Computer,annotator2,annotator3	['umls/C0000976']	8	Diseases & Disorders
+Target-Disorder	True	concept	corneal dystrophy	850	867	annotator1,Computer,annotator2,annotator3	['uniprot/4000333']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	tumorigenesis	869	882	Computer,annotator2,annotator3	['umls/C0123045']	12	Diseases & Disorders
+Target-Disorder	False	concept	angiogenesis	884	896	annotator2,annotator3	['sda/3', 'sda/4']	15	Diseases & Disorders
+Target-Disorder	True	concept	nephropathies	898	911	annotator1,Computer,annotator2,annotator3	['umls/C0002388']	9	Diseases & Disorders
+Target-Disorder	False	concept	osteogenesis	913	925	annotator2,annotator3	['sda/4', 'sda/5']	16	Diseases & Disorders
+Target-Disorder	True	concept	healing and inflammation	933	957	annotator1,Computer,annotator2,annotator2,annotator3	['umls/C0111825', 'sda/5', 'sda/6']	10	Diseases & Disorders
+Target-Disorder	True	relation	2	3	['sda/1', 'sda/2']	['umls/C0000090']	75:91	164:178	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	4	3	['sda/3', 'sda/2']	['umls/C0000090']	198:206	164:178	annotator2	PA
+Target-Disorder	False	relation	5	6	['sda/1', 'sda/2']	['umls/C0000976', 'uniprot/4000333']	459:475	490:507	annotator2,annotator3	PA
+Target-Disorder	False	relation	7	8	['sda/1', 'sda/2']	['umls/C0000976', 'uniprot/4000333']	734:750	850:867	annotator2	SA
+Target-Disorder	False	relation	7	12	['sda/1', 'sda/2']	['umls/C0123045']	734:750	869:882	annotator2	SA
+Target-Disorder	False	relation	7	9	['sda/1', 'sda/2']	['umls/C0002388']	734:750	898:911	annotator2	SA
+Target-Disorder	False	relation	7	10	['sda/1', 'sda/2']	['umls/C0111825', 'sda/5', 'sda/6']	734:750	933:957	annotator2	SA
+Target-Disorder	False	relation	7	15	['sda/1', 'sda/2']	['sda/3', 'sda/4']	734:750	884:896	annotator2	SA
+Target-Disorder	False	relation	7	16	['sda/1', 'sda/2']	['sda/4', 'sda/5']	734:750	913:925	annotator2	SA
+Target-Disorder	False	relation	7	13	['sda/1', 'sda/2']	['sda/6']	734:750	780:793	annotator2	SA
+Target-Disorder	False	relation	7	14	['sda/1', 'sda/2']	['sda/7']	734:750	795:828	annotator2	SA
+Target-Disorder	False	relation	7	11	['sda/1', 'sda/2']	['umls/C0000104', 'sda/8']	734:750	830:838	annotator2	SA

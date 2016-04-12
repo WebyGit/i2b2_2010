@@ -1,0 +1,48 @@
+Drug-Disorder	True	concept	Dihydropyridine calcium channel antagonists	0	43	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	hypertension	65	77	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Dihydropyridine calcium channel antagonists	79	122	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	myocardial infarction	338	359	annotator1,annotator4,Computer,annotator5	['umls/C0002926']	3	Diseases & Disorders
+Drug-Disorder	True	concept	gastrointestinal bleeding	361	386	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0001693', 'sda/12']	4	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	391	397	annotator1,annotator4,Computer,annotator5	['umls/C0000617']	5	Diseases & Disorders
+Drug-Disorder	False	concept		511	549	annotator5	['sda/6']	33	Chemicals & Drugs
+Drug-Disorder	False	concept		602	625	annotator5	['sda/9']	34	Chemicals & Drugs
+Drug-Disorder	False	concept		627	652	annotator5	['sda/8']	35	Chemicals & Drugs
+Drug-Disorder	False	concept		665	690	annotator5	['sda/7']	36	Chemicals & Drugs
+Drug-Disorder	False	concept	diuretics	825	834	annotator1,annotator5	['sda/10']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		839	858	annotator1	['sda/11']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	amlodipine	860	870	annotator1,annotator4,Computer,annotator5	['uniprot/4500519', 'uniprot/6250720']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	cardiovascular events	881	902	annotator1,annotator4,annotator5	['sda/2', 'sda/3', 'sda/11']	9	Diseases & Disorders
+Drug-Disorder	True	concept	coronary heart disease	965	987	annotator1,annotator4,Computer,Computer,annotator5,annotator5	['umls/C0000984', 'umls/C0001692']	10	Diseases & Disorders
+Drug-Disorder	True	concept	gastrointestinal bleeding	989	1014	annotator1,annotator4,annotator5	['sda/4', 'umls/C0001693', 'sda/12']	11	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	1018	1024	annotator1,annotator4,Computer,annotator5	['umls/C0000617']	12	Diseases & Disorders
+Drug-Disorder	True	concept	dihydropyridine calcium channel antagonists	1109	1152	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	Dihydropyridine calcium channel antagonists	1209	1252	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	hypertension	1334	1346	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	16	Diseases & Disorders
+Drug-Disorder	False	concept	antihypertensive agents	1478	1501	annotator1,annotator5	['sda/17', 'sda/20']	17	Chemicals & Drugs
+Drug-Disorder	False	concept	ACE inhibitors	1508	1522	annotator1,annotator5	['sda/18', 'sda/21']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	Dihydropyridine calcium channel antagonists	1525	1568	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	stroke	1608	1614	annotator4,Computer,annotator5	['umls/C0004215']	31	Diseases & Disorders
+Drug-Disorder	False	concept	diuretics	1687	1696	annotator1,annotator5	['sda/10']	20	Chemicals & Drugs
+Drug-Disorder	False	concept	beta-adrenoceptor anatagonists	1701	1731	annotator1,annotator5	['sda/19', 'sda/22']	21	Chemicals & Drugs
+Drug-Disorder	False	concept	beta-blockers	1733	1746	annotator1,annotator5	['sda/20', 'sda/24']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	dihydropyridine calcium channel antagonists	1749	1792	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	glucose	1830	1837	annotator1,Computer	['uniprot/4501947']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	Dihydropyridine calcium channel antagonists	1851	1894	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	25	Chemicals & Drugs
+Drug-Disorder	True	concept	dihydropyridine calcium channel antagonists	2000	2043	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	26	Chemicals & Drugs
+Drug-Disorder	False	concept	ACE inhibitors	2048	2062	annotator1,annotator5	['sda/18', 'sda/21']	27	Chemicals & Drugs
+Drug-Disorder	True	concept	angiotensin receptor antagonists	2066	2098	annotator1,annotator4,annotator5	['sda/21', 'uniprot/8000262', 'sda/25']	28	Chemicals & Drugs
+Drug-Disorder	False	concept		2141	2155	annotator4	['umls/C0105312']	32	Diseases & Disorders
+Drug-Disorder	True	concept	dihydropyridine calcium channel antagonists	2362	2417	annotator1,annotator4,annotator5	['sda/22', 'sda/1', 'sda/2']	29	Chemicals & Drugs
+Drug-Disorder	True	concept	cardiovascular disease	2534	2556	annotator1,annotator4,Computer,annotator5	['umls/C0000675', 'sda/26']	30	Diseases & Disorders
+Drug-Disorder	False	relation	8	12	['uniprot/4500519', 'uniprot/6250720']	['umls/C0000617']	860:870	1018:1024	annotator1,annotator5	NA
+Drug-Disorder	False	relation	8	10	['uniprot/4500519', 'uniprot/6250720']	['umls/C0000984', 'umls/C0001692']	860:870	965:987	annotator1,annotator5	NA
+Drug-Disorder	True	relation	8	9	['uniprot/4500519', 'uniprot/6250720']	['sda/2', 'sda/3', 'sda/11']	860:870	881:902	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	8	11	['uniprot/4500519', 'uniprot/6250720']	['sda/4', 'umls/C0001693', 'sda/12']	860:870	989:1014	annotator1,annotator5	NA
+Drug-Disorder	False	relation	15	16	['sda/1', 'sda/2']	['umls/C0002137']	1209:1252	1334:1346	annotator1,annotator5	PA
+Drug-Disorder	True	relation	29	30	['sda/22', 'sda/1', 'sda/2']	['umls/C0000675', 'sda/26']	2362:2417	2534:2556	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	8	11	['uniprot/4500519', 'uniprot/6250720']	['sda/4', 'umls/C0001693', 'sda/12']	860:870	989:1014	annotator4	SA
+Drug-Disorder	False	relation	8	12	['uniprot/4500519', 'uniprot/6250720']	['umls/C0000617']	860:870	1018:1024	annotator4,Computer	SA
+Drug-Disorder	False	relation	8	10	['uniprot/4500519', 'uniprot/6250720']	['umls/C0000984', 'umls/C0001692']	860:870	965:987	annotator4,Computer	SA
+Drug-Disorder	False	relation	19	31	['sda/1', 'sda/2']	['umls/C0004215']	1525:1568	1608:1614	annotator4,annotator5	SA
+Drug-Disorder	False	relation	0	1	['sda/1', 'sda/2']	['umls/C0002137']	0:43	65:77	annotator5	PA
+Drug-Disorder	False	relation	6	9	['sda/10']	['sda/2', 'sda/3', 'sda/11']	825:834	881:902	annotator5	PA

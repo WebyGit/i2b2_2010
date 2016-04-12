@@ -1,0 +1,11 @@
+Target-Disorder	True	concept	Parkinson's disease	62	81	annotator1,Computer,annotator2,annotator3	['umls/C0003382']	0	Diseases & Disorders
+Target-Disorder	True	concept	Parkinson's disease	165	184	annotator1,Computer,annotator2,annotator3	['umls/C0003382']	1	Diseases & Disorders
+Target-Disorder	True	concept	PD	186	188	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	True	concept	PD	290	292	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	3	Diseases & Disorders
+Target-Disorder	False	concept		330	335	Computer	['umls/C0145980']	7	Diseases & Disorders
+Target-Disorder	False	concept		457	464	Computer	['umls/C0001185']	8	Diseases & Disorders
+Target-Disorder	True	concept	PD	532	534	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	4	Diseases & Disorders
+Target-Disorder	False	concept		625	644	annotator1	['sda/2']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept		625	644	annotator2,annotator3	['sda/2', 'sda/1']	5	Diseases & Disorders
+Target-Disorder	False	concept		678	720	annotator3	['sda/2']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	dopamine	783	791	annotator3	['sda/3']	6	Genes & Molecular Sequences

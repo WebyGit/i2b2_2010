@@ -1,0 +1,18 @@
+Target-Drug	True	concept	sigma-2 ligands	0	25	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/11']	0	Chemicals & Drugs
+Target-Drug	True	concept	sigma-2 receptor	367	383	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	2	Genes & Molecular Sequences
+Target-Drug	False	concept	sigma-2 receptor	500	516	annotator1,annotator2	['sda/1', 'sda/2']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	sigma-2 receptor	500	516	annotator3	['sda/13']	4	Chemicals & Drugs
+Target-Drug	True	concept	sigma-2 receptor	574	590	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	sigma-2 receptor	838	854	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	sigma-2 receptor ligands	990	1014	annotator1,annotator3	['sda/5', 'sda/12']	11	Chemicals & Drugs
+Target-Drug	False	concept	sigma-2 receptor ligands	990	1014	annotator2	['sda/2']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	SV119	1016	1021	annotator1,annotator2,annotator3	['sda/3', 'sda/7']	12	Chemicals & Drugs
+Target-Drug	True	concept	WC26	1026	1030	annotator1,annotator2,annotator3	['sda/4', 'sda/5']	13	Chemicals & Drugs
+Target-Drug	False	concept	Sigma-2 receptor ligands	1127	1151	annotator1,annotator3	['sda/5', 'sda/12']	15	Chemicals & Drugs
+Target-Drug	False	concept	Sigma-2 receptor ligands	1127	1151	annotator2	['sda/2']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	sigma-2 receptor ligands	1276	1300	annotator1,annotator3	['sda/5', 'sda/12']	16	Chemicals & Drugs
+Target-Drug	False	concept	sigma-2 receptor ligands	1276	1300	annotator2	['sda/2']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	WC26	1446	1450	annotator1,annotator2,annotator3	['sda/4', 'sda/5']	19	Chemicals & Drugs
+Target-Drug	True	concept	WC26	1601	1605	annotator1,annotator2,annotator3	['sda/4', 'sda/5']	22	Chemicals & Drugs
+Target-Drug	False	relation	12	11	['sda/3', 'sda/7']	['sda/5', 'sda/2', 'sda/12']	1016:1021	990:1014	annotator2	PA
+Target-Drug	False	relation	13	11	['sda/4', 'sda/5']	['sda/5', 'sda/2', 'sda/12']	1026:1030	990:1014	annotator2	PA

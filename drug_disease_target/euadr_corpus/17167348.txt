@@ -1,0 +1,34 @@
+Drug-Disorder	True	concept	Spinal cord infarction	0	22	annotator1,annotator4,Computer,annotator5	['umls/C0039145']	0	Diseases & Disorders
+Drug-Disorder	False	concept		23	32	Computer	['umls/C0002987']	15	Diseases & Disorders
+Drug-Disorder	True	concept	cocaine	36	43	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/1', 'uniprot/4500562', 'sda/5']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	cocaine	90	97	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/1', 'uniprot/4500562', 'sda/5']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	chest tightness	130	145	Computer,annotator5	['umls/C0011078']	16	Diseases & Disorders
+Drug-Disorder	False	concept	neck pain	156	165	Computer,annotator5	['umls/C0000749', 'sda/1']	17	Diseases & Disorders
+Drug-Disorder	False	concept	weakness	203	211	Computer,annotator5	['umls/C0000396', 'sda/2']	18	Diseases & Disorders
+Drug-Disorder	True	concept	flaccid paresis	243	258	annotator1,Computer,annotator5	['sda/2', 'umls/C0003378', 'sda/3']	3	Diseases & Disorders
+Drug-Disorder	True	concept	Spasticity	285	295	annotator1,annotator4,Computer,annotator5	['umls/C0002885']	4	Diseases & Disorders
+Drug-Disorder	True	concept	mos	301	304	annotator1,Computer,annotator5	['umls/C0002910']	5	Diseases & Disorders
+Drug-Disorder	False	concept	weakness	337	345	Computer,annotator5	['umls/C0000396']	19	Diseases & Disorders
+Drug-Disorder	True	concept	Cocaine	383	390	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/1', 'uniprot/4500562', 'sda/5']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		407	410	Computer	['uniprot/4500562']	20	Chemicals & Drugs
+Drug-Disorder	False	concept		474	482	Computer	['umls/C0090185']	21	Diseases & Disorders
+Drug-Disorder	False	concept		584	592	Computer	['umls/C0090185']	22	Diseases & Disorders
+Drug-Disorder	True	concept	Cocaine	610	617	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/5']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	Cocaine	610	617	Computer	['umls/C0000880']	7	Diseases & Disorders
+Drug-Disorder	True	concept	cerebrovascular events	643	665	annotator1,annotator4,annotator5	['sda/7', 'sda/2', 'sda/6']	8	Diseases & Disorders
+Drug-Disorder	False	concept	spinal cord effects	667	686	annotator1,annotator5	['sda/8', 'sda/7']	9	Diseases & Disorders
+Drug-Disorder	True	concept	infarct	737	744	annotator1,annotator4,Computer,annotator5	['umls/C0002243']	10	Diseases & Disorders
+Drug-Disorder	False	concept		752	760	Computer	['umls/C0090185']	23	Diseases & Disorders
+Drug-Disorder	False	concept		768	774	Computer	['umls/C0000983']	24	Diseases & Disorders
+Drug-Disorder	True	concept	spasticity	905	915	annotator1,Computer,annotator5	['umls/C0002885']	11	Diseases & Disorders
+Drug-Disorder	True	concept	ischemia	986	994	annotator1,annotator4,Computer,annotator5	['umls/C0002325']	12	Diseases & Disorders
+Drug-Disorder	False	concept	weakness	1041	1049	Computer,annotator5	['umls/C0000396', 'sda/8']	25	Diseases & Disorders
+Drug-Disorder	False	concept	arm weakness	1087	1099	Computer,annotator5	['umls/C0090167']	26	Diseases & Disorders
+Drug-Disorder	True	concept	cocaine	1120	1127	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/5']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	cocaine	1120	1127	Computer	['umls/C0000880']	13	Diseases & Disorders
+Drug-Disorder	True	concept	spinal cord infarction	1144	1166	annotator1,annotator4,Computer,annotator5	['umls/C0039145']	14	Diseases & Disorders
+Drug-Disorder	True	relation	1	0	['sda/3', 'sda/1', 'uniprot/4500562', 'sda/5']	['umls/C0039145']	36:43	0:22	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	7	8	['sda/3', 'sda/1', 'umls/C0000880', 'sda/5']	['sda/7', 'sda/2', 'sda/6']	610:617	643:665	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	7	9	['sda/3', 'sda/1', 'umls/C0000880', 'sda/5']	['sda/8', 'sda/7']	610:617	667:686	annotator1,annotator5	PA
+Drug-Disorder	True	relation	13	14	['sda/3', 'sda/1', 'umls/C0000880', 'sda/5']	['umls/C0039145']	1120:1127	1144:1166	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	1	15	['sda/3', 'sda/1', 'uniprot/4500562', 'sda/5']	['umls/C0002987']	36:43	23:32	Computer	PA

@@ -1,0 +1,11 @@
+Drug-Disorder	True	concept	intraabdominal abscess	60	96	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000029', 'sda/7']	0	Diseases & Disorders
+Drug-Disorder	True	concept	intraabdominal abscess	235	271	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/1', 'umls/C0000029', 'sda/7']	1	Diseases & Disorders
+Drug-Disorder	True	concept	antibiotics	504	522	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		579	587	Computer	['umls/C0148591']	10	Diseases & Disorders
+Drug-Disorder	False	concept	fever	589	594	annotator4,annotator5	['sda/3', 'sda/6']	8	Diseases & Disorders
+Drug-Disorder	True	concept	abdominal pain	596	610	annotator4,Computer,annotator5	['umls/C0000006']	9	Diseases & Disorders
+Drug-Disorder	True	concept	gastrointestinal dysfunction	612	640	annotator1,annotator4,Computer,annotator5	['umls/C0079419']	3	Diseases & Disorders
+Drug-Disorder	True	concept	infection	768	788	annotator1,Computer,annotator5	['sda/4', 'umls/C0002244']	4	Diseases & Disorders
+Drug-Disorder	True	concept	intraabdominal abscess	1111	1133	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0000029', 'sda/7']	5	Diseases & Disorders
+Drug-Disorder	True	concept	intraabdominal abscess	1214	1236	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0000029', 'sda/7']	6	Diseases & Disorders
+Drug-Disorder	True	concept	intraabdominal abscess	1475	1497	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0000029', 'sda/7']	7	Diseases & Disorders

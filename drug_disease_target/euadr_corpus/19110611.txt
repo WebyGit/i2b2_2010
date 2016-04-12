@@ -1,0 +1,26 @@
+Target-Disorder	True	concept	epidermal growth factor	8	31	annotator1,Computer,annotator2,annotator3	['uniprot/3001483']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	pancreatic cancer	59	76	annotator1,Computer,annotator2,annotator3	['umls/C0012916']	1	Diseases & Disorders
+Target-Disorder	True	concept	pancreatic carcinoma	139	159	annotator1,Computer,annotator2,annotator3	['umls/C0012916']	2	Diseases & Disorders
+Target-Disorder	True	concept	epidermal growth factor	179	202	annotator1,Computer,annotator2,annotator3	['uniprot/3001483', 'sda/1']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	tumor	227	232	Computer,annotator2,annotator3	['umls/C0002994', 'sda/2']	16	Diseases & Disorders
+Target-Disorder	True	concept	EGFR	282	286	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	EGFR	319	323	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	pancreatic adenocarcinoma	343	368	annotator1,Computer,annotator2,annotator3	['umls/C0028453']	6	Diseases & Disorders
+Target-Disorder	False	concept	AA	451	460	annotator1	['sda/3']	7	SNP & Sequence variations
+Target-Disorder	False	concept		465	486	annotator1	['sda/4']	8	SNP & Sequence variations
+Target-Disorder	True	concept	EGF	494	497	annotator1,Computer,annotator2	['uniprot/3001483']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	EGF	494	497	annotator3	['sda/3']	9	SNP & Sequence variations
+Target-Disorder	False	concept	G-A 61	519	525	annotator1	['sda/2']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept	G-A 61	519	525	annotator2	['sda/3']	10	SNP & Sequence variations
+Target-Disorder	True	concept	pancreatic cancer	559	576	annotator1,Computer,annotator2,annotator3	['umls/C0012916']	11	Diseases & Disorders
+Target-Disorder	True	concept	EGFR	643	647	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	pancreatic cancer	688	705	annotator1,Computer,annotator2,annotator3	['umls/C0012916']	13	Diseases & Disorders
+Target-Disorder	True	relation	0	2	['uniprot/3001483']	['umls/C0012916']	8:31	139:159	annotator1,Computer,annotator2	PA
+Target-Disorder	True	relation	5	6	['uniprot/3074545']	['umls/C0028453']	319:323	343:368	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	7	11	['sda/3']	['umls/C0012916']	451:460	559:576	annotator1	PA
+Target-Disorder	False	relation	8	11	['sda/4']	['umls/C0012916']	465:486	559:576	annotator1	PA
+Target-Disorder	False	relation	3	16	['uniprot/3001483', 'sda/1']	['umls/C0002994', 'sda/2']	179:202	227:232	Computer,annotator2	PA
+Target-Disorder	False	relation	4	16	['uniprot/3074545']	['umls/C0002994', 'sda/2']	282:286	227:232	Computer,annotator2	PA
+Target-Disorder	True	relation	9	11	['uniprot/3001483', 'sda/3']	['umls/C0012916']	494:497	559:576	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	12	13	['uniprot/3074545']	['umls/C0012916']	643:647	688:705	Computer,annotator2	PA
+Target-Disorder	False	relation	10	11	['sda/2', 'sda/3']	['umls/C0012916']	519:525	559:576	annotator2	PA

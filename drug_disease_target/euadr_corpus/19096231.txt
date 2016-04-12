@@ -1,0 +1,91 @@
+Target-Disorder	True	concept	XRCC3	18	23	annotator1,Computer,annotator2,annotator3	['sda/25', 'uniprot/3036178']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPD	25	28	annotator1,Computer,annotator2,annotator3	['uniprot/4000287']	1	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD	25	28	annotator1	['umls/C0021726']	1	SNP & Sequence variations
+Target-Disorder	True	concept	XPD	25	28	Computer,annotator2,annotator3	['umls/C0021726']	1	Diseases & Disorders
+Target-Disorder	True	concept	XPG	34	37	annotator1,annotator1,Computer,annotator2,annotator3	['uniprot/3037265', 'umls/C0021729']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPG	34	37	Computer,annotator2,annotator3	['umls/C0021729']	2	Diseases & Disorders
+Target-Disorder	True	concept	cervical carcinoma	58	76	annotator1,Computer,annotator2,annotator3	['sda/16', 'umls/C0028791', 'sda/11']	3	Diseases & Disorders
+Target-Disorder	True	concept	XRCC3	218	223	annotator1,Computer,annotator2,annotator3	['sda/25', 'uniprot/3036178']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	xeroderma pigmentosum	228	249	annotator1,Computer,annotator3	['umls/C0004733']	5	Diseases & Disorders
+Target-Disorder	False	concept	xeroderma pigmentosum	228	249	annotator2	['sda/13']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPD	282	285	annotator1,Computer,annotator2,annotator3	['uniprot/4000287']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD	282	285	annotator1	['umls/C0021726']	6	SNP & Sequence variations
+Target-Disorder	True	concept	XPD	282	285	Computer,annotator2,annotator3	['umls/C0021726']	6	Diseases & Disorders
+Target-Disorder	True	concept	XPG	287	290	annotator1,annotator1,Computer,annotator2,annotator3	['uniprot/3037265', 'umls/C0021729']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPG	287	290	Computer,annotator2,annotator3	['umls/C0021729']	7	Diseases & Disorders
+Target-Disorder	True	concept	carcinogenesis	307	321	annotator1,Computer,annotator2,annotator3	['umls/C0078704']	8	Diseases & Disorders
+Target-Disorder	True	concept	cervical carcinoma	378	396	annotator1,Computer,annotator2,annotator3	['sda/16', 'umls/C0028791', 'sda/11']	9	Diseases & Disorders
+Target-Disorder	True	concept	XRCC3	406	411	annotator1,Computer,annotator2,annotator3	['sda/25', 'uniprot/3036178']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPD	413	416	annotator1,Computer,annotator2,annotator3	['uniprot/4000287']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD	413	416	annotator1	['umls/C0021726']	11	SNP & Sequence variations
+Target-Disorder	True	concept	XPD	413	416	Computer,annotator2,annotator3	['umls/C0021726']	11	Diseases & Disorders
+Target-Disorder	True	concept	XPG	418	421	annotator1,annotator1,Computer,annotator2,annotator3	['uniprot/3037265', 'umls/C0021729']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPG	418	421	Computer,annotator2,annotator3	['umls/C0021729']	12	Diseases & Disorders
+Target-Disorder	True	concept	carcinoma	497	506	annotator1,Computer,annotator2	['umls/C0000639']	13	Diseases & Disorders
+Target-Disorder	True	concept	cervical intraepithelial neoplasia	512	546	annotator1,Computer,annotator2,annotator3,annotator3	['sda/20', 'umls/C0009945', 'sda/10']	14	Diseases & Disorders
+Target-Disorder	False	concept	CIN	548	551	annotator1,Computer	['uniprot/4000040']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	CIN	548	551	annotator1,Computer,annotator2,annotator3	['umls/C0009945', 'sda/2', 'sda/1']	15	Diseases & Disorders
+Target-Disorder	False	concept	XRCC3 Thr241Met	634	649	annotator1,annotator2	['sda/33', 'sda/3']	16	SNP & Sequence variations
+Target-Disorder	False	concept	XRCC3 Thr241Met	634	649	Computer,annotator2	['uniprot/3036178']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPG His1104Asp	651	665	annotator1,annotator2,annotator3	['sda/10', 'sda/4', 'sda/11']	17	SNP & Sequence variations
+Target-Disorder	False	concept	XPG His1104Asp	651	665	Computer,annotator2	['uniprot/3037265']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPG His1104Asp	651	665	Computer,annotator2	['umls/C0021729']	17	Diseases & Disorders
+Target-Disorder	True	concept	XPD Asp312Asn	667	680	annotator1,annotator2,annotator3	['sda/5', 'sda/3']	18	SNP & Sequence variations
+Target-Disorder	False	concept	XPD Asp312Asn	667	680	Computer,annotator2	['uniprot/4000287']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD Asp312Asn	667	680	Computer,annotator2	['umls/C0021726']	18	Diseases & Disorders
+Target-Disorder	True	concept	XPD Lys751Gln	686	699	annotator1,annotator2,annotator3	['sda/6', 'sda/4']	19	SNP & Sequence variations
+Target-Disorder	False	concept	XPD Lys751Gln	686	699	Computer,annotator2	['uniprot/4000287']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD Lys751Gln	686	699	Computer,annotator2	['umls/C0021726']	19	Diseases & Disorders
+Target-Disorder	False	concept		728	741	Computer	['umls/C0158868']	34	Diseases & Disorders
+Target-Disorder	True	concept	Asp1104Asp	804	814	annotator1,annotator2,annotator3	['sda/7', 'sda/8', 'sda/10']	20	SNP & Sequence variations
+Target-Disorder	False	concept	cervical	863	871	annotator1,annotator3	['sda/12', 'sda/10']	21	Diseases & Disorders
+Target-Disorder	True	concept	cervical squamous cell carcinoma	875	907	annotator1,Computer,annotator2,annotator3	['sda/19', 'umls/C0027901', 'sda/5']	22	Diseases & Disorders
+Target-Disorder	True	concept	His1104Asp	920	930	annotator1,annotator2,annotator3	['sda/8', 'sda/4', 'sda/11']	23	SNP & Sequence variations
+Target-Disorder	True	concept	His1104His	934	944	annotator1,annotator2,annotator3	['sda/9', 'sda/7', 'sda/12']	24	SNP & Sequence variations
+Target-Disorder	True	concept	XPD Asn312Asn	967	980	annotator1,annotator2,annotator3	['sda/15', 'sda/9', 'sda/8']	25	SNP & Sequence variations
+Target-Disorder	False	concept	XPD Asn312Asn	967	980	Computer,annotator2	['uniprot/4000287']	25	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD Asn312Asn	967	980	Computer,annotator2	['umls/C0021726']	25	Diseases & Disorders
+Target-Disorder	False	concept	AA	982	984	annotator3	['sda/9']	26	SNP & Sequence variations
+Target-Disorder	False	concept	cervical	1006	1014	annotator1,annotator3	['sda/12', 'sda/10']	27	Diseases & Disorders
+Target-Disorder	True	concept	cervical squamous cell carcinoma	1018	1050	annotator1,Computer,annotator2,annotator3	['sda/19', 'umls/C0027901', 'sda/5']	28	Diseases & Disorders
+Target-Disorder	True	concept	XRCC3 Thr241Met	1070	1085	annotator1,annotator2,annotator3	['sda/33', 'sda/3', 'sda/1']	29	SNP & Sequence variations
+Target-Disorder	False	concept	XRCC3 Thr241Met	1070	1085	Computer,annotator2	['uniprot/3036178']	29	Genes & Molecular Sequences
+Target-Disorder	True	concept	XPD Lys751Gln	1089	1102	annotator1,annotator2,annotator3	['sda/6', 'sda/4']	30	SNP & Sequence variations
+Target-Disorder	False	concept	XPD Lys751Gln	1089	1102	Computer,annotator2	['uniprot/4000287']	30	Genes & Molecular Sequences
+Target-Disorder	False	concept	XPD Lys751Gln	1089	1102	Computer,annotator2	['umls/C0021726']	30	Diseases & Disorders
+Target-Disorder	True	concept	cervical carcinoma	1107	1125	annotator1,Computer,annotator2,annotator3	['sda/16', 'umls/C0028791', 'sda/11']	31	Diseases & Disorders
+Target-Disorder	False	concept	CIN	1179	1182	annotator1,Computer	['uniprot/4000040']	32	Genes & Molecular Sequences
+Target-Disorder	True	concept	CIN	1179	1182	annotator1,Computer,annotator2,annotator3	['umls/C0009945', 'sda/2', 'sda/1']	32	Diseases & Disorders
+Target-Disorder	True	concept	cervical carcinoma	1345	1363	annotator1,Computer,annotator2,annotator3	['sda/16', 'umls/C0028791', 'sda/11']	33	Diseases & Disorders
+Target-Disorder	True	relation	6	8	['uniprot/4000287', 'umls/C0021726']	['umls/C0078704']	282:285	307:321	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	7	8	['uniprot/3037265', 'umls/C0021729']	['umls/C0078704']	287:290	307:321	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	4	8	['sda/25', 'uniprot/3036178']	['umls/C0078704']	218:223	307:321	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	15	13	['uniprot/4000040', 'umls/C0009945', 'sda/2', 'sda/1']	['umls/C0000639']	548:551	497:506	annotator1,Computer	PA
+Target-Disorder	False	relation	15	14	['uniprot/4000040', 'umls/C0009945', 'sda/2', 'sda/1']	['sda/20', 'umls/C0009945', 'sda/10']	548:551	512:546	annotator1,Computer	PA
+Target-Disorder	False	relation	20	21	['sda/7', 'sda/8', 'sda/10']	['sda/12', 'sda/10']	804:814	863:871	annotator1	PA
+Target-Disorder	True	relation	20	22	['sda/7', 'sda/8', 'sda/10']	['sda/19', 'umls/C0027901', 'sda/5']	804:814	875:907	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	25	27	['sda/15', 'uniprot/4000287', 'umls/C0021726', 'sda/9', 'sda/8']	['sda/12', 'sda/10']	967:980	1006:1014	annotator1,annotator3	PA
+Target-Disorder	True	relation	25	28	['sda/15', 'uniprot/4000287', 'umls/C0021726', 'sda/9', 'sda/8']	['sda/19', 'umls/C0027901', 'sda/5']	967:980	1018:1050	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	30	31	['sda/6', 'uniprot/4000287', 'umls/C0021726', 'sda/4']	['sda/16', 'umls/C0028791', 'sda/11']	1089:1102	1107:1125	annotator1,annotator2,annotator3	NA
+Target-Disorder	True	relation	29	31	['sda/33', 'uniprot/3036178', 'sda/3', 'sda/1']	['sda/16', 'umls/C0028791', 'sda/11']	1070:1085	1107:1125	annotator1,annotator2,annotator3	NA
+Target-Disorder	False	relation	1	3	['uniprot/4000287', 'umls/C0021726']	['sda/16', 'umls/C0028791', 'sda/11']	25:28	58:76	Computer,annotator2	PA
+Target-Disorder	False	relation	2	3	['uniprot/3037265', 'umls/C0021729']	['sda/16', 'umls/C0028791', 'sda/11']	34:37	58:76	Computer,annotator2	PA
+Target-Disorder	False	relation	0	3	['sda/25', 'uniprot/3036178']	['sda/16', 'umls/C0028791', 'sda/11']	18:23	58:76	Computer,annotator2	PA
+Target-Disorder	False	relation	6	5	['uniprot/4000287', 'umls/C0021726']	['umls/C0004733', 'sda/13']	282:285	228:249	Computer	PA
+Target-Disorder	False	relation	7	5	['uniprot/3037265', 'umls/C0021729']	['umls/C0004733', 'sda/13']	287:290	228:249	Computer	PA
+Target-Disorder	False	relation	4	5	['sda/25', 'uniprot/3036178']	['umls/C0004733', 'sda/13']	218:223	228:249	Computer,annotator3	PA
+Target-Disorder	False	relation	11	9	['uniprot/4000287', 'umls/C0021726']	['sda/16', 'umls/C0028791', 'sda/11']	413:416	378:396	Computer,annotator2	PA
+Target-Disorder	False	relation	12	9	['uniprot/3037265', 'umls/C0021729']	['sda/16', 'umls/C0028791', 'sda/11']	418:421	378:396	Computer,annotator2	PA
+Target-Disorder	False	relation	10	9	['sda/25', 'uniprot/3036178']	['sda/16', 'umls/C0028791', 'sda/11']	406:411	378:396	Computer,annotator2	PA
+Target-Disorder	False	relation	19	34	['sda/6', 'uniprot/4000287', 'umls/C0021726', 'sda/4']	['umls/C0158868']	686:699	728:741	Computer	PA
+Target-Disorder	False	relation	17	34	['sda/10', 'uniprot/3037265', 'umls/C0021729', 'sda/4', 'sda/11']	['umls/C0158868']	651:665	728:741	Computer	PA
+Target-Disorder	False	relation	16	34	['sda/33', 'uniprot/3036178', 'sda/3']	['umls/C0158868']	634:649	728:741	Computer	PA
+Target-Disorder	False	relation	30	31	['sda/6', 'uniprot/4000287', 'umls/C0021726', 'sda/4']	['sda/16', 'umls/C0028791', 'sda/11']	1089:1102	1107:1125	Computer	PA
+Target-Disorder	False	relation	29	31	['sda/33', 'uniprot/3036178', 'sda/3', 'sda/1']	['sda/16', 'umls/C0028791', 'sda/11']	1070:1085	1107:1125	Computer	PA
+Target-Disorder	False	relation	5	8	['umls/C0004733', 'sda/13']	['umls/C0078704']	228:249	307:321	annotator2	PA
+Target-Disorder	False	relation	23	22	['sda/8', 'sda/4', 'sda/11']	['sda/19', 'umls/C0027901', 'sda/5']	920:930	875:907	annotator2,annotator3	PA
+Target-Disorder	False	relation	24	22	['sda/9', 'sda/7', 'sda/12']	['sda/19', 'umls/C0027901', 'sda/5']	934:944	875:907	annotator2,annotator3	PA
+Target-Disorder	False	relation	23	21	['sda/8', 'sda/4', 'sda/11']	['sda/12', 'sda/10']	920:930	863:871	annotator3	PA
+Target-Disorder	False	relation	24	21	['sda/9', 'sda/7', 'sda/12']	['sda/12', 'sda/10']	934:944	863:871	annotator3	PA
+Target-Disorder	False	relation	26	27	['sda/9']	['sda/12', 'sda/10']	982:984	1006:1014	annotator3	PA
+Target-Disorder	False	relation	26	28	['sda/9']	['sda/19', 'umls/C0027901', 'sda/5']	982:984	1018:1050	annotator3	PA

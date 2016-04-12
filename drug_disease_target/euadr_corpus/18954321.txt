@@ -1,0 +1,32 @@
+Target-Disorder	True	concept	intraocular lymphomas	14	35	annotator1,Computer,annotator2,annotator3	['umls/C0028463']	0	Diseases & Disorders
+Target-Disorder	True	concept	intraocular lymphomas	137	158	annotator1,Computer,annotator2,annotator3	['umls/C0028463']	1	Diseases & Disorders
+Target-Disorder	True	concept	malignant neoplasms	200	219	annotator1,Computer,annotator2	['sda/1', 'umls/C0000617']	2	Diseases & Disorders
+Target-Disorder	False	concept	tumours	270	277	annotator1,Computer	['umls/C0002994']	3	Diseases & Disorders
+Target-Disorder	True	concept	retinal lymphomas	455	472	annotator1,Computer,annotator2,annotator3,annotator3	['umls/C0031201', 'sda/1']	4	Diseases & Disorders
+Target-Disorder	False	concept		494	504	Computer	['umls/C0000139']	20	Diseases & Disorders
+Target-Disorder	False	concept	malignancies	514	526	Computer,annotator2	['umls/C0000617', 'sda/7']	21	Diseases & Disorders
+Target-Disorder	True	concept	central nervous system disease	597	627	annotator1,Computer,annotator2	['umls/C0000714']	5	Diseases & Disorders
+Target-Disorder	False	concept		651	667	Computer	['umls/C0062522']	22	Diseases & Disorders
+Target-Disorder	True	concept	lymphomas	697	706	annotator1,Computer,annotator2,annotator3	['umls/C0002647']	6	Diseases & Disorders
+Target-Disorder	True	concept	lymphomas	767	794	annotator1,Computer,annotator2	['sda/2', 'umls/C0002647']	7	Diseases & Disorders
+Target-Disorder	False	concept		775	784	annotator3	['sda/2']	25	Diseases & Disorders
+Target-Disorder	False	concept	tumours	843	850	annotator1,Computer	['umls/C0002994']	8	Diseases & Disorders
+Target-Disorder	True	concept	extranodal marginal zone B-cell lymphomas	924	965	annotator1,Computer,annotator2,annotator3	['umls/C0198474', 'sda/8']	9	Diseases & Disorders
+Target-Disorder	True	concept	EMZL	967	971	annotator1,annotator2,annotator3	['sda/3', 'sda/9', 'sda/5']	10	Diseases & Disorders
+Target-Disorder	True	concept	lymphomas	1069	1093	annotator1,Computer,annotator2	['sda/4', 'umls/C0002647']	11	Diseases & Disorders
+Target-Disorder	False	concept		1077	1083	annotator3	['sda/4']	26	Diseases & Disorders
+Target-Disorder	False	concept		1230	1237	Computer	['umls/C0001185']	23	Diseases & Disorders
+Target-Disorder	True	concept	lymphomas	1277	1294	annotator1,Computer,annotator2	['sda/5', 'umls/C0002647']	12	Diseases & Disorders
+Target-Disorder	False	concept		1310	1317	annotator3	['sda/3']	27	Diseases & Disorders
+Target-Disorder	True	concept	Secondary uveal	1347	1372	annotator1,Computer,Computer,annotator2,annotator3	['sda/6', 'umls/C0002987', 'umls/C0140213', 'sda/9']	13	Diseases & Disorders
+Target-Disorder	False	concept		1373	1383	annotator1	['sda/7']	14	Diseases & Disorders
+Target-Disorder	True	concept	systemic lymphoma	1416	1433	annotator1,Computer,annotator2,annotator3	['sda/8', 'umls/C0002647', 'sda/3']	15	Diseases & Disorders
+Target-Disorder	True	concept	leukaemia	1437	1446	annotator1,Computer,annotator2,annotator3	['umls/C0002496']	16	Diseases & Disorders
+Target-Disorder	True	concept	'primary intraocular lymphoma	1483	1512	annotator1,Computer,annotator2,annotator3	['umls/C0028463']	17	Diseases & Disorders
+Target-Disorder	True	concept	PIOL	1514	1518	annotator1,annotator2,annotator3	['sda/9', 'sda/10', 'sda/4']	18	Diseases & Disorders
+Target-Disorder	True	concept	intraocular lymphoma	1591	1611	annotator1,Computer,annotator2,annotator3	['umls/C0028463']	19	Diseases & Disorders
+Target-Disorder	False	concept		1642	1649	annotator3	['sda/1']	28	Diseases & Disorders
+Target-Disorder	False	concept		1651	1660	annotator3	['sda/2']	29	Diseases & Disorders
+Target-Disorder	False	concept		1662	1669	annotator3	['sda/3']	30	Diseases & Disorders
+Target-Disorder	False	concept		1673	1679	annotator3	['sda/4']	31	Diseases & Disorders
+Target-Disorder	False	concept		1712	1721	Computer	['umls/C0002987']	24	Diseases & Disorders

@@ -1,0 +1,20 @@
+Drug-Disorder	False	concept	botulism	0	19	annotator1,annotator5	['sda/2', 'sda/1']	0	Diseases & Disorders
+Drug-Disorder	True	concept	spastic quadriparesis	36	57	annotator1,annotator4,Computer,annotator5	['umls/C0104977']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Botulinum toxins	59	75	annotator1,annotator4,annotator5	['sda/4', 'sda/1', 'sda/5']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	neurological disorders	120	142	annotator1,annotator4,Computer,annotator5	['umls/C0003030']	3	Diseases & Disorders
+Drug-Disorder	True	concept	botulinum toxins	248	264	annotator1,annotator4,annotator5	['sda/4', 'sda/1', 'sda/5']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	weakness	322	339	annotator1,Computer,annotator5	['sda/6', 'umls/C0000396']	5	Diseases & Disorders
+Drug-Disorder	True	concept	spasticity	363	373	annotator1,annotator4,Computer,annotator5	['umls/C0002885']	6	Diseases & Disorders
+Drug-Disorder	True	concept	botulinum toxin type B	379	401	annotator1,annotator4,Computer,annotator5	['sda/7', 'sda/2', 'uniprot/4500007', 'sda/6']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	botulism	425	444	annotator1,annotator5	['sda/2', 'sda/1']	8	Diseases & Disorders
+Drug-Disorder	True	concept	ptosis	450	456	annotator1,annotator4,Computer,annotator5	['umls/C0000524']	9	Diseases & Disorders
+Drug-Disorder	True	concept	facial diplegia	458	473	annotator1,annotator4,annotator5	['sda/9', 'sda/3', 'sda/7']	10	Diseases & Disorders
+Drug-Disorder	False	concept	neck flexor	475	486	annotator1,annotator5	['sda/11', 'sda/8']	11	Diseases & Disorders
+Drug-Disorder	True	concept	extensor weakness	491	508	annotator1,Computer,annotator5	['sda/13', 'umls/C0000396', 'sda/9']	12	Diseases & Disorders
+Drug-Disorder	False	concept	hypopharyngeal laxity	514	544	annotator1,annotator5	['sda/14', 'sda/10']	13	Diseases & Disorders
+Drug-Disorder	False	concept	botulism	654	671	annotator1,annotator5	['sda/8', 'sda/1']	14	Diseases & Disorders
+Drug-Disorder	False	concept		707	717	annotator5	['sda/11']	15	Chemicals & Drugs
+Drug-Disorder	True	relation	2	3	['sda/4', 'sda/1', 'sda/5']	['umls/C0003030']	59:75	120:142	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	7	6	['sda/7', 'sda/2', 'uniprot/4500007', 'sda/6']	['umls/C0002885']	379:401	363:373	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	7	5	['sda/7', 'sda/2', 'uniprot/4500007', 'sda/6']	['sda/6', 'umls/C0000396']	379:401	322:339	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	15	14	['sda/11']	['sda/8', 'sda/1']	707:717	654:671	annotator5	PA

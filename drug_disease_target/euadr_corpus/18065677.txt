@@ -1,0 +1,20 @@
+Drug-Disorder	True	concept	Infection Staphylococcus aureus	0	72	annotator1,Computer,Computer,annotator5	['sda/1', 'umls/C0002244', 'umls/C0122097']	0	Diseases & Disorders
+Drug-Disorder	True	concept	Lemierre's syndrome	94	113	annotator1,annotator4,Computer,annotator5	['umls/C0033947']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Lemierre's syndrome	115	134	annotator1,annotator4,Computer,annotator5	['umls/C0033947']	2	Diseases & Disorders
+Drug-Disorder	True	concept	oropharyngeal infection	141	164	annotator1,Computer,annotator5	['sda/3', 'umls/C0002244', 'sda/2']	3	Diseases & Disorders
+Drug-Disorder	True	concept	septic thrombophlebitis	187	210	annotator1,annotator4,Computer,annotator5,annotator5	['umls/C0082881', 'sda/8']	4	Diseases & Disorders
+Drug-Disorder	True	concept	abscesses of the lungs	244	277	annotator1,annotator4,Computer,annotator5	['sda/6', 'umls/C0002615']	5	Diseases & Disorders
+Drug-Disorder	False	concept	Staphylococcus aureus infection	430	476	annotator1,Computer	['sda/4', 'umls/C0122097']	6	Diseases & Disorders
+Drug-Disorder	True	concept	Lemierre's syndrome	493	512	annotator1,annotator4,Computer,annotator5	['umls/C0033947']	7	Diseases & Disorders
+Drug-Disorder	False	concept		545	548	Computer	['umls/C0000970']	14	Diseases & Disorders
+Drug-Disorder	False	concept		614	618	Computer	['umls/C0016669']	15	Diseases & Disorders
+Drug-Disorder	False	concept		730	745	annotator5	['sda/4']	18	Diseases & Disorders
+Drug-Disorder	False	concept	loss of vision	750	780	Computer,annotator5	['umls/C0065387', 'sda/5']	16	Diseases & Disorders
+Drug-Disorder	True	concept	thrombophlebitis	917	933	annotator1,annotator4,Computer,annotator5	['umls/C0004351']	8	Diseases & Disorders
+Drug-Disorder	True	concept	cavernous sinus thrombosis	972	998	annotator1,annotator4,Computer,annotator5	['umls/C0013786']	9	Diseases & Disorders
+Drug-Disorder	True	concept	brain infarcts	1013	1027	annotator1,annotator4,Computer,annotator5	['sda/5', 'sda/4', 'umls/C0003749', 'sda/6']	10	Diseases & Disorders
+Drug-Disorder	True	concept	lung abscesses	1032	1046	annotator1,annotator4,Computer,annotator5,annotator5	['sda/7', 'umls/C0002615', 'umls/C0003749']	11	Diseases & Disorders
+Drug-Disorder	False	concept	antibiotics	1152	1163	annotator4,annotator5	['sda/6', 'sda/7']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	Lemierre's syndrome	1383	1402	annotator1,annotator4,Computer,annotator5	['umls/C0033947']	12	Diseases & Disorders
+Drug-Disorder	False	concept		1406	1412	annotator5	['sda/8']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1457	1465	Computer	['umls/C0148591']	17	Diseases & Disorders

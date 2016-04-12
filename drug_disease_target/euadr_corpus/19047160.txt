@@ -1,0 +1,89 @@
+Target-Drug	True	concept	nilotinib	28	37	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	0	Chemicals & Drugs
+Target-Drug	True	concept	BCR-ABL	52	59	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/2']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	Pgp	61	64	annotator1,Computer,annotator2,annotator3	['uniprot/2106820']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	Src kinase	69	79	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3021120', 'sda/9']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcr-Abl	138	145	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/2']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	213	216	Computer	['uniprot/3003192']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	Bcr-Abl	225	232	annotator1,annotator3	['sda/3', 'sda/2']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	280	288	annotator1,Computer,annotator2,annotator3	['uniprot/9015274', 'uniprot/4501065']	9	Chemicals & Drugs
+Target-Drug	False	concept	Bcr-Abl	292	322	annotator1	['sda/5']	10	Chemicals & Drugs
+Target-Drug	False	concept	Bcr-Abl	292	322	annotator2,annotator3	['sda/6', 'sda/24']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	377	380	Computer	['uniprot/3003192']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	Bcr-Abl	382	421	annotator1	['sda/7']	12	Chemicals & Drugs
+Target-Drug	False	concept	Bcr-Abl	382	421	annotator2,annotator3	['sda/6', 'sda/24']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	nilotinib	446	455	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	13	Chemicals & Drugs
+Target-Drug	True	concept	dasatinib	459	468	annotator1,Computer,annotator2,annotator3	['uniprot/6338325', 'uniprot/4500937']	14	Chemicals & Drugs
+Target-Drug	True	concept	imatinib	510	518	annotator1,Computer,annotator2,annotator3	['uniprot/9015274', 'uniprot/4501065']	15	Chemicals & Drugs
+Target-Drug	True	concept	imatinib	532	540	annotator1,annotator2,annotator3	['uniprot/9015274']	16	Chemicals & Drugs
+Target-Drug	True	concept	nilotinib	596	605	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	18	Chemicals & Drugs
+Target-Drug	True	concept	BCR-ABL	693	700	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/2']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	multidrug resistance gene	705	730	annotator1,annotator2,annotator3	['sda/8', 'sda/10', 'sda/16']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	MDR-1	732	737	annotator1,Computer,annotator2,annotator3	['uniprot/2120633', 'sda/17']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	nilotinib	800	809	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	22	Chemicals & Drugs
+Target-Drug	False	concept		832	857	annotator2	['sda/10']	48	Genes & Molecular Sequences
+Target-Drug	True	concept	P-glycoprotein	867	881	annotator1,annotator2,annotator3	['sda/10', 'sda/11', 'sda/12']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	verapamil	889	898	annotator1,Computer,annotator2,annotator3	['uniprot/8004221', 'uniprot/4500473']	24	Chemicals & Drugs
+Target-Drug	True	concept	PSC833	902	908	annotator1,annotator2,annotator3	['sda/11', 'sda/12', 'sda/4']	25	Chemicals & Drugs
+Target-Drug	True	concept	p53/56 Lyn	954	964	annotator1,Computer,Computer,annotator2,annotator3	['sda/15', 'uniprot/3000460', 'uniprot/3055649', 'sda/17', 'sda/29']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	Lyn	1058	1061	annotator1,Computer,annotator3	['uniprot/3055649']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	nilotinib	1121	1130	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	30	Chemicals & Drugs
+Target-Drug	True	concept	nilotinib	1153	1162	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	31	Chemicals & Drugs
+Target-Drug	True	concept	Lyn mRNA	1207	1215	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3055649', 'sda/22']	32	Genes & Molecular Sequences
+Target-Drug	False	concept	CML	1254	1257	Computer	['uniprot/3003192']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	Src kinase inhibitors	1263	1284	annotator1,annotator2,annotator3	['sda/13', 'sda/19']	34	Chemicals & Drugs
+Target-Drug	False	concept	Src kinase inhibitors	1263	1284	Computer	['uniprot/3021120']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	PP1	1286	1289	annotator1,annotator2,annotator3	['uniprot/3038119', 'sda/20', 'sda/6']	35	Chemicals & Drugs
+Target-Drug	False	concept	PP1	1286	1289	Computer	['uniprot/3038119']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	PP2	1294	1297	annotator1,annotator2,annotator3	['uniprot/4000819', 'sda/21', 'sda/7']	36	Chemicals & Drugs
+Target-Drug	False	concept	PP2	1294	1297	Computer	['uniprot/4000819']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcr-Abl	1362	1369	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/24']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	dasatinib	1409	1418	annotator1,Computer,annotator2,annotator3	['uniprot/6338325', 'uniprot/4500937']	38	Chemicals & Drugs
+Target-Drug	False	concept	dual Bcr-Abl and Src kinase inhibitor	1422	1459	annotator1,annotator3	['sda/14', 'sda/28']	39	Chemicals & Drugs
+Target-Drug	False	concept		1427	1434	annotator2	['sda/6']	49	Genes & Molecular Sequences
+Target-Drug	False	concept	Src	1439	1442	Computer,annotator2	['uniprot/3021120']	47	Genes & Molecular Sequences
+Target-Drug	True	concept	BCR-ABL	1499	1506	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/2']	40	Genes & Molecular Sequences
+Target-Drug	True	concept	Lyn	1511	1514	annotator1,Computer,annotator2,annotator3	['uniprot/3055649']	41	Genes & Molecular Sequences
+Target-Drug	True	concept	Bcr-Abl	1545	1552	annotator1,annotator2,annotator3	['sda/3', 'sda/6', 'sda/2']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	p53/56 Lyn	1578	1588	annotator1,Computer,Computer,annotator2,annotator3	['sda/15', 'uniprot/3000460', 'uniprot/3055649', 'sda/22', 'sda/29']	43	Genes & Molecular Sequences
+Target-Drug	True	concept	imatinib	1651	1659	annotator1,Computer,annotator2,annotator3	['uniprot/9015274', 'uniprot/4501065']	44	Chemicals & Drugs
+Target-Drug	True	concept	Lyn	1716	1719	annotator1,Computer,annotator2,annotator3	['uniprot/3055649']	45	Genes & Molecular Sequences
+Target-Drug	True	concept	nilotinib	1723	1732	annotator1,Computer,annotator2,annotator3	['uniprot/4006300', 'uniprot/4501554']	46	Chemicals & Drugs
+Target-Drug	True	relation	0	2	['uniprot/4006300', 'uniprot/4501554']	['uniprot/2106820']	28:37	61:64	annotator1,Computer,annotator2,annotator3	SA
+Target-Drug	True	relation	0	1	['uniprot/4006300', 'uniprot/4501554']	['sda/3', 'sda/6', 'sda/2']	28:37	52:59	annotator1,annotator2,annotator3	SA
+Target-Drug	True	relation	0	3	['uniprot/4006300', 'uniprot/4501554']	['sda/4', 'uniprot/3021120', 'sda/9']	28:37	69:79	annotator1,Computer,annotator2,annotator3	SA
+Target-Drug	True	relation	22	23	['uniprot/4006300', 'uniprot/4501554']	['sda/10', 'sda/11', 'sda/12']	800:809	867:881	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	24	23	['uniprot/8004221', 'uniprot/4500473']	['sda/10', 'sda/11', 'sda/12']	889:898	867:881	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	25	23	['sda/11', 'sda/12', 'sda/4']	['sda/10', 'sda/11', 'sda/12']	902:908	867:881	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	30	28	['uniprot/4006300', 'uniprot/4501554']	['uniprot/3055649']	1121:1130	1058:1061	annotator1,Computer,annotator3	PA
+Target-Drug	True	relation	31	32	['uniprot/4006300', 'uniprot/4501554']	['sda/1', 'uniprot/3055649', 'sda/22']	1153:1162	1207:1215	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	35	37	['uniprot/3038119', 'sda/20', 'sda/6']	['sda/3', 'sda/6', 'sda/24']	1286:1289	1362:1369	annotator1,annotator3	NA
+Target-Drug	False	relation	36	37	['uniprot/4000819', 'sda/21', 'sda/7']	['sda/3', 'sda/6', 'sda/24']	1294:1297	1362:1369	annotator1,annotator3	NA
+Target-Drug	False	relation	34	37	['sda/13', 'uniprot/3021120', 'sda/19']	['sda/3', 'sda/6', 'sda/24']	1263:1284	1362:1369	annotator1,annotator3	NA
+Target-Drug	True	relation	38	41	['uniprot/6338325', 'uniprot/4500937']	['uniprot/3055649']	1409:1418	1511:1514	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	38	42	['uniprot/6338325', 'uniprot/4500937']	['sda/3', 'sda/6', 'sda/2']	1409:1418	1545:1552	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	38	43	['uniprot/6338325', 'uniprot/4500937']	['sda/15', 'uniprot/3000460', 'uniprot/3055649', 'sda/22', 'sda/29']	1409:1418	1578:1588	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	39	41	['sda/14', 'sda/28']	['uniprot/3055649']	1422:1459	1511:1514	annotator1,annotator3	PA
+Target-Drug	False	relation	39	42	['sda/14', 'sda/28']	['sda/3', 'sda/6', 'sda/2']	1422:1459	1545:1552	annotator1,annotator3	PA
+Target-Drug	False	relation	39	43	['sda/14', 'sda/28']	['sda/15', 'uniprot/3000460', 'uniprot/3055649', 'sda/22', 'sda/29']	1422:1459	1578:1588	annotator1,annotator3	PA
+Target-Drug	True	relation	46	45	['uniprot/4006300', 'uniprot/4501554']	['uniprot/3055649']	1723:1732	1716:1719	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	13	11	['uniprot/4006300', 'uniprot/4501554']	['uniprot/3003192']	446:455	377:380	Computer,annotator2	PA
+Target-Drug	False	relation	15	11	['uniprot/9015274', 'uniprot/4501065']	['uniprot/3003192']	510:518	377:380	Computer,annotator2	PA
+Target-Drug	False	relation	14	11	['uniprot/6338325', 'uniprot/4500937']	['uniprot/3003192']	459:468	377:380	Computer,annotator2	PA
+Target-Drug	True	relation	30	27	['uniprot/4006300', 'uniprot/4501554']	['sda/15', 'uniprot/3000460', 'uniprot/3055649', 'sda/17', 'sda/29']	1121:1130	954:964	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	31	33	['uniprot/4006300', 'uniprot/4501554']	['uniprot/3003192']	1153:1162	1254:1257	Computer,annotator2	PA
+Target-Drug	False	relation	38	47	['uniprot/6338325', 'uniprot/4500937']	['uniprot/3021120']	1409:1418	1439:1442	Computer,annotator2	PA
+Target-Drug	True	relation	44	45	['uniprot/9015274', 'uniprot/4501065']	['uniprot/3055649']	1651:1659	1716:1719	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	4	5	['sda/3', 'sda/6', 'sda/2']	[]	138:145	187:211	annotator2	PA
+Target-Drug	False	relation	4	6	['sda/3', 'sda/6', 'sda/2']	['uniprot/3003192']	138:145	213:216	annotator2	PA
+Target-Drug	False	relation	4	7	['sda/3', 'sda/6', 'sda/2']	['sda/3', 'sda/2']	138:145	225:232	annotator2	PA
+Target-Drug	False	relation	13	12	['uniprot/4006300', 'uniprot/4501554']	['sda/7', 'sda/6', 'sda/24']	446:455	382:421	annotator2,annotator3	PA
+Target-Drug	False	relation	16	12	['uniprot/9015274']	['sda/7', 'sda/6', 'sda/24']	532:540	382:421	annotator2,annotator3	PA
+Target-Drug	False	relation	14	12	['uniprot/6338325', 'uniprot/4500937']	['sda/7', 'sda/6', 'sda/24']	459:468	382:421	annotator2,annotator3	PA
+Target-Drug	False	relation	12	11	['sda/7', 'sda/6', 'sda/24']	['uniprot/3003192']	382:421	377:380	annotator2	PA
+Target-Drug	False	relation	22	48	['uniprot/4006300', 'uniprot/4501554']	['sda/10']	800:809	832:857	annotator2	PA
+Target-Drug	False	relation	24	48	['uniprot/8004221', 'uniprot/4500473']	['sda/10']	889:898	832:857	annotator2	PA
+Target-Drug	False	relation	25	48	['sda/11', 'sda/12', 'sda/4']	['sda/10']	902:908	832:857	annotator2	PA
+Target-Drug	False	relation	32	33	['sda/1', 'uniprot/3055649', 'sda/22']	['uniprot/3003192']	1207:1215	1254:1257	annotator2	PA
+Target-Drug	False	relation	34	37	['sda/13', 'uniprot/3021120', 'sda/19']	['sda/3', 'sda/6', 'sda/24']	1263:1284	1362:1369	annotator2	PA
+Target-Drug	False	relation	35	37	['uniprot/3038119', 'sda/20', 'sda/6']	['sda/3', 'sda/6', 'sda/24']	1286:1289	1362:1369	annotator2	PA
+Target-Drug	False	relation	36	37	['uniprot/4000819', 'sda/21', 'sda/7']	['sda/3', 'sda/6', 'sda/24']	1294:1297	1362:1369	annotator2	PA

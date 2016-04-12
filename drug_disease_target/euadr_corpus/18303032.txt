@@ -1,0 +1,33 @@
+Drug-Disorder	False	concept	Intensive chemotherapy	0	22	annotator4,annotator5	['sda/12', 'sda/1']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	CHOP	24	38	annotator1,annotator5	['sda/3', 'sda/2']	0	Chemicals & Drugs
+Drug-Disorder	False	concept		39	44	annotator1	['sda/4']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	peripheral T-cell lymphoma	141	167	annotator1,annotator4,Computer,annotator5	['umls/C0004809', 'sda/4']	2	Diseases & Disorders
+Drug-Disorder	False	concept	intensive chemotherapy	241	263	annotator4,annotator5	['sda/12', 'sda/1']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	peripheral T-cell lymphoma	337	363	annotator1,annotator4,Computer,annotator5	['umls/C0004809', 'sda/4']	3	Diseases & Disorders
+Drug-Disorder	True	concept	PTCL	365	369	annotator1,annotator4,Computer,annotator5	['umls/C0004809']	4	Diseases & Disorders
+Drug-Disorder	True	concept	PTCL	489	493	annotator1,annotator4,Computer,annotator5	['umls/C0004809']	5	Diseases & Disorders
+Drug-Disorder	True	concept	cyclophosphamide	520	546	annotator1,annotator4,Computer,annotator5	['sda/1', 'uniprot/9013761', 'uniprot/4501022']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	adriamycin	565	575	annotator1,annotator4,Computer,annotator5	['uniprot/4500743', 'uniprot/6099213']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	vincristine	592	603	annotator1,annotator4,Computer,annotator5	['uniprot/4500862', 'uniprot/6027907']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	prednisone	608	618	annotator1,annotator4,Computer,annotator5	['uniprot/4500811', 'uniprot/9006934']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	etoposide	653	662	annotator1,annotator4,Computer,annotator5	['uniprot/4500742', 'uniprot/8515130']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	cisplatin	664	673	annotator1,annotator4,Computer,annotator5	['uniprot/4501141', 'uniprot/9019042']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	cytarabine	675	685	annotator1,annotator4,Computer,annotator5	['uniprot/4500741', 'uniprot/4003016']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	prednisone	690	700	annotator1,annotator4,Computer,annotator5	['uniprot/4500811', 'uniprot/9006934']	13	Chemicals & Drugs
+Drug-Disorder	False	concept		1017	1024	Computer	['umls/C0026969']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1149	1157	Computer	['umls/C0026969']	20	Diseases & Disorders
+Drug-Disorder	True	concept	secondary neoplasms	1182	1201	annotator1,annotator4,Computer,annotator5	['umls/C0002987', 'sda/11']	14	Diseases & Disorders
+Drug-Disorder	False	concept		1507	1524	annotator4	['sda/16']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	PTCL	1583	1587	annotator1,annotator4,Computer,annotator5	['umls/C0004809']	15	Diseases & Disorders
+Drug-Disorder	False	concept		1628	1635	Computer	['umls/C0026969']	21	Diseases & Disorders
+Drug-Disorder	True	relation	7	5	['uniprot/4500743', 'uniprot/6099213']	['umls/C0004809']	565:575	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	8	5	['uniprot/4500862', 'uniprot/6027907']	['umls/C0004809']	592:603	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	13	5	['uniprot/4500811', 'uniprot/9006934']	['umls/C0004809']	690:700	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	10	5	['uniprot/4500742', 'uniprot/8515130']	['umls/C0004809']	653:662	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	11	5	['uniprot/4501141', 'uniprot/9019042']	['umls/C0004809']	664:673	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	12	5	['uniprot/4500741', 'uniprot/4003016']	['umls/C0004809']	675:685	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	6	5	['sda/1', 'uniprot/9013761', 'uniprot/4501022']	['umls/C0004809']	520:546	489:493	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	18	15	['sda/16']	['umls/C0004809']	1507:1524	1583:1587	annotator4	PA
+Drug-Disorder	False	relation	16	2	['sda/12', 'sda/1']	['umls/C0004809', 'sda/4']	0:22	141:167	annotator5	PA
+Drug-Disorder	False	relation	0	2	['sda/3', 'sda/2']	['umls/C0004809', 'sda/4']	24:38	141:167	annotator5	PA
+Drug-Disorder	False	relation	17	4	['sda/12', 'sda/1']	['umls/C0004809']	241:263	365:369	annotator5	PA

@@ -1,0 +1,8 @@
+Target-Drug	False	concept	HIV reverse transcriptase mutations	21	67	annotator1	['sda/1']	0	SNP & Sequence variations
+Target-Drug	False	concept	HIV reverse transcriptase mutations	21	67	annotator2	['sda/1']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	tenofovir	90	99	annotator1,Computer,annotator2,annotator3	['uniprot/4500143', 'uniprot/6323874']	1	Chemicals & Drugs
+Target-Drug	True	concept	K65R mutation	240	253	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	6	SNP & Sequence variations
+Target-Drug	True	concept	tenofovir	403	412	annotator1,Computer,annotator2,annotator3	['uniprot/4500143', 'uniprot/6323874']	7	Chemicals & Drugs
+Target-Drug	True	concept	didanosine	465	475	annotator1,Computer,annotator2,annotator3	['uniprot/4501834', 'uniprot/8004562']	8	Chemicals & Drugs
+Target-Drug	True	relation	6	7	['sda/3', 'sda/2', 'sda/1']	['uniprot/4500143', 'uniprot/6323874']	240:253	403:412	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	1	0	['uniprot/4500143', 'uniprot/6323874']	['sda/1']	90:99	21:67	annotator2	PA

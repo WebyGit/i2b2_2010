@@ -1,0 +1,28 @@
+Target-Disorder	True	concept	schizophrenia	37	50	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0003961', 'sda/4', 'sda/2']	0	Diseases & Disorders
+Target-Disorder	True	concept	obstetric complications	92	115	annotator1,Computer,annotator2,annotator3	['umls/C0068357', 'sda/1']	1	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	196	209	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0003961', 'sda/4', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	False	concept	schizophrenic	245	258	annotator1,annotator3	['sda/1', 'sda/5']	3	Diseases & Disorders
+Target-Disorder	True	concept	obstetric complications	321	344	annotator1,Computer,annotator2,annotator3	['umls/C0068357', 'sda/1']	4	Diseases & Disorders
+Target-Disorder	True	concept	OCs	346	349	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	5	Diseases & Disorders
+Target-Disorder	True	concept	fetal asphyxia	528	542	annotator1,Computer,annotator2,annotator3	['umls/C0053919']	6	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	761	774	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0003959', 'sda/4', 'sda/2']	7	Diseases & Disorders
+Target-Disorder	True	concept	schizoaffective disorder	775	799	annotator1,Computer,annotator2,annotator3	['sda/4', 'umls/C0003959', 'sda/5', 'sda/3']	8	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	850	863	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0003959', 'sda/4', 'sda/2']	9	Diseases & Disorders
+Target-Disorder	True	concept	schizoaffective disorder	864	888	annotator1,Computer,annotator2,annotator3	['sda/4', 'umls/C0003959', 'sda/5', 'sda/3']	10	Diseases & Disorders
+Target-Disorder	False	concept	Schizophrenic	938	951	annotator1,annotator3	['sda/1', 'sda/5']	11	Diseases & Disorders
+Target-Disorder	True	concept	OCs	981	984	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	12	Diseases & Disorders
+Target-Disorder	False	concept	schizophrenic	1018	1031	annotator1,annotator3	['sda/1', 'sda/5']	13	Diseases & Disorders
+Target-Disorder	True	concept	eclampsia	1104	1113	annotator1,Computer,annotator2,annotator3	['umls/C0001291']	14	Diseases & Disorders
+Target-Disorder	True	concept	premature delivery	1115	1133	Computer,annotator2,annotator3	['umls/C0005690']	24	Diseases & Disorders
+Target-Disorder	False	concept		1135	1160	annotator3	['sda/4']	28	Diseases & Disorders
+Target-Disorder	True	concept	high blood pressure	1202	1221	Computer,annotator2,annotator3	['umls/C0002137']	25	Diseases & Disorders
+Target-Disorder	False	concept	schizophrenic	1236	1249	annotator1,annotator3	['sda/1', 'sda/5']	15	Diseases & Disorders
+Target-Disorder	False	concept		1330	1351	Computer	['umls/C0010470']	26	Diseases & Disorders
+Target-Disorder	False	concept	schizophrenic	1391	1404	annotator1,annotator3	['sda/1', 'sda/5']	16	Diseases & Disorders
+Target-Disorder	True	concept	OCs	1459	1462	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	17	Diseases & Disorders
+Target-Disorder	False	concept	Schizophrenic	1485	1498	annotator1,annotator3	['sda/1', 'sda/5']	18	Diseases & Disorders
+Target-Disorder	False	concept	schizophrenic	1613	1626	annotator1,annotator3	['sda/1', 'sda/5']	19	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	1700	1713	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0003961', 'sda/4', 'sda/2']	20	Diseases & Disorders
+Target-Disorder	True	concept	OCs	1761	1764	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	21	Diseases & Disorders
+Target-Disorder	True	concept	schizophrenia	1887	1900	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0003961', 'sda/4', 'sda/2']	22	Diseases & Disorders
+Target-Disorder	True	concept	OCs	1959	1962	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	23	Diseases & Disorders

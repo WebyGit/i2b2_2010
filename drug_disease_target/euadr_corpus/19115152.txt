@@ -1,0 +1,44 @@
+Target-Disorder	True	concept	G2677T/A	27	35	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/4']	0	SNP & Sequence variations
+Target-Disorder	True	concept	MDR1	57	61	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/2120633']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	inflammatory bowel disease	92	118	annotator1,Computer,annotator2,annotator3	['umls/C0002270']	2	Diseases & Disorders
+Target-Disorder	True	concept	Crohn's disease	137	152	annotator1,Computer,annotator2,annotator3	['umls/C0001011']	3	Diseases & Disorders
+Target-Disorder	True	concept	ulcerative colitis	157	175	annotator1,Computer,annotator2,annotator3	['umls/C0000899']	4	Diseases & Disorders
+Target-Disorder	True	concept	chronic inflammatory disorders	185	215	annotator1,Computer,Computer,annotator3	['umls/C0118296', 'umls/C0001692']	5	Diseases & Disorders
+Target-Disorder	True	concept	Crohn's disease	288	303	annotator1,Computer,annotator2,annotator3	['umls/C0001011']	6	Diseases & Disorders
+Target-Disorder	True	concept	ulcerative colitis	308	326	annotator1,Computer,annotator2,annotator3	['umls/C0000899']	7	Diseases & Disorders
+Target-Disorder	False	concept		463	477	annotator1,annotator2	['sda/2', 'sda/4']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	MDR1	494	498	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/2120633']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept		541	544	Computer	['uniprot/3037271']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept		602	611	Computer	['umls/C0158858']	28	Diseases & Disorders
+Target-Disorder	True	concept	MDR1	619	623	annotator1,Computer,annotator2	['sda/12', 'uniprot/2120633']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept	MDR1	619	623	annotator3	['sda/2']	11	SNP & Sequence variations
+Target-Disorder	False	concept		664	676	Computer	['umls/C0082204']	29	Diseases & Disorders
+Target-Disorder	True	concept	inflammatory bowel disease	680	706	annotator1,Computer,annotator2,annotator3	['umls/C0002270']	12	Diseases & Disorders
+Target-Disorder	True	concept	G2677T/A	753	761	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/4']	13	SNP & Sequence variations
+Target-Disorder	True	concept	MDR1	782	786	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/2120633']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	inflammatory bowel disease	817	843	annotator1,Computer,annotator2,annotator3	['umls/C0002270']	15	Diseases & Disorders
+Target-Disorder	True	concept	Crohn's disease	961	976	annotator1,Computer,annotator2,annotator3	['umls/C0001011']	16	Diseases & Disorders
+Target-Disorder	True	concept	ulcerative colitis	1001	1019	annotator1,Computer,annotator2,annotator3	['umls/C0000899']	17	Diseases & Disorders
+Target-Disorder	True	concept	G2677T	1255	1261	annotator1,annotator2,annotator3	['sda/5', 'sda/3']	18	SNP & Sequence variations
+Target-Disorder	True	concept	G2677A	1266	1272	annotator1,annotator2,annotator3	['sda/6', 'sda/7']	19	SNP & Sequence variations
+Target-Disorder	True	concept	MDR1	1281	1285	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/2120633']	20	Genes & Molecular Sequences
+Target-Disorder	False	concept		1333	1357	annotator3	['sda/8']	30	SNP & Sequence variations
+Target-Disorder	True	concept	MDR1	1365	1369	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/2120633']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	2677A	1523	1528	annotator1,annotator2,annotator3	['sda/7', 'sda/8']	22	SNP & Sequence variations
+Target-Disorder	True	concept	G2677T/A	1643	1651	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/4']	23	SNP & Sequence variations
+Target-Disorder	True	concept	MDR1	1681	1685	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/2120633']	24	Genes & Molecular Sequences
+Target-Disorder	True	concept	Crohn's disease	1729	1744	annotator1,Computer,annotator2,annotator3	['umls/C0001011']	25	Diseases & Disorders
+Target-Disorder	True	concept	ulcerative colitis	1748	1766	annotator1,Computer,annotator2,annotator3	['umls/C0000899']	26	Diseases & Disorders
+Target-Disorder	True	relation	11	12	['sda/12', 'uniprot/2120633', 'sda/2']	['umls/C0002270']	619:623	680:706	annotator1,Computer,annotator2,annotator3	SA
+Target-Disorder	True	relation	23	25	['sda/8', 'sda/6', 'sda/4']	['umls/C0001011']	1643:1651	1729:1744	annotator1,annotator2,annotator3	NA
+Target-Disorder	True	relation	23	26	['sda/8', 'sda/6', 'sda/4']	['umls/C0000899']	1643:1651	1748:1766	annotator1,annotator2,annotator3	NA
+Target-Disorder	False	relation	1	2	['sda/12', 'uniprot/2120633']	['umls/C0002270']	57:61	92:118	Computer,annotator2	PA
+Target-Disorder	False	relation	11	28	['sda/12', 'uniprot/2120633', 'sda/2']	['umls/C0158858']	619:623	602:611	Computer	PA
+Target-Disorder	False	relation	11	29	['sda/12', 'uniprot/2120633', 'sda/2']	['umls/C0082204']	619:623	664:676	Computer	PA
+Target-Disorder	False	relation	14	15	['sda/12', 'uniprot/2120633']	['umls/C0002270']	782:786	817:843	Computer,annotator2	PA
+Target-Disorder	False	relation	24	25	['sda/12', 'uniprot/2120633']	['umls/C0001011']	1681:1685	1729:1744	Computer	PA
+Target-Disorder	False	relation	24	26	['sda/12', 'uniprot/2120633']	['umls/C0000899']	1681:1685	1748:1766	Computer	PA
+Target-Disorder	False	relation	0	2	['sda/8', 'sda/6', 'sda/4']	['umls/C0002270']	27:35	92:118	annotator2	SA
+Target-Disorder	False	relation	13	15	['sda/8', 'sda/6', 'sda/4']	['umls/C0002270']	753:761	817:843	annotator2	SA
+Target-Disorder	False	relation	24	25	['sda/12', 'uniprot/2120633']	['umls/C0001011']	1681:1685	1729:1744	annotator2,annotator3	NA
+Target-Disorder	False	relation	24	26	['sda/12', 'uniprot/2120633']	['umls/C0000899']	1681:1685	1748:1766	annotator2,annotator3	NA

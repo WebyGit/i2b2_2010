@@ -1,0 +1,22 @@
+Drug-Disorder	False	concept		27	60	annotator4	['sda/6']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	PUGSI	62	67	annotator4,annotator5	['sda/7', 'sda/3']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	subumbilical adhesions	93	128	annotator1,annotator4,Computer,annotator5	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	0	Diseases & Disorders
+Drug-Disorder	False	concept		203	236	annotator4	['sda/6']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	PUGSI	238	243	annotator4,annotator5	['sda/7', 'sda/3']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	subumbilical adhesions	318	353	annotator1,annotator4,Computer,annotator5	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	1	Diseases & Disorders
+Drug-Disorder	True	concept	adhesions	487	496	annotator1,annotator4,Computer	['umls/C0000104']	2	Diseases & Disorders
+Drug-Disorder	True	concept	intra-abdominal adhesions	581	606	annotator1,annotator4,Computer,annotator5	['umls/C0063370']	3	Diseases & Disorders
+Drug-Disorder	False	concept	PUGSI	692	697	annotator4,annotator5	['sda/7', 'sda/3']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	subumbilical adhesions	740	775	annotator1,annotator4,Computer,annotator5	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	4	Diseases & Disorders
+Drug-Disorder	False	concept	PUGSI	824	829	annotator4,annotator5	['sda/7', 'sda/3']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	adhesions	886	918	annotator1,annotator4,Computer	['sda/8', 'umls/C0000104']	5	Diseases & Disorders
+Drug-Disorder	True	concept	adhesions	959	991	annotator1,annotator4,Computer	['sda/8', 'umls/C0000104']	6	Diseases & Disorders
+Drug-Disorder	False	concept	PUGSI	1206	1211	annotator4,annotator5	['sda/7', 'sda/3']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	subumbilical adhesions	1249	1284	annotator1,annotator4,Computer,annotator5	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	7	Diseases & Disorders
+Drug-Disorder	False	concept	PUGSI	1356	1361	annotator4,annotator5	['sda/7', 'sda/3']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	subumbilical adhesions	1468	1503	annotator1,annotator4,Computer,annotator5	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	8	Diseases & Disorders
+Drug-Disorder	False	concept		1596	1611	annotator5	['sda/5']	17	Diseases & Disorders
+Drug-Disorder	False	relation	15	7	['sda/7', 'sda/3']	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	1206:1211	1249:1284	annotator4,annotator5	PA
+Drug-Disorder	False	relation	16	8	['sda/7', 'sda/3']	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	1356:1361	1468:1503	annotator4,annotator5	PA
+Drug-Disorder	False	relation	10	0	['sda/7', 'sda/3']	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	62:67	93:128	annotator5	PA
+Drug-Disorder	False	relation	14	4	['sda/7', 'sda/3']	['sda/6', 'sda/4', 'umls/C0000104', 'sda/2']	824:829	740:775	annotator5	PA

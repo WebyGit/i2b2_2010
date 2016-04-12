@@ -1,0 +1,20 @@
+Target-Drug	True	concept	Plasmodium falciparum erythrocyte membrane protein-1	0	52	annotator1,annotator2,annotator3	['sda/1', 'sda/3']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	interferon-gamma	102	118	annotator1,annotator2,annotator3	['sda/8', 'uniprot/3055526', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	False	concept	interferon-gamma	102	118	annotator2	['uniprot/4003302']	1	Chemicals & Drugs
+Target-Drug	True	concept	Plasmodium falciparum erythrocyte membrane protein-1	120	172	annotator1,annotator2,annotator3	['sda/1', 'sda/3']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	174	181	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	256	263	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	436	443	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	CD36 receptor	516	529	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3073871', 'sda/3']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	608	615	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	738	745	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	762	769	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	interferon-gamma	812	828	annotator1,annotator2,annotator3	['sda/8', 'uniprot/3055526', 'sda/1']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	interferon-gamma	812	828	annotator2	['uniprot/4003302']	10	Chemicals & Drugs
+Target-Drug	True	concept	CD36	967	971	annotator1,Computer,annotator2,annotator3	['uniprot/3073871']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	interferon-gamma	1000	1016	annotator1,annotator2,annotator3	['sda/8', 'uniprot/3055526', 'sda/1']	13	Genes & Molecular Sequences
+Target-Drug	False	concept	interferon-gamma	1000	1016	annotator2	['uniprot/4003302']	13	Chemicals & Drugs
+Target-Drug	True	concept	interferon-gamma	1154	1170	annotator1,annotator2,annotator3	['sda/8', 'uniprot/3055526', 'sda/1']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	interferon-gamma	1154	1170	annotator2	['uniprot/4003302']	14	Chemicals & Drugs
+Target-Drug	True	concept	PfEMP-1	1231	1238	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	PfEMP-1	1273	1280	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/4']	16	Genes & Molecular Sequences

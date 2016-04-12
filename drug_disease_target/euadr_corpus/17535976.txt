@@ -1,0 +1,52 @@
+Target-Drug	True	concept	peroxisome proliferator-activated receptor-gamma	20	68	annotator1,annotator2,annotator3	['sda/4', 'uniprot/3007899', 'sda/2']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	proline oxidase	132	147	annotator1,annotator2,annotator3	['sda/6', 'sda/1', 'sda/10']	2	Genes & Molecular Sequences
+Target-Drug	False	concept	reactive oxygen species	156	179	annotator1	['sda/5']	3	Chemicals & Drugs
+Target-Drug	False	concept	reactive oxygen species	156	179	annotator3	['sda/13']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	Peroxisome proliferator-activated receptor	191	233	annotator1	['sda/2']	4	Chemicals & Drugs
+Target-Drug	False	concept	Peroxisome proliferator-activated receptor	191	233	annotator2,annotator3	['sda/2']	4	Genes & Molecular Sequences
+Target-Drug	False	concept		235	254	annotator1	['sda/3']	5	Chemicals & Drugs
+Target-Drug	False	concept		235	254	annotator3	['sda/3']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARgamma	407	416	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	PPARgamma agonist	467	484	annotator1,annotator3	['sda/8', 'sda/17']	9	Chemicals & Drugs
+Target-Drug	False	concept	PPARgamma agonist	467	484	annotator2	['sda/3']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	1-(trans-methylimino-N-oxy)-6-(2-morpholinoethoxy)-3-phenyl-(1H-indene-2-carboxylic acid ethyl ester	486	586	annotator1,annotator2,annotator3	['sda/9', 'sda/4', 'sda/5']	10	Chemicals & Drugs
+Target-Drug	False	concept	KR-62980	588	596	annotator1,annotator2	['sda/10', 'sda/5']	11	Chemicals & Drugs
+Target-Drug	True	concept	rosiglitazone	603	616	annotator1,Computer,annotator2,annotator3	['uniprot/4500896', 'sda/11', 'sda/18']	12	Chemicals & Drugs
+Target-Drug	True	concept	PPARgamma	618	627	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARgamma	800	809	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	17	Genes & Molecular Sequences
+Target-Drug	False	concept	Reactive oxygen species	940	963	annotator1	['sda/5']	20	Chemicals & Drugs
+Target-Drug	False	concept	Reactive oxygen species	940	963	annotator3	['sda/13']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	ROS	965	968	annotator1,Computer,annotator2	['uniprot/4500896', 'uniprot/8505248']	21	Chemicals & Drugs
+Target-Drug	False	concept	ROS	965	968	annotator3	['sda/12']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	proline oxidase	1024	1039	annotator1,annotator2,annotator3	['sda/6', 'sda/1', 'sda/10']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	POX	1041	1044	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/9']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	POX	1124	1127	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/9']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARgamma	1163	1172	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	ROS	1181	1184	annotator1,Computer,annotator2	['uniprot/4500896', 'uniprot/8505248']	27	Chemicals & Drugs
+Target-Drug	False	concept	ROS	1181	1184	annotator3	['sda/12']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	POX	1229	1232	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/9']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	ROS	1278	1281	annotator1,Computer,annotator2	['uniprot/4500896', 'uniprot/8505248']	30	Chemicals & Drugs
+Target-Drug	False	concept	ROS	1278	1281	annotator3	['sda/12']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	bisphenol A diglycidyl ether	1351	1379	annotator1,annotator2,annotator3	['sda/14', 'sda/9', 'sda/15']	31	Chemicals & Drugs
+Target-Drug	False	concept	PPARgamma antagonist	1383	1403	annotator1,annotator3	['sda/15', 'sda/14']	32	Chemicals & Drugs
+Target-Drug	False	concept	PPARgamma antagonist	1383	1403	annotator2	['sda/3']	32	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARgamma	1425	1434	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARgamma	1477	1486	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	PPARgamma	1551	1560	annotator1,annotator2,annotator3	['sda/7', 'sda/3', 'sda/8']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	ROS	1649	1652	annotator1,Computer,annotator2	['uniprot/4500896', 'uniprot/8505248']	37	Chemicals & Drugs
+Target-Drug	False	concept	ROS	1649	1652	annotator3	['sda/12']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	POX	1667	1670	annotator1,annotator2,annotator3	['sda/11', 'sda/7', 'sda/9']	38	Genes & Molecular Sequences
+Target-Drug	False	relation	3	0	['sda/5', 'sda/13']	['sda/4', 'uniprot/3007899', 'sda/2']	156:179	20:68	annotator1	PA
+Target-Drug	False	relation	3	2	['sda/5', 'sda/13']	['sda/6', 'sda/1', 'sda/10']	156:179	132:147	annotator1	PA
+Target-Drug	False	relation	30	26	['uniprot/4500896', 'uniprot/8505248', 'sda/12']	['sda/7', 'sda/3', 'sda/8']	1278:1281	1163:1172	annotator1	PA
+Target-Drug	False	relation	30	29	['uniprot/4500896', 'uniprot/8505248', 'sda/12']	['sda/11', 'sda/7', 'sda/9']	1278:1281	1229:1232	annotator1	PA
+Target-Drug	True	relation	31	34	['sda/14', 'sda/9', 'sda/15']	['sda/7', 'sda/3', 'sda/8']	1351:1379	1477:1486	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	37	35	['uniprot/4500896', 'uniprot/8505248', 'sda/12']	['sda/7', 'sda/3', 'sda/8']	1649:1652	1551:1560	annotator1	PA
+Target-Drug	False	relation	37	38	['uniprot/4500896', 'uniprot/8505248', 'sda/12']	['sda/11', 'sda/7', 'sda/9']	1649:1652	1667:1670	annotator1	PA
+Target-Drug	False	relation	10	9	['sda/9', 'sda/4', 'sda/5']	['sda/8', 'sda/3', 'sda/17']	486:586	467:484	annotator2	PA
+Target-Drug	False	relation	11	9	['sda/10', 'sda/5']	['sda/8', 'sda/3', 'sda/17']	588:596	467:484	annotator2	PA
+Target-Drug	False	relation	12	9	['uniprot/4500896', 'sda/11', 'sda/18']	['sda/8', 'sda/3', 'sda/17']	603:616	467:484	annotator2	PA
+Target-Drug	False	relation	10	7	['sda/9', 'sda/4', 'sda/5']	['sda/7', 'sda/3', 'sda/8']	486:586	407:416	annotator3	PA
+Target-Drug	False	relation	9	7	['sda/8', 'sda/3', 'sda/17']	['sda/7', 'sda/3', 'sda/8']	467:484	407:416	annotator3	PA
+Target-Drug	False	relation	12	7	['uniprot/4500896', 'sda/11', 'sda/18']	['sda/7', 'sda/3', 'sda/8']	603:616	407:416	annotator3	PA
+Target-Drug	False	relation	32	34	['sda/15', 'sda/3', 'sda/14']	['sda/7', 'sda/3', 'sda/8']	1383:1403	1477:1486	annotator3	PA

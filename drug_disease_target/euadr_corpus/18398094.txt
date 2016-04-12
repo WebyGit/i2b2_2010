@@ -1,0 +1,39 @@
+Drug-Disorder	False	concept		24	36	annotator5	['sda/1']	27	Chemicals & Drugs
+Drug-Disorder	True	concept	breast cancer	57	70	annotator1,annotator4,Computer,annotator5	['umls/C0000571']	0	Diseases & Disorders
+Drug-Disorder	False	concept		169	181	annotator5	['sda/1']	28	Chemicals & Drugs
+Drug-Disorder	True	concept	tumors	202	208	annotator1,Computer,annotator5	['umls/C0002994']	1	Diseases & Disorders
+Drug-Disorder	False	concept		315	327	annotator5	['sda/1']	29	Chemicals & Drugs
+Drug-Disorder	True	concept	breast cancer	431	444	annotator1,annotator4,Computer,annotator5	['umls/C0000571']	2	Diseases & Disorders
+Drug-Disorder	True	concept	docetaxel	484	493	annotator1,annotator4,Computer,annotator5	['uniprot/4500681', 'uniprot/6324836']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	doxorubicin	509	520	annotator1,annotator4,Computer,annotator5	['uniprot/4500743', 'uniprot/6099213']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	cyclophosphamide	540	556	annotator1,annotator4,Computer,annotator5	['uniprot/4501022', 'uniprot/9013761']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	573	576	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	tumor	591	596	annotator1,Computer,annotator5	['umls/C0002994', 'sda/4']	7	Diseases & Disorders
+Drug-Disorder	True	concept	TAC	834	837	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	867	870	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	residual tumor	991	1012	annotator1,annotator4,Computer	['sda/2', 'umls/C0061728']	10	Diseases & Disorders
+Drug-Disorder	False	concept		1000	1005	annotator5	['sda/4']	30	Diseases & Disorders
+Drug-Disorder	True	concept	adverse effects	1131	1146	annotator1,Computer,annotator5	['umls/C0105312']	11	Diseases & Disorders
+Drug-Disorder	True	concept	TAC	1327	1330	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	1395	1398	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	1527	1530	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	1559	1562	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	1871	1874	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	1896	1899	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		2012	2019	annotator1	['sda/3']	18	Diseases & Disorders
+Drug-Disorder	True	concept	leukopenia	2023	2035	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0002546']	19	Diseases & Disorders
+Drug-Disorder	True	concept	edema	2040	2045	annotator1,annotator4,Computer,annotator5	['umls/C0001302']	20	Diseases & Disorders
+Drug-Disorder	True	concept	TAC	2133	2136	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	2217	2220	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	2364	2367	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	2443	2446	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	TAC	2537	2540	annotator1,annotator4,Computer,annotator5	['uniprot/4500849', 'uniprot/9008886']	25	Chemicals & Drugs
+Drug-Disorder	True	relation	21	20	['uniprot/4500849', 'uniprot/9008886']	['umls/C0001302']	2133:2136	2040:2045	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	21	18	['uniprot/4500849', 'uniprot/9008886']	['sda/3']	2133:2136	2012:2019	annotator1	PA
+Drug-Disorder	True	relation	21	19	['uniprot/4500849', 'uniprot/9008886']	['sda/4', 'umls/C0002546']	2133:2136	2023:2035	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	6	2	['uniprot/4500849', 'uniprot/9008886']	['umls/C0000571']	573:576	431:444	Computer	PA
+Drug-Disorder	False	relation	3	2	['uniprot/4500681', 'uniprot/6324836']	['umls/C0000571']	484:493	431:444	Computer	PA
+Drug-Disorder	False	relation	4	2	['uniprot/4500743', 'uniprot/6099213']	['umls/C0000571']	509:520	431:444	Computer	PA
+Drug-Disorder	False	relation	5	2	['uniprot/4501022', 'uniprot/9013761']	['umls/C0000571']	540:556	431:444	Computer	PA
+Drug-Disorder	False	relation	9	7	['uniprot/4500849', 'uniprot/9008886']	['umls/C0002994', 'sda/4']	867:870	591:596	Computer,annotator5	PA
+Drug-Disorder	False	relation	28	1	['sda/1']	['umls/C0002994']	169:181	202:208	annotator5	PA

@@ -1,0 +1,29 @@
+Target-Disorder	True	concept	TNFSF4	19	25	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	OX40L	27	32	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	systemic lupus erythematosus	67	95	annotator1,Computer,annotator2,annotator3	['umls/C0002625']	2	Diseases & Disorders
+Target-Disorder	True	concept	tumor necrosis factor ligand superfamily member 4	101	150	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	TNFSF4	157	163	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	OX40 ligand	177	188	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	OX40L	190	195	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		200	222	Computer	['uniprot/3011892']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	TNFSF4	301	318	annotator1	['sda/1']	7	SNP & Sequence variations
+Target-Disorder	True	concept	TNFSF4	301	318	Computer,annotator2,annotator3	['uniprot/3002495']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	systemic lupus erythematosus	383	411	annotator1,Computer,annotator2,annotator3	['umls/C0002625']	8	Diseases & Disorders
+Target-Disorder	True	concept	SLE	413	416	annotator1,Computer,annotator2,annotator3	['umls/C0001352']	9	Diseases & Disorders
+Target-Disorder	False	concept		494	501	Computer	['umls/C0004103']	20	Diseases & Disorders
+Target-Disorder	True	concept	TNFSF4	691	697	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	SLE	703	706	annotator1,Computer,annotator2,annotator3	['umls/C0001352']	11	Diseases & Disorders
+Target-Disorder	False	concept		786	792	Computer	['umls/C0004103']	21	Diseases & Disorders
+Target-Disorder	False	concept		800	805	Computer	['umls/C0148209']	22	Diseases & Disorders
+Target-Disorder	True	concept	rs1234317	826	835	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/1']	12	SNP & Sequence variations
+Target-Disorder	True	concept	rs12039904	880	890	annotator1,annotator2,annotator3	['sda/3', 'sda/9', 'sda/2']	13	SNP & Sequence variations
+Target-Disorder	True	concept	rs844644	981	989	annotator1,annotator2,annotator3	['sda/4', 'sda/10']	14	SNP & Sequence variations
+Target-Disorder	True	concept	rs1234317	1131	1140	annotator1,annotator2,annotator3	['sda/2', 'sda/6', 'sda/1']	15	SNP & Sequence variations
+Target-Disorder	True	concept	rs12039904	1145	1155	annotator1,annotator2,annotator3	['sda/3', 'sda/9', 'sda/2']	16	SNP & Sequence variations
+Target-Disorder	True	concept	TNFSF4	1388	1394	annotator1,Computer,annotator2,annotator3	['uniprot/3002495']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	SLE	1418	1421	annotator1,Computer,annotator2,annotator3	['umls/C0001352']	18	Diseases & Disorders
+Target-Disorder	True	relation	7	8	['sda/1', 'uniprot/3002495']	['umls/C0002625']	301:318	383:411	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	7	9	['sda/1', 'uniprot/3002495']	['umls/C0001352']	301:318	413:416	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	10	11	['uniprot/3002495']	['umls/C0001352']	691:697	703:706	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	17	18	['uniprot/3002495']	['umls/C0001352']	1388:1394	1418:1421	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	1	2	['uniprot/3002495']	['umls/C0002625']	27:32	67:95	Computer,annotator2,annotator3	PA

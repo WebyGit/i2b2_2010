@@ -1,0 +1,24 @@
+Target-Disorder	True	concept	C-reactive protein	48	66	Computer,annotator2,annotator3	['uniprot/3000476']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	chronic kidney disease	77	99	Computer,annotator2,annotator3	['umls/C0002390']	1	Diseases & Disorders
+Target-Disorder	True	concept	C-reactive protein	225	243	Computer,annotator2,annotator3	['uniprot/3000476']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRP	245	248	Computer,annotator2,annotator3	['uniprot/3000476']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRP	292	295	Computer,annotator2,annotator3	['uniprot/3000476']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	chronic kidney disease	306	328	Computer,annotator2,annotator3	['umls/C0002390']	5	Diseases & Disorders
+Target-Disorder	True	concept	CKD	330	333	Computer,annotator2,annotator3	['umls/C0156642']	6	Diseases & Disorders
+Target-Disorder	True	concept	CKD	413	416	Computer,annotator2,annotator3	['umls/C0156642']	7	Diseases & Disorders
+Target-Disorder	False	concept	-409	550	554	annotator3	['sda/10']	16	SNP & Sequence variations
+Target-Disorder	False	concept	-390	602	606	annotator3	['sda/8']	17	SNP & Sequence variations
+Target-Disorder	True	concept	CRP	623	626	Computer,annotator2,annotator3	['uniprot/3000476']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept	-409GG	669	675	annotator2	['sda/2']	14	SNP & Sequence variations
+Target-Disorder	False	concept	-390	693	697	annotator3	['sda/8']	18	SNP & Sequence variations
+Target-Disorder	True	concept	CRP	807	810	Computer,annotator2,annotator3	['uniprot/3000476']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRP	962	965	Computer,annotator2,annotator3	['uniprot/3000476']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept	1 year posttransplantation	1018	1044	annotator3	['sda/14']	20	Diseases & Disorders
+Target-Disorder	False	concept	-390	1120	1124	annotator3	['sda/8']	21	SNP & Sequence variations
+Target-Disorder	True	concept	CRP	1141	1144	Computer,annotator2,annotator3	['uniprot/3000476']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	CRP	1176	1179	Computer,annotator2,annotator3	['uniprot/3000476']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	posttransplantation	1353	1372	annotator3	['sda/13']	22	Diseases & Disorders
+Target-Disorder	True	relation	0	1	['uniprot/3000476']	['umls/C0002390']	48:66	77:99	Computer,annotator2	PA
+Target-Disorder	True	relation	4	5	['uniprot/3000476']	['umls/C0002390']	292:295	306:328	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	4	6	['uniprot/3000476']	['umls/C0156642']	292:295	330:333	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	11	20	['uniprot/3000476']	['sda/14']	962:965	1018:1044	annotator3	PA

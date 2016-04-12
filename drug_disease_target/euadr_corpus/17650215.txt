@@ -1,0 +1,16 @@
+Target-Disorder	True	concept	hepatitis E virus	37	54	annotator1,Computer,Computer,annotator2,annotator3	['sda/2', 'umls/C0004879', 'umls/C0004665', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	True	concept	hepatitis E virus	147	164	annotator1,Computer,Computer,annotator2,annotator3	['sda/2', 'umls/C0004879', 'umls/C0004665', 'sda/1', 'sda/3']	1	Diseases & Disorders
+Target-Disorder	True	concept	HEV) infection	166	180	annotator1,Computer,annotator2,annotator3	['sda/3', 'umls/C0002244', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	False	concept	HEV	249	252	annotator2,annotator3	['sda/2', 'sda/1']	13	Diseases & Disorders
+Target-Disorder	True	concept	hepatitis	658	667	annotator1,Computer,annotator2,annotator3	['umls/C0001937']	3	Diseases & Disorders
+Target-Disorder	True	concept	cholangiolitis	672	686	annotator1,Computer,annotator2,annotator3	['umls/C0000798']	4	Diseases & Disorders
+Target-Disorder	False	concept		713	721	Computer	['umls/C0025281']	8	Diseases & Disorders
+Target-Disorder	False	concept		843	857	Computer	['umls/C0029599']	9	Diseases & Disorders
+Target-Disorder	False	concept		919	935	annotator3	['sda/12']	19	Diseases & Disorders
+Target-Disorder	False	concept	steatosis	960	969	Computer,annotator3	['umls/C0006126']	10	Diseases & Disorders
+Target-Disorder	False	concept		1066	1086	annotator2	['uniprot/3020103']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	HEV infection	1152	1165	annotator1,Computer,annotator2,annotator3	['sda/4', 'umls/C0002244', 'sda/2', 'sda/7']	5	Diseases & Disorders
+Target-Disorder	False	concept	inflammation	1204	1216	Computer,annotator3	['umls/C0002255', 'sda/6']	11	Diseases & Disorders
+Target-Disorder	True	concept	cholangiolitis	1221	1235	annotator1,Computer,annotator2,annotator3	['umls/C0000798']	6	Diseases & Disorders
+Target-Disorder	True	concept	HEV infection	1366	1379	annotator1,Computer,annotator2,annotator3	['sda/4', 'umls/C0002244', 'sda/2', 'sda/7']	7	Diseases & Disorders
+Target-Disorder	False	concept		1517	1524	Computer	['umls/C0001185']	12	Diseases & Disorders

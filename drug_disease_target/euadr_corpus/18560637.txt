@@ -1,0 +1,30 @@
+Drug-Disorder	True	concept	Celiac crisis	0	13	annotator1,annotator4,Computer,annotator5	['umls/C0120077']	0	Diseases & Disorders
+Drug-Disorder	False	concept		29	54	annotator5	['sda/2']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	Celiac crisis	57	70	annotator1,annotator4,Computer,annotator5	['umls/C0120077']	1	Diseases & Disorders
+Drug-Disorder	True	concept	celiac disease	98	112	annotator1,annotator4,Computer,annotator5	['umls/C0000706']	2	Diseases & Disorders
+Drug-Disorder	True	concept	severe diarrhea	146	161	annotator1,annotator4,Computer,annotator5	['umls/C0147853', 'sda/1', 'sda/4']	3	Diseases & Disorders
+Drug-Disorder	False	concept	metabolic and electrolyte abnormalities	167	213	annotator1,annotator5	['sda/1', 'sda/3']	4	Diseases & Disorders
+Drug-Disorder	True	concept	diarrhea	374	382	annotator1,annotator4,Computer,annotator5	['umls/C0001152', 'sda/1', 'sda/4']	5	Diseases & Disorders
+Drug-Disorder	True	concept	dehydration	384	402	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0001066']	6	Diseases & Disorders
+Drug-Disorder	False	concept	hypokalemia	404	415	annotator1,annotator5	['sda/3', 'sda/5']	7	Diseases & Disorders
+Drug-Disorder	True	concept	metabolic acidosis	420	438	annotator1,annotator4,Computer,annotator5	['umls/C0010074']	8	Diseases & Disorders
+Drug-Disorder	True	concept	celiac disease	527	541	annotator1,annotator4,Computer,annotator5	['umls/C0000706']	9	Diseases & Disorders
+Drug-Disorder	True	concept	lymphocytic colitis	581	600	annotator1,annotator4,Computer,annotator5	['umls/C0039892']	10	Diseases & Disorders
+Drug-Disorder	True	concept	Microscopic colitis	602	621	annotator1,annotator4,Computer,annotator5	['umls/C0039891']	11	Diseases & Disorders
+Drug-Disorder	True	concept	celiac crisis	676	689	annotator1,annotator4,Computer,annotator5	['umls/C0120077']	12	Diseases & Disorders
+Drug-Disorder	True	concept	celiac crisis	742	755	annotator1,annotator4,Computer,annotator5	['umls/C0120077']	13	Diseases & Disorders
+Drug-Disorder	False	concept	corticosteroids	796	811	annotator1,annotator5	['sda/4', 'sda/6']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	azathioprine	816	828	annotator1,annotator4,Computer,annotator5	['uniprot/6145601', 'uniprot/4500886']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	autoimmune hepatitis	833	853	annotator1,annotator4,Computer,annotator5	['umls/C0016511']	16	Diseases & Disorders
+Drug-Disorder	False	concept		869	872	Computer	['uniprot/4500562']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	immunosuppression	929	946	annotator4,Computer,annotator5	['umls/C0126401']	19	Diseases & Disorders
+Drug-Disorder	True	concept	celiac crisis	966	979	annotator1,annotator4,Computer,annotator5	['umls/C0120077']	17	Diseases & Disorders
+Drug-Disorder	False	concept	corticosteroids	1065	1080	annotator1,annotator5	['sda/4', 'sda/6']	18	Chemicals & Drugs
+Drug-Disorder	True	relation	15	16	['uniprot/6145601', 'uniprot/4500886']	['umls/C0016511']	816:828	833:853	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	14	16	['sda/4', 'sda/6']	['umls/C0016511']	796:811	833:853	annotator1,annotator5	PA
+Drug-Disorder	False	relation	18	17	['sda/4', 'sda/6']	['umls/C0120077']	1065:1080	966:979	annotator1	SA
+Drug-Disorder	False	relation	15	16	['uniprot/6145601', 'uniprot/4500886']	['umls/C0016511']	816:828	833:853	annotator4	NA
+Drug-Disorder	False	relation	20	16	['uniprot/4500562']	['umls/C0016511']	869:872	833:853	Computer	PA
+Drug-Disorder	False	relation	21	0	['sda/2']	['umls/C0120077']	29:54	0:13	annotator5	PA
+Drug-Disorder	False	relation	18	17	['sda/4', 'sda/6']	['umls/C0120077']	1065:1080	966:979	annotator5	NA
+Drug-Disorder	False	relation	18	19	['sda/4', 'sda/6']	['umls/C0126401']	1065:1080	929:946	annotator5	PA

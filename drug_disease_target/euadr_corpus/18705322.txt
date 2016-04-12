@@ -1,0 +1,50 @@
+Target-Disorder	False	concept	HFE gene mutations	67	85	annotator1,annotator3	['sda/1']	0	SNP & Sequence variations
+Target-Disorder	False	concept	HFE gene mutations	67	85	Computer,annotator2	['uniprot/4001198']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept	HFE gene mutations	67	85	Computer	['umls/C0158858']	0	Diseases & Disorders
+Target-Disorder	True	concept	hereditary hemochromatosis	121	147	annotator1,Computer,annotator2,annotator3	['umls/C0038577']	1	Diseases & Disorders
+Target-Disorder	True	concept	HH	149	151	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	2	Diseases & Disorders
+Target-Disorder	False	concept	HFE gene mutations	350	368	annotator1,annotator3	['sda/1']	3	SNP & Sequence variations
+Target-Disorder	False	concept	HFE gene mutations	350	368	Computer,annotator2	['uniprot/4001198']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	HFE gene mutations	350	368	Computer	['umls/C0158858']	3	Diseases & Disorders
+Target-Disorder	True	concept	chronic liver diseases	386	408	annotator1,Computer,annotator2,annotator3	['umls/C0032509']	4	Diseases & Disorders
+Target-Disorder	True	concept	CLD	410	413	annotator1,annotator1,Computer,annotator2,annotator2,annotator3	['uniprot/3055435', 'umls/C0124053', 'sda/3']	5	Diseases & Disorders
+Target-Disorder	False	concept	CLD	410	413	Computer	['uniprot/3055435']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	CLD	509	512	annotator1,annotator1,Computer,annotator2,annotator2,annotator3	['uniprot/3055435', 'umls/C0124053', 'sda/3']	6	Diseases & Disorders
+Target-Disorder	False	concept	CLD	509	512	Computer	['uniprot/3055435']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	C282Y	518	523	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/9']	7	SNP & Sequence variations
+Target-Disorder	True	concept	H63D	525	529	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/10']	8	SNP & Sequence variations
+Target-Disorder	True	concept	S65C	534	538	annotator1,annotator2,annotator3	['sda/5', 'sda/4', 'sda/11']	9	SNP & Sequence variations
+Target-Disorder	False	concept	HFE mutations	539	552	annotator1,annotator3	['sda/6', 'sda/4']	10	SNP & Sequence variations
+Target-Disorder	False	concept	HFE mutations	539	552	Computer,annotator2	['uniprot/4001198']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept	HFE mutations	539	552	Computer	['umls/C0158858']	10	Diseases & Disorders
+Target-Disorder	True	concept	viral hepatitis	640	655	annotator1,Computer,annotator2,annotator3	['sda/7', 'umls/C0001939', 'sda/5']	11	Diseases & Disorders
+Target-Disorder	False	concept		843	850	Computer	['umls/C0037341']	20	Diseases & Disorders
+Target-Disorder	True	concept	CLD	896	899	annotator1,annotator1,Computer,annotator2,annotator2,annotator3	['uniprot/3055435', 'umls/C0124053', 'sda/3']	12	Diseases & Disorders
+Target-Disorder	False	concept	CLD	896	899	Computer	['uniprot/3055435']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	chronic hepatitis C	904	923	annotator1,Computer,Computer,annotator2,annotator2,annotator3,annotator3	['sda/8', 'umls/C0001943', 'umls/C0001947']	13	Diseases & Disorders
+Target-Disorder	True	concept	ALT	985	988	annotator1,Computer,annotator2,annotator3	['uniprot/3080197']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept		1027	1034	Computer	['umls/C0037341']	21	Diseases & Disorders
+Target-Disorder	True	concept	HH	1065	1067	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	15	Diseases & Disorders
+Target-Disorder	True	concept	C282Y/C282Y	1080	1091	annotator1,annotator2,annotator3	['sda/9', 'sda/2', 'sda/1']	16	SNP & Sequence variations
+Target-Disorder	True	concept	C282Y/H63D	1119	1129	annotator1,annotator2,annotator2,annotator3	['sda/10', 'sda/2', 'sda/3']	17	SNP & Sequence variations
+Target-Disorder	False	concept	HFE gene mutations	1151	1169	annotator1,annotator3	['sda/1']	18	SNP & Sequence variations
+Target-Disorder	False	concept	HFE gene mutations	1151	1169	Computer,annotator2	['uniprot/4001198']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept	HFE gene mutations	1151	1169	Computer	['umls/C0158858']	18	Diseases & Disorders
+Target-Disorder	False	concept		1214	1221	Computer	['umls/C0037341']	22	Diseases & Disorders
+Target-Disorder	False	concept	HFE gene mutations	1346	1364	annotator1,annotator3	['sda/1']	19	SNP & Sequence variations
+Target-Disorder	False	concept	HFE gene mutations	1346	1364	Computer,annotator2	['uniprot/4001198']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	HFE gene mutations	1346	1364	Computer	['umls/C0158858']	19	Diseases & Disorders
+Target-Disorder	False	relation	0	0	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['sda/1', 'uniprot/4001198', 'umls/C0158858']	67:85	67:85	Computer	PA
+Target-Disorder	False	relation	3	3	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['sda/1', 'uniprot/4001198', 'umls/C0158858']	350:368	350:368	Computer	PA
+Target-Disorder	False	relation	3	4	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['umls/C0032509']	350:368	386:408	Computer,annotator2	PA
+Target-Disorder	False	relation	5	3	['uniprot/3055435', 'umls/C0124053', 'sda/3']	['sda/1', 'uniprot/4001198', 'umls/C0158858']	410:413	350:368	Computer	PA
+Target-Disorder	False	relation	5	4	['uniprot/3055435', 'umls/C0124053', 'sda/3']	['umls/C0032509']	410:413	386:408	Computer	PA
+Target-Disorder	False	relation	10	10	['sda/6', 'uniprot/4001198', 'umls/C0158858', 'sda/4']	['sda/6', 'uniprot/4001198', 'umls/C0158858', 'sda/4']	539:552	539:552	Computer	PA
+Target-Disorder	False	relation	12	13	['uniprot/3055435', 'umls/C0124053', 'sda/3']	['sda/8', 'umls/C0001943', 'umls/C0001947']	896:899	904:923	Computer	PA
+Target-Disorder	False	relation	14	21	['uniprot/3080197']	['umls/C0037341']	985:988	1027:1034	Computer	PA
+Target-Disorder	False	relation	18	18	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['sda/1', 'uniprot/4001198', 'umls/C0158858']	1151:1169	1151:1169	Computer	PA
+Target-Disorder	False	relation	18	22	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['umls/C0037341']	1151:1169	1214:1221	Computer	PA
+Target-Disorder	False	relation	19	19	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['sda/1', 'uniprot/4001198', 'umls/C0158858']	1346:1364	1346:1364	Computer	PA
+Target-Disorder	False	relation	3	5	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['uniprot/3055435', 'umls/C0124053', 'sda/3']	350:368	410:413	annotator2	SA
+Target-Disorder	False	relation	18	15	['sda/1', 'uniprot/4001198', 'umls/C0158858']	['sda/2', 'sda/1']	1151:1169	1065:1067	annotator2,annotator3	PA
+Target-Disorder	False	relation	17	15	['sda/10', 'sda/2', 'sda/3']	['sda/2', 'sda/1']	1119:1129	1065:1067	annotator2	PA

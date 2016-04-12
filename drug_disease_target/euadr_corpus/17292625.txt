@@ -1,0 +1,22 @@
+Target-Disorder	False	concept	virus	76	81	Computer	['umls/C0004665']	11	Diseases & Disorders
+Target-Disorder	False	concept	virus	76	81	annotator3	['sda/13']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept	nucleoprotein	82	95	annotator1,annotator2	['sda/8', 'sda/3']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept	phosphoprotein	100	114	annotator1,annotator2	['sda/4']	1	Genes & Molecular Sequences
+Target-Disorder	False	concept	Escherichia	128	139	Computer	['umls/C0096796']	12	Diseases & Disorders
+Target-Disorder	False	concept	Escherichia	128	139	annotator3	['sda/3']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept	nucleoprotein	150	163	annotator1,annotator2	['sda/8', 'sda/3']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept		165	166	annotator1	['sda/6']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	phosphoprotein	176	190	annotator1,annotator2	['sda/4']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept		192	193	annotator1	['sda/7']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	virus	230	235	Computer	['umls/C0004665']	13	Diseases & Disorders
+Target-Disorder	False	concept	virus	230	235	annotator3	['sda/13']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	strain	247	253	Computer	['umls/C0148867']	14	Diseases & Disorders
+Target-Disorder	False	concept	strain	247	253	annotator3	['sda/14']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	maltose-binding protein	332	355	annotator1,annotator2,annotator3	['sda/5', 'sda/1', 'sda/11']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	MBP	357	360	annotator1,Computer,annotator2,annotator3	['uniprot/3002044']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	enterokinase	587	599	annotator1,Computer,annotator2,annotator3	['uniprot/3002075']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept		711	724	annotator3	['sda/12']	17	Diseases & Disorders
+Target-Disorder	False	concept		872	877	Computer	['umls/C0004665']	15	Diseases & Disorders
+Target-Disorder	False	concept		924	925	annotator1	['sda/6']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		930	931	annotator1	['sda/7']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept		1081	1085	annotator3	['sda/5']	18	Diseases & Disorders

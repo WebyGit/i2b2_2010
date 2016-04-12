@@ -1,0 +1,28 @@
+Target-Drug	False	concept		66	75	annotator3	['sda/6']	20	Chemicals & Drugs
+Target-Drug	True	concept	Cisplatin	148	157	annotator1,Computer,annotator2,annotator3	['uniprot/9019042', 'uniprot/4501141']	2	Chemicals & Drugs
+Target-Drug	False	concept		213	222	annotator3	['sda/6']	21	Chemicals & Drugs
+Target-Drug	False	concept		375	384	annotator3	['sda/6']	22	Chemicals & Drugs
+Target-Drug	True	concept	epidermal growth factor receptor	754	786	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	788	792	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	vascular endothelial growth factor	802	836	annotator1,Computer,annotator2,annotator3	['uniprot/3002534']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	VEGF	838	842	annotator1,Computer,annotator2,annotator3	['uniprot/3002534']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	cetuximab	950	959	annotator1,Computer,annotator2,annotator3	['uniprot/4003400', 'uniprot/4500030']	11	Chemicals & Drugs
+Target-Drug	True	concept	EGFR	975	979	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	bevacizumab	985	996	annotator1,Computer,annotator2,annotator3	['uniprot/6335799', 'uniprot/4500176']	13	Chemicals & Drugs
+Target-Drug	True	concept	VEGF	1015	1019	annotator1,Computer,annotator2,annotator3	['uniprot/3002534']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	VEGF receptor tyrosine kinase inhibitors	1182	1222	annotator1,annotator3	['sda/1', 'sda/10']	16	Chemicals & Drugs
+Target-Drug	False	concept	VEGF receptor tyrosine kinase inhibitors	1182	1222	Computer,annotator2	['uniprot/3002534', 'sda/4']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	sorafenib	1232	1241	annotator1,Computer,annotator2,annotator3	['uniprot/6336672', 'uniprot/4500182']	17	Chemicals & Drugs
+Target-Drug	True	concept	pazopanib	1246	1255	annotator1,annotator2,annotator3	['sda/2', 'sda/5', 'sda/9']	18	Chemicals & Drugs
+Target-Drug	True	relation	11	12	['uniprot/4003400', 'uniprot/4500030']	['uniprot/3074545']	950:959	975:979	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	13	14	['uniprot/6335799', 'uniprot/4500176']	['uniprot/3002534']	985:996	1015:1019	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	11	14	['uniprot/4003400', 'uniprot/4500030']	['uniprot/3002534']	950:959	1015:1019	Computer	PA
+Target-Drug	False	relation	13	12	['uniprot/6335799', 'uniprot/4500176']	['uniprot/3074545']	985:996	975:979	Computer	PA
+Target-Drug	False	relation	17	16	['uniprot/6336672', 'uniprot/4500182']	['sda/1', 'uniprot/3002534', 'sda/4', 'sda/10']	1232:1241	1182:1222	Computer,annotator2	PA
+Target-Drug	False	relation	7	10	['uniprot/3074545']	[]	788:792	892:904	annotator2	PA
+Target-Drug	False	relation	9	10	['uniprot/3002534']	[]	838:842	892:904	annotator2	PA
+Target-Drug	False	relation	12	15	['uniprot/3074545']	[]	975:979	1152:1167	annotator2	PA
+Target-Drug	False	relation	14	15	['uniprot/3002534']	[]	1015:1019	1152:1167	annotator2	PA
+Target-Drug	False	relation	11	15	['uniprot/4003400', 'uniprot/4500030']	[]	950:959	1152:1167	annotator2	PA
+Target-Drug	False	relation	13	15	['uniprot/6335799', 'uniprot/4500176']	[]	985:996	1152:1167	annotator2	PA
+Target-Drug	False	relation	18	16	['sda/2', 'sda/5', 'sda/9']	['sda/1', 'uniprot/3002534', 'sda/4', 'sda/10']	1246:1255	1182:1222	annotator2	PA

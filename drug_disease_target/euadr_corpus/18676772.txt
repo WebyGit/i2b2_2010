@@ -1,0 +1,30 @@
+Target-Drug	False	concept		0	8	annotator1	['sda/3']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	108	118	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	2	Genes & Molecular Sequences
+Target-Drug	False	concept		191	199	annotator1	['sda/3']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	344	354	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	Telomerase	491	501	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	8	Genes & Molecular Sequences
+Target-Drug	False	concept		580	588	annotator1	['sda/3']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	661	671	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	telomerase inhibitor	752	772	annotator1,annotator3	['sda/4', 'sda/5']	13	Chemicals & Drugs
+Target-Drug	False	concept	telomerase inhibitor	752	772	annotator2	['sda/3']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	GRN163L	774	781	annotator1,annotator2,annotator3	['sda/5', 'sda/4', 'sda/2']	14	Chemicals & Drugs
+Target-Drug	False	concept		854	861	annotator3	['sda/3']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-galactosidase	889	907	annotator1,Computer,annotator2,annotator3	['uniprot/3047922']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	GRN163L	1097	1104	annotator1,annotator2,annotator3	['sda/5', 'sda/4', 'sda/2']	19	Chemicals & Drugs
+Target-Drug	True	concept	Telomerase	1115	1125	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	20	Genes & Molecular Sequences
+Target-Drug	False	concept	telomerase inhibitor	1298	1318	annotator1,annotator3	['sda/4', 'sda/5']	23	Chemicals & Drugs
+Target-Drug	False	concept	telomerase inhibitor	1298	1318	annotator2	['sda/3']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	GRN163L	1320	1327	annotator1,annotator2,annotator3	['sda/5', 'sda/4', 'sda/2']	24	Chemicals & Drugs
+Target-Drug	True	concept	telomerase	1344	1354	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	25	Genes & Molecular Sequences
+Target-Drug	False	concept		1378	1386	annotator1	['sda/3']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	GRN163L	1469	1476	annotator1,annotator2,annotator3	['sda/5', 'sda/4', 'sda/2']	28	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	1563	1574	annotator1,Computer,annotator2,annotator3	['uniprot/4500743']	29	Chemicals & Drugs
+Target-Drug	True	concept	ritonavir	1579	1588	annotator1,Computer,annotator2,annotator3	['uniprot/4500150']	30	Chemicals & Drugs
+Target-Drug	True	concept	GRN163L	1618	1625	annotator1,annotator2,annotator3	['sda/5', 'sda/4', 'sda/2']	31	Chemicals & Drugs
+Target-Drug	True	concept	telomerase	1730	1740	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	telomerase	1833	1843	annotator1,annotator2,annotator3	['sda/1', 'sda/3', 'sda/4']	35	Genes & Molecular Sequences
+Target-Drug	False	relation	23	25	['sda/4', 'sda/3', 'sda/5']	['sda/1', 'sda/3', 'sda/4']	1298:1318	1344:1354	annotator1,annotator3	PA
+Target-Drug	False	relation	23	26	['sda/4', 'sda/3', 'sda/5']	['sda/3']	1298:1318	1378:1386	annotator1	PA
+Target-Drug	True	relation	24	25	['sda/5', 'sda/4', 'sda/2']	['sda/1', 'sda/3', 'sda/4']	1320:1327	1344:1354	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	24	26	['sda/5', 'sda/4', 'sda/2']	['sda/3']	1320:1327	1378:1386	annotator1	PA
+Target-Drug	False	relation	14	13	['sda/5', 'sda/4', 'sda/2']	['sda/4', 'sda/3', 'sda/5']	774:781	752:772	annotator2	PA

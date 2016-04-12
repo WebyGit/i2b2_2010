@@ -1,0 +1,44 @@
+Drug-Disorder	True	concept	ecstasy	38	45	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	ecstasy	182	189	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	1	Chemicals & Drugs
+Drug-Disorder	False	concept		190	194	annotator4	['umls/C0247497']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	ecstasy	279	286	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	learning	319	327	annotator1,annotator5	['sda/4', 'sda/2']	3	Diseases & Disorders
+Drug-Disorder	True	concept	memory impairments	332	350	annotator1,annotator4,Computer	['umls/C0011841']	4	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	447	454	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	cognitive changes	512	529	annotator1,annotator4,Computer,annotator5	['umls/C0132790']	6	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	564	571	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		683	691	annotator1	['sda/4']	8	Diseases & Disorders
+Drug-Disorder	False	concept		764	775	Computer	['umls/C0010068']	27	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	779	786	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	cannabis	791	799	annotator1,annotator4,annotator5	['sda/6', 'sda/3', 'umls/C0000626']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	cannabis	791	799	Computer	['umls/C0000626']	10	Diseases & Disorders
+Drug-Disorder	True	concept	cannabis	812	820	annotator1,annotator4,annotator5	['sda/6', 'sda/3', 'umls/C0000626']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	cannabis	812	820	Computer	['umls/C0000626']	11	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	940	947	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	cannabis	1008	1016	annotator1,annotator4,annotator5	['sda/6', 'sda/3', 'umls/C0000626']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	cannabis	1008	1016	Computer	['umls/C0000626']	13	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	1095	1102	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	ecstasy	1154	1161	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	deficits on episodic	1227	1254	annotator1,Computer,annotator5	['sda/8', 'umls/C0009431', 'sda/6']	16	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	1272	1279	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	deficits on verbal	1304	1330	annotator1,Computer,annotator5	['sda/9', 'umls/C0009431', 'sda/8']	18	Diseases & Disorders
+Drug-Disorder	False	concept		1332	1346	annotator1	['sda/10']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1351	1367	annotator1	['sda/11']	20	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	1528	1535	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	21	Chemicals & Drugs
+Drug-Disorder	True	concept		1544	1560	annotator1,annotator4,annotator4,annotator5,annotator5	['sda/12', 'sda/1', 'sda/3', 'umls/C0000626']	22	Chemicals & Drugs
+Drug-Disorder	False	concept		1544	1560	Computer	['umls/C0000626']	22	Diseases & Disorders
+Drug-Disorder	False	concept	deficits	1616	1624	Computer,annotator5	['umls/C0009431']	28	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	1637	1644	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	cognitive impairment	1698	1728	annotator1,annotator4,Computer,annotator5	['sda/13', 'umls/C0030645']	24	Diseases & Disorders
+Drug-Disorder	True	concept	ecstasy	1738	1745	annotator1,annotator4,annotator5	['sda/2', 'sda/1']	25	Chemicals & Drugs
+Drug-Disorder	False	concept		1746	1757	Computer	['umls/C0010068']	29	Diseases & Disorders
+Drug-Disorder	False	concept		1776	1788	Computer	['umls/C0079245']	30	Diseases & Disorders
+Drug-Disorder	False	relation	2	4	['sda/2', 'sda/1']	['umls/C0011841']	279:286	332:350	annotator1	PA
+Drug-Disorder	False	relation	2	3	['sda/2', 'sda/1']	['sda/4', 'sda/2']	279:286	319:327	annotator1,annotator5	PA
+Drug-Disorder	False	relation	15	16	['sda/2', 'sda/1']	['sda/8', 'umls/C0009431', 'sda/6']	1154:1161	1227:1254	annotator1,annotator5	PA
+Drug-Disorder	False	relation	17	18	['sda/2', 'sda/1']	['sda/9', 'umls/C0009431', 'sda/8']	1272:1279	1304:1330	annotator1,annotator5	PA
+Drug-Disorder	False	relation	17	19	['sda/2', 'sda/1']	['sda/10']	1272:1279	1332:1346	annotator1	PA
+Drug-Disorder	False	relation	17	20	['sda/2', 'sda/1']	['sda/11']	1272:1279	1351:1367	annotator1	PA
+Drug-Disorder	False	relation	25	24	['sda/2', 'sda/1']	['sda/13', 'umls/C0030645']	1738:1745	1698:1728	annotator1	PA
+Drug-Disorder	True	relation	22	24	['sda/12', 'sda/1', 'sda/3', 'umls/C0000626']	['sda/13', 'umls/C0030645']	1544:1560	1698:1728	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	22	28	['sda/12', 'sda/1', 'sda/3', 'umls/C0000626']	['umls/C0009431']	1544:1560	1616:1624	annotator5	PA

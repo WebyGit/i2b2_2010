@@ -1,0 +1,9 @@
+Target-Drug	False	concept	TNF- alpha inhibitors	0	21	annotator1,annotator3	['sda/1', 'sda/2']	0	Chemicals & Drugs
+Target-Drug	False	concept	TNF- alpha inhibitors	0	21	annotator2	['uniprot/3000496']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	Tumor necrosis-alpha	23	43	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	TNF-alpha	45	54	annotator1,Computer,annotator2,annotator3	['uniprot/3000496']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	TNF-alpha	327	336	annotator1,Computer,annotator2,annotator3	['uniprot/3000496']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	TNF-alpha inhibitors	478	498	annotator1,annotator3	['sda/3']	10	Chemicals & Drugs
+Target-Drug	False	concept	TNF-alpha inhibitors	478	498	Computer,annotator2	['uniprot/3000496']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	TNF-alpha inhibitors	564	584	annotator1,annotator3	['sda/3']	11	Chemicals & Drugs
+Target-Drug	False	concept	TNF-alpha inhibitors	564	584	Computer,annotator2	['uniprot/3000496']	11	Genes & Molecular Sequences

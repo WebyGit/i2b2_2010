@@ -1,0 +1,29 @@
+Drug-Disorder	True	concept	shellfish allergy	0	27	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0074928']	0	Diseases & Disorders
+Drug-Disorder	True	concept	Food allergies	29	43	annotator1,annotator4,annotator4,Computer,annotator5	['umls/C0001629', 'sda/2']	1	Diseases & Disorders
+Drug-Disorder	True	concept	food allergies	118	132	annotator1,annotator4,annotator4,Computer,annotator5	['umls/C0001629', 'sda/2']	2	Diseases & Disorders
+Drug-Disorder	False	concept		245	253	Computer	['umls/C0148591']	27	Diseases & Disorders
+Drug-Disorder	True	concept	rashes	293	304	annotator1,Computer,annotator5	['sda/2', 'umls/C0001490']	3	Diseases & Disorders
+Drug-Disorder	True	concept	hives	309	314	annotator1,Computer,annotator5	['umls/C0004586']	4	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylactic shock	335	353	annotator1,annotator4,Computer,annotator5	['umls/C0000229']	5	Diseases & Disorders
+Drug-Disorder	True	concept	Seafood allergies	355	372	annotator1,annotator4,Computer,annotator5	['umls/C0081224', 'sda/2']	6	Diseases & Disorders
+Drug-Disorder	True	concept	food allergies	408	422	annotator1,annotator4,annotator4,Computer,annotator5	['umls/C0001629', 'sda/2']	7	Diseases & Disorders
+Drug-Disorder	True	concept	Allergies to fish	445	462	annotator1,annotator4,Computer,annotator5	['umls/C0098664', 'sda/2', 'sda/3']	8	Diseases & Disorders
+Drug-Disorder	False	concept		467	487	annotator1	['sda/3']	9	Diseases & Disorders
+Drug-Disorder	True	concept	shellfish allergies	505	534	annotator1,annotator4,Computer,annotator5	['sda/5', 'sda/2', 'umls/C0074928']	10	Diseases & Disorders
+Drug-Disorder	True	concept	shellfish allergies	592	621	annotator1,annotator4,Computer,annotator5	['sda/5', 'sda/2', 'umls/C0074928']	11	Diseases & Disorders
+Drug-Disorder	False	concept	Tropomyosin	798	809	annotator1,annotator4	['sda/8', 'sda/3']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	allergen	863	871	annotator1,annotator4,Computer	['uniprot/4500065', 'uniprot/6005853']	13	Chemicals & Drugs
+Drug-Disorder	False	concept		900	909	annotator1	['sda/7']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		944	945	annotator4	['uniprot/8002428']	26	Chemicals & Drugs
+Drug-Disorder	False	concept	tropomyosin	994	1005	annotator1,annotator4	['sda/8', 'sda/3']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	tropomyosin	1027	1038	annotator1,annotator4	['sda/8', 'sda/3']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	allergies	1174	1183	annotator1,annotator4,Computer,annotator5	['umls/C0002127', 'sda/2', 'sda/4']	18	Diseases & Disorders
+Drug-Disorder	False	concept	tropomyosin	1296	1317	annotator1,annotator4	['sda/9', 'sda/3']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		1321	1341	annotator1	['sda/3']	20	Diseases & Disorders
+Drug-Disorder	True	concept	allergies	1404	1413	annotator1,annotator4,Computer,annotator5	['umls/C0002127', 'sda/2', 'sda/5']	21	Diseases & Disorders
+Drug-Disorder	True	concept	food allergies	1539	1553	annotator1,annotator4,annotator4,Computer,annotator5	['umls/C0001629', 'sda/2']	22	Diseases & Disorders
+Drug-Disorder	True	concept	food allergies	1622	1636	annotator1,annotator4,annotator4,Computer,annotator5	['umls/C0001629', 'sda/2']	23	Diseases & Disorders
+Drug-Disorder	False	concept		1768	1777	annotator1	['sda/7']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	allergic reactions	1995	2013	annotator1,annotator4,Computer,annotator5	['umls/C0002127']	25	Diseases & Disorders
+Drug-Disorder	False	relation	17	18	['sda/8', 'sda/3']	['umls/C0002127', 'sda/2', 'sda/4']	1027:1038	1174:1183	annotator1,annotator4	PA
+Drug-Disorder	False	relation	19	20	['sda/9', 'sda/3']	['sda/3']	1296:1317	1321:1341	annotator1	PA

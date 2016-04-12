@@ -1,0 +1,15 @@
+Drug-Disorder	True	concept	Deep vein thrombosis	0	20	annotator1,annotator4,Computer	['umls/C0004640']	0	Diseases & Disorders
+Drug-Disorder	False	concept	complications	102	115	Computer	['umls/C0000923']	7	Diseases & Disorders
+Drug-Disorder	True	concept	deep vein thrombosis	135	155	annotator1,annotator4,Computer	['umls/C0004640']	1	Diseases & Disorders
+Drug-Disorder	True	concept	DVT	157	160	annotator1,annotator4	['sda/1']	2	Diseases & Disorders
+Drug-Disorder	True	concept	estrogen	269	277	annotator1,annotator4,Computer	['uniprot/8522074', 'uniprot/4500794']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	obese	293	298	Computer	['umls/C0003097']	8	Diseases & Disorders
+Drug-Disorder	True	concept	cancer	315	321	annotator1,Computer	['umls/C0000617']	4	Diseases & Disorders
+Drug-Disorder	False	concept	clotting	478	486	Computer	['umls/C0028715']	9	Diseases & Disorders
+Drug-Disorder	True	concept	Low-molecular weight heparins	488	517	annotator1,annotator4	['sda/2', 'sda/3']	5	Chemicals & Drugs
+Drug-Disorder	False	concept	weight	502	508	Computer	['umls/C0046216']	10	Diseases & Disorders
+Drug-Disorder	False	concept	DVT	540	543	annotator1	['sda/1']	6	Diseases & Disorders
+Drug-Disorder	False	relation	5	6	['sda/2', 'sda/3']	['sda/1']	488:517	540:543	annotator1	PA
+Drug-Disorder	False	relation	5	6	['sda/2', 'sda/3']	['sda/1']	488:517	540:543	annotator4	PA
+Drug-Disorder	False	relation	3	8	['uniprot/8522074', 'uniprot/4500794']	['umls/C0003097']	269:277	293:298	Computer	PA
+Drug-Disorder	False	relation	3	4	['uniprot/8522074', 'uniprot/4500794']	['umls/C0000617']	269:277	315:321	Computer	PA

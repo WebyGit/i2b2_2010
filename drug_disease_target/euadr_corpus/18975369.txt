@@ -1,0 +1,56 @@
+Drug-Disorder	True	concept	febuxostat	11	21	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	29	40	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	hyperuricemia	94	107	annotator1,annotator4,Computer,annotator5	['umls/C0082908', 'sda/8']	2	Diseases & Disorders
+Drug-Disorder	True	concept	gout	112	116	annotator1,annotator4,Computer,annotator5	['umls/C0001783', 'sda/7']	3	Diseases & Disorders
+Drug-Disorder	False	concept		159	164	annotator5	['umls/C0054140']	29	Diseases & Disorders
+Drug-Disorder	True	concept	febuxostat	252	262	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	264	275	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	hyperuricemia	323	336	annotator1,annotator4,Computer,annotator5	['umls/C0082908', 'sda/8']	6	Diseases & Disorders
+Drug-Disorder	True	concept	gout	341	345	annotator1,annotator4,Computer,annotator5	['umls/C0001783', 'sda/7']	7	Diseases & Disorders
+Drug-Disorder	True	concept	impaired renal function	370	393	annotator1,Computer,annotator5	['umls/C0032663']	8	Diseases & Disorders
+Drug-Disorder	True	concept	hyperuricemia	430	443	annotator1,annotator4,Computer,annotator5	['umls/C0082908', 'sda/8']	9	Diseases & Disorders
+Drug-Disorder	True	concept	gout	485	489	annotator1,annotator4,Computer,annotator5	['umls/C0001783', 'sda/7']	10	Diseases & Disorders
+Drug-Disorder	True	concept	febuxostat	617	627	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	656	667	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	febuxostat	818	828	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	966	977	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	impaired renal function	1064	1087	annotator1,Computer,annotator5	['umls/C0032663']	15	Diseases & Disorders
+Drug-Disorder	True	concept	febuxostat	1101	1111	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	1258	1269	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	diarrhea	1403	1411	annotator1,annotator4,Computer,annotator5	['umls/C0001152']	18	Diseases & Disorders
+Drug-Disorder	True	concept	dizziness	1416	1425	annotator1,annotator4,Computer,annotator5	['umls/C0001211']	19	Diseases & Disorders
+Drug-Disorder	True	concept	febuxostat	1452	1462	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	gout flares	1550	1561	annotator1,annotator4,Computer,annotator5	['umls/C0157625', 'sda/7']	21	Diseases & Disorders
+Drug-Disorder	True	concept	febuxostat	1593	1603	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	1614	1625	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	febuxostat	1661	1671	annotator1,annotator4,Computer,annotator5	['uniprot/8522168', 'uniprot/4503345']	24	Chemicals & Drugs
+Drug-Disorder	True	concept	allopurinol	1751	1762	annotator1,annotator4,Computer,annotator5	['uniprot/6082550', 'uniprot/4500877']	25	Chemicals & Drugs
+Drug-Disorder	True	concept	hyperuricemia	1807	1820	annotator1,annotator4,Computer,annotator5	['umls/C0082908', 'sda/8']	26	Diseases & Disorders
+Drug-Disorder	True	concept	gout	1825	1829	annotator1,annotator4,Computer,annotator5	['umls/C0001783', 'sda/7']	27	Diseases & Disorders
+Drug-Disorder	True	concept	impaired renal function	1871	1894	annotator1,Computer,annotator5	['umls/C0032663']	28	Diseases & Disorders
+Drug-Disorder	True	relation	16	15	['uniprot/8522168', 'uniprot/4503345']	['umls/C0032663']	1101:1111	1064:1087	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	17	15	['uniprot/6082550', 'uniprot/4500877']	['umls/C0032663']	1258:1269	1064:1087	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	20	18	['uniprot/8522168', 'uniprot/4503345']	['umls/C0001152']	1452:1462	1403:1411	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	20	19	['uniprot/8522168', 'uniprot/4503345']	['umls/C0001211']	1452:1462	1416:1425	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	22	21	['uniprot/8522168', 'uniprot/4503345']	['umls/C0157625', 'sda/7']	1593:1603	1550:1561	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	24	26	['uniprot/8522168', 'uniprot/4503345']	['umls/C0082908', 'sda/8']	1661:1671	1807:1820	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	24	27	['uniprot/8522168', 'uniprot/4503345']	['umls/C0001783', 'sda/7']	1661:1671	1825:1829	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	24	28	['uniprot/8522168', 'uniprot/4503345']	['umls/C0032663']	1661:1671	1871:1894	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	23	21	['uniprot/6082550', 'uniprot/4500877']	['umls/C0157625', 'sda/7']	1614:1625	1550:1561	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	25	26	['uniprot/6082550', 'uniprot/4500877']	['umls/C0082908', 'sda/8']	1751:1762	1807:1820	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	25	27	['uniprot/6082550', 'uniprot/4500877']	['umls/C0001783', 'sda/7']	1751:1762	1825:1829	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	0	2	['uniprot/8522168', 'uniprot/4503345']	['umls/C0082908', 'sda/8']	11:21	94:107	Computer,annotator5	PA
+Drug-Disorder	False	relation	0	3	['uniprot/8522168', 'uniprot/4503345']	['umls/C0001783', 'sda/7']	11:21	112:116	Computer,annotator5	PA
+Drug-Disorder	False	relation	1	2	['uniprot/6082550', 'uniprot/4500877']	['umls/C0082908', 'sda/8']	29:40	94:107	Computer,annotator5	PA
+Drug-Disorder	False	relation	1	3	['uniprot/6082550', 'uniprot/4500877']	['umls/C0001783', 'sda/7']	29:40	112:116	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	6	['uniprot/8522168', 'uniprot/4503345']	['umls/C0082908', 'sda/8']	252:262	323:336	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	7	['uniprot/8522168', 'uniprot/4503345']	['umls/C0001783', 'sda/7']	252:262	341:345	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	8	['uniprot/8522168', 'uniprot/4503345']	['umls/C0032663']	252:262	370:393	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	6	['uniprot/6082550', 'uniprot/4500877']	['umls/C0082908', 'sda/8']	264:275	323:336	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	7	['uniprot/6082550', 'uniprot/4500877']	['umls/C0001783', 'sda/7']	264:275	341:345	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	8	['uniprot/6082550', 'uniprot/4500877']	['umls/C0032663']	264:275	370:393	Computer,annotator5	PA
+Drug-Disorder	False	relation	11	9	['uniprot/8522168', 'uniprot/4503345']	['umls/C0082908', 'sda/8']	617:627	430:443	Computer,annotator5	PA
+Drug-Disorder	False	relation	11	10	['uniprot/8522168', 'uniprot/4503345']	['umls/C0001783', 'sda/7']	617:627	485:489	Computer,annotator5	PA
+Drug-Disorder	False	relation	12	9	['uniprot/6082550', 'uniprot/4500877']	['umls/C0082908', 'sda/8']	656:667	430:443	Computer,annotator5	PA
+Drug-Disorder	False	relation	12	10	['uniprot/6082550', 'uniprot/4500877']	['umls/C0001783', 'sda/7']	656:667	485:489	Computer,annotator5	PA
+Drug-Disorder	False	relation	25	28	['uniprot/6082550', 'uniprot/4500877']	['umls/C0032663']	1751:1762	1871:1894	Computer,annotator5	PA

@@ -1,0 +1,20 @@
+Target-Disorder	True	concept	scrub typhus	58	70	annotator1,Computer,annotator2,annotator3	['umls/C0003988', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	False	concept	tsutsugamushi	139	152	Computer	['umls/C0003988']	7	Diseases & Disorders
+Target-Disorder	False	concept	tsutsugamushi	139	152	annotator3	['sda/1']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept	tsutsugamushi	299	312	Computer	['umls/C0003988']	8	Diseases & Disorders
+Target-Disorder	False	concept	tsutsugamushi	299	312	annotator3	['sda/5']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	scrub typhus	334	346	annotator1,Computer,annotator2,annotator3	['umls/C0003988', 'sda/1']	1	Diseases & Disorders
+Target-Disorder	True	concept	scrub typhus	488	500	annotator1,Computer,annotator2,annotator3	['umls/C0003988', 'sda/1']	2	Diseases & Disorders
+Target-Disorder	False	concept	tsutsugamushi	735	748	Computer	['umls/C0003988']	9	Diseases & Disorders
+Target-Disorder	False	concept	tsutsugamushi	735	748	annotator3	['sda/1']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		896	909	Computer	['umls/C0158868']	10	Diseases & Disorders
+Target-Disorder	False	concept		964	975	annotator3	['sda/7']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept	tsutsugamushi	1127	1140	Computer	['umls/C0003988']	11	Diseases & Disorders
+Target-Disorder	False	concept	tsutsugamushi	1127	1140	annotator3	['sda/1']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	scrub typhus	1235	1247	annotator1,Computer,annotator2,annotator3	['umls/C0003988', 'sda/1']	3	Diseases & Disorders
+Target-Disorder	False	concept		1327	1332	Computer	['umls/C0145980']	12	Diseases & Disorders
+Target-Disorder	True	concept	scrub typhus	1371	1383	annotator1,Computer,annotator2,annotator3	['umls/C0003988', 'sda/1']	4	Diseases & Disorders
+Target-Disorder	True	concept	scrub typhus	1545	1557	annotator1,Computer,annotator2,annotator3	['umls/C0003988', 'sda/1']	5	Diseases & Disorders
+Target-Disorder	False	concept		1589	1595	Computer	['umls/C0148867']	13	Diseases & Disorders
+Target-Disorder	False	concept	emerging infectious disease	1669	1696	annotator1,Computer	['umls/C0104530']	6	Diseases & Disorders
+Target-Disorder	False	relation	8	1	['umls/C0003988', 'sda/5']	['umls/C0003988', 'sda/1']	299:312	334:346	annotator3	PA

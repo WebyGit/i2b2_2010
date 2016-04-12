@@ -1,0 +1,21 @@
+Drug-Disorder	True	concept	anaphylaxis	31	42	annotator1,annotator4,Computer,annotator5	['umls/C0000229']	0	Diseases & Disorders
+Drug-Disorder	True	concept	angioedema	44	54	annotator1,annotator4,Computer,annotator5	['umls/C0000275']	1	Diseases & Disorders
+Drug-Disorder	True	concept	urticaria	60	69	annotator1,annotator4,Computer,annotator5	['umls/C0004586']	2	Diseases & Disorders
+Drug-Disorder	True	concept	allergic conditions	214	233	annotator4,Computer,annotator5	['umls/C0094894']	19	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	307	318	annotator1,annotator4,Computer,annotator5	['umls/C0000229']	3	Diseases & Disorders
+Drug-Disorder	True	concept	angioedema	320	330	annotator1,annotator4,Computer,annotator5	['umls/C0000275']	4	Diseases & Disorders
+Drug-Disorder	True	concept	urticaria	336	345	annotator1,annotator4,Computer,annotator5	['umls/C0004586']	5	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	504	515	annotator1,annotator4,Computer,annotator5	['umls/C0000229']	6	Diseases & Disorders
+Drug-Disorder	True	concept	angioedema	517	527	annotator1,annotator4,Computer,annotator5	['umls/C0000275']	7	Diseases & Disorders
+Drug-Disorder	True	concept	urticaria	533	542	annotator1,annotator4,Computer,annotator5	['umls/C0004586']	8	Diseases & Disorders
+Drug-Disorder	True	concept	angioedema	879	889	annotator1,annotator4,Computer,annotator5	['umls/C0000275']	9	Diseases & Disorders
+Drug-Disorder	True	concept	urticaria	907	916	annotator1,annotator4,Computer,annotator5	['umls/C0004586']	10	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	953	964	annotator1,annotator4,Computer,annotator5	['umls/C0000229']	11	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	1062	1086	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0000229']	12	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	1141	1169	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0000229']	13	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	1414	1425	annotator1,annotator4,Computer,annotator5	['umls/C0000229']	14	Diseases & Disorders
+Drug-Disorder	True	concept	angioedema	1429	1439	annotator1,annotator4,Computer,annotator5	['umls/C0000275']	15	Diseases & Disorders
+Drug-Disorder	True	concept	allergic conditions	1479	1498	annotator4,Computer,annotator5	['umls/C0094894']	20	Diseases & Disorders
+Drug-Disorder	True	concept	allergen	1662	1670	annotator1,annotator4,Computer	['uniprot/4500065', 'uniprot/6005853']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	angioedema	1800	1810	annotator1,annotator4,Computer,annotator5	['umls/C0000275']	17	Diseases & Disorders
+Drug-Disorder	True	concept	anaphylaxis	1889	1913	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0000229']	18	Diseases & Disorders

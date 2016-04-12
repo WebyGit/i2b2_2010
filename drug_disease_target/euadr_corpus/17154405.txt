@@ -1,0 +1,7 @@
+Drug-Disorder	True	concept	Asbestos	13	21	annotator1,annotator4,annotator5	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	Asbestos	46	54	annotator1,annotator4,annotator5	['sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	Asbestos	332	340	annotator1,annotator4,annotator5	['sda/1']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	asbestos	383	391	annotator1,annotator4,annotator5	['sda/1']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	diseases	640	665	annotator1,Computer	['sda/2', 'umls/C0001185']	4	Diseases & Disorders
+Drug-Disorder	False	concept	diseases	640	665	annotator4,annotator5	['sda/1']	4	Chemicals & Drugs
+Drug-Disorder	False	relation	3	4	['sda/1']	['sda/2', 'sda/1', 'umls/C0001185']	383:391	640:665	annotator1	PA

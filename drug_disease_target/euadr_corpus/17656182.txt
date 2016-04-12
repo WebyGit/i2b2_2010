@@ -1,0 +1,3 @@
+Drug-Disorder	True	concept	microbicides	12	24	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	microbicide	281	292	annotator1,annotator4,annotator5	['sda/4', 'sda/2']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	microbicides	963	975	annotator1,annotator4,annotator5	['sda/3', 'sda/1']	2	Chemicals & Drugs

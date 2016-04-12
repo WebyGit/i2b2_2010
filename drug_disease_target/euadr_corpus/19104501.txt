@@ -1,0 +1,15 @@
+Target-Disorder	True	concept	Prostate cancer	0	15	annotator1,Computer,annotator2,annotator3	['umls/C0038332']	0	Diseases & Disorders
+Target-Disorder	True	concept	prostate cancer	95	110	annotator1,Computer,annotator2,annotator3	['umls/C0038332']	1	Diseases & Disorders
+Target-Disorder	False	concept		179	186	Computer	['umls/C0001185']	5	Diseases & Disorders
+Target-Disorder	False	concept		256	263	Computer	['umls/C0001185']	6	Diseases & Disorders
+Target-Disorder	False	concept	gene fusions	282	294	Computer,annotator2	['umls/C0158866']	7	Diseases & Disorders
+Target-Disorder	False	concept	gene fusions	282	294	annotator3	['umls/C0158866']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept		299	322	annotator3	['sda/3']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	prostate tumours	326	342	annotator1,Computer,annotator2,annotator3	['umls/C0003671']	2	Diseases & Disorders
+Target-Disorder	True	concept	prostate cancer	429	444	annotator1,Computer,annotator2,annotator3	['umls/C0038332']	3	Diseases & Disorders
+Target-Disorder	False	concept		508	515	Computer	['umls/C0001185']	8	Diseases & Disorders
+Target-Disorder	False	concept		516	530	Computer	['umls/C0000139']	9	Diseases & Disorders
+Target-Disorder	True	concept	prostate cancer	632	647	annotator1,Computer,annotator2,annotator3	['umls/C0038332']	4	Diseases & Disorders
+Target-Disorder	False	concept		658	666	Computer	['umls/C0001185']	10	Diseases & Disorders
+Target-Disorder	False	relation	7	2	['umls/C0158866']	['umls/C0003671']	282:294	326:342	annotator3	PA
+Target-Disorder	False	relation	11	2	['sda/3']	['umls/C0003671']	299:322	326:342	annotator3	PA

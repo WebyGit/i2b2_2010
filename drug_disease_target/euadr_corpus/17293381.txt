@@ -1,0 +1,52 @@
+Target-Drug	True	concept	diltiazem	41	50	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	0	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	82	87	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	280	289	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	4	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	305	310	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	CYP3A	431	436	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	440	449	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	9	Chemicals & Drugs
+Target-Drug	False	concept		458	469	annotator1	['sda/1']	10	Chemicals & Drugs
+Target-Drug	True	concept	MA	471	473	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	11	Chemicals & Drugs
+Target-Drug	False	concept	N,N-didesmethyl	479	494	annotator1,annotator3	['sda/3']	12	Chemicals & Drugs
+Target-Drug	True	concept	MD	496	498	annotator1,Computer,annotator2	['uniprot/4500074']	13	Chemicals & Drugs
+Target-Drug	True	concept	MA	540	542	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	14	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	591	596	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	683	692	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	16	Chemicals & Drugs
+Target-Drug	True	concept	MD	745	747	annotator1,Computer,annotator2,annotator3	['uniprot/4500074']	17	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	767	772	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	CYP3A	790	795	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	799	808	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	21	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	888	893	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	989	998	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	23	Chemicals & Drugs
+Target-Drug	True	concept	MA	1037	1039	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	25	Chemicals & Drugs
+Target-Drug	True	concept	MA	1092	1094	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	26	Chemicals & Drugs
+Target-Drug	True	concept	MD	1099	1101	annotator1,Computer,annotator2,annotator3	['uniprot/4500074']	27	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	1132	1137	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	1246	1255	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	29	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	1280	1285	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	MA	1328	1330	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	31	Chemicals & Drugs
+Target-Drug	True	concept	MD	1335	1337	annotator1,Computer,annotator2,annotator3	['uniprot/4500074']	32	Chemicals & Drugs
+Target-Drug	True	concept	MA	1348	1350	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	33	Chemicals & Drugs
+Target-Drug	True	concept	diltiazem	1387	1396	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	34	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	1514	1519	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	MA	1536	1538	annotator1,annotator2,annotator3	['sda/2', 'sda/1', 'sda/4']	37	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	1601	1606	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	38	Genes & Molecular Sequences
+Target-Drug	True	concept	diltiazem	1670	1679	annotator1,Computer,annotator2,annotator3	['uniprot/4500278']	39	Chemicals & Drugs
+Target-Drug	True	concept	CYP3A	1723	1728	annotator1,Computer,annotator2,annotator3	['uniprot/2000842']	40	Genes & Molecular Sequences
+Target-Drug	True	relation	0	1	['uniprot/4500278']	['uniprot/2000842']	41:50	82:87	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	16	15	['uniprot/4500278']	['uniprot/2000842']	683:692	591:596	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	14	15	['sda/2', 'sda/1', 'sda/4']	['uniprot/2000842']	540:542	591:596	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	17	18	['uniprot/4500074']	['uniprot/2000842']	745:747	767:772	annotator1,Computer	PA
+Target-Drug	True	relation	23	22	['uniprot/4500278']	['uniprot/2000842']	989:998	888:893	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	25	22	['sda/2', 'sda/1', 'sda/4']	['uniprot/2000842']	1037:1039	888:893	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	27	28	['uniprot/4500074']	['uniprot/2000842']	1099:1101	1132:1137	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	26	28	['sda/2', 'sda/1', 'sda/4']	['uniprot/2000842']	1092:1094	1132:1137	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	34	30	['uniprot/4500278']	['uniprot/2000842']	1387:1396	1280:1285	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	37	38	['sda/2', 'sda/1', 'sda/4']	['uniprot/2000842']	1536:1538	1601:1606	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	4	5	['uniprot/4500278']	['uniprot/2000842']	280:289	305:310	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	9	8	['uniprot/4500278']	['uniprot/2000842']	440:449	431:436	Computer,annotator2	PA
+Target-Drug	False	relation	13	8	['uniprot/4500074']	['uniprot/2000842']	496:498	431:436	Computer,annotator2	PA
+Target-Drug	True	relation	32	30	['uniprot/4500074']	['uniprot/2000842']	1335:1337	1280:1285	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	39	38	['uniprot/4500278']	['uniprot/2000842']	1670:1679	1601:1606	Computer,annotator2	PA
+Target-Drug	False	relation	11	8	['sda/2', 'sda/1', 'sda/4']	['uniprot/2000842']	471:473	431:436	annotator2	SA
+Target-Drug	False	relation	17	18	['uniprot/4500074']	['uniprot/2000842']	745:747	767:772	annotator2,annotator3	NA
+Target-Drug	False	relation	33	30	['sda/2', 'sda/1', 'sda/4']	['uniprot/2000842']	1348:1350	1280:1285	annotator2,annotator3	PA

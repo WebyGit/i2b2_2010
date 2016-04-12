@@ -1,0 +1,49 @@
+Drug-Disorder	True	concept	glucocorticoid	22	48	annotator1,annotator4,annotator5	['sda/10', 'sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	hypertension	73	85	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	1	Diseases & Disorders
+Drug-Disorder	True	concept	rheumatoid arthritis	103	123	annotator1,annotator4,Computer,annotator5	['umls/C0000370']	2	Diseases & Disorders
+Drug-Disorder	True	concept	Rheumatoid arthritis	136	156	annotator1,annotator4,Computer,annotator5	['umls/C0000370']	3	Diseases & Disorders
+Drug-Disorder	False	concept	RA	158	160	annotator1,annotator5	['sda/2', 'sda/4']	4	Diseases & Disorders
+Drug-Disorder	True	concept	cardiovascular morbidity	188	212	annotator1,annotator4,Computer,annotator5	['umls/C0120446']	5	Diseases & Disorders
+Drug-Disorder	False	concept		217	226	annotator5	['sda/2']	38	Diseases & Disorders
+Drug-Disorder	False	concept	cardiovascular risk factors	269	296	annotator4,Computer	['umls/C0094590']	29	Diseases & Disorders
+Drug-Disorder	True	concept	Hypertension	298	310	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	6	Diseases & Disorders
+Drug-Disorder	False	concept	HT	312	314	annotator1,annotator5	['sda/3', 'sda/7']	7	Diseases & Disorders
+Drug-Disorder	False	concept	cardiovascular disease	357	379	annotator1,annotator5	['sda/4', 'sda/3']	8	Diseases & Disorders
+Drug-Disorder	False	concept	RA	404	406	annotator1,annotator5	['sda/2', 'sda/4']	9	Diseases & Disorders
+Drug-Disorder	False	concept	glucocorticoid	433	447	annotator1,annotator4	['sda/5', 'sda/1']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	GC	449	451	annotator1,annotator5	['sda/6']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	GC	538	540	annotator1,annotator5	['sda/6']	12	Chemicals & Drugs
+Drug-Disorder	False	concept	HT	566	568	annotator1,annotator5	['sda/3', 'sda/7']	13	Diseases & Disorders
+Drug-Disorder	False	concept	RA	586	588	annotator1,annotator5	['sda/2', 'sda/4']	14	Diseases & Disorders
+Drug-Disorder	False	concept	RA	624	626	annotator1,annotator5	['sda/2', 'sda/4']	15	Diseases & Disorders
+Drug-Disorder	False	concept	GC	734	736	annotator1,annotator5	['sda/6']	16	Chemicals & Drugs
+Drug-Disorder	False	concept		883	885	Computer	['uniprot/4500074']	30	Chemicals & Drugs
+Drug-Disorder	False	concept	GC	912	914	annotator1,annotator5	['sda/6']	17	Chemicals & Drugs
+Drug-Disorder	False	concept	HT	929	931	annotator1,annotator5	['sda/3', 'sda/7']	18	Diseases & Disorders
+Drug-Disorder	False	concept		961	971	Computer	['umls/C0079724']	31	Diseases & Disorders
+Drug-Disorder	False	concept	HT	991	993	annotator1,annotator5	['sda/3', 'sda/7']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1020	1022	Computer	['uniprot/4500074']	32	Chemicals & Drugs
+Drug-Disorder	False	concept		1127	1137	Computer	['umls/C0079724']	33	Diseases & Disorders
+Drug-Disorder	False	concept	HT	1166	1168	annotator1,annotator5	['sda/3', 'sda/7']	20	Diseases & Disorders
+Drug-Disorder	False	concept		1184	1186	Computer	['uniprot/4500074']	34	Chemicals & Drugs
+Drug-Disorder	False	concept	HT	1225	1227	annotator1,annotator5	['sda/3', 'sda/7']	21	Diseases & Disorders
+Drug-Disorder	False	concept	RA	1299	1301	annotator1,annotator5	['sda/2', 'sda/4']	22	Diseases & Disorders
+Drug-Disorder	False	concept		1302	1325	Computer	['umls/C0079017']	35	Diseases & Disorders
+Drug-Disorder	True	concept	GC	1381	1389	annotator1,Computer,annotator5	['sda/7', 'uniprot/4500074', 'sda/6']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	HT	1441	1443	annotator1,annotator5	['sda/3', 'sda/7']	24	Diseases & Disorders
+Drug-Disorder	False	concept	HT	1502	1504	annotator1,annotator5	['sda/3', 'sda/7']	25	Diseases & Disorders
+Drug-Disorder	False	concept		1535	1542	Computer	['umls/C0001185']	36	Diseases & Disorders
+Drug-Disorder	False	concept	RA	1642	1644	annotator1,annotator5	['sda/2', 'sda/4']	26	Diseases & Disorders
+Drug-Disorder	False	concept	GC	1662	1664	annotator1,annotator5	['sda/6']	27	Chemicals & Drugs
+Drug-Disorder	False	concept		1741	1751	Computer	['umls/C0000139']	37	Diseases & Disorders
+Drug-Disorder	False	concept	HT	1766	1768	annotator1,annotator5	['sda/3', 'sda/7']	28	Diseases & Disorders
+Drug-Disorder	True	relation	0	1	['sda/10', 'sda/1']	['umls/C0002137']	22:48	73:85	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	12	13	['sda/6']	['sda/3', 'sda/7']	538:540	566:568	annotator1,annotator5	SA
+Drug-Disorder	False	relation	17	18	['sda/6']	['sda/3', 'sda/7']	912:914	929:931	annotator1	SA
+Drug-Disorder	False	relation	23	24	['sda/7', 'uniprot/4500074', 'sda/6']	['sda/3', 'sda/7']	1381:1389	1441:1443	annotator1,annotator5	PA
+Drug-Disorder	False	relation	27	28	['sda/6']	['sda/3', 'sda/7']	1662:1664	1766:1768	annotator1,annotator5	SA
+Drug-Disorder	False	relation	0	2	['sda/10', 'sda/1']	['umls/C0000370']	22:48	103:123	annotator4,annotator5	PA
+Drug-Disorder	False	relation	34	33	['uniprot/4500074']	['umls/C0079724']	1184:1186	1127:1137	Computer	PA
+Drug-Disorder	False	relation	34	35	['uniprot/4500074']	['umls/C0079017']	1184:1186	1302:1325	Computer	PA
+Drug-Disorder	False	relation	12	14	['sda/6']	['sda/2', 'sda/4']	538:540	586:588	annotator5	PA
+Drug-Disorder	False	relation	27	26	['sda/6']	['sda/2', 'sda/4']	1662:1664	1642:1644	annotator5	PA

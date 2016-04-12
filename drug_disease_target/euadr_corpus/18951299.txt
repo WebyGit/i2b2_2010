@@ -1,0 +1,39 @@
+Target-Drug	False	concept	sphingosine-1-phosphate	12	35	annotator1,annotator3	['sda/1', 'sda/14']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingosine-1-phosphate	12	35	annotator2	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	ceramide-1-phosphate	40	60	annotator1,annotator3	['sda/10', 'sda/22']	1	Genes & Molecular Sequences
+Target-Drug	False	concept	ceramide-1-phosphate	40	60	annotator2	['sda/9']	1	Chemicals & Drugs
+Target-Drug	True	concept	calcium	64	71	annotator1,annotator2,annotator3	['sda/3', 'sda/4']	2	Chemicals & Drugs
+Target-Drug	False	concept	sphingolipids	116	129	annotator1,annotator3	['sda/4', 'sda/12']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingolipids	116	129	annotator2	['sda/5']	3	Chemicals & Drugs
+Target-Drug	False	concept	ceramide	265	273	annotator1,annotator3	['sda/5', 'sda/19']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	ceramide	265	273	annotator2	['sda/6']	4	Chemicals & Drugs
+Target-Drug	False	concept	sphingosine-1-phosphate	275	298	annotator1,annotator3	['sda/1', 'sda/14']	5	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingosine-1-phosphate	275	298	annotator2	['sda/1']	5	Chemicals & Drugs
+Target-Drug	True	concept	S1P	300	303	annotator1,Computer,annotator3	['sda/8', 'uniprot/3002808', 'sda/20']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	S1P	300	303	annotator2	['sda/8']	6	Chemicals & Drugs
+Target-Drug	False	concept	ceramide-1-phosphate	306	326	annotator1,annotator3	['sda/10', 'sda/22']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	ceramide-1-phosphate	306	326	annotator2	['sda/9']	7	Chemicals & Drugs
+Target-Drug	False	concept	C1P	328	331	annotator1,annotator3	['sda/11', 'sda/23']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	C1P	328	331	annotator2	['sda/10']	8	Chemicals & Drugs
+Target-Drug	False	concept	lyso-sphingomyelin	337	355	annotator1,annotator3	['sda/12', 'sda/24']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	lyso-sphingomyelin	337	355	annotator2	['sda/11']	9	Chemicals & Drugs
+Target-Drug	False	concept	sphingolipids	568	581	annotator1,annotator3	['sda/4', 'sda/12']	12	Genes & Molecular Sequences
+Target-Drug	False	concept	sphingolipids	568	581	annotator2	['sda/5']	12	Chemicals & Drugs
+Target-Drug	True	concept	S1P	747	750	annotator1,Computer,annotator3	['sda/8', 'uniprot/3002808', 'sda/20']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	S1P	747	750	annotator2	['sda/8']	14	Chemicals & Drugs
+Target-Drug	False	concept	C1P	755	758	annotator1,annotator3	['sda/11', 'sda/23']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	C1P	755	758	annotator2	['sda/10']	15	Chemicals & Drugs
+Target-Drug	True	concept	Ca2	774	778	annotator1,annotator2,annotator3	['sda/14', 'sda/15', 'sda/10']	16	Chemicals & Drugs
+Target-Drug	True	concept	S1P	833	836	annotator1,Computer,annotator3	['sda/8', 'uniprot/3002808', 'sda/20']	17	Genes & Molecular Sequences
+Target-Drug	False	concept	S1P	833	836	annotator2	['sda/8']	17	Chemicals & Drugs
+Target-Drug	False	concept	C1P	841	844	annotator1,annotator3	['sda/11', 'sda/23']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	C1P	841	844	annotator2	['sda/10']	18	Chemicals & Drugs
+Target-Drug	False	concept	sphingolipid-metabolizing enzymes	898	931	annotator1,annotator3	['sda/15', 'sda/11']	19	Genes & Molecular Sequences
+Target-Drug	False	relation	5	11	['sda/1', 'sda/14']	[]	275:298	430:442	annotator2	PA
+Target-Drug	False	relation	4	11	['sda/5', 'sda/6', 'sda/19']	[]	265:273	430:442	annotator2	PA
+Target-Drug	False	relation	6	11	['sda/8', 'uniprot/3002808', 'sda/20']	[]	300:303	430:442	annotator2	PA
+Target-Drug	False	relation	7	11	['sda/10', 'sda/9', 'sda/22']	[]	306:326	430:442	annotator2	PA
+Target-Drug	False	relation	8	11	['sda/11', 'sda/10', 'sda/23']	[]	328:331	430:442	annotator2	PA
+Target-Drug	False	relation	9	11	['sda/12', 'sda/11', 'sda/24']	[]	337:355	430:442	annotator2	PA
+Target-Drug	False	relation	16	14	['sda/14', 'sda/15', 'sda/10']	['sda/8', 'uniprot/3002808', 'sda/20']	774:778	747:750	annotator3	SA
+Target-Drug	False	relation	16	15	['sda/14', 'sda/15', 'sda/10']	['sda/11', 'sda/10', 'sda/23']	774:778	755:758	annotator3	SA

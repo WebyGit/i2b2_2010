@@ -1,0 +1,50 @@
+Target-Disorder	False	concept		50	53	annotator3	['sda/4']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept		66	71	Computer	['umls/C0110565']	16	Diseases & Disorders
+Target-Disorder	False	concept	Escherichia	88	99	Computer	['umls/C0096796']	17	Diseases & Disorders
+Target-Disorder	False	concept	Escherichia	88	99	annotator3	['sda/2']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	infected with Shiga toxin (Stx) producing Escherichia coli (STEC) O157	153	223	annotator1,annotator3,annotator3	['sda/7', 'sda/1', 'sda/2']	0	Diseases & Disorders
+Target-Disorder	False	concept		167	172	Computer	['umls/C0110565']	18	Diseases & Disorders
+Target-Disorder	False	concept		195	206	Computer	['umls/C0096796']	19	Diseases & Disorders
+Target-Disorder	False	concept		224	231	Computer	['umls/C0148867']	20	Diseases & Disorders
+Target-Disorder	False	concept	infection	340	349	Computer,annotator2	['umls/C0002244']	21	Diseases & Disorders
+Target-Disorder	False	concept		437	440	annotator3	['sda/4']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept		667	670	annotator3	['sda/4']	29	Genes & Molecular Sequences
+Target-Disorder	True	concept	stx2vha	678	685	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept		701	710	annotator1,Computer,Computer,annotator2,annotator2,annotator3,annotator3	['sda/3', 'uniprot/3037941', 'uniprot/3037559', 'sda/1']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept		720	732	annotator1,Computer,annotator2,annotator2,annotator3,annotator3	['sda/4', 'uniprot/3037941', 'sda/1', 'sda/2', 'sda/5']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	stx2	741	745	annotator1,Computer,annotator2,annotator3	['uniprot/3037559', 'sda/3']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept		764	776	annotator1,Computer,annotator2,annotator2,annotator3,annotator3	['sda/5', 'uniprot/3037559', 'sda/3', 'sda/2']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept		788	794	Computer	['umls/C0148867']	22	Diseases & Disorders
+Target-Disorder	True	concept	stx1	807	811	annotator1,Computer,annotator2,annotator3	['uniprot/3037941', 'sda/1']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		829	836	Computer	['umls/C0148867']	23	Diseases & Disorders
+Target-Disorder	True	concept	stx2	846	850	annotator1,Computer,annotator2,annotator3	['uniprot/3037559', 'sda/3']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	hemolytic-uremic syndrome	915	940	annotator1,Computer,annotator2,annotator3	['umls/C0001909']	8	Diseases & Disorders
+Target-Disorder	True	concept	HUS	942	945	annotator1,annotator2,annotator3	['uniprot/3020086', 'sda/11']	9	Diseases & Disorders
+Target-Disorder	False	concept	HUS	942	945	Computer	['uniprot/3020086']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	bloody diarrhea	950	965	annotator1,Computer,annotator2,annotator3	['umls/C0005729']	10	Diseases & Disorders
+Target-Disorder	True	concept	stx2vha	986	993	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept		1059	1062	annotator3	['sda/4']	30	Genes & Molecular Sequences
+Target-Disorder	False	concept		1091	1094	annotator3	['sda/4']	31	Genes & Molecular Sequences
+Target-Disorder	True	concept	STEC O157 infection	1159	1178	annotator1,Computer,annotator2,annotator3	['sda/6', 'umls/C0002244']	12	Diseases & Disorders
+Target-Disorder	True	concept	stx2	1231	1235	annotator1,Computer,annotator2,annotator3	['uniprot/3037559', 'sda/3']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept		1245	1252	Computer	['umls/C0148867']	24	Diseases & Disorders
+Target-Disorder	True	concept	stx2vha	1265	1272	annotator1,annotator2,annotator3	['sda/2', 'sda/5']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept		1282	1289	Computer	['umls/C0148867']	25	Diseases & Disorders
+Target-Disorder	False	concept		1423	1427	annotator1	['sda/8']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept		1429	1432	annotator3	['sda/4']	32	Genes & Molecular Sequences
+Target-Disorder	True	relation	7	9	['uniprot/3037559', 'sda/3']	['uniprot/3020086', 'sda/11']	846:850	942:945	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	7	8	['uniprot/3037559', 'sda/3']	['umls/C0001909']	846:850	915:940	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	7	10	['uniprot/3037559', 'sda/3']	['umls/C0005729']	846:850	950:965	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	13	12	['uniprot/3037559', 'sda/3']	['sda/6', 'umls/C0002244']	1231:1235	1159:1178	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	6	22	['uniprot/3037941', 'sda/1']	['umls/C0148867']	807:811	788:794	Computer	PA
+Target-Disorder	False	relation	7	23	['uniprot/3037559', 'sda/3']	['umls/C0148867']	846:850	829:836	Computer	PA
+Target-Disorder	False	relation	9	23	['uniprot/3020086', 'sda/11']	['umls/C0148867']	942:945	829:836	Computer	PA
+Target-Disorder	False	relation	9	8	['uniprot/3020086', 'sda/11']	['umls/C0001909']	942:945	915:940	Computer	PA
+Target-Disorder	False	relation	9	10	['uniprot/3020086', 'sda/11']	['umls/C0005729']	942:945	950:965	Computer	PA
+Target-Disorder	False	relation	13	25	['uniprot/3037559', 'sda/3']	['umls/C0148867']	1231:1235	1282:1289	Computer	PA
+Target-Disorder	False	relation	11	9	['sda/2', 'sda/5']	['uniprot/3020086', 'sda/11']	986:993	942:945	annotator2	PA
+Target-Disorder	False	relation	11	8	['sda/2', 'sda/5']	['umls/C0001909']	986:993	915:940	annotator2	PA
+Target-Disorder	False	relation	11	10	['sda/2', 'sda/5']	['umls/C0005729']	986:993	950:965	annotator2	PA
+Target-Disorder	False	relation	14	12	['sda/2', 'sda/5']	['sda/6', 'umls/C0002244']	1265:1272	1159:1178	annotator2	PA
+Target-Disorder	False	relation	28	0	['sda/4']	['sda/7', 'sda/1', 'sda/2']	437:440	153:223	annotator3	PA
+Target-Disorder	False	relation	31	12	['sda/4']	['sda/6', 'umls/C0002244']	1091:1094	1159:1178	annotator3	PA

@@ -1,0 +1,19 @@
+Target-Drug	True	concept	p38	24	27	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	ERK1/2	30	36	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3055682', 'sda/1', 'sda/2']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	PKC	41	44	annotator1,Computer,annotator2,annotator3	['uniprot/2013773']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	C5a	67	70	annotator1,Computer,annotator2,annotator3	['uniprot/3020412']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	C5a	128	131	annotator1,Computer,annotator2,annotator3	['uniprot/3020412']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	C5a	444	447	annotator1,Computer,annotator2,annotator3	['uniprot/3020412']	8	Genes & Molecular Sequences
+Target-Drug	False	concept		519	522	annotator2	['sda/3']	19	Chemicals & Drugs
+Target-Drug	True	concept	ERK1/2	593	599	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3055682', 'sda/1', 'sda/2']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	P38	611	614	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3002391', 'sda/2']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	C5a	652	655	annotator1,Computer,annotator2,annotator3	['uniprot/3020412']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	PKC	717	720	annotator1,Computer,annotator2,annotator3	['uniprot/2013773']	13	Genes & Molecular Sequences
+Target-Drug	False	concept		755	758	annotator2	['sda/3']	20	Chemicals & Drugs
+Target-Drug	True	concept	JNK	774	777	annotator1,Computer,annotator2,annotator3	['uniprot/3056760']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	ERK1/2	871	877	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3055682', 'sda/1', 'sda/2']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	p38	879	882	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3002391', 'sda/2']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	PKC	887	890	annotator1,Computer,annotator2,annotator3	['uniprot/2013773']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	C5a	904	907	annotator1,Computer,annotator2,annotator3	['uniprot/3020412']	18	Genes & Molecular Sequences
+Target-Drug	False	relation	19	8	['sda/3']	['uniprot/3020412']	519:522	444:447	annotator2	PA
+Target-Drug	False	relation	20	13	['sda/3']	['uniprot/2013773']	755:758	717:720	annotator2	PA

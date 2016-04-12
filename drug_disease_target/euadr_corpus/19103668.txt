@@ -1,0 +1,30 @@
+Target-Disorder	True	concept	mu-opioid receptor	23	41	annotator1,annotator2,annotator3	['uniprot/3037368']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	mu-opioid receptor	92	110	annotator1,annotator2,annotator3	['uniprot/3037368']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	OPRM1	112	117	annotator1,annotator2,annotator3	['uniprot/3037368']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept	responses to painful stimuli	259	287	annotator3	['sda/17']	18	Diseases & Disorders
+Target-Disorder	True	concept	OPRM1	353	358	annotator1,annotator2,annotator3	['uniprot/3037368']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	OPRM1	503	508	annotator1,annotator2,annotator3	['uniprot/3037368']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	OPRM1	629	634	annotator1,annotator2,annotator3	['uniprot/3037368']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs563649	721	729	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	6	SNP & Sequence variations
+Target-Disorder	False	concept	pain perception	759	774	annotator3	['sda/8']	19	Diseases & Disorders
+Target-Disorder	True	concept	rs563649	780	788	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	7	SNP & Sequence variations
+Target-Disorder	True	concept	internal ribosome entry site	832	860	annotator1,annotator3	['sda/1', 'sda/4']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	IRES	862	866	annotator1,annotator3	['sda/3']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	5'-UTR	875	881	annotator1,annotator3	['sda/4', 'sda/13']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	OPRM1	912	917	annotator1,annotator2,annotator3	['uniprot/3037368']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	MOR-1K	928	934	annotator1,annotator2	['sda/5', 'sda/3']	12	SNP & Sequence variations
+Target-Disorder	False	concept	MOR-1K	928	934	annotator3	['sda/2']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	rs563649	1024	1032	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	13	SNP & Sequence variations
+Target-Disorder	True	concept	OPRM1	1099	1104	annotator1,annotator2,annotator3	['uniprot/3037368']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept	OPRM1 SNPs	1223	1233	annotator1	['sda/6']	15	SNP & Sequence variations
+Target-Disorder	True	concept	OPRM1 SNPs	1223	1233	annotator2,annotator3	['uniprot/3037368']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	MOR-1K	1290	1296	annotator1,annotator2	['sda/5', 'sda/3']	16	SNP & Sequence variations
+Target-Disorder	False	concept	MOR-1K	1290	1296	annotator3	['sda/2']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept	nociceptive signaling	1309	1330	annotator3	['sda/18']	20	Diseases & Disorders
+Target-Disorder	True	concept	OPRM1	1382	1387	annotator1,annotator2,annotator3	['uniprot/3037368']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	opiate responses	1441	1457	annotator3	['sda/7']	21	Diseases & Disorders
+Target-Disorder	False	relation	3	18	['uniprot/3037368']	['sda/17']	353:358	259:287	annotator3	PA
+Target-Disorder	False	relation	5	19	['uniprot/3037368']	['sda/8']	629:634	759:774	annotator3	PA
+Target-Disorder	False	relation	6	19	['sda/2', 'sda/1']	['sda/8']	721:729	759:774	annotator3	PA
+Target-Disorder	False	relation	17	21	['uniprot/3037368']	['sda/7']	1382:1387	1441:1457	annotator3	PA
+Target-Disorder	False	relation	16	20	['sda/5', 'sda/3', 'sda/2']	['sda/18']	1290:1296	1309:1330	annotator3	PA

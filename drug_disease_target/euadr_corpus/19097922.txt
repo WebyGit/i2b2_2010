@@ -1,0 +1,33 @@
+Target-Disorder	True	concept	CYP4F2	19	25	annotator1,Computer,annotator2,annotator3	['uniprot/3081872']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	myocardial infarction	47	68	annotator1,Computer,annotator2,annotator3	['umls/C0002926']	1	Diseases & Disorders
+Target-Disorder	True	concept	CYP4F2	131	137	annotator1,Computer,annotator2,annotator3	['uniprot/3081872']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	myocardial infarction	147	168	annotator1,Computer,annotator2,annotator3	['umls/C0002926']	3	Diseases & Disorders
+Target-Disorder	True	concept	MI	170	172	annotator1,annotator2,annotator3	['sda/1', 'sda/6', 'sda/10']	4	Diseases & Disorders
+Target-Disorder	True	concept	MI	225	227	annotator1,annotator2,annotator3	['sda/1', 'sda/6', 'sda/10']	5	Diseases & Disorders
+Target-Disorder	True	concept	rs3093105	303	312	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	6	SNP & Sequence variations
+Target-Disorder	True	concept	rs3093135	314	323	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	7	SNP & Sequence variations
+Target-Disorder	True	concept	rs1558139	325	334	annotator1,annotator2,annotator3	['sda/4', 'sda/3']	8	SNP & Sequence variations
+Target-Disorder	True	concept	rs2108622	336	345	annotator1,annotator2,annotator3	['sda/6', 'sda/4', 'sda/5']	9	SNP & Sequence variations
+Target-Disorder	True	concept	rs3093200	347	356	annotator1,annotator2,annotator3	['sda/7', 'sda/5', 'sda/6']	10	SNP & Sequence variations
+Target-Disorder	False	concept	G allele	368	376	annotator1,annotator3	['sda/13', 'sda/11']	11	SNP & Sequence variations
+Target-Disorder	True	concept	rs2108622	390	399	annotator1,annotator2,annotator3	['sda/6', 'sda/4', 'sda/5']	12	SNP & Sequence variations
+Target-Disorder	False	concept	T-C-G	421	436	annotator1,annotator3	['sda/14', 'sda/7']	13	SNP & Sequence variations
+Target-Disorder	False	concept	T-C-A	485	500	annotator1,annotator3	['sda/15', 'sda/8']	14	SNP & Sequence variations
+Target-Disorder	True	concept	MI	529	531	annotator1,annotator2,annotator3	['sda/1', 'sda/6', 'sda/10']	15	Diseases & Disorders
+Target-Disorder	True	relation	0	1	['uniprot/3081872']	['umls/C0002926']	19:25	47:68	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	2	3	['uniprot/3081872']	['umls/C0002926']	131:137	147:168	annotator1,Computer,annotator2	PA
+Target-Disorder	False	relation	2	5	['uniprot/3081872']	['sda/1', 'sda/6', 'sda/10']	131:137	225:227	annotator1,annotator2	PA
+Target-Disorder	True	relation	12	15	['sda/6', 'sda/4', 'sda/5']	['sda/1', 'sda/6', 'sda/10']	390:399	529:531	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	11	15	['sda/13', 'sda/11']	['sda/1', 'sda/6', 'sda/10']	368:376	529:531	annotator1,annotator3	PA
+Target-Disorder	False	relation	13	15	['sda/14', 'sda/7']	['sda/1', 'sda/6', 'sda/10']	421:436	529:531	annotator1,annotator3	PA
+Target-Disorder	False	relation	14	15	['sda/15', 'sda/8']	['sda/1', 'sda/6', 'sda/10']	485:500	529:531	annotator1,annotator3	PA
+Target-Disorder	False	relation	6	3	['sda/2', 'sda/1']	['umls/C0002926']	303:312	147:168	annotator2	SA
+Target-Disorder	False	relation	6	5	['sda/2', 'sda/1']	['sda/1', 'sda/6', 'sda/10']	303:312	225:227	annotator2	SA
+Target-Disorder	False	relation	7	3	['sda/3', 'sda/2']	['umls/C0002926']	314:323	147:168	annotator2	SA
+Target-Disorder	False	relation	7	5	['sda/3', 'sda/2']	['sda/1', 'sda/6', 'sda/10']	314:323	225:227	annotator2	SA
+Target-Disorder	False	relation	8	3	['sda/4', 'sda/3']	['umls/C0002926']	325:334	147:168	annotator2	SA
+Target-Disorder	False	relation	8	5	['sda/4', 'sda/3']	['sda/1', 'sda/6', 'sda/10']	325:334	225:227	annotator2	SA
+Target-Disorder	False	relation	9	3	['sda/6', 'sda/4', 'sda/5']	['umls/C0002926']	336:345	147:168	annotator2	SA
+Target-Disorder	False	relation	9	5	['sda/6', 'sda/4', 'sda/5']	['sda/1', 'sda/6', 'sda/10']	336:345	225:227	annotator2	SA
+Target-Disorder	False	relation	10	3	['sda/7', 'sda/5', 'sda/6']	['umls/C0002926']	347:356	147:168	annotator2	SA
+Target-Disorder	False	relation	10	5	['sda/7', 'sda/5', 'sda/6']	['sda/1', 'sda/6', 'sda/10']	347:356	225:227	annotator2	SA

@@ -1,0 +1,25 @@
+Drug-Disorder	True	concept	Etonogestrel	0	12	annotator1,annotator4,Computer,annotator5	['uniprot/9006939', 'uniprot/4500814']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	diabetes mellitus	35	52	annotator1,Computer,annotator5	['umls/C0001136']	1	Diseases & Disorders
+Drug-Disorder	True	concept	etonogestrel	92	104	annotator1,annotator4,Computer,annotator5	['uniprot/9006939', 'uniprot/4500814']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	vascular complications	195	217	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0133432', 'umls/C0001141']	3	Diseases & Disorders
+Drug-Disorder	True	concept	insulin	249	256	annotator1,annotator4,annotator5	['uniprot/8002151', 'uniprot/8500001']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	diabetes	401	425	annotator1,Computer,annotator5	['sda/2', 'umls/C0001136']	5	Diseases & Disorders
+Drug-Disorder	False	concept	diabetes	401	425	annotator4,annotator5	['uniprot/8500001', 'uniprot/8002151']	5	Chemicals & Drugs
+Drug-Disorder	False	concept		527	536	Computer	['umls/C0158860']	12	Diseases & Disorders
+Drug-Disorder	True	concept	insulin	710	717	annotator1,annotator4,annotator5	['uniprot/8002151', 'uniprot/8500001']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		811	813	Computer	['uniprot/4500849']	13	Chemicals & Drugs
+Drug-Disorder	False	concept		1019	1021	Computer	['uniprot/4500849']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		1037	1048	annotator1	['sda/3']	8	Diseases & Disorders
+Drug-Disorder	False	concept		1097	1124	annotator5	['sda/5']	15	Diseases & Disorders
+Drug-Disorder	True	concept	Amenorrhoea	1161	1172	annotator1,annotator4,Computer,annotator5	['umls/C0000203']	9	Diseases & Disorders
+Drug-Disorder	False	concept		1188	1196	annotator5	['sda/6']	16	Diseases & Disorders
+Drug-Disorder	False	concept		1228	1236	annotator5	['sda/6']	17	Diseases & Disorders
+Drug-Disorder	False	concept		1297	1305	annotator5	['sda/6']	18	Diseases & Disorders
+Drug-Disorder	True	concept	vascular lesions	1419	1435	annotator1,annotator4,Computer,annotator5	['umls/C0140193']	10	Diseases & Disorders
+Drug-Disorder	True	concept	etonogestrel	1460	1472	annotator1,annotator4,Computer,annotator5	['uniprot/9006939', 'uniprot/4500814']	11	Chemicals & Drugs
+Drug-Disorder	True	relation	11	10	['uniprot/9006939', 'uniprot/4500814']	['umls/C0140193']	1460:1472	1419:1435	annotator1,annotator4,annotator5	NA
+Drug-Disorder	False	relation	0	1	['uniprot/9006939', 'uniprot/4500814']	['umls/C0001136']	0:12	35:52	Computer,annotator5	PA
+Drug-Disorder	False	relation	2	3	['uniprot/9006939', 'uniprot/4500814']	['sda/1', 'umls/C0133432', 'umls/C0001141']	92:104	195:217	Computer,annotator5	PA
+Drug-Disorder	False	relation	11	10	['uniprot/9006939', 'uniprot/4500814']	['umls/C0140193']	1460:1472	1419:1435	Computer	PA
+Drug-Disorder	False	relation	4	3	['uniprot/8002151', 'uniprot/8500001']	['sda/1', 'umls/C0133432', 'umls/C0001141']	249:256	195:217	annotator5	PA
+Drug-Disorder	False	relation	5	5	['sda/2', 'uniprot/8500001', 'umls/C0001136', 'uniprot/8002151']	['sda/2', 'uniprot/8500001', 'umls/C0001136', 'uniprot/8002151']	401:425	401:425	annotator5	PA

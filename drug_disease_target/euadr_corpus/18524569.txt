@@ -1,0 +1,10 @@
+Target-Disorder	False	concept		101	106	Computer	['umls/C0145980']	1	Diseases & Disorders
+Target-Disorder	False	concept		169	177	Computer	['umls/C0000161']	2	Diseases & Disorders
+Target-Disorder	True	concept	diarrhoeal diseases	329	348	annotator1,Computer,annotator2,annotator3	['umls/C0118225']	0	Diseases & Disorders
+Target-Disorder	False	concept		387	405	annotator3	['sda/2']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept		408	426	annotator3	['sda/3']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept		431	452	annotator3	['sda/4']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		476	484	Computer	['umls/C0000161']	3	Diseases & Disorders
+Target-Disorder	False	relation	4	0	['sda/2']	['umls/C0118225']	387:405	329:348	annotator3	PA
+Target-Disorder	False	relation	5	0	['sda/3']	['umls/C0118225']	408:426	329:348	annotator3	PA
+Target-Disorder	False	relation	6	0	['sda/4']	['umls/C0118225']	431:452	329:348	annotator3	PA

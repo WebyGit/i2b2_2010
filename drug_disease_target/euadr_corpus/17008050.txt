@@ -1,0 +1,23 @@
+Target-Drug	True	concept	ATM	0	3	annotator1,Computer,annotator2,annotator3	['uniprot/3030952']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC1:PP1:Rb	55	67	annotator1,Computer,annotator2,annotator2,annotator3	['sda/10', 'uniprot/4000130', 'sda/1']	1	Genes & Molecular Sequences
+Target-Drug	False	concept	PP1	61	64	Computer,annotator2	['uniprot/3038119']	23	Genes & Molecular Sequences
+Target-Drug	True	concept		285	296	annotator1,annotator2,annotator3	['sda/5', 'sda/2']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	PP1	300	303	annotator1,Computer,annotator2,annotator3	['uniprot/3038119']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	ATM	393	403	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3030952']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	PP1	491	494	annotator1,Computer,annotator2,annotator3	['uniprot/3038119']	5	Genes & Molecular Sequences
+Target-Drug	False	concept		552	572	annotator1	['sda/12']	6	Chemicals & Drugs
+Target-Drug	False	concept		660	671	annotator1	['sda/5']	7	Genes & Molecular Sequences
+Target-Drug	False	concept		776	788	annotator1	['sda/6']	8	Genes & Molecular Sequences
+Target-Drug	False	concept		828	833	annotator1	['sda/7']	9	Chemicals & Drugs
+Target-Drug	True	concept	HDAC1	893	898	annotator1,Computer,annotator2,annotator3	['uniprot/4000130']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	PP1	953	956	annotator1,Computer,annotator2,annotator3	['uniprot/3038119']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC1	962	967	annotator1,Computer,annotator2,annotator3	['uniprot/4000130']	12	Genes & Molecular Sequences
+Target-Drug	False	concept	Rb	972	974	annotator1,annotator2	['sda/8', 'sda/1']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	ATM	1025	1028	annotator1,Computer,annotator2,annotator3	['uniprot/3030952']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	PP1	1053	1056	annotator1,Computer,annotator2,annotator3	['uniprot/3038119']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC1	1079	1084	annotator1,Computer,annotator2,annotator3	['uniprot/4000130']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC1-PP1-Rb	1102	1114	annotator1,annotator2,annotator2,annotator3	['sda/9', 'sda/3', 'sda/1']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC1	1139	1144	annotator1,Computer,annotator2,annotator3	['uniprot/4000130']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	HDAC1	1195	1200	annotator1,Computer,annotator2,annotator3	['uniprot/4000130']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	ATM	1238	1241	annotator1,Computer,annotator2,annotator3	['uniprot/3030952']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	PP1	1266	1269	annotator1,Computer,annotator2,annotator3	['uniprot/3038119']	22	Genes & Molecular Sequences

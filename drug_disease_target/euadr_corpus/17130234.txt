@@ -1,0 +1,36 @@
+Target-Drug	True	concept	Caspase-3	0	9	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	protein tyrosine phosphatase PEST	72	105	annotator1,annotator2,annotator2,annotator3	['sda/3', 'sda/2']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		80	100	annotator3	['sda/2']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	protein tyrosine phosphatase PEST	156	189	annotator1,annotator2,annotator2,annotator3	['sda/3', 'sda/2']	2	Genes & Molecular Sequences
+Target-Drug	False	concept		164	184	annotator3	['sda/2']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	191	199	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	actin	238	243	annotator1,annotator2,annotator3	['sda/5']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	PTPs	308	312	annotator1,annotator2,annotator3	['sda/6', 'sda/8']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	actin	321	326	annotator1,annotator2,annotator3	['sda/5']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	373	381	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	481	489	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	570	578	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	643	651	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	743	751	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-3	880	889	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	918	926	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	Caspase-3	956	965	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	987	995	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	15	Genes & Molecular Sequences
+Target-Drug	False	concept		1003	1012	annotator1,annotator3	['sda/7', 'sda/9']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-3	1108	1117	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	1128	1136	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	paxillin	1155	1163	annotator1,Computer,annotator2,annotator3	['uniprot/3037697']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	leupaxin	1165	1173	annotator1,Computer,annotator2,annotator3	['uniprot/3003536']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	Shc	1175	1178	annotator1,annotator2,annotator3	['sda/8', 'sda/7']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	PSTPIP	1184	1190	annotator1,Computer,annotator2,annotator3	['uniprot/3037867']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	1192	1200	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	PSTPIP	1244	1250	annotator1,Computer,annotator2,annotator3	['uniprot/3037867']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	paxillin	1275	1283	annotator1,Computer,annotator2,annotator3	['uniprot/3037697']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	Shc	1285	1288	annotator1,annotator2,annotator3	['sda/8', 'sda/7']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	Csk	1290	1293	annotator1,Computer,annotator2,annotator3	['uniprot/3055818']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	caspase-3	1313	1322	annotator1,Computer,annotator2,annotator3	['uniprot/3037912']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	1361	1369	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	1413	1421	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	PTP-PEST	1508	1516	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3037691']	32	Genes & Molecular Sequences
+Target-Drug	False	concept	caspases	1602	1610	annotator1,annotator2	['sda/9', 'sda/8']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	PTPs	1628	1632	annotator1,annotator2,annotator3	['sda/6', 'sda/8']	34	Genes & Molecular Sequences

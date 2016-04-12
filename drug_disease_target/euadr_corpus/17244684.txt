@@ -1,0 +1,39 @@
+Drug-Disorder	True	concept	beclomethasone dipropionate	42	74	annotator1,annotator4,Computer,annotator5	['sda/1', 'uniprot/9006616', 'uniprot/4500781']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	prednisone	80	90	annotator4,annotator5	['uniprot/9006934', 'sda/1']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	gastrointestinal graft-versus-host disease	111	153	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0001786']	1	Diseases & Disorders
+Drug-Disorder	True	concept	beclomethasone dipropionate	185	217	annotator1,annotator4,Computer,annotator5	['sda/1', 'uniprot/9006616', 'uniprot/4500781']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	BDP	219	222	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	gastrointestinal graft-versus-host disease	238	280	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0001786']	4	Diseases & Disorders
+Drug-Disorder	True	concept	GVHD	282	286	annotator1,annotator4,Computer,annotator5	['umls/C0001786', 'sda/4', 'sda/3']	5	Diseases & Disorders
+Drug-Disorder	True	concept	anorexia	305	313	annotator1,Computer,annotator5	['umls/C0000290']	6	Diseases & Disorders
+Drug-Disorder	True	concept	vomiting	315	323	annotator1,Computer,annotator5	['umls/C0004689']	7	Diseases & Disorders
+Drug-Disorder	True	concept	diarrhea	329	337	annotator1,Computer,annotator5	['umls/C0001152']	8	Diseases & Disorders
+Drug-Disorder	True	concept	prednisone	367	377	annotator1,annotator4,Computer,annotator5	['uniprot/4500811', 'uniprot/9006934', 'sda/1']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	BDP	406	409	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	prednisone	484	494	annotator1,annotator4,Computer,annotator5	['uniprot/4500811', 'uniprot/9006934', 'sda/1']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	GVHD	585	589	annotator4,annotator5	['sda/4', 'sda/3']	21	Diseases & Disorders
+Drug-Disorder	True	concept	BDP	628	631	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	prednisone	801	811	annotator1,annotator4,Computer,annotator5	['uniprot/4500811', 'uniprot/9006934', 'sda/1']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	GVHD	847	851	annotator4,annotator5	['sda/4', 'sda/3']	22	Diseases & Disorders
+Drug-Disorder	True	concept	BDP	1018	1021	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		1100	1109	annotator5	['sda/4']	23	Diseases & Disorders
+Drug-Disorder	False	concept		1191	1200	annotator5	['sda/4']	24	Diseases & Disorders
+Drug-Disorder	True	concept	BDP	1254	1257	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	BDP	1375	1378	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	relapses GVHD	1388	1421	annotator1,annotator4,Computer,Computer,annotator5	['sda/13', 'sda/4', 'umls/C0026969', 'umls/C0001786', 'sda/3']	17	Diseases & Disorders
+Drug-Disorder	True	concept	prednisone	1444	1454	annotator1,annotator4,Computer,annotator5	['uniprot/4500811', 'uniprot/9006934', 'sda/1']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	BDP	1528	1531	annotator1,annotator4,annotator4,Computer,annotator5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	19	Chemicals & Drugs
+Drug-Disorder	False	relation	3	5	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['umls/C0001786', 'sda/4', 'sda/3']	219:222	282:286	annotator1	PA
+Drug-Disorder	False	relation	3	4	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['sda/3', 'umls/C0001786']	219:222	238:280	annotator1,annotator5	SA
+Drug-Disorder	True	relation	2	5	['sda/1', 'uniprot/9006616', 'uniprot/4500781']	['umls/C0001786', 'sda/4', 'sda/3']	185:217	282:286	annotator1,Computer,annotator5	SA
+Drug-Disorder	True	relation	19	17	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['sda/13', 'sda/4', 'umls/C0026969', 'umls/C0001786', 'sda/3']	1528:1531	1388:1421	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	12	21	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['sda/4', 'sda/3']	628:631	585:589	annotator4,annotator5	PA
+Drug-Disorder	False	relation	13	22	['uniprot/4500811', 'uniprot/9006934', 'sda/1']	['sda/4', 'sda/3']	801:811	847:851	annotator4,annotator5	PA
+Drug-Disorder	True	relation	18	17	['uniprot/4500811', 'uniprot/9006934', 'sda/1']	['sda/13', 'sda/4', 'umls/C0026969', 'umls/C0001786', 'sda/3']	1444:1454	1388:1421	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	0	1	['sda/1', 'uniprot/9006616', 'uniprot/4500781']	['sda/3', 'umls/C0001786']	42:74	111:153	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	6	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['umls/C0000290']	219:222	305:313	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	7	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['umls/C0004689']	219:222	315:323	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	8	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['umls/C0001152']	219:222	329:337	Computer,annotator5	PA
+Drug-Disorder	False	relation	20	1	['uniprot/9006934', 'sda/1']	['sda/3', 'umls/C0001786']	80:90	111:153	annotator5	PA
+Drug-Disorder	False	relation	14	23	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['sda/4']	1018:1021	1100:1109	annotator5	PA
+Drug-Disorder	False	relation	15	24	['uniprot/4500781', 'uniprot/9006616', 'uniprot/8507273']	['sda/4']	1254:1257	1191:1200	annotator5	PA

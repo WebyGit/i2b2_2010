@@ -1,0 +1,23 @@
+Target-Disorder	True	concept	breast cancer metastasis	48	72	annotator1,Computer,Computer,annotator2,annotator3	['sda/9', 'umls/C0000571', 'umls/C0002987', 'sda/2', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	True	concept	Breast cancer metastasis	141	165	annotator1,Computer,Computer,annotator2,annotator3	['sda/9', 'umls/C0000571', 'umls/C0002987', 'sda/2', 'sda/1']	1	Diseases & Disorders
+Target-Disorder	False	concept		219	228	Computer	['umls/C0158858']	18	Diseases & Disorders
+Target-Disorder	False	concept		307	314	annotator1	['sda/2']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept	metastasis	343	353	annotator1,Computer	['sda/5', 'umls/C0002987']	3	Diseases & Disorders
+Target-Disorder	False	concept		390	409	Computer	['umls/C0105413']	19	Diseases & Disorders
+Target-Disorder	True	concept	breast cancer metastasis	453	477	annotator1,Computer,Computer,annotator2,annotator3	['sda/9', 'umls/C0000571', 'umls/C0002987', 'sda/2', 'sda/1']	4	Diseases & Disorders
+Target-Disorder	False	concept	metastasis	748	758	annotator1,Computer	['sda/5', 'umls/C0002987']	5	Diseases & Disorders
+Target-Disorder	True	concept	metastasis to lymph nodes	930	955	annotator1,Computer,annotator2	['sda/7', 'umls/C0081885']	6	Diseases & Disorders
+Target-Disorder	True	concept	breast adenocarcinoma	1008	1029	annotator1,Computer,annotator2,annotator3	['umls/C0099572']	7	Diseases & Disorders
+Target-Disorder	False	concept	metastasis	1126	1136	annotator1,Computer	['sda/5', 'umls/C0002987']	8	Diseases & Disorders
+Target-Disorder	False	concept		1210	1220	Computer	['umls/C0158853']	20	Diseases & Disorders
+Target-Disorder	False	concept		1497	1507	Computer	['umls/C0158853']	21	Diseases & Disorders
+Target-Disorder	False	concept		1517	1537	Computer	['umls/C0002987']	22	Diseases & Disorders
+Target-Disorder	True	concept	CDH1	1721	1725	annotator1,Computer,annotator2,annotator3	['uniprot/3009444']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	CST6	1727	1731	annotator1,Computer,annotator2,annotator3	['uniprot/3000079']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	EGFR	1733	1737	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	SNAI2	1739	1744	annotator1,Computer,annotator2,annotator3	['uniprot/4001200']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	ZEB2	1749	1753	annotator1,Computer,annotator2,annotator3	['uniprot/4001312']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	cancer	1864	1870	annotator1,Computer	['umls/C0000617']	14	Diseases & Disorders
+Target-Disorder	True	concept	breast cancer metastasis	2184	2208	annotator1,Computer,Computer,annotator2,annotator3	['sda/9', 'umls/C0000571', 'umls/C0081885', 'sda/3', 'sda/1']	15	Diseases & Disorders
+Target-Disorder	False	concept	metastasis	2290	2300	annotator1,Computer	['sda/5', 'umls/C0002987']	16	Diseases & Disorders
+Target-Disorder	False	concept	metastasis	2407	2417	annotator1,Computer	['sda/5', 'umls/C0002987']	17	Diseases & Disorders

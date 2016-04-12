@@ -1,0 +1,59 @@
+Drug-Disorder	True	concept	Posaconazole	0	12	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	triazole	17	30	annotator1,annotator5	['sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	posaconazole	125	137	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	posaconazole	713	725	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	Posaconazole	757	769	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	triazole	776	804	annotator1,annotator5	['sda/2', 'sda/1']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	posaconazole	864	876	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	Posaconazole	923	935	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	fungal infections	992	1018	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0002902']	8	Diseases & Disorders
+Drug-Disorder	True	concept	aspergillosis	1054	1067	annotator1,annotator4,Computer,annotator5	['umls/C0000387']	9	Diseases & Disorders
+Drug-Disorder	True	concept	fluconazole	1197	1208	annotator1,annotator4,Computer,annotator5	['uniprot/8565281', 'uniprot/4500848']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	posaconazole	1241	1253	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	fungal infections	1262	1288	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0002902']	12	Diseases & Disorders
+Drug-Disorder	True	concept	aspergillosis	1315	1328	annotator1,annotator4,Computer,annotator5	['umls/C0000387']	13	Diseases & Disorders
+Drug-Disorder	True	concept	fluconazole	1377	1388	annotator1,annotator4,Computer,annotator5	['uniprot/8565281', 'uniprot/4500848']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	itraconazole	1393	1405	annotator1,annotator4,Computer,annotator5	['uniprot/9010653', 'uniprot/4500909']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	Posaconazole	1431	1443	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	fluconazole	1462	1473	annotator1,annotator4,Computer,annotator5	['uniprot/8565281', 'uniprot/4500848']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	oropharyngeal candidiasis	1491	1516	annotator1,annotator4,Computer,annotator5	['umls/C0105478']	18	Diseases & Disorders
+Drug-Disorder	True	concept	posaconazole	1673	1685	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	zygomycosis	1746	1757	annotator1,annotator4,Computer,annotator5	['umls/C0004748']	20	Diseases & Disorders
+Drug-Disorder	True	concept	fusariosis	1759	1769	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/4']	21	Diseases & Disorders
+Drug-Disorder	True	concept	cryptococcal meningitis	1771	1794	annotator1,annotator4,Computer,annotator5	['umls/C0004915']	22	Diseases & Disorders
+Drug-Disorder	True	concept	coccidioidomycosis	1796	1814	annotator1,annotator4,Computer,annotator5	['umls/C0000885']	23	Diseases & Disorders
+Drug-Disorder	True	concept	histoplasmosis	1820	1834	annotator1,annotator4,Computer,annotator5	['umls/C0002038']	24	Diseases & Disorders
+Drug-Disorder	True	concept	adverse effects	1968	1983	annotator1,annotator4,Computer,annotator5	['umls/C0105312']	25	Diseases & Disorders
+Drug-Disorder	True	concept	posaconazole	2011	2023	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	headache	2032	2040	annotator1,annotator4,Computer,annotator5	['umls/C0001839']	27	Diseases & Disorders
+Drug-Disorder	True	concept	nausea	2049	2055	annotator1,annotator4,Computer,annotator5	['umls/C0002969']	28	Diseases & Disorders
+Drug-Disorder	True	concept	vomiting	2057	2065	annotator1,annotator4,Computer,annotator5	['umls/C0004689']	29	Diseases & Disorders
+Drug-Disorder	True	concept	diarrhea	2071	2079	annotator1,annotator4,Computer,annotator5	['umls/C0001152']	30	Diseases & Disorders
+Drug-Disorder	True	concept	Posaconazole	2094	2106	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	31	Chemicals & Drugs
+Drug-Disorder	False	concept		2162	2172	annotator5	['sda/8']	35	Chemicals & Drugs
+Drug-Disorder	True	concept	posaconazole	2260	2272	annotator1,annotator4,Computer,annotator5	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	32	Chemicals & Drugs
+Drug-Disorder	True	concept	fungal infection	2346	2371	annotator1,annotator4,Computer,annotator5	['sda/5', 'umls/C0002902']	33	Diseases & Disorders
+Drug-Disorder	True	concept	resistant infections	2409	2429	annotator1,Computer,annotator5	['umls/C0112429']	34	Diseases & Disorders
+Drug-Disorder	True	relation	7	9	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0000387']	923:935	1054:1067	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	7	8	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['sda/4', 'umls/C0002902']	923:935	992:1018	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	11	13	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0000387']	1241:1253	1315:1328	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	11	12	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['sda/4', 'umls/C0002902']	1241:1253	1262:1288	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	16	18	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0105478']	1431:1443	1491:1516	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	17	18	['uniprot/8565281', 'uniprot/4500848']	['umls/C0105478']	1462:1473	1491:1516	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	26	27	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0001839']	2011:2023	2032:2040	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	26	28	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0002969']	2011:2023	2049:2055	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	26	29	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0004689']	2011:2023	2057:2065	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	26	30	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0001152']	2011:2023	2071:2079	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	32	34	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0112429']	2260:2272	2409:2429	annotator1,Computer,annotator5	SA
+Drug-Disorder	True	relation	32	33	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['sda/5', 'umls/C0002902']	2260:2272	2346:2371	annotator1,annotator4,Computer,annotator5	SA
+Drug-Disorder	True	relation	10	8	['uniprot/8565281', 'uniprot/4500848']	['sda/4', 'umls/C0002902']	1197:1208	992:1018	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	10	9	['uniprot/8565281', 'uniprot/4500848']	['umls/C0000387']	1197:1208	1054:1067	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	14	12	['uniprot/8565281', 'uniprot/4500848']	['sda/4', 'umls/C0002902']	1377:1388	1262:1288	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	14	13	['uniprot/8565281', 'uniprot/4500848']	['umls/C0000387']	1377:1388	1315:1328	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	15	12	['uniprot/9010653', 'uniprot/4500909']	['sda/4', 'umls/C0002902']	1393:1405	1262:1288	annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	15	13	['uniprot/9010653', 'uniprot/4500909']	['umls/C0000387']	1393:1405	1315:1328	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	19	20	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0004748']	1673:1685	1746:1757	annotator4,Computer	SA
+Drug-Disorder	False	relation	19	22	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0004915']	1673:1685	1771:1794	annotator4,Computer	SA
+Drug-Disorder	False	relation	19	23	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0000885']	1673:1685	1796:1814	annotator4,Computer	SA
+Drug-Disorder	False	relation	19	24	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['umls/C0002038']	1673:1685	1820:1834	annotator4,Computer	SA
+Drug-Disorder	False	relation	19	21	['uniprot/6331627', 'uniprot/4500157', 'sda/3']	['sda/3', 'sda/1', 'sda/4']	1673:1685	1759:1769	annotator4	SA

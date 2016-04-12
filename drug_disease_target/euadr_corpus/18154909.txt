@@ -1,0 +1,26 @@
+Drug-Disorder	False	concept	Folate	0	6	Computer,annotator5	['uniprot/4500964']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	attention disorders	52	71	annotator1,annotator4,Computer,annotator5	['umls/C0079468']	0	Diseases & Disorders
+Drug-Disorder	True	concept	childhood leukemia	75	93	annotator1,annotator4,Computer,annotator5	['umls/C0123880']	1	Diseases & Disorders
+Drug-Disorder	True	concept	attention-deficit/hyperactivity disorder	261	301	annotator1,annotator4,Computer,annotator5	['umls/C0111226']	3	Diseases & Disorders
+Drug-Disorder	True	concept	ADHD	303	307	annotator1,annotator4,Computer,annotator5	['umls/C0111226']	4	Diseases & Disorders
+Drug-Disorder	True	concept	acute lymphoblastic leukemia	315	343	annotator1,annotator4,Computer,annotator5	['umls/C0002507']	5	Diseases & Disorders
+Drug-Disorder	False	concept	ALL	345	348	annotator1,annotator5	['sda/1']	6	Diseases & Disorders
+Drug-Disorder	True	concept	childhood	400	409	annotator1,Computer,annotator5	['umls/C0002508']	7	Diseases & Disorders
+Drug-Disorder	False	concept	ALL	410	413	annotator1,annotator5	['sda/1']	8	Diseases & Disorders
+Drug-Disorder	True	concept	ADHD	478	482	annotator1,annotator4,Computer,annotator5	['umls/C0111226']	9	Diseases & Disorders
+Drug-Disorder	False	concept		588	594	Computer	['uniprot/4500319']	18	Chemicals & Drugs
+Drug-Disorder	False	concept		665	673	Computer	['umls/C0148591']	19	Diseases & Disorders
+Drug-Disorder	True	concept	ADHD	677	681	annotator1,annotator4,Computer,annotator5	['umls/C0111226']	11	Diseases & Disorders
+Drug-Disorder	False	concept	folate	724	730	Computer,annotator5	['uniprot/4500964']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	ADHD	785	789	annotator1,annotator4,Computer,annotator5	['umls/C0111226']	12	Diseases & Disorders
+Drug-Disorder	False	concept		869	877	Computer	['umls/C0148591']	21	Diseases & Disorders
+Drug-Disorder	False	concept		1032	1047	annotator5	['sda/2']	23	Diseases & Disorders
+Drug-Disorder	False	concept		1155	1163	Computer	['umls/C0148591']	22	Diseases & Disorders
+Drug-Disorder	True	concept	ADHD	1167	1171	annotator1,annotator4,Computer,annotator5	['umls/C0111226']	14	Diseases & Disorders
+Drug-Disorder	True	concept	childhood	1188	1197	annotator1,Computer,annotator5	['umls/C0002508']	15	Diseases & Disorders
+Drug-Disorder	False	concept	ALL	1198	1201	annotator1,annotator5	['sda/1']	16	Diseases & Disorders
+Drug-Disorder	False	relation	17	0	['uniprot/4500964']	['umls/C0079468']	0:6	52:71	Computer,annotator5	PA
+Drug-Disorder	False	relation	17	1	['uniprot/4500964']	['umls/C0123880']	0:6	75:93	Computer,annotator5	PA
+Drug-Disorder	False	relation	18	11	['uniprot/4500319']	['umls/C0111226']	588:594	677:681	Computer	PA
+Drug-Disorder	False	relation	18	19	['uniprot/4500319']	['umls/C0148591']	588:594	665:673	Computer	PA
+Drug-Disorder	False	relation	20	12	['uniprot/4500964']	['umls/C0111226']	724:730	785:789	Computer,annotator5	PA

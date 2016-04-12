@@ -1,0 +1,9 @@
+Drug-Disorder	True	concept	tigecycline	12	23	annotator1,annotator4,Computer,annotator5	['uniprot/6335926', 'sda/2', 'uniprot/4500177']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	glycylcycline	96	109	annotator1,annotator5	['sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	tigecycline	111	122	annotator1,annotator4,Computer,annotator5	['uniprot/6335926', 'sda/2', 'uniprot/4500177']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	tetracycline	174	186	annotator1,annotator4,Computer,annotator5	['uniprot/6000710', 'sda/1', 'uniprot/4500849']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	tigecycline	209	220	annotator4,annotator5	['sda/2']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	intra-abdominal infections	460	498	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0108606']	4	Diseases & Disorders
+Drug-Disorder	False	concept		500	516	annotator1	['sda/1']	5	Diseases & Disorders
+Drug-Disorder	True	concept	skin structure infections	521	546	annotator1,annotator4,Computer,annotator5	['sda/4', 'sda/2', 'umls/C0002244', 'sda/7']	6	Diseases & Disorders
+Drug-Disorder	True	concept	community acquired pneumonia	551	579	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0082143', 'sda/10']	7	Diseases & Disorders

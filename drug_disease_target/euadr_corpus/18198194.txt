@@ -1,0 +1,19 @@
+Target-Drug	True	concept	cortactin	39	48	annotator1,Computer,annotator2,annotator3	['uniprot/3003834']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	ECM	244	247	annotator1	['uniprot/4501081']	2	Chemicals & Drugs
+Target-Drug	False	concept	ECM	244	247	Computer	['uniprot/3049134']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	cortactin	401	410	annotator1,Computer,annotator2,annotator3	['uniprot/3003834']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	actin	451	456	annotator1,annotator2	['sda/4', 'sda/1']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	cortactin	504	513	annotator1,Computer,annotator2,annotator3	['uniprot/3003834']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	cortactin N-terminal acidic	666	693	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/3003834', 'sda/9']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	SH3	698	709	annotator1,annotator3	['sda/6', 'sda/11']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	Arp2/3	723	729	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/3004181', 'sda/2', 'sda/13']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	N-WASP	742	748	annotator1,Computer,annotator2,annotator3	['uniprot/3074515']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	cortactin phosphorylation mutants	908	941	annotator1,annotator3	['sda/10', 'sda/8']	10	SNP & Sequence variations
+Target-Drug	False	concept	cortactin phosphorylation mutants	908	941	Computer,annotator2	['uniprot/3003834']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	cortactin	1031	1040	annotator1,Computer,annotator2,annotator3	['uniprot/3003834']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	Src-family kinases	1060	1078	annotator1,annotator2,annotator3	['sda/8', 'uniprot/3021120', 'sda/2']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	Erk1	1080	1084	annotator1,Computer,annotator2,annotator3	['uniprot/3055682']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	Erk2	1085	1089	annotator1,Computer,annotator2,annotator3	['uniprot/3037670']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	PAK	1094	1097	annotator1,annotator2,annotator3	['sda/9', 'sda/3']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	cortactin	1204	1213	annotator1,Computer,annotator2,annotator3	['uniprot/3003834']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	cortactin	1441	1450	annotator1,Computer,annotator2,annotator3	['uniprot/3003834']	17	Genes & Molecular Sequences

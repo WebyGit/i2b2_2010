@@ -1,0 +1,34 @@
+Drug-Disorder	True	concept	potash	61	67	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/9']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	diesel exhaust	69	83	annotator1,annotator4,annotator5	['sda/4', 'sda/2', 'sda/8']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	diesel exhaust	69	83	Computer	['umls/C0038641']	1	Diseases & Disorders
+Drug-Disorder	True	concept	nitrogen oxides	88	103	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/10']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	salt	169	173	annotator4	['uniprot/9000699']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	salt	236	240	annotator4	['uniprot/9000699']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	chest symptoms	283	297	annotator1,Computer,annotator5	['sda/8', 'umls/C0148591', 'sda/1']	5	Diseases & Disorders
+Drug-Disorder	False	concept	decreased lung function	312	335	annotator1,Computer	['umls/C0012418']	6	Diseases & Disorders
+Drug-Disorder	False	concept	salt	351	355	annotator4	['uniprot/9000699']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	nitrogen monoxide	474	491	annotator1,annotator4,Computer,annotator5	['uniprot/4500735', 'uniprot/9001855']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	NO	493	495	annotator1,annotator4,annotator5	['sda/9', 'uniprot/9001855', 'sda/5']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	nitrogen dioxide	501	517	annotator1,annotator5	['sda/10', 'sda/3']	10	Chemicals & Drugs
+Drug-Disorder	True	concept		519	524	annotator1,annotator4,annotator5	['sda/11', 'uniprot/9001855', 'sda/5']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	salt dust	843	852	annotator1,annotator4,annotator5	['sda/12', 'uniprot/9000699', 'sda/7']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	diesel exhaust	854	868	annotator1,annotator4,annotator5	['sda/4', 'sda/2', 'sda/8']	13	Chemicals & Drugs
+Drug-Disorder	False	concept	diesel exhaust	854	868	Computer	['umls/C0038641']	13	Diseases & Disorders
+Drug-Disorder	True	concept		870	875	annotator1,annotator4,annotator5	['sda/11', 'uniprot/9001855', 'sda/5']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	NO	880	882	annotator1,annotator4,annotator5	['sda/9', 'uniprot/9001855', 'sda/5']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		971	981	Computer	['umls/C0079724']	24	Diseases & Disorders
+Drug-Disorder	False	concept	inhalable dust	1442	1456	annotator1,Computer	['sda/13', 'uniprot/4500508']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	inhalable dust	1442	1456	annotator5	['sda/11']	16	Diseases & Disorders
+Drug-Disorder	False	concept	respirable dust	1474	1489	annotator1,annotator5	['sda/14', 'sda/12']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	diesel exhaust	1509	1523	annotator1,annotator4,annotator5	['sda/4', 'sda/2', 'sda/8']	18	Chemicals & Drugs
+Drug-Disorder	False	concept	diesel exhaust	1509	1523	Computer	['umls/C0038641']	18	Diseases & Disorders
+Drug-Disorder	True	concept		1537	1542	annotator1,annotator4,annotator5	['sda/11', 'uniprot/9001855', 'sda/5']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	NO	1559	1561	annotator1,annotator4,annotator5	['sda/9', 'uniprot/9001855', 'sda/5']	20	Chemicals & Drugs
+Drug-Disorder	False	concept		1598	1606	Computer	['umls/C0148591']	25	Diseases & Disorders
+Drug-Disorder	True	concept	chronic bronchitis	1610	1628	annotator1,annotator4,Computer,annotator5	['umls/C0000842']	21	Diseases & Disorders
+Drug-Disorder	True	concept	lung function disorders	1732	1755	annotator1,Computer,annotator5	['sda/15', 'umls/C0001185', 'sda/13']	22	Diseases & Disorders
+Drug-Disorder	False	concept	salt	1759	1763	annotator4	['uniprot/9000699']	23	Chemicals & Drugs
+Drug-Disorder	False	relation	16	18	['sda/13', 'uniprot/4500508', 'sda/11']	['sda/4', 'sda/2', 'umls/C0038641', 'sda/8']	1442:1456	1509:1523	Computer	PA
+Drug-Disorder	False	relation	20	16	['sda/9', 'uniprot/9001855', 'sda/5']	['sda/13', 'uniprot/4500508', 'sda/11']	1559:1561	1442:1456	annotator5	PA
+Drug-Disorder	False	relation	18	16	['sda/4', 'sda/2', 'umls/C0038641', 'sda/8']	['sda/13', 'uniprot/4500508', 'sda/11']	1509:1523	1442:1456	annotator5	PA
+Drug-Disorder	False	relation	17	16	['sda/14', 'sda/12']	['sda/13', 'uniprot/4500508', 'sda/11']	1474:1489	1442:1456	annotator5	PA

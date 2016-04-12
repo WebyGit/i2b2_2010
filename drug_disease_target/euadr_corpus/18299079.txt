@@ -1,0 +1,17 @@
+Drug-Disorder	True	concept	antibiotics	13	24	annotator1,annotator4,annotator5	['sda/11', 'sda/1', 'sda/5']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	antibiotics	159	170	annotator1,annotator4,annotator5	['sda/11', 'sda/1', 'sda/5']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	endophthalmitis	190	205	annotator1,annotator4,Computer,annotator5	['umls/C0001386']	2	Diseases & Disorders
+Drug-Disorder	True	concept	endophthalmitis	579	594	annotator1,annotator4,Computer,annotator5	['umls/C0001386']	3	Diseases & Disorders
+Drug-Disorder	True	concept	absence	603	610	annotator1,annotator4,Computer,annotator5	['umls/C0158184']	4	Diseases & Disorders
+Drug-Disorder	True	concept	endophthalmitis	823	838	annotator1,annotator4,Computer,annotator5	['umls/C0001386']	5	Diseases & Disorders
+Drug-Disorder	True	concept	antibiotics	898	909	annotator1,annotator4,annotator5	['sda/11', 'sda/1', 'sda/5']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	antibiotics	998	1009	annotator1,annotator4,annotator5	['sda/11', 'sda/1', 'sda/5']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	wound	1078	1083	annotator1,Computer	['umls/C0001266']	8	Diseases & Disorders
+Drug-Disorder	False	concept	intracameral antibiotic	1122	1155	annotator1,annotator5	['sda/7', 'sda/3']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	cataract	1356	1364	annotator1,annotator5	['sda/8', 'sda/4']	10	Diseases & Disorders
+Drug-Disorder	True	concept	endophthalmitis	1417	1432	annotator1,annotator4,Computer,annotator5	['umls/C0001386']	11	Diseases & Disorders
+Drug-Disorder	True	concept	antibiotics	1459	1470	annotator1,annotator4,annotator5	['sda/11', 'sda/1', 'sda/5']	12	Chemicals & Drugs
+Drug-Disorder	False	relation	1	2	['sda/11', 'sda/1', 'sda/5']	['umls/C0001386']	159:170	190:205	annotator1,annotator5	SA
+Drug-Disorder	False	relation	7	8	['sda/11', 'sda/1', 'sda/5']	['umls/C0001266']	998:1009	1078:1083	annotator1	PA
+Drug-Disorder	False	relation	9	10	['sda/7', 'sda/3']	['sda/8', 'sda/4']	1122:1155	1356:1364	annotator1	SA
+Drug-Disorder	True	relation	12	11	['sda/11', 'sda/1', 'sda/5']	['umls/C0001386']	1459:1470	1417:1432	annotator1,annotator4,annotator5	PA

@@ -1,0 +1,33 @@
+Drug-Disorder	True	concept	Keratoacanthoma	0	15	annotator1,annotator4,Computer,annotator5	['umls/C0002363', 'sda/3']	0	Diseases & Disorders
+Drug-Disorder	True	concept	red dye tattoo	37	56	annotator1,annotator4,annotator5	['sda/1']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	red dye tattoo	37	56	Computer	['umls/C0010214']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Keratoacanthoma	58	73	annotator1,annotator4,Computer,annotator5	['umls/C0002363', 'sda/3']	2	Diseases & Disorders
+Drug-Disorder	False	concept	KA	75	77	annotator1,annotator5	['sda/2', 'sda/3']	3	Diseases & Disorders
+Drug-Disorder	True	concept	keratinizing squamous cell neoplasm	91	126	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0009957', 'sda/2']	4	Diseases & Disorders
+Drug-Disorder	False	concept	KA	307	309	annotator1,annotator5	['sda/2', 'sda/3']	5	Diseases & Disorders
+Drug-Disorder	False	concept	tattoo	321	327	annotator1	['umls/C0010214']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	tattoo	321	327	Computer	['umls/C0010214']	6	Diseases & Disorders
+Drug-Disorder	False	concept	nodule	440	446	annotator4,Computer	['umls/C0003079']	24	Diseases & Disorders
+Drug-Disorder	False	concept	tattoo	463	483	annotator1	['sda/10']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	tattoo	463	483	Computer	['umls/C0010214']	7	Diseases & Disorders
+Drug-Disorder	True	concept	epithelial proliferation	565	589	annotator1,annotator4,Computer	['umls/C0029953']	8	Diseases & Disorders
+Drug-Disorder	True	concept	hyperkeratosis	591	605	annotator1,annotator4,Computer	['umls/C0104436']	9	Diseases & Disorders
+Drug-Disorder	True	concept	parakeratosis	607	620	annotator1,annotator4,Computer	['umls/C0003350']	10	Diseases & Disorders
+Drug-Disorder	False	concept		625	644	annotator1	['sda/5']	11	Diseases & Disorders
+Drug-Disorder	False	concept		744	778	annotator1	['sda/6']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	papillomatosis	798	812	annotator1,annotator4,Computer,annotator5	['umls/C0009791']	13	Diseases & Disorders
+Drug-Disorder	True	concept	viral wart	861	871	annotator4,Computer,annotator5	['umls/C0004700']	25	Diseases & Disorders
+Drug-Disorder	True	concept	absence	873	880	annotator1,annotator4,Computer,annotator5	['umls/C0158184']	14	Diseases & Disorders
+Drug-Disorder	False	concept	fungal	922	928	annotator1,annotator5	['sda/7', 'sda/4']	15	Diseases & Disorders
+Drug-Disorder	True	concept	mycobacterial infection	932	955	annotator1,annotator4,Computer,annotator5	['umls/C0002898']	16	Diseases & Disorders
+Drug-Disorder	False	concept		968	986	annotator1	['sda/8']	17	Diseases & Disorders
+Drug-Disorder	True	concept	frank abnormalities	991	1024	annotator1,annotator4,annotator4,Computer,Computer	['sda/9', 'umls/C0004712', 'umls/C0000013']	18	Diseases & Disorders
+Drug-Disorder	True	concept	squamous cell carcinoma	1042	1065	annotator1,annotator4,Computer,annotator5	['umls/C0000664']	19	Diseases & Disorders
+Drug-Disorder	False	concept	KA	1067	1069	annotator1,annotator5	['sda/2', 'sda/3']	20	Diseases & Disorders
+Drug-Disorder	True	concept	complications	1114	1127	annotator4,Computer,annotator5	['umls/C0000923', 'sda/8']	26	Diseases & Disorders
+Drug-Disorder	False	concept	tattooing	1139	1148	annotator1	['umls/C0010214']	21	Chemicals & Drugs
+Drug-Disorder	False	concept	tattooing	1139	1148	Computer	['umls/C0010214']	21	Diseases & Disorders
+Drug-Disorder	True	concept	pseudoepitheliomatous hyperplasia	1213	1246	annotator1,annotator4,Computer,annotator5	['umls/C0029873']	22	Diseases & Disorders
+Drug-Disorder	True	concept	squamous cell carcinoma	1251	1274	annotator1,annotator4,Computer,annotator5	['umls/C0000664']	23	Diseases & Disorders
+Drug-Disorder	True	relation	1	0	['sda/1', 'umls/C0010214']	['umls/C0002363', 'sda/3']	37:56	0:15	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	21	20	['umls/C0010214']	['sda/2', 'sda/3']	1139:1148	1067:1069	annotator1	PA

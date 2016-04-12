@@ -1,0 +1,54 @@
+Drug-Disorder	False	concept	R-CHOP	25	31	annotator1,annotator5	['sda/4', 'sda/2']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	rituximab	48	57	annotator1,annotator4,Computer,annotator5	['uniprot/4500161']	1	Chemicals & Drugs
+Drug-Disorder	False	concept		62	74	annotator1	['sda/8']	2	Diseases & Disorders
+Drug-Disorder	True	concept	non-Hodgkin lymphoma	79	110	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0002652']	3	Diseases & Disorders
+Drug-Disorder	False	concept	filgrastim	128	138	annotator1,annotator5	['sda/3', 'sda/1']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	R-CHOP	199	205	annotator1,annotator5	['sda/4', 'sda/2']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	rituximab	207	216	annotator1,annotator4,Computer,annotator5	['uniprot/4500161']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	cyclophosphamide	217	233	annotator1,annotator4,Computer,annotator5	['uniprot/4501022']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	doxorubicin	234	245	annotator1,annotator4,Computer,annotator5	['uniprot/4500743']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	vincristine	246	257	annotator1,annotator4,Computer,annotator5	['uniprot/4500862']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	prednisone	258	268	annotator1,annotator4,Computer,annotator5	['uniprot/4500811']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		270	282	annotator5	['sda/3']	30	Chemicals & Drugs
+Drug-Disorder	False	concept		334	346	annotator1	['sda/8']	11	Diseases & Disorders
+Drug-Disorder	True	concept	non-Hodgkin lymphoma	350	381	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0002652']	12	Diseases & Disorders
+Drug-Disorder	False	concept	disease	524	531	annotator4,Computer	['umls/C0001185']	29	Diseases & Disorders
+Drug-Disorder	False	concept		563	575	annotator1	['sda/8']	13	Diseases & Disorders
+Drug-Disorder	True	concept	non-Hodgkin lymphoma	579	610	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0002652']	14	Diseases & Disorders
+Drug-Disorder	False	concept	R-CHOP	621	627	annotator1,annotator5	['sda/4', 'sda/2']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	filgrastim	633	643	annotator1,annotator5	['sda/3', 'sda/1']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	R-CHOP	677	683	annotator1,annotator5	['sda/4', 'sda/2']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	rituximab	720	729	annotator1,annotator4,Computer,annotator5	['uniprot/4500161']	18	Chemicals & Drugs
+Drug-Disorder	False	concept	filgrastim	813	823	annotator1,annotator5	['sda/3', 'sda/1']	19	Chemicals & Drugs
+Drug-Disorder	False	concept	R-CHOP	851	857	annotator1,annotator5	['sda/4', 'sda/2']	20	Chemicals & Drugs
+Drug-Disorder	False	concept	filgrastim	890	900	annotator1,annotator5	['sda/3', 'sda/1']	21	Chemicals & Drugs
+Drug-Disorder	False	concept	neutropenic event	909	926	annotator1,annotator5	['sda/9', 'sda/6']	22	Diseases & Disorders
+Drug-Disorder	False	concept	filgrastim	1046	1056	annotator1,annotator5	['sda/3', 'sda/1']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	filgrastim	1128	1138	annotator1,annotator5	['sda/3', 'sda/1']	24	Chemicals & Drugs
+Drug-Disorder	False	concept		1175	1187	annotator5	['sda/3']	31	Chemicals & Drugs
+Drug-Disorder	True	concept	Febrile neutropenia	1644	1663	annotator1,annotator4,Computer,annotator5	['umls/C0087362']	25	Diseases & Disorders
+Drug-Disorder	False	concept	R-CHOP	1920	1926	annotator1,annotator5	['sda/4', 'sda/2']	26	Chemicals & Drugs
+Drug-Disorder	False	concept	filgrastim	1932	1942	annotator1,annotator5	['sda/3', 'sda/1']	27	Chemicals & Drugs
+Drug-Disorder	False	concept		1994	2006	annotator5	['sda/3']	32	Chemicals & Drugs
+Drug-Disorder	False	concept	filgrastim	2118	2128	annotator1,annotator5	['sda/3', 'sda/1']	28	Chemicals & Drugs
+Drug-Disorder	True	relation	6	12	['uniprot/4500161']	['sda/2', 'umls/C0002652']	207:216	350:381	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	6	11	['uniprot/4500161']	['sda/8']	207:216	334:346	annotator1	PA
+Drug-Disorder	True	relation	7	12	['uniprot/4501022']	['sda/2', 'umls/C0002652']	217:233	350:381	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	7	11	['uniprot/4501022']	['sda/8']	217:233	334:346	annotator1	PA
+Drug-Disorder	True	relation	8	12	['uniprot/4500743']	['sda/2', 'umls/C0002652']	234:245	350:381	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	8	11	['uniprot/4500743']	['sda/8']	234:245	334:346	annotator1	PA
+Drug-Disorder	True	relation	9	12	['uniprot/4500862']	['sda/2', 'umls/C0002652']	246:257	350:381	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	9	11	['uniprot/4500862']	['sda/8']	246:257	334:346	annotator1	PA
+Drug-Disorder	True	relation	10	12	['uniprot/4500811']	['sda/2', 'umls/C0002652']	258:268	350:381	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	10	11	['uniprot/4500811']	['sda/8']	258:268	334:346	annotator1	PA
+Drug-Disorder	False	relation	5	12	['sda/4', 'sda/2']	['sda/2', 'umls/C0002652']	199:205	350:381	annotator1,annotator5	PA
+Drug-Disorder	False	relation	5	11	['sda/4', 'sda/2']	['sda/8']	199:205	334:346	annotator1	PA
+Drug-Disorder	False	relation	16	14	['sda/3', 'sda/1']	['sda/2', 'umls/C0002652']	633:643	579:610	annotator1,annotator5	PA
+Drug-Disorder	False	relation	16	13	['sda/3', 'sda/1']	['sda/8']	633:643	563:575	annotator1	PA
+Drug-Disorder	False	relation	15	14	['sda/4', 'sda/2']	['sda/2', 'umls/C0002652']	621:627	579:610	annotator1,annotator5	PA
+Drug-Disorder	False	relation	15	13	['sda/4', 'sda/2']	['sda/8']	621:627	563:575	annotator1	PA
+Drug-Disorder	False	relation	21	22	['sda/3', 'sda/1']	['sda/9', 'sda/6']	890:900	909:926	annotator1	PA
+Drug-Disorder	False	relation	1	3	['uniprot/4500161']	['sda/2', 'umls/C0002652']	48:57	79:110	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	3	['sda/3', 'sda/1']	['sda/2', 'umls/C0002652']	128:138	79:110	annotator5	PA
+Drug-Disorder	False	relation	0	3	['sda/4', 'sda/2']	['sda/2', 'umls/C0002652']	25:31	79:110	annotator5	PA
+Drug-Disorder	False	relation	30	12	['sda/3']	['sda/2', 'umls/C0002652']	270:282	350:381	annotator5	PA

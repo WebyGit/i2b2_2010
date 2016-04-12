@@ -1,0 +1,71 @@
+Drug-Disorder	True	concept	sirolimus	14	23	annotator1,annotator4,Computer,annotator5	['uniprot/9013601', 'uniprot/4501015']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	sirolimus	95	104	annotator1,annotator4,Computer,annotator5	['uniprot/9013601', 'uniprot/4501015']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	SRL	106	109	annotator1,annotator4,annotator5	['sda/1']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		143	148	Computer	['umls/C0145980']	37	Diseases & Disorders
+Drug-Disorder	True	concept	SRL	211	214	annotator1,annotator4,annotator5	['sda/1']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	SRL	383	386	annotator1,annotator4,annotator5	['sda/1']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	calcineurin inhibitors	420	442	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/4']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	CNI	444	447	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	nephrotoxicity	449	463	annotator4,annotator5	['sda/4', 'sda/6']	32	Diseases & Disorders
+Drug-Disorder	False	concept	neurotoxicity	486	499	annotator4,annotator5	['sda/3', 'sda/7']	33	Diseases & Disorders
+Drug-Disorder	True	concept	CNI	509	512	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	acute rejection	550	565	annotator1,annotator5	['sda/1', 'sda/13']	8	Diseases & Disorders
+Drug-Disorder	True	concept	gastrointestinal	589	605	annotator1,annotator4,annotator5	['sda/6', 'sda/8']	9	Diseases & Disorders
+Drug-Disorder	False	concept	side effects	607	623	annotator1,Computer	['sda/1', 'umls/C0105312']	10	Diseases & Disorders
+Drug-Disorder	True	concept	mycophenolate mofetil	627	648	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'uniprot/4500675']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	MMF	650	653	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	hyperglycemia	672	685	annotator1,Computer,annotator5	['umls/C0002099']	13	Diseases & Disorders
+Drug-Disorder	True	concept	CNI	753	756	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	MMF	758	761	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	steroids	776	784	annotator1,annotator5	['sda/13', 'sda/14']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	SRL	819	822	annotator1,annotator4,annotator5	['sda/1']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	CNI	846	849	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	MMF	853	856	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	CNI	938	941	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	20	Chemicals & Drugs
+Drug-Disorder	False	concept	nephrotoxicity	942	956	annotator4,annotator5	['sda/4', 'sda/6']	34	Diseases & Disorders
+Drug-Disorder	True	concept	leucoencephalopathy	1245	1264	annotator1,Computer,annotator5	['umls/C0023558']	21	Diseases & Disorders
+Drug-Disorder	True	concept	SRL	1305	1308	annotator1,annotator4,annotator5	['sda/1']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	SRL	1347	1350	annotator1,annotator4,annotator5	['sda/1']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	GI side effects	1362	1377	annotator1,Computer,annotator5	['sda/16', 'umls/C0105312']	24	Diseases & Disorders
+Drug-Disorder	True	concept	MMF	1381	1384	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	25	Chemicals & Drugs
+Drug-Disorder	True	concept	hyperglycemia	1445	1458	annotator1,Computer,annotator5	['umls/C0002099']	26	Diseases & Disorders
+Drug-Disorder	False	concept	acute rejection	1510	1525	annotator1,annotator5	['sda/1', 'sda/13']	27	Diseases & Disorders
+Drug-Disorder	True	concept	SRL	1576	1579	annotator1,annotator4,annotator5	['sda/1']	28	Chemicals & Drugs
+Drug-Disorder	True	concept	CNI	1681	1684	annotator1,annotator4,annotator5	['sda/3', 'sda/2', 'sda/5']	29	Chemicals & Drugs
+Drug-Disorder	False	concept	nephrotoxicity	1685	1699	annotator4,annotator5	['sda/4', 'sda/6']	35	Diseases & Disorders
+Drug-Disorder	False	concept	neurotoxicity	1704	1717	annotator4,annotator5	['sda/3', 'sda/7']	36	Diseases & Disorders
+Drug-Disorder	True	concept	severe diarrhea	1735	1750	annotator1,annotator4,Computer,annotator5	['umls/C0147853', 'sda/17']	30	Diseases & Disorders
+Drug-Disorder	True	concept	MMF	1758	1761	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	31	Chemicals & Drugs
+Drug-Disorder	False	relation	12	9	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['sda/6', 'sda/8']	650:653	589:605	annotator1,annotator4	PA
+Drug-Disorder	False	relation	12	10	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['sda/1', 'umls/C0105312']	650:653	607:623	annotator1,Computer	PA
+Drug-Disorder	False	relation	7	10	['sda/3', 'sda/2', 'sda/5']	['sda/1', 'umls/C0105312']	509:512	607:623	annotator1	PA
+Drug-Disorder	False	relation	22	21	['sda/1']	['umls/C0023558']	1305:1308	1245:1264	annotator1,annotator5	PA
+Drug-Disorder	True	relation	25	24	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['sda/16', 'umls/C0105312']	1381:1384	1362:1377	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	23	24	['sda/1']	['sda/16', 'umls/C0105312']	1347:1350	1362:1377	annotator1	PA
+Drug-Disorder	True	relation	31	30	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['umls/C0147853', 'sda/17']	1758:1761	1735:1750	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	11	32	['uniprot/8515537', 'uniprot/4500675']	['sda/4', 'sda/6']	627:648	449:463	annotator4	PA
+Drug-Disorder	False	relation	11	9	['uniprot/8515537', 'uniprot/4500675']	['sda/6', 'sda/8']	627:648	589:605	annotator4,annotator5	PA
+Drug-Disorder	False	relation	5	32	['sda/2', 'sda/1', 'sda/4']	['sda/4', 'sda/6']	420:442	449:463	annotator4,annotator5	PA
+Drug-Disorder	False	relation	5	9	['sda/2', 'sda/1', 'sda/4']	['sda/6', 'sda/8']	420:442	589:605	annotator4	PA
+Drug-Disorder	False	relation	7	33	['sda/3', 'sda/2', 'sda/5']	['sda/3', 'sda/7']	509:512	486:499	annotator4,annotator5	PA
+Drug-Disorder	False	relation	7	32	['sda/3', 'sda/2', 'sda/5']	['sda/4', 'sda/6']	509:512	449:463	annotator4,annotator5	PA
+Drug-Disorder	False	relation	7	9	['sda/3', 'sda/2', 'sda/5']	['sda/6', 'sda/8']	509:512	589:605	annotator4	PA
+Drug-Disorder	False	relation	33	32	['sda/3', 'sda/7']	['sda/4', 'sda/6']	486:499	449:463	annotator4	PA
+Drug-Disorder	False	relation	20	34	['sda/3', 'sda/2', 'sda/5']	['sda/4', 'sda/6']	938:941	942:956	annotator4,annotator5	PA
+Drug-Disorder	False	relation	28	30	['sda/1']	['umls/C0147853', 'sda/17']	1576:1579	1735:1750	annotator4	PA
+Drug-Disorder	False	relation	28	35	['sda/1']	['sda/4', 'sda/6']	1576:1579	1685:1699	annotator4,annotator5	PA
+Drug-Disorder	False	relation	29	30	['sda/3', 'sda/2', 'sda/5']	['umls/C0147853', 'sda/17']	1681:1684	1735:1750	annotator4	PA
+Drug-Disorder	False	relation	29	36	['sda/3', 'sda/2', 'sda/5']	['sda/3', 'sda/7']	1681:1684	1704:1717	annotator4,annotator5	PA
+Drug-Disorder	False	relation	29	35	['sda/3', 'sda/2', 'sda/5']	['sda/4', 'sda/6']	1681:1684	1685:1699	annotator4,annotator5	PA
+Drug-Disorder	False	relation	36	35	['sda/3', 'sda/7']	['sda/4', 'sda/6']	1704:1717	1685:1699	annotator4	PA
+Drug-Disorder	False	relation	1	37	['uniprot/9013601', 'uniprot/4501015']	['umls/C0145980']	95:104	143:148	Computer	PA
+Drug-Disorder	False	relation	12	13	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['umls/C0002099']	650:653	672:685	Computer,annotator5	PA
+Drug-Disorder	False	relation	25	26	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['umls/C0002099']	1381:1384	1445:1458	Computer,annotator5	PA
+Drug-Disorder	False	relation	12	8	['uniprot/8515537', 'sda/3', 'uniprot/4500675']	['sda/1', 'sda/13']	650:653	550:565	annotator5	PA
+Drug-Disorder	False	relation	5	13	['sda/2', 'sda/1', 'sda/4']	['umls/C0002099']	420:442	672:685	annotator5	PA
+Drug-Disorder	False	relation	5	33	['sda/2', 'sda/1', 'sda/4']	['sda/3', 'sda/7']	420:442	486:499	annotator5	PA
+Drug-Disorder	False	relation	5	8	['sda/2', 'sda/1', 'sda/4']	['sda/1', 'sda/13']	420:442	550:565	annotator5	PA
+Drug-Disorder	False	relation	7	13	['sda/3', 'sda/2', 'sda/5']	['umls/C0002099']	509:512	672:685	annotator5	PA
+Drug-Disorder	False	relation	7	8	['sda/3', 'sda/2', 'sda/5']	['sda/1', 'sda/13']	509:512	550:565	annotator5	PA
+Drug-Disorder	False	relation	23	26	['sda/1']	['umls/C0002099']	1347:1350	1445:1458	annotator5	PA
+Drug-Disorder	False	relation	28	36	['sda/1']	['sda/3', 'sda/7']	1576:1579	1704:1717	annotator5	PA

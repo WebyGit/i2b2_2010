@@ -1,0 +1,15 @@
+Drug-Disorder	True	concept	tobacco	20	33	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	tobacco	120	133	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	cardiovascular diseases	180	203	annotator1,annotator4,Computer,annotator5	['umls/C0000675']	3	Diseases & Disorders
+Drug-Disorder	True	concept	tobacco	244	257	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	inflammatory responses	343	365	Computer,annotator5	['umls/C0109901', 'sda/4']	16	Diseases & Disorders
+Drug-Disorder	True	concept	tobacco	615	628	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		977	984	annotator1	['sda/2']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		1119	1126	annotator1	['sda/2']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	inflammation	1237	1249	annotator1,Computer,annotator5	['umls/C0002255']	13	Diseases & Disorders
+Drug-Disorder	False	concept		1280	1287	annotator1	['sda/2']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	atherosclerotic cardiovascular diseases	1297	1336	annotator1,annotator4,Computer,annotator5	['umls/C0000385']	15	Diseases & Disorders
+Drug-Disorder	True	relation	2	3	['sda/1', 'sda/2']	['umls/C0000675']	120:133	180:203	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	14	13	['sda/2']	['umls/C0002255']	1280:1287	1237:1249	annotator1	SA
+Drug-Disorder	False	relation	14	15	['sda/2']	['umls/C0000385']	1280:1287	1297:1336	annotator1	SA
+Drug-Disorder	False	relation	4	16	['sda/1', 'sda/2']	['umls/C0109901', 'sda/4']	244:257	343:365	annotator5	PA

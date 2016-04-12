@@ -1,0 +1,11 @@
+Drug-Disorder	True	concept	dyslipidemia	32	44	annotator1,annotator4,Computer	['umls/C0016673']	0	Diseases & Disorders
+Drug-Disorder	True	concept	ketogenic diet	54	68	annotator1,annotator4,Computer	['umls/C0378096']	1	Diseases & Disorders
+Drug-Disorder	True	concept	ketogenic diet	135	149	annotator1,annotator4,Computer	['umls/C0378096']	2	Diseases & Disorders
+Drug-Disorder	True	concept	intractable epilepsy	173	193	annotator1,annotator4,Computer	['umls/C0108045']	3	Diseases & Disorders
+Drug-Disorder	True	concept	dyslipidemia	335	347	annotator1,annotator4,Computer	['umls/C0016673']	4	Diseases & Disorders
+Drug-Disorder	True	concept	hypercholesterolemia	420	440	annotator1,annotator4,Computer	['umls/C0002090']	5	Diseases & Disorders
+Drug-Disorder	True	concept	ketogenic diet	502	516	annotator1,annotator4,Computer	['umls/C0378096']	6	Diseases & Disorders
+Drug-Disorder	True	concept	ketogenic diet	560	574	annotator1,annotator4,Computer	['umls/C0378096']	7	Diseases & Disorders
+Drug-Disorder	True	concept	hypercholesterolemia	600	620	annotator1,annotator4,Computer	['umls/C0002090']	8	Diseases & Disorders
+Drug-Disorder	True	concept	Hypercholesterolemia	904	924	annotator1,annotator4,Computer	['umls/C0002090']	9	Diseases & Disorders
+Drug-Disorder	True	concept	ketogenic diet	978	992	annotator1,annotator4,Computer	['umls/C0378096']	10	Diseases & Disorders

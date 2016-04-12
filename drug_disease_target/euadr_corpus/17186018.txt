@@ -1,0 +1,2 @@
+Target-Disorder	True	concept	diseases	124	132	Computer	['umls/C0001185']	0	Diseases & Disorders
+Target-Disorder	True	concept	still	267	272	Computer	['umls/C0145980']	1	Diseases & Disorders

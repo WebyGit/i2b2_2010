@@ -1,0 +1,65 @@
+Target-Disorder	True	concept	Low-density lipoprotein receptor-related protein 5	0	50	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	0	Genes & Molecular Sequences
+Target-Disorder	False	concept		51	76	annotator1	['sda/1']	1	SNP & Sequence variations
+Target-Disorder	True	concept	LRP5	52	56	Computer,annotator2,annotator3	['uniprot/3001746']	25	Genes & Molecular Sequences
+Target-Disorder	False	concept	bone mass	97	106	Computer,annotator2	['umls/C0014039', 'sda/5']	26	Diseases & Disorders
+Target-Disorder	False	concept	LRP5	176	189	annotator1	['sda/3']	2	SNP & Sequence variations
+Target-Disorder	True	concept	LRP5	176	189	Computer,annotator2,annotator3	['uniprot/3001746']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept	BMD	195	198	Computer,annotator2	['umls/C0031168', 'sda/3']	27	Diseases & Disorders
+Target-Disorder	False	concept	LRP5	348	362	annotator1	['sda/4']	3	SNP & Sequence variations
+Target-Disorder	True	concept	LRP5	348	362	Computer,annotator2,annotator3	['uniprot/3001746']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept		381	386	Computer	['umls/C0148209']	28	Diseases & Disorders
+Target-Disorder	False	concept		410	424	annotator2	['sda/4']	38	Diseases & Disorders
+Target-Disorder	False	concept	Mutations in the low-density lipoprotein receptor-related protein 5	440	507	annotator1,annotator3	['sda/5', 'sda/1']	4	SNP & Sequence variations
+Target-Disorder	False	concept	Mutations in the low-density lipoprotein receptor-related protein 5	440	507	Computer	['umls/C0158858']	4	Diseases & Disorders
+Target-Disorder	False	concept	Mutations in the low-density lipoprotein receptor-related protein 5	440	507	Computer,annotator2	['uniprot/3001746']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	LRP5	509	513	annotator1,Computer,annotator2	['uniprot/3001746']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept		550	554	annotator1	['sda/16']	6	Diseases & Disorders
+Target-Disorder	True	concept	bone mass	559	572	annotator1,Computer,annotator2	['sda/7', 'umls/C0014039', 'sda/5']	7	Diseases & Disorders
+Target-Disorder	False	concept		589	594	Computer	['umls/C0145980']	29	Diseases & Disorders
+Target-Disorder	True	concept	LRP5	617	621	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept	BMD	648	651	Computer,annotator2	['umls/C0031168', 'sda/3']	30	Diseases & Disorders
+Target-Disorder	True	concept	LRP5	702	706	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	BMD	712	715	Computer,annotator2	['umls/C0031168', 'sda/3']	31	Diseases & Disorders
+Target-Disorder	False	concept		1047	1051	annotator1	['sda/16']	10	Diseases & Disorders
+Target-Disorder	True	concept	LRP5	1116	1120	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	LRP5	1257	1261	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept	intron intron LRP5	1343	1406	annotator1	['sda/9']	13	SNP & Sequence variations
+Target-Disorder	True	concept	intron intron LRP5	1343	1406	Computer,annotator2,annotator3	['uniprot/3001746']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	block	1360	1365	Computer	['umls/C0003100']	32	Diseases & Disorders
+Target-Disorder	False	concept	block	1360	1365	annotator2	['sda/1']	32	SNP & Sequence variations
+Target-Disorder	False	concept	BMD	1443	1446	Computer,annotator2	['umls/C0031168', 'sda/3']	33	Diseases & Disorders
+Target-Disorder	True	concept	rs491347	1523	1543	annotator1,annotator2,annotator3	['sda/17', 'sda/2', 'sda/4']	14	SNP & Sequence variations
+Target-Disorder	False	concept	BMD	1555	1558	Computer,annotator2	['umls/C0031168', 'sda/3']	34	Diseases & Disorders
+Target-Disorder	True	concept	rs1784235	1698	1707	annotator1,annotator2,annotator3	['sda/13', 'sda/3']	15	SNP & Sequence variations
+Target-Disorder	True	concept	estrogen receptor alpha	1735	1758	annotator1,Computer,annotator2,annotator3	['sda/14', 'uniprot/3047906', 'sda/4', 'sda/8']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept		1760	1781	annotator1,Computer,annotator2,annotator3	['sda/18', 'uniprot/3047906', 'sda/9']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	LRP5	1785	1789	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept	BMD	1916	1919	Computer,annotator2	['umls/C0031168', 'sda/3']	35	Diseases & Disorders
+Target-Disorder	False	concept	BMD	2006	2009	Computer,annotator2	['umls/C0031168', 'sda/3']	36	Diseases & Disorders
+Target-Disorder	True	concept	LRP5	2119	2123	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	BMD	2142	2145	Computer,annotator2	['umls/C0031168', 'sda/3']	37	Diseases & Disorders
+Target-Disorder	True	concept	LRP5	2255	2259	annotator1,Computer,annotator2,annotator3	['uniprot/3001746']	20	Genes & Molecular Sequences
+Target-Disorder	True	concept	osteoporosis	2316	2328	annotator1,Computer,annotator2,annotator3	['sda/19', 'umls/C0060541', 'sda/5', 'sda/7']	21	Diseases & Disorders
+Target-Disorder	False	concept	fractures	2333	2342	annotator2,annotator3	['sda/6', 'umls/C0060541']	39	Diseases & Disorders
+Target-Disorder	True	concept	rs491347	2374	2382	annotator1,annotator2,annotator3	['sda/15', 'sda/2', 'sda/4']	22	SNP & Sequence variations
+Target-Disorder	True	concept	rs1784235	2423	2432	annotator1,annotator2,annotator3	['sda/13', 'sda/3']	23	SNP & Sequence variations
+Target-Disorder	True	concept	osteoporosis	2462	2474	annotator1,Computer,annotator2,annotator3	['sda/19', 'umls/C0003204', 'sda/5', 'sda/7']	24	Diseases & Disorders
+Target-Disorder	True	relation	4	7	['sda/5', 'umls/C0158858', 'uniprot/3001746', 'sda/1']	['sda/7', 'umls/C0014039', 'sda/5']	440:507	559:572	annotator1,Computer,annotator2	PA
+Target-Disorder	False	relation	4	6	['sda/5', 'umls/C0158858', 'uniprot/3001746', 'sda/1']	['sda/16']	440:507	550:554	annotator1	PA
+Target-Disorder	True	relation	20	21	['uniprot/3001746']	['sda/19', 'umls/C0060541', 'sda/5', 'sda/7']	2255:2259	2316:2328	annotator1,Computer,annotator2,annotator3	SA
+Target-Disorder	True	relation	23	24	['sda/13', 'sda/3']	['sda/19', 'umls/C0003204', 'sda/5', 'sda/7']	2423:2432	2462:2474	annotator1,annotator2,annotator3	SA
+Target-Disorder	True	relation	22	24	['sda/15', 'sda/2', 'sda/4']	['sda/19', 'umls/C0003204', 'sda/5', 'sda/7']	2374:2382	2462:2474	annotator1,annotator2,annotator3	SA
+Target-Disorder	False	relation	25	26	['uniprot/3001746']	['umls/C0014039', 'sda/5']	52:56	97:106	Computer,annotator2	PA
+Target-Disorder	False	relation	2	27	['sda/3', 'uniprot/3001746']	['umls/C0031168', 'sda/3']	176:189	195:198	Computer,annotator2	PA
+Target-Disorder	False	relation	3	28	['sda/4', 'uniprot/3001746']	['umls/C0148209']	348:362	381:386	Computer	PA
+Target-Disorder	False	relation	5	4	['uniprot/3001746']	['sda/5', 'umls/C0158858', 'uniprot/3001746', 'sda/1']	509:513	440:507	Computer	PA
+Target-Disorder	False	relation	8	30	['uniprot/3001746']	['umls/C0031168', 'sda/3']	617:621	648:651	Computer,annotator2	PA
+Target-Disorder	False	relation	8	29	['uniprot/3001746']	['umls/C0145980']	617:621	589:594	Computer	PA
+Target-Disorder	False	relation	9	31	['uniprot/3001746']	['umls/C0031168', 'sda/3']	702:706	712:715	Computer,annotator2	PA
+Target-Disorder	False	relation	13	33	['sda/9', 'uniprot/3001746']	['umls/C0031168', 'sda/3']	1343:1406	1443:1446	Computer,annotator2	PA
+Target-Disorder	False	relation	13	32	['sda/9', 'uniprot/3001746']	['umls/C0003100', 'sda/1']	1343:1406	1360:1365	Computer	PA
+Target-Disorder	False	relation	19	37	['uniprot/3001746']	['umls/C0031168', 'sda/3']	2119:2123	2142:2145	Computer,annotator2	PA
+Target-Disorder	False	relation	3	38	['sda/4', 'uniprot/3001746']	['sda/4']	348:362	410:424	annotator2	PA
+Target-Disorder	False	relation	32	33	['umls/C0003100', 'sda/1']	['umls/C0031168', 'sda/3']	1360:1365	1443:1446	annotator2	PA
+Target-Disorder	False	relation	14	34	['sda/17', 'sda/2', 'sda/4']	['umls/C0031168', 'sda/3']	1523:1543	1555:1558	annotator2	PA
+Target-Disorder	False	relation	20	39	['uniprot/3001746']	['sda/6', 'umls/C0060541']	2255:2259	2333:2342	annotator2,annotator3	PA

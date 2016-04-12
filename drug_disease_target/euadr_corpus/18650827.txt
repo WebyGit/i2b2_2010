@@ -1,0 +1,7 @@
+Drug-Disorder	True	concept	sildenafil citrate	76	94	annotator1,annotator4,Computer,annotator5	['uniprot/8528458', 'uniprot/4500717']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	erectile dysfunction	117	137	annotator1,annotator4,Computer,annotator5	['umls/C0016677']	1	Diseases & Disorders
+Drug-Disorder	True	concept	sildenafil	347	357	annotator1,annotator4,Computer,annotator5	['uniprot/8528458', 'uniprot/4500717']	2	Chemicals & Drugs
+Drug-Disorder	False	concept		680	687	Computer	['umls/C0054140']	5	Diseases & Disorders
+Drug-Disorder	True	concept	sildenafil	1091	1101	annotator1,annotator4,Computer,annotator5	['uniprot/8528458', 'uniprot/4500717']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	sildenafil	1117	1127	annotator1,annotator4,Computer,annotator5	['uniprot/8528458', 'uniprot/4500717']	4	Chemicals & Drugs
+Drug-Disorder	False	relation	0	1	['uniprot/8528458', 'uniprot/4500717']	['umls/C0016677']	76:94	117:137	Computer	PA

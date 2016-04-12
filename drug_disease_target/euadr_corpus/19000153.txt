@@ -1,0 +1,20 @@
+Drug-Disorder	True	concept	Disseminated tuberculosis	0	25	annotator1,annotator4,Computer,annotator5	['umls/C0006330', 'sda/1']	0	Diseases & Disorders
+Drug-Disorder	True	concept	acute myelogenous leukemia	84	110	annotator1,annotator4,Computer,annotator5	['umls/C0002516']	1	Diseases & Disorders
+Drug-Disorder	True	concept	acute myelogenous leukemia	173	199	annotator1,annotator4,Computer,annotator5	['umls/C0002516']	2	Diseases & Disorders
+Drug-Disorder	True	concept	disseminated tuberculosis	283	308	annotator1,annotator4,Computer,annotator5	['umls/C0006330', 'sda/1']	3	Diseases & Disorders
+Drug-Disorder	True	concept	TB	310	312	annotator1,annotator4,annotator5	['sda/1', 'sda/7']	4	Diseases & Disorders
+Drug-Disorder	False	concept		371	383	annotator5	['sda/1']	14	Diseases & Disorders
+Drug-Disorder	False	concept		642	657	annotator5	['sda/2']	15	Diseases & Disorders
+Drug-Disorder	True	concept	prednisolone	683	695	annotator1,annotator4,Computer,annotator5	['uniprot/6004820', 'uniprot/4500780']	5	Chemicals & Drugs
+Drug-Disorder	False	concept	fever	796	806	Computer,annotator5	['umls/C0241063', 'sda/3']	13	Diseases & Disorders
+Drug-Disorder	True	concept	pneumonia	821	830	annotator1,annotator4,Computer,annotator5	['umls/C0003555']	6	Diseases & Disorders
+Drug-Disorder	False	concept	antibiotic	839	849	annotator1	['sda/4']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	antibiotic	839	849	annotator5	['sda/4']	7	Diseases & Disorders
+Drug-Disorder	False	concept	antifungal	854	864	annotator1	['sda/5']	8	Chemicals & Drugs
+Drug-Disorder	False	concept	antifungal	854	864	annotator5	['sda/5']	8	Diseases & Disorders
+Drug-Disorder	True	concept	Mycobacterium tuberculosis	889	915	annotator1,annotator4,annotator4,Computer,Computer	['sda/5', 'umls/C0002898', 'sda/1', 'umls/C0004487']	9	Diseases & Disorders
+Drug-Disorder	True	concept	disseminated TB	1004	1019	annotator1,annotator4,Computer,annotator5,annotator5	['sda/2', 'sda/1', 'umls/C0006330', 'sda/7']	10	Diseases & Disorders
+Drug-Disorder	False	concept	anti-tuberculous	1029	1045	annotator4,annotator5	['sda/8', 'sda/6']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	TB	1077	1079	annotator1,annotator4,annotator5	['sda/1', 'sda/7']	11	Diseases & Disorders
+Drug-Disorder	False	concept		1146	1171	annotator5	['sda/8']	16	Diseases & Disorders
+Drug-Disorder	False	relation	5	15	['uniprot/6004820', 'uniprot/4500780']	['sda/2']	683:695	642:657	annotator5	PA

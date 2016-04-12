@@ -1,0 +1,36 @@
+Target-Drug	True	concept	etanercept	43	53	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	0	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	43	53	Computer	['uniprot/3000829']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	corticosteroid	96	110	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/8']	2	Chemicals & Drugs
+Target-Drug	False	concept		141	146	Computer	['uniprot/4501124']	24	Chemicals & Drugs
+Target-Drug	False	concept	tumour necrosis factor	175	197	annotator1,annotator3	['sda/1', 'sda/7']	4	Chemicals & Drugs
+Target-Drug	False	concept	tumour necrosis factor	175	197	annotator2	['sda/9']	4	Genes & Molecular Sequences
+Target-Drug	False	concept		199	215	annotator1	['sda/2']	5	Chemicals & Drugs
+Target-Drug	False	concept		199	215	Computer,annotator2	['uniprot/3000496', 'sda/10']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	corticosteroid	249	263	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/8']	6	Chemicals & Drugs
+Target-Drug	False	concept		318	321	Computer	['uniprot/3022702']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	etanercept	426	436	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	8	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	426	436	Computer	['uniprot/3000829']	8	Genes & Molecular Sequences
+Target-Drug	False	concept		468	471	Computer	['uniprot/3022702']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	corticosteroids	503	518	annotator1,annotator2,annotator3	['sda/5', 'sda/3', 'sda/6']	11	Chemicals & Drugs
+Target-Drug	False	concept		564	567	Computer	['uniprot/3022702']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	etanercept	579	589	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	12	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	579	589	Computer	['uniprot/3000829']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	corticosteroids	643	658	annotator1,annotator2,annotator3	['sda/5', 'sda/3', 'sda/6']	13	Chemicals & Drugs
+Target-Drug	True	concept	corticosteroid	765	779	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/8']	14	Chemicals & Drugs
+Target-Drug	True	concept	etanercept	926	936	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	16	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	926	936	Computer	['uniprot/3000829']	16	Genes & Molecular Sequences
+Target-Drug	False	concept		1039	1042	Computer	['uniprot/3047906']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	etanercept	1100	1110	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	17	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	1100	1110	Computer	['uniprot/3000829']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	corticosteroid	1189	1203	annotator1,annotator2,annotator3	['sda/4', 'sda/2', 'sda/8']	19	Chemicals & Drugs
+Target-Drug	True	concept	etanercept	1255	1265	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	20	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	1255	1265	Computer	['uniprot/3000829']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	prednisone	1316	1326	annotator1,Computer,annotator2,annotator3	['uniprot/4500811', 'uniprot/9006934']	21	Chemicals & Drugs
+Target-Drug	True	concept	Etanercept	1558	1568	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	22	Chemicals & Drugs
+Target-Drug	False	concept	Etanercept	1558	1568	Computer	['uniprot/3000829']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	etanercept	1645	1655	annotator1,annotator2,annotator2,annotator3	['uniprot/3000829', 'uniprot/8530371']	23	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	1645	1655	Computer	['uniprot/3000829']	23	Genes & Molecular Sequences
+Target-Drug	False	concept		1673	1676	Computer	['uniprot/3022702']	29	Genes & Molecular Sequences
+Target-Drug	False	relation	24	5	['uniprot/4501124']	['sda/2', 'uniprot/3000496', 'sda/10']	141:146	199:215	Computer	PA
+Target-Drug	False	relation	24	25	['uniprot/4501124']	['uniprot/3022702']	141:146	318:321	Computer	PA
+Target-Drug	False	relation	21	20	['uniprot/4500811', 'uniprot/9006934']	['uniprot/3000829', 'uniprot/8530371']	1316:1326	1255:1265	Computer	PA

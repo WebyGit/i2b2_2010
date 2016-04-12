@@ -1,0 +1,16 @@
+Target-Drug	True	concept	IL-1-receptor antagonist	12	36	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	familial cold autoinflammatory syndrome	53	92	Computer	['uniprot/3003600']	24	Genes & Molecular Sequences
+Target-Drug	False	concept	Muckle-Wells syndrome	136	157	Computer	['uniprot/3003600']	25	Genes & Molecular Sequences
+Target-Drug	False	concept	mutations CIAS1	260	282	annotator1,annotator3	['sda/2', 'sda/3']	5	SNP & Sequence variations
+Target-Drug	False	concept	mutations CIAS1	260	282	Computer,annotator2	['uniprot/3003600', 'sda/2']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	IL-1	358	362	annotator1,Computer,annotator2,annotator3	['uniprot/3000480']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	IL-1-receptor antagonist	477	501	annotator1,annotator2,annotator3	['sda/1']	9	Chemicals & Drugs
+Target-Drug	False	concept		657	661	Computer	['uniprot/4500562']	26	Chemicals & Drugs
+Target-Drug	False	concept	CIAS1 mutation	753	767	annotator1,annotator3	['sda/3']	13	SNP & Sequence variations
+Target-Drug	False	concept	CIAS1 mutation	753	767	Computer,annotator2	['uniprot/3003600', 'sda/2']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	IL-1-receptor antagonist	936	960	annotator1,annotator2,annotator3	['sda/1']	16	Chemicals & Drugs
+Target-Drug	True	concept	anakinra	962	970	annotator1,Computer,annotator2,annotator3	['uniprot/4500021']	17	Chemicals & Drugs
+Target-Drug	True	concept	amyloid	1062	1069	annotator1,annotator2,annotator3	['sda/4']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	C-reactive protein	1074	1092	annotator1,Computer,annotator2,annotator3	['uniprot/3000476']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	anakinra	1338	1346	annotator1,Computer,annotator2,annotator3	['uniprot/4500021']	21	Chemicals & Drugs
+Target-Drug	False	relation	26	13	['uniprot/4500562']	['sda/3', 'uniprot/3003600', 'sda/2']	657:661	753:767	Computer	PA

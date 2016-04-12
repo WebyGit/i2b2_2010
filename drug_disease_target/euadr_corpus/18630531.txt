@@ -1,0 +1,49 @@
+Target-Disorder	True	concept	VEGFR-1	14	21	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	Flt-1	23	28	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	breast cancer	33	46	annotator1,Computer,annotator2,annotator3	['umls/C0000571']	2	Diseases & Disorders
+Target-Disorder	True	concept	VEGF	66	70	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept		91	117	annotator1	['sda/4']	4	Diseases & Disorders
+Target-Disorder	False	concept		105	111	Computer	['umls/C0002994']	27	Diseases & Disorders
+Target-Disorder	True	concept	Vascular endothelial growth factor	131	165	annotator1,Computer,annotator2,annotator3	['uniprot/3002534']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGF	167	171	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	breast cancer	182	195	annotator1,Computer,Computer,annotator2,annotator3,annotator3	['umls/C0000571', 'umls/C0009632', 'umls/C0198280']	7	Diseases & Disorders
+Target-Disorder	True	concept	VEGF	237	251	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3002534', 'sda/2']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGFR-1	325	332	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	Flt-1	334	339	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept	tumour	354	360	annotator1,Computer	['umls/C0002994']	11	Diseases & Disorders
+Target-Disorder	True	concept	VEGF	427	431	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept		446	451	Computer	['umls/C0145980']	28	Diseases & Disorders
+Target-Disorder	True	concept	breast cancer	488	501	annotator1,Computer,annotator2,annotator3	['umls/C0000571']	13	Diseases & Disorders
+Target-Disorder	True	concept	VEGFR-1	543	550	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	breast cancer	615	628	annotator1,Computer,annotator2,annotator3	['umls/C0000571']	15	Diseases & Disorders
+Target-Disorder	True	concept	VEGF	670	674	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGFR-1	679	686	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGFR-1	721	728	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGF	817	821	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGFR-1	847	854	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	20	Genes & Molecular Sequences
+Target-Disorder	True	concept	breast cancer	865	878	annotator1,Computer,annotator2,annotator3	['umls/C0000571']	21	Diseases & Disorders
+Target-Disorder	True	concept	VEGFR-1	890	897	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGF	929	933	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		954	980	annotator1	['sda/4']	24	Diseases & Disorders
+Target-Disorder	False	concept		968	974	Computer	['umls/C0002994']	29	Diseases & Disorders
+Target-Disorder	True	concept	VEGF	1028	1032	annotator1,Computer,annotator2,annotator3	['uniprot/3002534', 'sda/2']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	VEGFR-1	1033	1040	annotator1,Computer,annotator2,annotator3	['uniprot/3020463']	26	Genes & Molecular Sequences
+Target-Disorder	False	relation	1	4	['uniprot/3020463']	['sda/4']	23:28	91:117	annotator1	PA
+Target-Disorder	True	relation	6	7	['uniprot/3002534', 'sda/2']	['umls/C0000571', 'umls/C0009632', 'umls/C0198280']	167:171	182:195	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	19	21	['uniprot/3002534', 'sda/2']	['umls/C0000571']	817:821	865:878	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	20	21	['uniprot/3020463']	['umls/C0000571']	847:854	865:878	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	22	24	['uniprot/3020463']	['sda/4']	890:897	954:980	annotator1	PA
+Target-Disorder	True	relation	3	2	['uniprot/3002534', 'sda/2']	['umls/C0000571']	66:70	33:46	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	3	27	['uniprot/3002534', 'sda/2']	['umls/C0002994']	66:70	105:111	Computer	PA
+Target-Disorder	True	relation	1	2	['uniprot/3020463']	['umls/C0000571']	23:28	33:46	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	1	27	['uniprot/3020463']	['umls/C0002994']	23:28	105:111	Computer	PA
+Target-Disorder	False	relation	8	11	['sda/1', 'uniprot/3002534', 'sda/2']	['umls/C0002994']	237:251	354:360	Computer	PA
+Target-Disorder	True	relation	10	7	['uniprot/3020463']	['umls/C0000571', 'umls/C0009632', 'umls/C0198280']	334:339	182:195	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	10	11	['uniprot/3020463']	['umls/C0002994']	334:339	354:360	Computer	PA
+Target-Disorder	False	relation	12	28	['uniprot/3002534', 'sda/2']	['umls/C0145980']	427:431	446:451	Computer	PA
+Target-Disorder	False	relation	14	13	['uniprot/3020463']	['umls/C0000571']	543:550	488:501	Computer,annotator3	PA
+Target-Disorder	True	relation	16	15	['uniprot/3002534', 'sda/2']	['umls/C0000571']	670:674	615:628	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	17	15	['uniprot/3020463']	['umls/C0000571']	679:686	615:628	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	23	29	['uniprot/3002534', 'sda/2']	['umls/C0002994']	929:933	968:974	Computer	PA
+Target-Disorder	False	relation	22	29	['uniprot/3020463']	['umls/C0002994']	890:897	968:974	Computer	PA
+Target-Disorder	False	relation	5	7	['uniprot/3002534']	['umls/C0000571', 'umls/C0009632', 'umls/C0198280']	131:165	182:195	annotator3	PA

@@ -1,0 +1,37 @@
+Drug-Disorder	True	concept	methotrexate	0	22	annotator1,annotator4,Computer,annotator5	['sda/1', 'uniprot/6076272', 'uniprot/4501102']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	procarbazine	37	49	annotator1,annotator4,Computer,annotator5	['uniprot/8003280', 'uniprot/4500422']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	CCNU	54	58	annotator1,annotator4,Computer,annotator5	['uniprot/8002353', 'uniprot/4500335']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	CNS lymphoma	63	83	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0084326']	3	Diseases & Disorders
+Drug-Disorder	True	concept	primary central nervous system lymphoma	208	247	annotator1,annotator4,Computer,annotator5	['umls/C0028424']	4	Diseases & Disorders
+Drug-Disorder	False	concept	PCNSL	249	254	annotator1,annotator5	['sda/2', 'sda/1']	5	Diseases & Disorders
+Drug-Disorder	True	concept	methotrexate	302	314	annotator4,Computer,annotator5	['uniprot/6076272', 'uniprot/4501102']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	MTX	316	319	annotator1,annotator4,Computer,annotator5	['uniprot/9018145', 'uniprot/4501102']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	procarbazine	335	347	annotator1,annotator4,Computer,annotator5	['uniprot/8003280', 'uniprot/4500422']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	CCNU	352	356	annotator1,annotator4,Computer,annotator5	['uniprot/8002353', 'uniprot/4500335']	8	Chemicals & Drugs
+Drug-Disorder	False	concept		368	381	annotator5	['sda/4']	24	Diseases & Disorders
+Drug-Disorder	False	concept		451	463	annotator5	['sda/5']	25	Chemicals & Drugs
+Drug-Disorder	True	concept	MTX	487	500	annotator1,annotator4,Computer,annotator5	['sda/2', 'uniprot/9018145', 'uniprot/4501102']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	procarbazine	536	548	annotator1,annotator4,Computer,annotator5	['uniprot/8003280', 'uniprot/4500422']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	CCNU	567	571	annotator1,annotator4,Computer,annotator5	['uniprot/8002353', 'uniprot/4500335']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	PCNSL	729	734	annotator1,annotator5	['sda/2', 'sda/1']	12	Diseases & Disorders
+Drug-Disorder	True	concept	ocular lymphoma	747	770	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0082703']	13	Diseases & Disorders
+Drug-Disorder	False	concept		883	887	Computer	['umls/C0031168']	21	Diseases & Disorders
+Drug-Disorder	False	concept		1033	1053	Computer	['umls/C0016725']	22	Diseases & Disorders
+Drug-Disorder	False	concept		1271	1276	Computer	['umls/C0028922']	23	Diseases & Disorders
+Drug-Disorder	True	concept	leukoencephalopathy	1280	1299	annotator1,annotator4,Computer,annotator5	['umls/C0023558']	14	Diseases & Disorders
+Drug-Disorder	True	concept	MTX	1332	1345	annotator1,annotator4,Computer,annotator5	['sda/2', 'uniprot/9018145', 'uniprot/4501102']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	procarbazine	1351	1363	annotator1,annotator4,Computer,annotator5	['uniprot/8003280', 'uniprot/4500422']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	CCNU	1368	1372	annotator1,annotator4,Computer,annotator5	['uniprot/8002353', 'uniprot/4500335']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	leukoencephalopathy	1428	1447	annotator1,annotator4,Computer,annotator5	['umls/C0023558']	18	Diseases & Disorders
+Drug-Disorder	False	concept		1465	1473	annotator5	['sda/8']	26	Diseases & Disorders
+Drug-Disorder	False	concept	PCNSL	1506	1511	annotator1,annotator5	['sda/2', 'sda/1']	19	Diseases & Disorders
+Drug-Disorder	True	relation	16	18	['uniprot/8003280', 'uniprot/4500422']	['umls/C0023558']	1351:1363	1428:1447	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	17	18	['uniprot/8002353', 'uniprot/4500335']	['umls/C0023558']	1368:1372	1428:1447	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	15	18	['sda/2', 'uniprot/9018145', 'uniprot/4501102']	['umls/C0023558']	1332:1345	1428:1447	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	2	3	['uniprot/8002353', 'uniprot/4500335']	['sda/1', 'umls/C0084326']	54:58	63:83	Computer	PA
+Drug-Disorder	False	relation	0	3	['sda/1', 'uniprot/6076272', 'uniprot/4501102']	['sda/1', 'umls/C0084326']	0:22	63:83	Computer	PA
+Drug-Disorder	False	relation	1	3	['uniprot/8003280', 'uniprot/4500422']	['sda/1', 'umls/C0084326']	37:49	63:83	Computer	PA
+Drug-Disorder	False	relation	8	4	['uniprot/8002353', 'uniprot/4500335']	['umls/C0028424']	352:356	208:247	Computer	PA
+Drug-Disorder	False	relation	20	4	['uniprot/6076272', 'uniprot/4501102']	['umls/C0028424']	302:314	208:247	Computer	PA
+Drug-Disorder	False	relation	7	4	['uniprot/8003280', 'uniprot/4500422']	['umls/C0028424']	335:347	208:247	Computer	PA
+Drug-Disorder	False	relation	25	24	['sda/5']	['sda/4']	451:463	368:381	annotator5	PA

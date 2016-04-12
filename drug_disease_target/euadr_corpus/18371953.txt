@@ -1,0 +1,51 @@
+Drug-Disorder	False	concept		10	22	Computer	['umls/C0078723']	29	Diseases & Disorders
+Drug-Disorder	True	concept	indomethacin	26	38	annotator1,annotator4,Computer,annotator5	['uniprot/4500977', 'uniprot/9012657', 'sda/7']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin ethyl	43	87	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	glioma	96	102	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	2	Diseases & Disorders
+Drug-Disorder	True	concept	Gliomas	134	141	annotator1,Computer,annotator5	['umls/C0001736']	3	Diseases & Disorders
+Drug-Disorder	True	concept	tumors of the central nervous system	178	214	annotator1,annotator4,Computer,annotator5	['umls/C0004850']	4	Diseases & Disorders
+Drug-Disorder	True	concept	nonsteroidal anti-inflammatory drugs	252	288	annotator1,annotator4,annotator5	['sda/3', 'sda/1', 'sda/2']	5	Chemicals & Drugs
+Drug-Disorder	False	concept	NSAIDs	290	296	annotator1,annotator5	['sda/4', 'sda/3']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		312	329	annotator4	['sda/2']	28	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin-loaded nanocapsules	496	528	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin ethyl	533	577	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	glioma	581	587	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	9	Diseases & Disorders
+Drug-Disorder	True	concept	glioma	720	726	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	10	Diseases & Disorders
+Drug-Disorder	True	concept	indomethacin-loaded nanocapsules	849	881	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin	917	941	annotator1,annotator4,Computer,annotator5	['sda/9', 'uniprot/9012657', 'uniprot/4500977', 'sda/7']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	glioma	996	1002	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	13	Diseases & Disorders
+Drug-Disorder	True	concept	Indomethacin	1010	1022	annotator1,annotator4,Computer,annotator5	['uniprot/4500977', 'uniprot/9012657', 'sda/7']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin ethyl ester	1027	1051	annotator1,annotator4,Computer,annotator5	['sda/1', 'sda/6', 'uniprot/4500977', 'sda/11']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	glioma	1144	1150	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	16	Diseases & Disorders
+Drug-Disorder	True	concept	glioma	1193	1199	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	17	Diseases & Disorders
+Drug-Disorder	True	concept	indomethacin-loaded nanocapsules	1235	1267	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin ethyl	1271	1315	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		1319	1327	Computer	['umls/C0002976']	30	Diseases & Disorders
+Drug-Disorder	True	concept	indomethacin-loaded nanocapsules	1380	1412	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	20	Chemicals & Drugs
+Drug-Disorder	False	concept		1477	1485	Computer	['umls/C0002976']	31	Diseases & Disorders
+Drug-Disorder	True	concept	glioma	1489	1495	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	21	Diseases & Disorders
+Drug-Disorder	True	concept	indomethacin-loaded nanocapsules	1596	1628	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	22	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin ethyl	1632	1676	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	glioma	1681	1687	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	24	Diseases & Disorders
+Drug-Disorder	False	concept		1761	1773	Computer	['umls/C0078723']	32	Diseases & Disorders
+Drug-Disorder	True	concept	glioma	1852	1858	annotator1,annotator4,Computer,annotator5	['umls/C0001736', 'sda/4']	25	Diseases & Disorders
+Drug-Disorder	True	concept	indomethacin-loaded nanocapsules	1918	1950	annotator1,annotator4,annotator5	['sda/5', 'sda/3', 'sda/7']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	indomethacin ethyl	1955	1999	annotator1,annotator4,Computer,annotator5	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	27	Chemicals & Drugs
+Drug-Disorder	True	relation	0	2	['uniprot/4500977', 'uniprot/9012657', 'sda/7']	['umls/C0001736', 'sda/4']	26:38	96:102	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	1	2	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0001736', 'sda/4']	43:87	96:102	annotator1,annotator5	PA
+Drug-Disorder	True	relation	8	9	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0001736', 'sda/4']	533:577	581:587	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	7	9	['sda/5', 'sda/3', 'sda/7']	['umls/C0001736', 'sda/4']	496:528	581:587	annotator1,annotator5	PA
+Drug-Disorder	True	relation	11	13	['sda/5', 'sda/3', 'sda/7']	['umls/C0001736', 'sda/4']	849:881	996:1002	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	12	13	['sda/9', 'uniprot/9012657', 'uniprot/4500977', 'sda/7']	['umls/C0001736', 'sda/4']	917:941	996:1002	annotator1,annotator4,Computer	PA
+Drug-Disorder	True	relation	14	16	['uniprot/4500977', 'uniprot/9012657', 'sda/7']	['umls/C0001736', 'sda/4']	1010:1022	1144:1150	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	15	16	['sda/1', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0001736', 'sda/4']	1027:1051	1144:1150	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	19	17	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0001736', 'sda/4']	1271:1315	1193:1199	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	18	17	['sda/5', 'sda/3', 'sda/7']	['umls/C0001736', 'sda/4']	1235:1267	1193:1199	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	20	21	['sda/5', 'sda/3', 'sda/7']	['umls/C0001736', 'sda/4']	1380:1412	1489:1495	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	23	24	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0001736', 'sda/4']	1632:1676	1681:1687	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	22	24	['sda/5', 'sda/3', 'sda/7']	['umls/C0001736', 'sda/4']	1596:1628	1681:1687	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	27	25	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0001736', 'sda/4']	1955:1999	1852:1858	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	26	25	['sda/5', 'sda/3', 'sda/7']	['umls/C0001736', 'sda/4']	1918:1950	1852:1858	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	1	29	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0078723']	43:87	10:22	Computer	PA
+Drug-Disorder	False	relation	19	30	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0002976']	1271:1315	1319:1327	Computer	PA
+Drug-Disorder	False	relation	23	32	['sda/2', 'sda/6', 'uniprot/4500977', 'sda/11']	['umls/C0078723']	1632:1676	1761:1773	Computer	PA

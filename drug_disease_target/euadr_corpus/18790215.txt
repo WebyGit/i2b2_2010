@@ -1,0 +1,14 @@
+Drug-Disorder	True	concept	tacrolimus	810	820	annotator1,annotator4,Computer,annotator5	['uniprot/6290477', 'uniprot/4500123']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	cyclosporine	824	836	annotator1,annotator4,Computer,annotator5	['uniprot/9007897', 'uniprot/4500828']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	mycophenolate mofetil	838	859	annotator1,annotator4,Computer,annotator5	['uniprot/8515537', 'uniprot/4500675']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	methylprednisolone	865	883	annotator1,annotator4,Computer,annotator5	['uniprot/6029903', 'uniprot/4500782']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	immunosuppression	898	915	annotator1,Computer,annotator5	['umls/C0126401']	9	Diseases & Disorders
+Drug-Disorder	True	concept	Basiliximab	917	928	annotator1,annotator4,Computer,annotator5	['uniprot/4003028', 'uniprot/4500706']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	subdural hematoma	1221	1248	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0001888']	11	Diseases & Disorders
+Drug-Disorder	False	concept		1312	1327	annotator1	['sda/2']	12	Diseases & Disorders
+Drug-Disorder	True	concept	complication	1401	1431	annotator1,annotator4,Computer,annotator5	['sda/4', 'umls/C0000923']	13	Diseases & Disorders
+Drug-Disorder	True	concept	infectious	1408	1418	annotator4,Computer,annotator5	['umls/C0000919']	17	Diseases & Disorders
+Drug-Disorder	True	relation	5	9	['uniprot/6290477', 'uniprot/4500123']	['umls/C0126401']	810:820	898:915	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	6	9	['uniprot/9007897', 'uniprot/4500828']	['umls/C0126401']	824:836	898:915	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	7	9	['uniprot/8515537', 'uniprot/4500675']	['umls/C0126401']	838:859	898:915	annotator1,Computer,annotator5	PA
+Drug-Disorder	True	relation	8	9	['uniprot/6029903', 'uniprot/4500782']	['umls/C0126401']	865:883	898:915	annotator1,Computer,annotator5	PA

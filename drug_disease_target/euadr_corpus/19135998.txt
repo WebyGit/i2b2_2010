@@ -1,0 +1,56 @@
+Drug-Disorder	True	concept	chronic hepatitis	31	61	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0001943']	0	Diseases & Disorders
+Drug-Disorder	True	concept	hepatitis C	39	50	annotator4,Computer,annotator5	['umls/C0001947']	36	Diseases & Disorders
+Drug-Disorder	True	concept	nitazoxanide	75	87	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon	89	102	annotator1,annotator4,annotator5	['sda/1']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	108	117	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	chronic hepatitis	226	256	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0001943']	4	Diseases & Disorders
+Drug-Disorder	True	concept	hepatitis C	234	245	annotator4,Computer,annotator5	['umls/C0001947']	37	Diseases & Disorders
+Drug-Disorder	True	concept	peginterferon	270	283	annotator1,annotator4,annotator5	['sda/1']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	289	298	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	327	339	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon alfa-2a	345	366	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	384	393	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	chronic hepatitis	510	527	annotator1,annotator1,annotator4,annotator4,Computer,Computer,annotator5,annotator5	['umls/C0001943', 'umls/C0001947']	10	Diseases & Disorders
+Drug-Disorder	False	concept	infection	534	554	annotator1,Computer	['sda/8', 'umls/C0002244']	11	Diseases & Disorders
+Drug-Disorder	True	concept	peginterferon alfa-2a	622	643	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	648	657	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	681	693	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	731	743	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon alfa-2a	749	770	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	797	809	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	847	859	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon alfa-2a	865	886	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	891	900	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	946	958	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon alfa-2a	981	1002	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	22	Chemicals & Drugs
+Drug-Disorder	False	concept		1033	1039	Computer	['umls/C0046216']	38	Diseases & Disorders
+Drug-Disorder	True	concept	ribavirin	1046	1055	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	23	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	1387	1399	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	25	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon alfa-2a	1405	1426	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	26	Chemicals & Drugs
+Drug-Disorder	True	concept	anemia	1557	1563	annotator1,annotator4,Computer,annotator5	['umls/C0000234']	28	Diseases & Disorders
+Drug-Disorder	True	concept	ribavirin	1588	1597	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	29	Chemicals & Drugs
+Drug-Disorder	True	concept	nitazoxanide	1631	1643	annotator1,annotator4,Computer,annotator5	['uniprot/8510503', 'uniprot/4501276']	30	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon alfa-2a	1645	1666	annotator1,annotator4,annotator4,Computer,annotator5,annotator5	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	31	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	1672	1681	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	32	Chemicals & Drugs
+Drug-Disorder	True	concept	peginterferon	1767	1780	annotator1,annotator4,annotator5	['sda/1']	34	Chemicals & Drugs
+Drug-Disorder	True	concept	ribavirin	1786	1795	annotator1,annotator4,Computer,annotator5	['uniprot/8003503', 'uniprot/4500430']	35	Chemicals & Drugs
+Drug-Disorder	True	relation	6	4	['uniprot/8003503', 'uniprot/4500430']	['sda/2', 'umls/C0001943']	289:298	226:256	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	5	4	['sda/1']	['sda/2', 'umls/C0001943']	270:283	226:256	annotator1,annotator5	PA
+Drug-Disorder	True	relation	29	28	['uniprot/8003503', 'uniprot/4500430']	['umls/C0000234']	1588:1597	1557:1563	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	1	0	['uniprot/8510503', 'uniprot/4501276']	['sda/2', 'umls/C0001943']	75:87	31:61	Computer,annotator5	PA
+Drug-Disorder	False	relation	1	36	['uniprot/8510503', 'uniprot/4501276']	['umls/C0001947']	75:87	39:50	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	0	['uniprot/8003503', 'uniprot/4500430']	['sda/2', 'umls/C0001943']	108:117	31:61	Computer,annotator5	PA
+Drug-Disorder	False	relation	3	36	['uniprot/8003503', 'uniprot/4500430']	['umls/C0001947']	108:117	39:50	Computer,annotator5	PA
+Drug-Disorder	False	relation	6	37	['uniprot/8003503', 'uniprot/4500430']	['umls/C0001947']	289:298	234:245	Computer,annotator5	PA
+Drug-Disorder	False	relation	18	10	['uniprot/8510503', 'uniprot/4501276']	['umls/C0001943', 'umls/C0001947']	847:859	510:527	Computer,annotator5	PA
+Drug-Disorder	False	relation	18	11	['uniprot/8510503', 'uniprot/4501276']	['sda/8', 'umls/C0002244']	847:859	534:554	Computer	PA
+Drug-Disorder	False	relation	20	10	['uniprot/8003503', 'uniprot/4500430']	['umls/C0001943', 'umls/C0001947']	891:900	510:527	Computer,annotator5	PA
+Drug-Disorder	False	relation	20	11	['uniprot/8003503', 'uniprot/4500430']	['sda/8', 'umls/C0002244']	891:900	534:554	Computer	PA
+Drug-Disorder	False	relation	19	10	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	['umls/C0001943', 'umls/C0001947']	865:886	510:527	Computer,annotator5	PA
+Drug-Disorder	False	relation	19	11	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	['sda/8', 'umls/C0002244']	865:886	534:554	Computer	PA
+Drug-Disorder	False	relation	21	38	['uniprot/8510503', 'uniprot/4501276']	['umls/C0046216']	946:958	1033:1039	Computer	PA
+Drug-Disorder	False	relation	23	38	['uniprot/8003503', 'uniprot/4500430']	['umls/C0046216']	1046:1055	1033:1039	Computer	PA
+Drug-Disorder	False	relation	22	38	['sda/6', 'sda/1', 'uniprot/4002719', 'uniprot/4500017']	['umls/C0046216']	981:1002	1033:1039	Computer	PA
+Drug-Disorder	False	relation	2	0	['sda/1']	['sda/2', 'umls/C0001943']	89:102	31:61	annotator5	PA
+Drug-Disorder	False	relation	2	36	['sda/1']	['umls/C0001947']	89:102	39:50	annotator5	PA
+Drug-Disorder	False	relation	5	37	['sda/1']	['umls/C0001947']	270:283	234:245	annotator5	PA

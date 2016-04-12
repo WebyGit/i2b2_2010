@@ -1,0 +1,27 @@
+Drug-Disorder	False	concept	Endothelin-1	0	12	annotator5	['sda/3']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	gingival overgrowth	50	82	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0038345']	1	Diseases & Disorders
+Drug-Disorder	False	concept	endothelin-1	153	165	annotator5	['sda/3']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	ETA	191	194	annotator4,Computer	['uniprot/4501088']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	cyclosporin	231	242	annotator1,annotator4,Computer,annotator5	['uniprot/4500828']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	periodontitis	373	386	annotator1,annotator4,Computer,annotator5	['umls/C0003451']	5	Diseases & Disorders
+Drug-Disorder	True	concept	cyclosporin A	412	425	annotator1,annotator4,Computer,annotator5	['uniprot/4500828']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	CsA	427	430	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/5']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	gingival overgrowth	440	459	annotator1,annotator4,Computer,annotator5	['umls/C0038345']	8	Diseases & Disorders
+Drug-Disorder	False	concept	ETA	582	585	annotator4,Computer	['uniprot/4501088']	20	Chemicals & Drugs
+Drug-Disorder	True	concept	CsA	779	782	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/5']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	CsA	856	859	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/5']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	gingival overgrowth	868	887	annotator1,annotator4,Computer,annotator5	['umls/C0038345']	12	Diseases & Disorders
+Drug-Disorder	True	concept	periodontitis	921	934	annotator1,annotator4,Computer,annotator5	['umls/C0003451']	13	Diseases & Disorders
+Drug-Disorder	False	concept	ETA	953	956	annotator4,Computer	['uniprot/4501088']	21	Chemicals & Drugs
+Drug-Disorder	True	concept	CsA	1085	1088	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/5']	15	Chemicals & Drugs
+Drug-Disorder	True	concept	CsA	1175	1178	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/5']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	CsA	1243	1246	annotator1,annotator4,annotator5	['sda/2', 'sda/1', 'sda/5']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	gingival overgrowth	1255	1274	annotator1,annotator4,Computer,annotator5	['umls/C0038345']	18	Diseases & Disorders
+Drug-Disorder	True	relation	6	8	['uniprot/4500828']	['umls/C0038345']	412:425	440:459	annotator1,Computer,annotator5	PA
+Drug-Disorder	False	relation	7	8	['sda/2', 'sda/1', 'sda/5']	['umls/C0038345']	427:430	440:459	annotator1,annotator5	PA
+Drug-Disorder	False	relation	7	5	['sda/2', 'sda/1', 'sda/5']	['umls/C0003451']	427:430	373:386	annotator1,annotator5	PA
+Drug-Disorder	True	relation	11	12	['sda/2', 'sda/1', 'sda/5']	['umls/C0038345']	856:859	868:887	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	17	18	['sda/2', 'sda/1', 'sda/5']	['umls/C0038345']	1243:1246	1255:1274	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	11	13	['sda/2', 'sda/1', 'sda/5']	['umls/C0003451']	856:859	921:934	annotator4,annotator5	PA
+Drug-Disorder	False	relation	6	5	['uniprot/4500828']	['umls/C0003451']	412:425	373:386	Computer,annotator5	PA
+Drug-Disorder	False	relation	0	1	['sda/3']	['sda/1', 'umls/C0038345']	0:12	50:82	annotator5	PA

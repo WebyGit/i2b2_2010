@@ -1,0 +1,25 @@
+Target-Disorder	False	concept	Hepatitis C	0	11	Computer	['umls/C0001947']	9	Diseases & Disorders
+Target-Disorder	False	concept	Hepatitis C	0	11	annotator3	['sda/2']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		12	17	Computer	['umls/C0004665']	10	Diseases & Disorders
+Target-Disorder	False	concept	hepatitis C	95	106	Computer,annotator3	['umls/C0001947', 'sda/1']	11	Diseases & Disorders
+Target-Disorder	False	concept		107	112	Computer	['umls/C0004665']	12	Diseases & Disorders
+Target-Disorder	False	concept		114	117	annotator3	['sda/1']	15	Diseases & Disorders
+Target-Disorder	True	concept	hepatocellular carcinoma	128	152	annotator1,Computer,annotator2,annotator3	['umls/C0001949']	0	Diseases & Disorders
+Target-Disorder	True	concept	HCC	154	157	annotator1,annotator1,Computer,annotator2,annotator2,annotator3	['uniprot/3057175', 'umls/C0192972', 'sda/2']	1	Diseases & Disorders
+Target-Disorder	False	concept	HCC	154	157	Computer	['uniprot/3057175']	1	Genes & Molecular Sequences
+Target-Disorder	False	concept		441	455	annotator3	['sda/4']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	HCC	494	497	annotator1,annotator1,Computer,annotator2,annotator2,annotator3	['uniprot/3057175', 'umls/C0192972', 'sda/2']	2	Diseases & Disorders
+Target-Disorder	False	concept	HCC	494	497	Computer	['uniprot/3057175']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept		580	589	Computer	['umls/C0002987']	13	Diseases & Disorders
+Target-Disorder	True	concept	HCC	683	686	annotator1,annotator1,Computer,annotator2,annotator2,annotator3	['uniprot/3057175', 'umls/C0192972', 'sda/2']	6	Diseases & Disorders
+Target-Disorder	False	concept	HCC	683	686	Computer	['uniprot/3057175']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	chronic hepatitis C	711	730	annotator1,Computer,Computer,annotator2,annotator3,annotator3	['sda/1', 'umls/C0001943', 'umls/C0001947', 'sda/3']	7	Diseases & Disorders
+Target-Disorder	False	concept		745	758	annotator3	['sda/10']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept		1237	1249	Computer	['umls/C0082204']	14	Diseases & Disorders
+Target-Disorder	True	concept	HCV infection	1290	1303	annotator1,Computer,annotator3	['sda/2', 'umls/C0002244', 'sda/1']	8	Diseases & Disorders
+Target-Disorder	False	relation	1	11	['uniprot/3057175', 'umls/C0192972', 'sda/2']	['umls/C0001947', 'sda/1']	154:157	95:106	Computer	PA
+Target-Disorder	False	relation	1	12	['uniprot/3057175', 'umls/C0192972', 'sda/2']	['umls/C0004665']	154:157	107:112	Computer	PA
+Target-Disorder	False	relation	1	0	['uniprot/3057175', 'umls/C0192972', 'sda/2']	['umls/C0001949']	154:157	128:152	Computer	PA
+Target-Disorder	False	relation	6	7	['uniprot/3057175', 'umls/C0192972', 'sda/2']	['sda/1', 'umls/C0001943', 'umls/C0001947', 'sda/3']	683:686	711:730	Computer	PA
+Target-Disorder	False	relation	6	13	['uniprot/3057175', 'umls/C0192972', 'sda/2']	['umls/C0002987']	683:686	580:589	Computer	PA
+Target-Disorder	False	relation	16	2	['sda/4']	['uniprot/3057175', 'umls/C0192972', 'sda/2']	441:455	494:497	annotator3	SA

@@ -1,0 +1,64 @@
+Target-Drug	True	concept	Flavonoids	0	10	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	True	concept	breast cancer resistance protein	19	51	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	ATP-binding cassette	148	168	annotator1,annotator2,annotator3	['sda/2']	2	Genes & Molecular Sequences
+Target-Drug	True	concept		170	187	annotator1,annotator2,annotator3	['sda/3', 'uniprot/4500967']	3	Genes & Molecular Sequences
+Target-Drug	False	concept		170	187	Computer	['uniprot/4500967']	3	Chemicals & Drugs
+Target-Drug	True	concept	P-glycoprotein	197	211	annotator1,annotator2,annotator3	['sda/4', 'sda/3']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	213	217	annotator1,Computer,annotator2,annotator3	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	breast cancer resistance protein	220	252	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	BCRP	254	258	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3055852', 'sda/5']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	multidrug resistance-related protein 1	265	303	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/2017668']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	MRP1	305	309	annotator1,Computer,annotator2,annotator3	['uniprot/3001794']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	flavonoids	393	403	annotator1,annotator2,annotator3	['sda/1']	10	Chemicals & Drugs
+Target-Drug	True	concept	BCRP	409	413	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3055852', 'sda/5']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	flavonoids	494	504	annotator1,annotator2,annotator3	['sda/1']	12	Chemicals & Drugs
+Target-Drug	True	concept	BCRP	510	514	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	517	521	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/7']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	MRP1	528	532	annotator1,Computer,annotator2,annotator3	['uniprot/3001794']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	flavonoids	588	598	annotator1,annotator2,annotator3	['sda/1']	16	Chemicals & Drugs
+Target-Drug	True	concept	BCRP	604	608	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	611	615	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/7']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	MRP1	621	625	annotator1,Computer,annotator2,annotator3	['uniprot/3001794']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	BCRP	672	676	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	20	Genes & Molecular Sequences
+Target-Drug	False	concept	MDR1	681	685	annotator2,annotator3	['sda/7', 'sda/8']	41	Genes & Molecular Sequences
+Target-Drug	True	concept	BCRP	1053	1057	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3055852', 'sda/5']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	topotecan	1125	1134	annotator1,Computer,annotator2,annotator3	['uniprot/4500127']	24	Chemicals & Drugs
+Target-Drug	True	concept	BCRP	1149	1153	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3055852', 'sda/5']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	3',4',7-trimethoxyflavone	1266	1291	annotator1,annotator2,annotator3	['sda/9', 'sda/8', 'sda/12']	26	Chemicals & Drugs
+Target-Drug	True	concept	BCRP	1318	1322	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	SN-38	1371	1376	annotator1,Computer,annotator2,annotator3	['sda/10', 'uniprot/4500117']	28	Chemicals & Drugs
+Target-Drug	True	concept	mitoxantrone	1395	1407	annotator1,Computer,annotator2,annotator3	['uniprot/4501135']	29	Chemicals & Drugs
+Target-Drug	True	concept	P-gp	1468	1472	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/7']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	MRP1	1478	1482	annotator1,Computer,annotator2,annotator3	['uniprot/3001794']	31	Genes & Molecular Sequences
+Target-Drug	True	concept	3',4',7-trimethoxyflavone	1530	1555	annotator1,annotator2,annotator3	['sda/9', 'sda/8', 'sda/12']	32	Chemicals & Drugs
+Target-Drug	True	concept	acacetin	1560	1568	annotator1,annotator2,annotator3	['sda/13', 'sda/9']	33	Chemicals & Drugs
+Target-Drug	True	concept	P-gp	1591	1595	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/7']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	1667	1671	annotator1,Computer,annotator2,annotator3	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	flavonoids	1685	1695	annotator1,annotator2,annotator3	['sda/1']	36	Chemicals & Drugs
+Target-Drug	True	concept	MRP1	1721	1725	annotator1,Computer,annotator2,annotator3	['uniprot/3001794']	37	Genes & Molecular Sequences
+Target-Drug	True	concept	flavonoids	1783	1793	annotator1,annotator2,annotator3	['sda/1']	38	Chemicals & Drugs
+Target-Drug	True	concept	BCRP	1814	1818	annotator1,Computer,annotator2,annotator3	['sda/6', 'uniprot/3055852', 'sda/5']	39	Genes & Molecular Sequences
+Target-Drug	True	concept	BCRP	1861	1865	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	40	Genes & Molecular Sequences
+Target-Drug	True	relation	0	1	['sda/1']	['uniprot/3055852']	0:10	19:51	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	10	11	['sda/1']	['sda/6', 'uniprot/3055852', 'sda/5']	393:403	409:413	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	12	15	['sda/1']	['uniprot/3001794']	494:504	528:532	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	12	13	['sda/1']	['sda/6', 'sda/5']	494:504	510:514	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	12	14	['sda/1']	['sda/8', 'sda/6', 'sda/7']	494:504	517:521	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	24	23	['uniprot/4500127']	['sda/6', 'uniprot/3055852', 'sda/5']	1125:1134	1053:1057	annotator1,Computer,annotator2	PA
+Target-Drug	True	relation	26	27	['sda/9', 'sda/8', 'sda/12']	['sda/6', 'sda/5']	1266:1291	1318:1322	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	32	35	['sda/9', 'sda/8', 'sda/12']	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	1530:1555	1667:1671	annotator1	NA
+Target-Drug	False	relation	33	35	['sda/13', 'sda/9']	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	1560:1568	1667:1671	annotator1	NA
+Target-Drug	True	relation	36	37	['sda/1']	['uniprot/3001794']	1685:1695	1721:1725	annotator1,annotator2,annotator3	NA
+Target-Drug	True	relation	38	39	['sda/1']	['sda/6', 'uniprot/3055852', 'sda/5']	1783:1793	1814:1818	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	3	7	['sda/3', 'uniprot/4500967']	['sda/6', 'uniprot/3055852', 'sda/5']	170:187	254:258	Computer	PA
+Target-Drug	False	relation	3	5	['sda/3', 'uniprot/4500967']	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	170:187	213:217	Computer	PA
+Target-Drug	False	relation	3	8	['sda/3', 'uniprot/4500967']	['sda/5', 'uniprot/2017668']	170:187	265:303	Computer	PA
+Target-Drug	False	relation	3	9	['sda/3', 'uniprot/4500967']	['uniprot/3001794']	170:187	305:309	Computer	PA
+Target-Drug	False	relation	16	19	['sda/1']	['uniprot/3001794']	588:598	621:625	annotator2,annotator3	SA
+Target-Drug	False	relation	16	20	['sda/1']	['sda/6', 'sda/5']	588:598	672:676	annotator2,annotator3	SA
+Target-Drug	False	relation	16	18	['sda/1']	['sda/8', 'sda/6', 'sda/7']	588:598	611:615	annotator2,annotator3	SA
+Target-Drug	False	relation	16	41	['sda/1']	['sda/7', 'sda/8']	588:598	681:685	annotator2,annotator3	SA
+Target-Drug	False	relation	28	27	['sda/10', 'uniprot/4500117']	['sda/6', 'sda/5']	1371:1376	1318:1322	annotator2,annotator3	PA
+Target-Drug	False	relation	29	27	['uniprot/4501135']	['sda/6', 'sda/5']	1395:1407	1318:1322	annotator2,annotator3	PA
+Target-Drug	False	relation	32	35	['sda/9', 'sda/8', 'sda/12']	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	1530:1555	1667:1671	annotator2,annotator3	PA
+Target-Drug	False	relation	33	35	['sda/13', 'sda/9']	['sda/8', 'uniprot/2106820', 'sda/6', 'sda/7']	1560:1568	1667:1671	annotator2,annotator3	PA

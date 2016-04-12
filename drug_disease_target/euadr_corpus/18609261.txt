@@ -1,0 +1,36 @@
+Drug-Disorder	True	concept	Hypogonadism	0	12	annotator1,annotator4,Computer,annotator5	['umls/C0002173']	0	Diseases & Disorders
+Drug-Disorder	True	concept	Wegener's granulomatosis	16	40	annotator1,annotator4,Computer,annotator5	['umls/C0004707']	1	Diseases & Disorders
+Drug-Disorder	True	concept	Wegener's granulomatosis	95	119	annotator1,annotator4,Computer,annotator5	['umls/C0004707']	2	Diseases & Disorders
+Drug-Disorder	False	concept	WG	121	123	annotator1,annotator5	['sda/1']	3	Diseases & Disorders
+Drug-Disorder	False	concept		178	191	Computer	['umls/C0000923']	23	Diseases & Disorders
+Drug-Disorder	False	concept		204	211	Computer	['umls/C0001185']	24	Diseases & Disorders
+Drug-Disorder	False	concept	WG	292	294	annotator1,annotator5	['sda/1']	4	Diseases & Disorders
+Drug-Disorder	False	concept		352	367	annotator4	['sda/2']	15	Chemicals & Drugs
+Drug-Disorder	False	concept	WG	379	381	annotator1,annotator5	['sda/1']	5	Diseases & Disorders
+Drug-Disorder	False	concept		406	413	Computer	['umls/C0001185']	25	Diseases & Disorders
+Drug-Disorder	False	concept		558	565	Computer	['umls/C0001185']	26	Diseases & Disorders
+Drug-Disorder	False	concept	gonadotrophins	635	649	annotator4,annotator5	['sda/1', 'sda/2']	16	Chemicals & Drugs
+Drug-Disorder	True	concept	oestradiol	651	661	annotator4,Computer,annotator5	['uniprot/4500792']	17	Chemicals & Drugs
+Drug-Disorder	True	concept	testosterone	679	691	annotator4,Computer,annotator5	['uniprot/4500546']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	Hypogonadism	693	705	annotator1,annotator4,Computer,annotator5	['umls/C0002173']	7	Diseases & Disorders
+Drug-Disorder	False	concept		766	769	annotator5	['sda/5']	28	Chemicals & Drugs
+Drug-Disorder	True	concept	testosterone	839	851	annotator4,Computer,annotator5	['uniprot/4500546']	19	Chemicals & Drugs
+Drug-Disorder	True	concept	Hypogonadism	911	923	annotator1,annotator4,Computer,annotator5	['umls/C0002173']	8	Diseases & Disorders
+Drug-Disorder	False	concept	systemic vasculitis	1070	1089	annotator4,annotator5	['sda/10', 'sda/4']	20	Diseases & Disorders
+Drug-Disorder	True	concept	testosterone	1147	1159	annotator4,Computer,annotator5	['uniprot/4500546']	21	Chemicals & Drugs
+Drug-Disorder	False	concept		1163	1166	annotator5	['sda/5']	29	Chemicals & Drugs
+Drug-Disorder	True	concept	cyclophosphamide	1228	1244	annotator1,annotator4,Computer,annotator5	['uniprot/4501022']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	corticosteroids	1248	1263	annotator1,annotator4,annotator5	['sda/2', 'sda/4', 'sda/6']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	hypogonadism	1376	1388	annotator1,annotator4,Computer,annotator5	['umls/C0002173']	11	Diseases & Disorders
+Drug-Disorder	True	concept	cyclophosphamide	1405	1421	annotator1,annotator4,Computer,annotator5	['uniprot/4501022']	12	Chemicals & Drugs
+Drug-Disorder	False	concept	testes	1462	1468	annotator4,Computer	['umls/C0004324']	22	Diseases & Disorders
+Drug-Disorder	True	concept	vasculitis	1476	1486	annotator1,annotator4,Computer,annotator5	['umls/C0004629', 'sda/9']	13	Diseases & Disorders
+Drug-Disorder	False	concept		1566	1573	Computer	['umls/C0001185']	27	Diseases & Disorders
+Drug-Disorder	True	concept	hypogonadism	1591	1603	annotator1,annotator4,Computer,annotator5	['umls/C0002173']	14	Diseases & Disorders
+Drug-Disorder	True	relation	12	11	['uniprot/4501022']	['umls/C0002173']	1405:1421	1376:1388	annotator1,annotator4,annotator5	NA
+Drug-Disorder	False	relation	12	22	['uniprot/4501022']	['umls/C0004324']	1405:1421	1462:1468	annotator4	NA
+Drug-Disorder	True	relation	12	13	['uniprot/4501022']	['umls/C0004629', 'sda/9']	1405:1421	1476:1486	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	19	7	['uniprot/4500546']	['umls/C0002173']	839:851	693:705	Computer,annotator5	PA
+Drug-Disorder	False	relation	12	11	['uniprot/4501022']	['umls/C0002173']	1405:1421	1376:1388	Computer	PA
+Drug-Disorder	False	relation	12	22	['uniprot/4501022']	['umls/C0004324']	1405:1421	1462:1468	Computer	PA
+Drug-Disorder	False	relation	28	7	['sda/5']	['umls/C0002173']	766:769	693:705	annotator5	PA

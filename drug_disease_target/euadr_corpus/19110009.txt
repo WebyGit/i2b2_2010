@@ -1,0 +1,82 @@
+Target-Disorder	True	concept	Fetuin-A	0	8	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	arterial stiffness	13	31	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0048252', 'sda/2']	1	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	114	122	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	AHSG	130	134	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept	Thr256Ser	156	165	annotator1,annotator2	['sda/8', 'sda/4']	4	SNP & Sequence variations
+Target-Disorder	False	concept	Thr256Ser	156	165	annotator3	['sda/3']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept		171	188	annotator3	['sda/14']	42	Diseases & Disorders
+Target-Disorder	False	concept		276	280	annotator3	['sda/6']	43	Diseases & Disorders
+Target-Disorder	False	concept		301	325	annotator2	['sda/5']	36	Diseases & Disorders
+Target-Disorder	True	concept	Fetuin-A	327	335	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	calcification inhibitor	341	364	annotator1,annotator3	['sda/3', 'sda/4']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	calcification inhibitor	341	364	Computer,annotator2	['umls/C0009549']	6	Diseases & Disorders
+Target-Disorder	True	concept	vascular stiffness	406	424	annotator1,Computer,annotator2,annotator3	['sda/4', 'umls/C0048252', 'sda/6', 'sda/5']	7	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	451	459	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept	Thr256Ser	474	483	annotator1,annotator2	['sda/8', 'sda/4']	9	SNP & Sequence variations
+Target-Disorder	False	concept	Thr256Ser	474	483	annotator3	['sda/3']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept		512	525	annotator3	['sda/18']	44	Diseases & Disorders
+Target-Disorder	True	concept	vascular calcification	542	564	annotator1,Computer,annotator2,annotator3	['umls/C0033345']	10	Diseases & Disorders
+Target-Disorder	False	concept		587	593	Computer	['umls/C0002582']	32	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	621	629	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	arterial stiffness	681	699	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0048252', 'sda/2']	12	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	894	902	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept	Thr256Ser	923	932	annotator1,annotator2	['sda/8', 'sda/4']	15	SNP & Sequence variations
+Target-Disorder	False	concept	Thr256Ser	923	932	annotator3	['sda/3']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	arterial stiffness	949	967	annotator1,Computer,annotator2,annotator3	['sda/1', 'umls/C0048252', 'sda/2']	16	Diseases & Disorders
+Target-Disorder	False	concept		977	981	annotator3	['sda/6']	45	Diseases & Disorders
+Target-Disorder	False	concept		986	1009	annotator3	['sda/7']	46	Diseases & Disorders
+Target-Disorder	True	concept	Fetuin-A	1037	1045	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept		1085	1089	annotator3	['sda/6']	47	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	1156	1164	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept		1207	1211	annotator3	['sda/6']	48	Diseases & Disorders
+Target-Disorder	False	concept		1260	1288	annotator1	['sda/6']	19	SNP & Sequence variations
+Target-Disorder	True	concept	fetuin-A	1265	1273	Computer,annotator2,annotator3	['uniprot/3001225']	33	Genes & Molecular Sequences
+Target-Disorder	False	concept	SerSer	1274	1280	annotator2	['sda/15']	37	SNP & Sequence variations
+Target-Disorder	False	concept	SerSer	1274	1280	annotator3	['sda/9']	37	Genes & Molecular Sequences
+Target-Disorder	True	concept	fetuin-A	1299	1307	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	20	Genes & Molecular Sequences
+Target-Disorder	False	concept		1326	1330	annotator3	['sda/6']	49	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	1332	1340	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	21	Genes & Molecular Sequences
+Target-Disorder	False	concept		1365	1369	annotator3	['sda/6']	50	Diseases & Disorders
+Target-Disorder	False	concept	ThrThr	1402	1408	annotator1,annotator2	['sda/7', 'sda/16']	22	SNP & Sequence variations
+Target-Disorder	False	concept	ThrThr	1402	1408	annotator3	['sda/10']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	fetuin-A	1410	1418	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		1444	1448	annotator3	['sda/6']	51	Diseases & Disorders
+Target-Disorder	False	concept	ThrSer	1469	1483	annotator1,annotator2	['sda/2', 'sda/17']	24	SNP & Sequence variations
+Target-Disorder	False	concept	ThrSer	1469	1483	annotator3	['sda/11']	24	Genes & Molecular Sequences
+Target-Disorder	True	concept	fetuin-A	1485	1493	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	25	Genes & Molecular Sequences
+Target-Disorder	False	concept		1519	1523	annotator3	['sda/6']	52	Diseases & Disorders
+Target-Disorder	True	concept	stiffness	1613	1622	Computer,annotator2,annotator3	['umls/C0048252', 'sda/1', 'sda/2']	34	Diseases & Disorders
+Target-Disorder	True	concept	fetuin-A	1683	1691	annotator1,Computer,annotator2,annotator3	['uniprot/3001225']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept		1730	1734	annotator3	['sda/6']	53	Diseases & Disorders
+Target-Disorder	False	concept		1770	1799	annotator1	['sda/8']	29	SNP & Sequence variations
+Target-Disorder	True	concept	fetuin-A	1775	1783	Computer,annotator2,annotator3	['uniprot/3001225']	35	Genes & Molecular Sequences
+Target-Disorder	False	concept	SerSer	1784	1790	annotator2	['sda/15']	41	SNP & Sequence variations
+Target-Disorder	False	concept	SerSer	1784	1790	annotator3	['sda/9']	41	Genes & Molecular Sequences
+Target-Disorder	True	concept	aortic stiffness	1830	1846	annotator1,Computer,annotator2,annotator3	['sda/10', 'umls/C0048252', 'sda/18', 'sda/37']	30	Diseases & Disorders
+Target-Disorder	False	concept	cardiovascular risk	1888	1907	annotator1,annotator3	['sda/11', 'sda/12']	31	Diseases & Disorders
+Target-Disorder	True	relation	5	7	['uniprot/3001225']	['sda/4', 'umls/C0048252', 'sda/6', 'sda/5']	327:335	406:424	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	9	10	['sda/8', 'sda/4', 'sda/3']	['umls/C0033345']	474:483	542:564	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	11	12	['uniprot/3001225']	['sda/1', 'umls/C0048252', 'sda/2']	621:629	681:699	annotator1,Computer	SA
+Target-Disorder	False	relation	29	30	['sda/8']	['sda/10', 'umls/C0048252', 'sda/18', 'sda/37']	1770:1799	1830:1846	annotator1	PA
+Target-Disorder	False	relation	29	31	['sda/8']	['sda/11', 'sda/12']	1770:1799	1888:1907	annotator1	SA
+Target-Disorder	False	relation	0	1	['uniprot/3001225']	['sda/1', 'umls/C0048252', 'sda/2']	0:8	13:31	Computer	PA
+Target-Disorder	False	relation	5	6	['uniprot/3001225']	['sda/3', 'umls/C0009549', 'sda/4']	327:335	341:364	Computer,annotator2	PA
+Target-Disorder	True	relation	8	10	['uniprot/3001225']	['umls/C0033345']	451:459	542:564	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	11	32	['uniprot/3001225']	['umls/C0002582']	621:629	587:593	Computer	PA
+Target-Disorder	False	relation	14	16	['uniprot/3001225']	['sda/1', 'umls/C0048252', 'sda/2']	894:902	949:967	Computer	PA
+Target-Disorder	True	relation	35	30	['uniprot/3001225']	['sda/10', 'umls/C0048252', 'sda/18', 'sda/37']	1775:1783	1830:1846	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	41	30	['sda/15', 'sda/9']	['sda/10', 'umls/C0048252', 'sda/18', 'sda/37']	1784:1790	1830:1846	annotator2,annotator3	PA
+Target-Disorder	False	relation	3	42	['uniprot/3001225']	['sda/14']	130:134	171:188	annotator3	SA
+Target-Disorder	False	relation	4	42	['sda/8', 'sda/4', 'sda/3']	['sda/14']	156:165	171:188	annotator3	SA
+Target-Disorder	False	relation	6	7	['sda/3', 'umls/C0009549', 'sda/4']	['sda/4', 'umls/C0048252', 'sda/6', 'sda/5']	341:364	406:424	annotator3	PA
+Target-Disorder	False	relation	8	44	['uniprot/3001225']	['sda/18']	451:459	512:525	annotator3	PA
+Target-Disorder	False	relation	9	44	['sda/8', 'sda/4', 'sda/3']	['sda/18']	474:483	512:525	annotator3	PA
+Target-Disorder	False	relation	17	47	['uniprot/3001225']	['sda/6']	1037:1045	1085:1089	annotator3	PA
+Target-Disorder	False	relation	18	48	['uniprot/3001225']	['sda/6']	1156:1164	1207:1211	annotator3	PA
+Target-Disorder	False	relation	33	52	['uniprot/3001225']	['sda/6']	1265:1273	1519:1523	annotator3	PA
+Target-Disorder	False	relation	37	52	['sda/15', 'sda/9']	['sda/6']	1274:1280	1519:1523	annotator3	PA
+Target-Disorder	False	relation	22	52	['sda/7', 'sda/16', 'sda/10']	['sda/6']	1402:1408	1519:1523	annotator3	NA
+Target-Disorder	False	relation	24	52	['sda/2', 'sda/17', 'sda/11']	['sda/6']	1469:1483	1519:1523	annotator3	NA
+Target-Disorder	False	relation	28	53	['uniprot/3001225']	['sda/6']	1683:1691	1730:1734	annotator3	PA
+Target-Disorder	False	relation	35	31	['uniprot/3001225']	['sda/11', 'sda/12']	1775:1783	1888:1907	annotator3	PA
+Target-Disorder	False	relation	41	31	['sda/15', 'sda/9']	['sda/11', 'sda/12']	1784:1790	1888:1907	annotator3	PA

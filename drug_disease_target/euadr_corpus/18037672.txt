@@ -1,0 +1,56 @@
+Drug-Disorder	True	concept	esmolol	36	43	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	hypertensive	55	67	annotator1,annotator5	['sda/1']	1	Diseases & Disorders
+Drug-Disorder	True	concept	haemodynamic instability	156	180	annotator1,annotator4,Computer	['umls/C0107399', 'sda/1']	2	Diseases & Disorders
+Drug-Disorder	False	concept	complications	205	218	annotator1,Computer	['umls/C0003607']	3	Diseases & Disorders
+Drug-Disorder	False	concept	nausea	227	233	Computer,annotator5	['umls/C0002969']	27	Diseases & Disorders
+Drug-Disorder	False	concept	vomiting	235	243	Computer,annotator5	['umls/C0004689']	28	Diseases & Disorders
+Drug-Disorder	False	concept	pain	249	253	Computer,annotator5	['umls/C0003308']	29	Diseases & Disorders
+Drug-Disorder	True	concept	esmolol	255	262	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	alfentanil	288	298	annotator1,annotator4,Computer,annotator5	['uniprot/4500487', 'uniprot/6196435']	5	Chemicals & Drugs
+Drug-Disorder	True	concept	hypertension	333	345	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	6	Diseases & Disorders
+Drug-Disorder	False	concept		414	417	Computer	['uniprot/4501081']	30	Chemicals & Drugs
+Drug-Disorder	True	concept	hypertension	452	464	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	7	Diseases & Disorders
+Drug-Disorder	True	concept	esmolol	547	554	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	8	Chemicals & Drugs
+Drug-Disorder	True	concept	esmolol	610	617	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	9	Chemicals & Drugs
+Drug-Disorder	False	concept		687	703	annotator1	['sda/2']	10	Chemicals & Drugs
+Drug-Disorder	True	concept	esmolol	717	724	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	11	Chemicals & Drugs
+Drug-Disorder	False	concept	nausea	904	910	Computer,annotator5	['umls/C0002969']	31	Diseases & Disorders
+Drug-Disorder	True	concept	Esmolol	946	953	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	12	Chemicals & Drugs
+Drug-Disorder	False	concept		1042	1053	annotator1	['sda/3']	13	Chemicals & Drugs
+Drug-Disorder	True	concept	esmolol	1085	1092	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	14	Chemicals & Drugs
+Drug-Disorder	False	concept		1108	1119	annotator1	['sda/3']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		1219	1229	annotator1	['sda/4']	16	Chemicals & Drugs
+Drug-Disorder	False	concept	PONV	1258	1262	annotator1,Computer	['umls/C0060480']	17	Diseases & Disorders
+Drug-Disorder	True	concept	alfentanil	1299	1309	annotator1,annotator4,Computer,annotator5	['uniprot/4500487', 'uniprot/6196435']	18	Chemicals & Drugs
+Drug-Disorder	True	concept	propofol	1311	1319	annotator1,annotator4,Computer,annotator5	['uniprot/4501090', 'uniprot/8558176']	19	Chemicals & Drugs
+Drug-Disorder	False	concept		1335	1346	annotator1	['sda/3']	20	Chemicals & Drugs
+Drug-Disorder	False	concept	PONV	1413	1417	annotator1,Computer	['umls/C0060480']	21	Diseases & Disorders
+Drug-Disorder	True	concept	motion sickness	1421	1436	annotator1,annotator4,Computer,annotator5	['umls/C0002846']	22	Diseases & Disorders
+Drug-Disorder	False	concept		1462	1473	Computer	['umls/C0010068']	32	Diseases & Disorders
+Drug-Disorder	True	concept	Esmolol	1549	1556	annotator1,annotator4,Computer,annotator5	['uniprot/4500122', 'uniprot/6230947']	23	Chemicals & Drugs
+Drug-Disorder	False	concept	hypertensive	1646	1658	annotator1,annotator5	['sda/1']	24	Diseases & Disorders
+Drug-Disorder	True	concept	alfentanil	1711	1721	annotator1,annotator4,Computer,annotator5	['uniprot/4500487', 'uniprot/6196435']	25	Chemicals & Drugs
+Drug-Disorder	False	concept	PONV	1778	1782	annotator1,Computer	['umls/C0060480']	26	Diseases & Disorders
+Drug-Disorder	False	relation	23	24	['uniprot/4500122', 'uniprot/6230947']	['sda/1']	1549:1556	1646:1658	annotator1,annotator5	PA
+Drug-Disorder	False	relation	25	26	['uniprot/4500487', 'uniprot/6196435']	['umls/C0060480']	1711:1721	1778:1782	annotator1,Computer	PA
+Drug-Disorder	False	relation	18	22	['uniprot/4500487', 'uniprot/6196435']	['umls/C0002846']	1299:1309	1421:1436	annotator4,annotator5	NA
+Drug-Disorder	False	relation	19	22	['uniprot/4501090', 'uniprot/8558176']	['umls/C0002846']	1311:1319	1421:1436	annotator4,annotator5	NA
+Drug-Disorder	False	relation	4	2	['uniprot/4500122', 'uniprot/6230947']	['umls/C0107399', 'sda/1']	255:262	156:180	Computer	PA
+Drug-Disorder	False	relation	4	3	['uniprot/4500122', 'uniprot/6230947']	['umls/C0003607']	255:262	205:218	Computer	PA
+Drug-Disorder	False	relation	4	27	['uniprot/4500122', 'uniprot/6230947']	['umls/C0002969']	255:262	227:233	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	28	['uniprot/4500122', 'uniprot/6230947']	['umls/C0004689']	255:262	235:243	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	29	['uniprot/4500122', 'uniprot/6230947']	['umls/C0003308']	255:262	249:253	Computer,annotator5	PA
+Drug-Disorder	False	relation	4	6	['uniprot/4500122', 'uniprot/6230947']	['umls/C0002137']	255:262	333:345	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	2	['uniprot/4500487', 'uniprot/6196435']	['umls/C0107399', 'sda/1']	288:298	156:180	Computer	PA
+Drug-Disorder	False	relation	5	3	['uniprot/4500487', 'uniprot/6196435']	['umls/C0003607']	288:298	205:218	Computer	PA
+Drug-Disorder	False	relation	5	27	['uniprot/4500487', 'uniprot/6196435']	['umls/C0002969']	288:298	227:233	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	28	['uniprot/4500487', 'uniprot/6196435']	['umls/C0004689']	288:298	235:243	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	29	['uniprot/4500487', 'uniprot/6196435']	['umls/C0003308']	288:298	249:253	Computer,annotator5	PA
+Drug-Disorder	False	relation	5	6	['uniprot/4500487', 'uniprot/6196435']	['umls/C0002137']	288:298	333:345	Computer,annotator5	PA
+Drug-Disorder	False	relation	9	7	['uniprot/4500122', 'uniprot/6230947']	['umls/C0002137']	610:617	452:464	Computer,annotator5	PA
+Drug-Disorder	False	relation	30	7	['uniprot/4501081']	['umls/C0002137']	414:417	452:464	Computer	PA
+Drug-Disorder	False	relation	18	21	['uniprot/4500487', 'uniprot/6196435']	['umls/C0060480']	1299:1309	1413:1417	Computer	PA
+Drug-Disorder	False	relation	18	22	['uniprot/4500487', 'uniprot/6196435']	['umls/C0002846']	1299:1309	1421:1436	Computer	PA
+Drug-Disorder	False	relation	19	21	['uniprot/4501090', 'uniprot/8558176']	['umls/C0060480']	1311:1319	1413:1417	Computer	PA
+Drug-Disorder	False	relation	19	22	['uniprot/4501090', 'uniprot/8558176']	['umls/C0002846']	1311:1319	1421:1436	Computer	PA
+Drug-Disorder	False	relation	0	1	['uniprot/4500122', 'uniprot/6230947']	['sda/1']	36:43	55:67	annotator5	PA

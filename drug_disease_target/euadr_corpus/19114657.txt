@@ -1,0 +1,40 @@
+Target-Disorder	True	concept	STK39	58	63	annotator1,Computer,annotator2,annotator3	['uniprot/3022739']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	hypertension	69	81	annotator1,Computer,annotator2,annotator3	['umls/C0002137']	1	Diseases & Disorders
+Target-Disorder	True	concept	Hypertension	103	115	annotator1,Computer,annotator2,annotator3	['umls/C0002137']	2	Diseases & Disorders
+Target-Disorder	False	concept		209	217	Computer	['umls/C0001185']	13	Diseases & Disorders
+Target-Disorder	False	concept	SBP	327	330	Computer	['uniprot/3000813']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept	SBP	327	330	annotator3	['sda/5']	14	Diseases & Disorders
+Target-Disorder	False	concept	DBP	335	338	Computer	['uniprot/3000358']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept	DBP	335	338	annotator3	['uniprot/3000358']	15	Diseases & Disorders
+Target-Disorder	False	concept	serine/threonine kinase	421	444	annotator1,annotator3	['sda/1']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	STK39	451	456	annotator1,Computer,annotator2,annotator3	['uniprot/3022739']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	Diabetes	560	568	Computer,annotator2,annotator3	['umls/C0001136', 'umls/C0001139']	16	Diseases & Disorders
+Target-Disorder	False	concept		710	712	annotator3	['sda/13']	20	Diseases & Disorders
+Target-Disorder	False	concept	SBP	811	814	Computer	['uniprot/3000813']	17	Genes & Molecular Sequences
+Target-Disorder	False	concept	SBP	811	814	annotator3	['sda/5']	17	Diseases & Disorders
+Target-Disorder	False	concept	DBP	815	818	Computer	['uniprot/3000358']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept	DBP	815	818	annotator3	['uniprot/3000358']	18	Diseases & Disorders
+Target-Disorder	True	concept	STK39	968	973	annotator1,Computer,annotator2,annotator3	['uniprot/3022739']	5	Genes & Molecular Sequences
+Target-Disorder	False	concept	WNK	989	992	annotator1,annotator3	['sda/1', 'sda/15']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	cation-chloride cotransporters	1005	1035	annotator1,annotator3	['sda/2', 'sda/16']	7	Genes & Molecular Sequences
+Target-Disorder	False	concept	mutations	1037	1046	Computer,annotator2	['umls/C0158858']	19	Diseases & Disorders
+Target-Disorder	False	concept	BP	1081	1097	annotator1,annotator3	['sda/3', 'sda/13']	8	Diseases & Disorders
+Target-Disorder	True	concept	STK39	1128	1133	annotator1,Computer,annotator2,annotator3	['uniprot/3022739']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	STK39	1473	1478	annotator1,Computer,annotator2,annotator3	['uniprot/3022739']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept		1493	1495	annotator3	['sda/13']	21	Diseases & Disorders
+Target-Disorder	True	concept	STK39	1510	1515	annotator1,Computer,annotator2,annotator3	['uniprot/3022739', 'sda/14']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept		1553	1561	annotator3	['sda/4']	22	Diseases & Disorders
+Target-Disorder	False	concept		1606	1608	annotator3	['sda/13']	23	Diseases & Disorders
+Target-Disorder	True	relation	0	1	['uniprot/3022739']	['umls/C0002137']	58:63	69:81	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	7	8	['sda/2', 'sda/16']	['sda/3', 'sda/13']	1005:1035	1081:1097	annotator1,annotator3	PA
+Target-Disorder	False	relation	5	19	['uniprot/3022739']	['umls/C0158858']	968:973	1037:1046	annotator2	PA
+Target-Disorder	False	relation	4	15	['uniprot/3022739']	['uniprot/3000358']	451:456	335:338	annotator3	PA
+Target-Disorder	False	relation	4	14	['uniprot/3022739']	['uniprot/3000813', 'sda/5']	451:456	327:330	annotator3	PA
+Target-Disorder	False	relation	3	15	['sda/1']	['uniprot/3000358']	421:444	335:338	annotator3	PA
+Target-Disorder	False	relation	3	14	['sda/1']	['uniprot/3000813', 'sda/5']	421:444	327:330	annotator3	PA
+Target-Disorder	False	relation	5	8	['uniprot/3022739']	['sda/3', 'sda/13']	968:973	1081:1097	annotator3	PA
+Target-Disorder	False	relation	6	8	['sda/1', 'sda/15']	['sda/3', 'sda/13']	989:992	1081:1097	annotator3	PA
+Target-Disorder	False	relation	11	23	['uniprot/3022739']	['sda/13']	1473:1478	1606:1608	annotator3	PA
+Target-Disorder	False	relation	11	22	['uniprot/3022739']	['sda/4']	1473:1478	1553:1561	annotator3	PA
+Target-Disorder	False	relation	12	23	['uniprot/3022739', 'sda/14']	['sda/13']	1510:1515	1606:1608	annotator3	PA
+Target-Disorder	False	relation	12	22	['uniprot/3022739', 'sda/14']	['sda/4']	1510:1515	1553:1561	annotator3	PA

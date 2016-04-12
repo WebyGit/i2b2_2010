@@ -1,0 +1,137 @@
+Target-Disorder	True	concept	growth hormone-releasing hormone receptor	13	81	annotator1,Computer,annotator2,annotator3	['sda/12', 'uniprot/3000640']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	growth hormone-secreting pituitary adenoma	96	138	annotator1,Computer,annotator2,annotator3	['umls/C0035908', 'sda/28']	1	Diseases & Disorders
+Target-Disorder	False	concept	Gsalpha mutation	144	168	annotator1	['sda/13']	2	SNP & Sequence variations
+Target-Disorder	False	concept	Gsalpha mutation	144	168	Computer	['umls/C0158858']	2	Diseases & Disorders
+Target-Disorder	False	concept	Gsalpha mutation	144	168	annotator2	['sda/1']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	Growth hormone-releasing hormone	170	202	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/3007731']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRH	204	208	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept	GH	261	263	annotator1,annotator2	['sda/3', 'sda/5']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRH receptor	333	346	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3000640']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR	348	353	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/3000640']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRH	371	375	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	GH-secreting pituitary adenoma	426	456	annotator1,Computer,annotator2,annotator3	['sda/6', 'umls/C0003522', 'sda/8']	9	Diseases & Disorders
+Target-Disorder	False	concept	GH-secreting pituitary adenoma	426	456	annotator2	['sda/5']	9	Genes & Molecular Sequences
+Target-Disorder	False	concept	Somatic mutations in the subunit of Gsalpha protein	464	515	annotator1,annotator3	['sda/15', 'sda/10']	10	SNP & Sequence variations
+Target-Disorder	False	concept	Somatic mutations in the subunit of Gsalpha protein	464	515	Computer	['umls/C0062522']	10	Diseases & Disorders
+Target-Disorder	False	concept		500	507	annotator2	['sda/1']	54	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp	517	520	annotator1,annotator2	['sda/8', 'sda/6']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	adenylyl cyclase	562	578	annotator1,Computer,annotator2,annotator3	['uniprot/3000866']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	pituitary adenomas GH	582	616	annotator1,Computer,annotator2,annotator3	['sda/14', 'umls/C0003522']	13	Diseases & Disorders
+Target-Disorder	False	concept	pituitary adenomas GH	582	616	annotator2	['sda/5']	13	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutations	647	660	annotator1,annotator3	['sda/9', 'sda/37']	14	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutations	647	660	Computer	['umls/C0158858']	14	Diseases & Disorders
+Target-Disorder	False	concept	gsp mutations	647	660	annotator2	['sda/6']	14	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR	671	676	annotator1,Computer,annotator2,annotator3	['sda/5', 'uniprot/3000640']	15	Genes & Molecular Sequences
+Target-Disorder	True	concept	GH-secreting adenomas	691	712	annotator1,Computer,annotator2,annotator3	['sda/10', 'umls/C0000095', 'sda/3']	16	Diseases & Disorders
+Target-Disorder	False	concept	GH-secreting adenomas	691	712	annotator2	['sda/5']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR	761	793	annotator1,Computer,annotator2,annotator3	['sda/11', 'uniprot/3000640']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	pituitary adenomas	804	835	annotator1,Computer,annotator2,annotator3	['sda/16', 'umls/C0003522']	18	Diseases & Disorders
+Target-Disorder	False	concept	pituitary adenomas	804	835	annotator2	['sda/5']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation	850	862	annotator1,annotator3	['sda/17', 'sda/16']	19	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutation	850	862	Computer	['umls/C0158858']	19	Diseases & Disorders
+Target-Disorder	False	concept	gsp mutation	850	862	annotator2	['sda/6']	19	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRH	907	911	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	20	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR mRNA	933	943	annotator1,Computer,annotator2,annotator3	['sda/18', 'uniprot/3000640', 'sda/40']	21	Genes & Molecular Sequences
+Target-Disorder	True	concept	GH-secreting pituitary adenoma	967	997	annotator1,Computer,annotator2,annotator3	['sda/6', 'umls/C0003522', 'sda/8']	22	Diseases & Disorders
+Target-Disorder	False	concept	GH-secreting pituitary adenoma	967	997	annotator2	['sda/5']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR mRNA	1005	1015	annotator1,Computer,annotator2,annotator3	['sda/18', 'uniprot/3000640', 'sda/40']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-positive	1065	1086	annotator1	['sda/23']	24	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutation-positive	1065	1086	annotator2	['sda/6']	24	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-positive	1065	1086	annotator3	['sda/20']	24	Diseases & Disorders
+Target-Disorder	False	concept		1069	1077	Computer	['umls/C0158858']	43	Diseases & Disorders
+Target-Disorder	False	concept		1087	1089	annotator2	['sda/5']	55	Genes & Molecular Sequences
+Target-Disorder	False	concept	adenomas	1100	1108	Computer,annotator2	['umls/C0000095']	44	Diseases & Disorders
+Target-Disorder	False	concept	gsp	1132	1153	annotator1,annotator3	['sda/20', 'sda/16']	25	SNP & Sequence variations
+Target-Disorder	False	concept	gsp	1132	1153	annotator2	['sda/6']	25	Genes & Molecular Sequences
+Target-Disorder	False	concept		1136	1144	Computer	['umls/C0158858']	45	Diseases & Disorders
+Target-Disorder	True	concept	GH-secreting adenoma	1180	1200	annotator1,Computer,annotator2,annotator3	['sda/22', 'umls/C0000095', 'sda/4']	26	Diseases & Disorders
+Target-Disorder	False	concept	GH-secreting adenoma	1180	1200	annotator2	['sda/5']	26	Genes & Molecular Sequences
+Target-Disorder	False	concept	GH	1224	1226	annotator1,annotator2	['sda/3', 'sda/5']	27	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRH	1252	1256	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-positive	1275	1296	annotator1	['sda/23']	29	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutation-positive	1275	1296	annotator2	['sda/6']	29	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-positive	1275	1296	annotator3	['sda/24']	29	Diseases & Disorders
+Target-Disorder	False	concept		1279	1287	Computer	['umls/C0158858']	46	Diseases & Disorders
+Target-Disorder	False	concept		1301	1310	annotator1	['sda/24']	30	SNP & Sequence variations
+Target-Disorder	False	concept	adenoma	1311	1318	Computer,annotator2	['umls/C0000095']	47	Diseases & Disorders
+Target-Disorder	False	concept	adenoma	1376	1383	Computer,annotator2	['umls/C0000095']	48	Diseases & Disorders
+Target-Disorder	True	concept	GHRH	1391	1395	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	31	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR mRNA	1406	1416	annotator1,Computer,annotator2,annotator3	['sda/18', 'uniprot/3000640', 'sda/40']	32	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-negative	1437	1458	annotator1	['sda/20']	33	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutation-negative	1437	1458	annotator2	['sda/6']	33	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-negative	1437	1458	annotator3	['sda/25']	33	Diseases & Disorders
+Target-Disorder	False	concept		1441	1449	Computer	['umls/C0158858']	49	Diseases & Disorders
+Target-Disorder	False	concept	adenoma	1459	1466	Computer,annotator2	['umls/C0000095']	50	Diseases & Disorders
+Target-Disorder	True	concept	GHRH	1504	1508	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	34	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-positive	1512	1533	annotator1	['sda/23']	35	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutation-positive	1512	1533	annotator2	['sda/6']	35	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutation-positive	1512	1533	annotator3	['sda/27']	35	Diseases & Disorders
+Target-Disorder	False	concept		1516	1524	Computer	['umls/C0158858']	51	Diseases & Disorders
+Target-Disorder	False	concept	adenoma	1534	1541	Computer,annotator2	['umls/C0000095']	52	Diseases & Disorders
+Target-Disorder	False	concept	gsp mutations	1576	1589	annotator1,annotator3	['sda/9', 'sda/37']	36	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutations	1576	1589	Computer	['umls/C0158858']	36	Diseases & Disorders
+Target-Disorder	False	concept	gsp mutations	1576	1589	annotator2	['sda/6']	36	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR mRNA	1602	1612	annotator1,Computer,annotator2,annotator3	['sda/18', 'uniprot/3000640', 'sda/40']	37	Genes & Molecular Sequences
+Target-Disorder	True	concept	GH-secreting pituitary adenoma	1627	1657	annotator1,Computer,annotator2,annotator3	['sda/6', 'umls/C0003522', 'sda/8']	38	Diseases & Disorders
+Target-Disorder	False	concept	GH-secreting pituitary adenoma	1627	1657	annotator2	['sda/5']	38	Genes & Molecular Sequences
+Target-Disorder	False	concept	gsp mutations	1674	1687	annotator1,annotator3	['sda/9', 'sda/37']	39	SNP & Sequence variations
+Target-Disorder	False	concept	gsp mutations	1674	1687	Computer	['umls/C0158858']	39	Diseases & Disorders
+Target-Disorder	False	concept	gsp mutations	1674	1687	annotator2	['sda/6']	39	Genes & Molecular Sequences
+Target-Disorder	False	concept	adenoma	1704	1711	Computer,annotator2	['umls/C0000095']	53	Diseases & Disorders
+Target-Disorder	True	concept	GHRH	1721	1725	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	40	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRHR mRNA	1744	1754	annotator1,Computer,annotator2,annotator3	['sda/18', 'uniprot/3000640', 'sda/40']	41	Genes & Molecular Sequences
+Target-Disorder	True	concept	GHRH	1806	1810	annotator1,Computer,annotator2,annotator3	['uniprot/3007731']	42	Genes & Molecular Sequences
+Target-Disorder	True	relation	8	9	['uniprot/3007731']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	371:375	426:456	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	6	9	['sda/4', 'uniprot/3000640']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	333:346	426:456	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	7	9	['sda/5', 'uniprot/3000640']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	348:353	426:456	annotator1	PA
+Target-Disorder	False	relation	10	13	['sda/15', 'umls/C0062522', 'sda/10']	['sda/14', 'umls/C0003522', 'sda/5']	464:515	582:616	annotator1	PA
+Target-Disorder	True	relation	39	38	['sda/9', 'umls/C0158858', 'sda/6', 'sda/37']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	1674:1687	1627:1657	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	0	1	['sda/12', 'uniprot/3000640']	['umls/C0035908', 'sda/28']	13:81	96:138	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	0	2	['sda/12', 'uniprot/3000640']	['sda/13', 'umls/C0158858', 'sda/1']	13:81	144:168	Computer	PA
+Target-Disorder	False	relation	12	13	['uniprot/3000866']	['sda/14', 'umls/C0003522', 'sda/5']	562:578	582:616	Computer,annotator2	PA
+Target-Disorder	False	relation	12	10	['uniprot/3000866']	['sda/15', 'umls/C0062522', 'sda/10']	562:578	464:515	Computer	PA
+Target-Disorder	False	relation	15	14	['sda/5', 'uniprot/3000640']	['sda/9', 'umls/C0158858', 'sda/6', 'sda/37']	671:676	647:660	Computer	PA
+Target-Disorder	False	relation	15	16	['sda/5', 'uniprot/3000640']	['sda/10', 'umls/C0000095', 'sda/5', 'sda/3']	671:676	691:712	Computer,annotator2	PA
+Target-Disorder	False	relation	17	19	['sda/11', 'uniprot/3000640']	['sda/17', 'umls/C0158858', 'sda/6', 'sda/16']	761:793	850:862	Computer	PA
+Target-Disorder	False	relation	17	18	['sda/11', 'uniprot/3000640']	['sda/16', 'umls/C0003522', 'sda/5']	761:793	804:835	Computer,annotator2	PA
+Target-Disorder	False	relation	21	22	['sda/18', 'uniprot/3000640', 'sda/40']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	933:943	967:997	Computer,annotator2	PA
+Target-Disorder	False	relation	20	22	['uniprot/3007731']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	907:911	967:997	Computer,annotator2	PA
+Target-Disorder	False	relation	23	45	['sda/18', 'uniprot/3000640', 'sda/40']	['umls/C0158858']	1005:1015	1136:1144	Computer	PA
+Target-Disorder	False	relation	23	44	['sda/18', 'uniprot/3000640', 'sda/40']	['umls/C0000095']	1005:1015	1100:1108	Computer,annotator2	PA
+Target-Disorder	False	relation	28	46	['uniprot/3007731']	['umls/C0158858']	1252:1256	1279:1287	Computer	PA
+Target-Disorder	False	relation	28	48	['uniprot/3007731']	['umls/C0000095']	1252:1256	1376:1383	Computer,annotator2	PA
+Target-Disorder	False	relation	32	51	['sda/18', 'uniprot/3000640', 'sda/40']	['umls/C0158858']	1406:1416	1516:1524	Computer	PA
+Target-Disorder	False	relation	32	52	['sda/18', 'uniprot/3000640', 'sda/40']	['umls/C0000095']	1406:1416	1534:1541	Computer,annotator2	PA
+Target-Disorder	False	relation	34	51	['uniprot/3007731']	['umls/C0158858']	1504:1508	1516:1524	Computer	PA
+Target-Disorder	False	relation	34	52	['uniprot/3007731']	['umls/C0000095']	1504:1508	1534:1541	Computer,annotator2	PA
+Target-Disorder	False	relation	41	39	['sda/18', 'uniprot/3000640', 'sda/40']	['sda/9', 'umls/C0158858', 'sda/6', 'sda/37']	1744:1754	1674:1687	Computer	PA
+Target-Disorder	True	relation	41	38	['sda/18', 'uniprot/3000640', 'sda/40']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	1744:1754	1627:1657	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	41	53	['sda/18', 'uniprot/3000640', 'sda/40']	['umls/C0000095']	1744:1754	1704:1711	Computer,annotator2	PA
+Target-Disorder	False	relation	42	39	['uniprot/3007731']	['sda/9', 'umls/C0158858', 'sda/6', 'sda/37']	1806:1810	1674:1687	Computer	PA
+Target-Disorder	True	relation	42	38	['uniprot/3007731']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	1806:1810	1627:1657	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	42	53	['uniprot/3007731']	['umls/C0000095']	1806:1810	1704:1711	Computer,annotator2	PA
+Target-Disorder	False	relation	2	1	['sda/13', 'umls/C0158858', 'sda/1']	['umls/C0035908', 'sda/28']	144:168	96:138	annotator2	SA
+Target-Disorder	False	relation	9	9	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	426:456	426:456	annotator2	SA
+Target-Disorder	False	relation	54	13	['sda/1']	['sda/14', 'umls/C0003522', 'sda/5']	500:507	582:616	annotator2	PA
+Target-Disorder	False	relation	13	13	['sda/14', 'umls/C0003522', 'sda/5']	['sda/14', 'umls/C0003522', 'sda/5']	582:616	582:616	annotator2	PA
+Target-Disorder	False	relation	11	13	['sda/8', 'sda/6']	['sda/14', 'umls/C0003522', 'sda/5']	517:520	582:616	annotator2	PA
+Target-Disorder	False	relation	16	16	['sda/10', 'umls/C0000095', 'sda/5', 'sda/3']	['sda/10', 'umls/C0000095', 'sda/5', 'sda/3']	691:712	691:712	annotator2	SA
+Target-Disorder	False	relation	14	16	['sda/9', 'umls/C0158858', 'sda/6', 'sda/37']	['sda/10', 'umls/C0000095', 'sda/5', 'sda/3']	647:660	691:712	annotator2	SA
+Target-Disorder	False	relation	18	18	['sda/16', 'umls/C0003522', 'sda/5']	['sda/16', 'umls/C0003522', 'sda/5']	804:835	804:835	annotator2	SA
+Target-Disorder	False	relation	19	18	['sda/17', 'umls/C0158858', 'sda/6', 'sda/16']	['sda/16', 'umls/C0003522', 'sda/5']	850:862	804:835	annotator2	SA
+Target-Disorder	False	relation	22	22	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	967:997	967:997	annotator2	SA
+Target-Disorder	False	relation	55	44	['sda/5']	['umls/C0000095']	1087:1089	1100:1108	annotator2	PA
+Target-Disorder	False	relation	25	44	['sda/20', 'sda/6', 'sda/16']	['umls/C0000095']	1132:1153	1100:1108	annotator2	PA
+Target-Disorder	False	relation	27	48	['sda/3', 'sda/5']	['umls/C0000095']	1224:1226	1376:1383	annotator2	PA
+Target-Disorder	False	relation	29	48	['sda/23', 'sda/6', 'sda/24']	['umls/C0000095']	1275:1296	1376:1383	annotator2	PA
+Target-Disorder	False	relation	35	52	['sda/23', 'sda/6', 'sda/27']	['umls/C0000095']	1512:1533	1534:1541	annotator2	PA
+Target-Disorder	False	relation	38	38	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	1627:1657	1627:1657	annotator2	PA
+Target-Disorder	False	relation	38	53	['sda/6', 'umls/C0003522', 'sda/5', 'sda/8']	['umls/C0000095']	1627:1657	1704:1711	annotator2	PA
+Target-Disorder	False	relation	39	53	['sda/9', 'umls/C0158858', 'sda/6', 'sda/37']	['umls/C0000095']	1674:1687	1704:1711	annotator2	PA
+Target-Disorder	False	relation	23	24	['sda/18', 'uniprot/3000640', 'sda/40']	['sda/23', 'sda/6', 'sda/20']	1005:1015	1065:1086	annotator3	PA
+Target-Disorder	False	relation	28	26	['uniprot/3007731']	['sda/22', 'umls/C0000095', 'sda/5', 'sda/4']	1252:1256	1180:1200	annotator3	PA
+Target-Disorder	False	relation	28	29	['uniprot/3007731']	['sda/23', 'sda/6', 'sda/24']	1252:1256	1275:1296	annotator3	PA
+Target-Disorder	False	relation	34	33	['uniprot/3007731']	['sda/20', 'sda/6', 'sda/25']	1504:1508	1437:1458	annotator3	PA
+Target-Disorder	False	relation	34	35	['uniprot/3007731']	['sda/23', 'sda/6', 'sda/27']	1504:1508	1512:1533	annotator3	NA
+Target-Disorder	False	relation	32	33	['sda/18', 'uniprot/3000640', 'sda/40']	['sda/20', 'sda/6', 'sda/25']	1406:1416	1437:1458	annotator3	PA
+Target-Disorder	False	relation	32	35	['sda/18', 'uniprot/3000640', 'sda/40']	['sda/23', 'sda/6', 'sda/27']	1406:1416	1512:1533	annotator3	NA

@@ -1,0 +1,77 @@
+Target-Disorder	True	concept	Sarcomatoid carcinoma	0	21	annotator1,Computer,annotator2,annotator3	['umls/C0009752', 'sda/1', 'sda/2']	0	Diseases & Disorders
+Target-Disorder	True	concept	Sarcomatoid carcinoma	99	120	annotator1,Computer,annotator2,annotator3	['umls/C0009752', 'sda/3']	1	Diseases & Disorders
+Target-Disorder	True	concept	carcinosarcoma	122	136	annotator1,Computer,annotator2	['umls/C0000666']	2	Diseases & Disorders
+Target-Disorder	False	concept		187	197	Computer	['umls/C0000139']	40	Diseases & Disorders
+Target-Disorder	False	concept	malignancy	198	208	Computer,annotator2	['umls/C0000617']	41	Diseases & Disorders
+Target-Disorder	False	concept	malignancy	387	397	Computer,annotator2	['umls/C0000617']	42	Diseases & Disorders
+Target-Disorder	True	concept	sarcomatoid carcinoma	438	459	annotator1,Computer,annotator2,annotator3	['umls/C0009752', 'sda/4']	3	Diseases & Disorders
+Target-Disorder	True	concept	epidermal growth factor receptor	591	623	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	EGFR	625	629	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	human epidermal growth factor receptor 2	632	672	annotator1,annotator2,annotator3	['sda/1', 'sda/4', 'sda/5']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		638	670	Computer	['uniprot/3074545']	43	Genes & Molecular Sequences
+Target-Disorder	True	concept	HER2	674	678	annotator1,Computer,annotator2,annotator3	['uniprot/3003273', 'sda/6']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	neu	680	683	annotator1,Computer,annotator2	['uniprot/3003273']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	c-kit	685	690	annotator1,Computer,annotator2,annotator3	['uniprot/3000187']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	696	699	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	10	Genes & Molecular Sequences
+Target-Disorder	False	concept		742	755	Computer	['umls/C0158868']	44	Diseases & Disorders
+Target-Disorder	True	concept	EGFR	759	763	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	HER2	768	772	annotator1,Computer,annotator2,annotator3	['uniprot/3003273']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept		843	847	Computer	['uniprot/3007317']	45	Genes & Molecular Sequences
+Target-Disorder	False	concept	tumor	855	860	annotator1,Computer	['umls/C0002994']	13	Diseases & Disorders
+Target-Disorder	False	concept	gains of chromosomes 17	883	916	annotator1	['sda/9']	14	SNP & Sequence variations
+Target-Disorder	False	concept	gains of chromosomes 17	883	916	Computer	['umls/C0150268']	14	Diseases & Disorders
+Target-Disorder	False	concept	gains of chromosomes 17	883	916	annotator3,annotator3	['sda/5', 'sda/3']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept		907	908	annotator3	['sda/2']	54	Genes & Molecular Sequences
+Target-Disorder	False	concept	loss of chromosome 9p21	925	948	annotator1	['sda/2']	15	SNP & Sequence variations
+Target-Disorder	False	concept	loss of chromosome 9p21	925	948	annotator2,annotator3	['sda/7', 'sda/4']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept		962	966	Computer	['uniprot/3007317']	46	Genes & Molecular Sequences
+Target-Disorder	False	concept		1115	1123	Computer	['umls/C0148591']	47	Diseases & Disorders
+Target-Disorder	False	concept	gross hematuria	1133	1148	annotator2,annotator3	['sda/8', 'sda/10']	51	Diseases & Disorders
+Target-Disorder	True	concept	flank mass	1150	1160	annotator1,Computer,annotator2	['umls/C0085395', 'sda/9']	16	Diseases & Disorders
+Target-Disorder	True	concept	urinary obstruction	1162	1181	annotator1,Computer,annotator2,annotator3	['umls/C0009633']	17	Diseases & Disorders
+Target-Disorder	False	concept		1183	1188	annotator2	['sda/10']	52	Diseases & Disorders
+Target-Disorder	True	concept	sepsis	1193	1199	annotator1,Computer,annotator2,annotator3	['umls/C0004019']	18	Diseases & Disorders
+Target-Disorder	False	concept	Tumor	1259	1264	annotator1,Computer	['umls/C0002994']	19	Diseases & Disorders
+Target-Disorder	True	concept	urothelial carcinoma	1305	1325	annotator1,Computer,annotator2,annotator3	['umls/C0000665']	20	Diseases & Disorders
+Target-Disorder	True	concept	Heterologous osteosarcoma	1354	1379	annotator1,Computer,annotator3	['sda/2', 'umls/C0003208', 'sda/7']	21	Diseases & Disorders
+Target-Disorder	True	concept	pT3	1447	1450	annotator1,Computer,annotator2,annotator3	['uniprot/3086062']	22	Genes & Molecular Sequences
+Target-Disorder	True	concept	Lymph node metastases	1463	1484	annotator1,Computer,annotator2	['umls/C0081885']	23	Diseases & Disorders
+Target-Disorder	False	concept	7	1551	1552	annotator1	['sda/4']	24	SNP & Sequence variations
+Target-Disorder	False	concept	7	1551	1552	annotator3	['sda/2']	24	Genes & Molecular Sequences
+Target-Disorder	True	concept	EGFR	1588	1592	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	HER2	1674	1678	annotator1,Computer,annotator2,annotator3	['uniprot/3003273', 'sda/7']	26	Genes & Molecular Sequences
+Target-Disorder	True	concept	neu	1679	1682	annotator1,Computer,annotator2	['uniprot/3003273']	27	Genes & Molecular Sequences
+Target-Disorder	True	concept	c-kit	1687	1692	annotator1,Computer,annotator2,annotator3	['uniprot/3000187']	28	Genes & Molecular Sequences
+Target-Disorder	True	concept	p53	1743	1746	annotator1,Computer,annotator2,annotator3	['uniprot/3000460']	29	Genes & Molecular Sequences
+Target-Disorder	False	concept	EGFR polysomy	1804	1817	annotator1	['sda/3']	30	SNP & Sequence variations
+Target-Disorder	True	concept	EGFR polysomy	1804	1817	Computer,annotator2,annotator3	['uniprot/3074545', 'sda/11']	30	Genes & Molecular Sequences
+Target-Disorder	False	concept	EGFR polysomy	1804	1817	Computer	['umls/C0149609']	30	Diseases & Disorders
+Target-Disorder	False	concept	7	1838	1839	annotator1	['sda/4']	31	SNP & Sequence variations
+Target-Disorder	False	concept	7	1838	1839	annotator3	['sda/2']	31	Genes & Molecular Sequences
+Target-Disorder	False	concept		1855	1868	Computer	['umls/C0158868']	48	Diseases & Disorders
+Target-Disorder	True	concept	HER2	1872	1876	annotator1,Computer,annotator2,annotator3	['uniprot/3003273', 'sda/7']	32	Genes & Molecular Sequences
+Target-Disorder	True	concept	neu	1877	1880	annotator1,Computer,annotator2	['uniprot/3003273']	33	Genes & Molecular Sequences
+Target-Disorder	False	concept		1916	1920	Computer	['uniprot/3007317']	49	Genes & Molecular Sequences
+Target-Disorder	False	concept		1928	1941	Computer	['umls/C0000013']	50	Diseases & Disorders
+Target-Disorder	True	concept	urothelial carcinoma	1953	1973	annotator1,Computer,annotator2,annotator3	['umls/C0000665']	34	Diseases & Disorders
+Target-Disorder	True	concept	sarcomatoid carcinoma	2022	2043	annotator1,Computer,annotator2,annotator3	['umls/C0009752', 'sda/1', 'sda/2']	35	Diseases & Disorders
+Target-Disorder	False	concept	7	2125	2126	annotator1	['sda/4']	36	SNP & Sequence variations
+Target-Disorder	False	concept	7	2125	2126	annotator3	['sda/2']	36	Genes & Molecular Sequences
+Target-Disorder	False	concept	Gains of chromosome 17	2140	2172	annotator1	['sda/7']	37	SNP & Sequence variations
+Target-Disorder	False	concept	Gains of chromosome 17	2140	2172	Computer	['umls/C0150268']	37	Diseases & Disorders
+Target-Disorder	False	concept	Gains of chromosome 17	2140	2172	annotator3,annotator3	['sda/1', 'sda/3']	37	Genes & Molecular Sequences
+Target-Disorder	False	concept		2163	2164	annotator3	['sda/2']	55	Genes & Molecular Sequences
+Target-Disorder	False	concept	loss of chromosome 9p21	2177	2200	annotator1	['sda/2']	38	SNP & Sequence variations
+Target-Disorder	False	concept	loss of chromosome 9p21	2177	2200	annotator2,annotator3	['sda/7', 'sda/4']	38	Genes & Molecular Sequences
+Target-Disorder	False	concept	tumors	2233	2239	annotator1,Computer	['umls/C0002994']	39	Diseases & Disorders
+Target-Disorder	False	relation	38	39	['sda/2', 'sda/7', 'sda/4']	['umls/C0002994']	2177:2200	2233:2239	annotator1	PA
+Target-Disorder	False	relation	37	39	['sda/7', 'umls/C0150268', 'sda/1', 'sda/3']	['umls/C0002994']	2140:2172	2233:2239	annotator1	PA
+Target-Disorder	False	relation	11	44	['uniprot/3074545']	['umls/C0158868']	759:763	742:755	Computer	PA
+Target-Disorder	False	relation	12	44	['uniprot/3003273']	['umls/C0158868']	768:772	742:755	Computer	PA
+Target-Disorder	False	relation	45	44	['uniprot/3007317']	['umls/C0158868']	843:847	742:755	Computer	PA
+Target-Disorder	False	relation	46	13	['uniprot/3007317']	['umls/C0002994']	962:966	855:860	Computer	PA
+Target-Disorder	False	relation	46	14	['uniprot/3007317']	['sda/9', 'umls/C0150268', 'sda/5', 'sda/3']	962:966	883:916	Computer	PA
+Target-Disorder	False	relation	30	30	['sda/3', 'uniprot/3074545', 'umls/C0149609', 'sda/11']	['sda/3', 'uniprot/3074545', 'umls/C0149609', 'sda/11']	1804:1817	1804:1817	Computer	PA
+Target-Disorder	False	relation	33	48	['uniprot/3003273']	['umls/C0158868']	1877:1880	1855:1868	Computer	PA
+Target-Disorder	False	relation	49	34	['uniprot/3007317']	['umls/C0000665']	1916:1920	1953:1973	Computer	PA
+Target-Disorder	False	relation	49	50	['uniprot/3007317']	['umls/C0000013']	1916:1920	1928:1941	Computer	PA

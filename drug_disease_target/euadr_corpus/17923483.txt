@@ -1,0 +1,67 @@
+Target-Drug	True	concept	dopamine transporter	14	34	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	14	34	Computer	['uniprot/4501026']	0	Chemicals & Drugs
+Target-Drug	True	concept	D3 dopamine receptors	75	96	annotator1,annotator2,annotator3	['sda/2', 'sda/14', 'sda/16']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		78	86	Computer	['uniprot/4501026']	34	Chemicals & Drugs
+Target-Drug	True	concept	D(3) dopamine receptors	98	121	annotator1,annotator2,annotator3	['sda/3', 'uniprot/4000853', 'sda/17']	2	Genes & Molecular Sequences
+Target-Drug	False	concept		103	111	Computer	['uniprot/4501026']	35	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	139	147	annotator1,Computer	['uniprot/4501026']	3	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	139	147	annotator3	['sda/11']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine	208	216	annotator1,Computer	['uniprot/4501026']	4	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	208	216	annotator3	['sda/11']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	dopamine transporter	302	322	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	5	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	302	322	Computer	['uniprot/4501026']	5	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	341	349	annotator1,Computer	['uniprot/4501026']	6	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	341	349	annotator3	['sda/11']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	D3 receptors	488	500	annotator1,annotator2,annotator3	['sda/4', 'uniprot/4000853']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	dopamine transporter	510	530	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	9	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	510	530	Computer	['uniprot/4501026']	9	Chemicals & Drugs
+Target-Drug	True	concept	dopamine transporter	655	675	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	10	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	655	675	Computer	['uniprot/4501026']	10	Chemicals & Drugs
+Target-Drug	False	concept		729	771	annotator1	['sda/5']	11	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	741	749	Computer	['uniprot/4501026']	36	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	741	749	annotator2,annotator3	['sda/13']	36	Genes & Molecular Sequences
+Target-Drug	False	concept	trans-4-[4-(dimethylamino)styryl]-1-methylpyridinium	772	824	annotator1	['sda/6']	12	Chemicals & Drugs
+Target-Drug	False	concept	trans-4-[4-(dimethylamino)styryl]-1-methylpyridinium	772	824	annotator3	['sda/18']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	ASP( )	826	832	annotator1,annotator2,annotator2	['sda/7', 'uniprot/3000033', 'uniprot/9014268']	13	Chemicals & Drugs
+Target-Drug	False	concept	ASP( )	826	832	annotator3	['sda/20']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	dopamine transporter	883	903	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	14	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	883	903	Computer	['uniprot/4501026']	14	Chemicals & Drugs
+Target-Drug	True	concept	dopamine transporter	968	988	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	968	988	Computer	['uniprot/4501026']	15	Chemicals & Drugs
+Target-Drug	True	concept	D3 receptors	993	1005	annotator1,annotator2,annotator3	['sda/4', 'uniprot/4000853']	16	Genes & Molecular Sequences
+Target-Drug	False	concept	D2/D3 agonist	1011	1024	annotator1,annotator3	['sda/9', 'sda/8']	17	Chemicals & Drugs
+Target-Drug	True	concept	quinpirole	1025	1035	annotator1,annotator2,annotator3	['sda/11', 'sda/10', 'sda/6']	18	Chemicals & Drugs
+Target-Drug	False	concept	pertussis	1083	1092	annotator3	['sda/12']	19	Chemicals & Drugs
+Target-Drug	True	concept	ASP( )	1121	1127	annotator1,annotator2,annotator2	['sda/7', 'uniprot/3000033', 'uniprot/9014268']	20	Chemicals & Drugs
+Target-Drug	False	concept	ASP( )	1121	1127	annotator3	['sda/20']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	D3 receptors	1309	1321	annotator1,annotator2,annotator3	['sda/4', 'uniprot/4000853']	21	Genes & Molecular Sequences
+Target-Drug	False	concept	[(3)H]dopamine	1325	1339	annotator1	['sda/12']	22	Chemicals & Drugs
+Target-Drug	False	concept	[(3)H]dopamine	1325	1339	annotator3	['sda/14']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	D3 receptor	1355	1366	annotator1,Computer,annotator2,annotator3	['uniprot/4000853']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	phosphoinositide 3-kinase	1389	1414	annotator1,annotator2,annotator3	['sda/13', 'sda/16', 'sda/25']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	MAPK	1419	1423	annotator1,annotator2,annotator3	['sda/14', 'sda/17', 'sda/24']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	quinpirole	1467	1477	annotator1,annotator2,annotator3	['sda/11', 'sda/10', 'sda/6']	26	Chemicals & Drugs
+Target-Drug	True	concept	D3 receptor	1506	1517	annotator1,Computer,annotator2,annotator3	['uniprot/4000853']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	dopamine transporter	1553	1573	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	28	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	1553	1573	Computer	['uniprot/4501026']	28	Chemicals & Drugs
+Target-Drug	True	concept	dopamine transporter	1824	1844	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	29	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	1824	1844	Computer	['uniprot/4501026']	29	Chemicals & Drugs
+Target-Drug	True	concept	D3 receptors	1984	1996	annotator1,annotator2,annotator3	['sda/4', 'uniprot/4000853']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	dopamine transporter	2006	2026	annotator1,annotator2,annotator3	['sda/1', 'sda/13']	31	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine transporter	2006	2026	Computer	['uniprot/4501026']	31	Chemicals & Drugs
+Target-Drug	True	concept	D3 receptors	2076	2088	annotator1,annotator2,annotator3	['sda/4', 'uniprot/4000853']	32	Genes & Molecular Sequences
+Target-Drug	False	concept	dopamine	2112	2120	annotator1,Computer	['uniprot/4501026']	33	Chemicals & Drugs
+Target-Drug	False	concept	dopamine	2112	2120	annotator3	['sda/11']	33	Genes & Molecular Sequences
+Target-Drug	False	relation	4	2	['uniprot/4501026', 'sda/11']	['sda/3', 'uniprot/4000853', 'sda/17']	208:216	98:121	annotator1	PA
+Target-Drug	False	relation	6	5	['uniprot/4501026', 'sda/11']	['sda/1', 'uniprot/4501026', 'sda/13']	341:349	302:322	annotator1	PA
+Target-Drug	False	relation	22	21	['sda/12', 'sda/14']	['sda/4', 'uniprot/4000853']	1325:1339	1309:1321	annotator1	PA
+Target-Drug	False	relation	33	32	['uniprot/4501026', 'sda/11']	['sda/4', 'uniprot/4000853']	2112:2120	2076:2088	annotator1	PA
+Target-Drug	False	relation	28	27	['sda/1', 'uniprot/4501026', 'sda/13']	['uniprot/4000853']	1553:1573	1506:1517	Computer	PA
+Target-Drug	False	relation	13	36	['sda/7', 'uniprot/3000033', 'uniprot/9014268', 'sda/20']	['uniprot/4501026', 'sda/13']	826:832	741:749	annotator2	PA
+Target-Drug	False	relation	20	16	['sda/7', 'uniprot/3000033', 'uniprot/9014268', 'sda/20']	['sda/4', 'uniprot/4000853']	1121:1127	993:1005	annotator2	PA
+Target-Drug	False	relation	20	15	['sda/7', 'uniprot/3000033', 'uniprot/9014268', 'sda/20']	['sda/1', 'uniprot/4501026', 'sda/13']	1121:1127	968:988	annotator2	PA
+Target-Drug	False	relation	18	16	['sda/11', 'sda/10', 'sda/6']	['sda/4', 'uniprot/4000853']	1025:1035	993:1005	annotator2	PA
+Target-Drug	False	relation	18	15	['sda/11', 'sda/10', 'sda/6']	['sda/1', 'uniprot/4501026', 'sda/13']	1025:1035	968:988	annotator2	PA
+Target-Drug	False	relation	18	20	['sda/11', 'sda/10', 'sda/6']	['sda/7', 'uniprot/3000033', 'uniprot/9014268', 'sda/20']	1025:1035	1121:1127	annotator3	PA
+Target-Drug	False	relation	17	20	['sda/9', 'sda/8']	['sda/7', 'uniprot/3000033', 'uniprot/9014268', 'sda/20']	1011:1024	1121:1127	annotator3	PA
+Target-Drug	False	relation	19	20	['sda/12']	['sda/7', 'uniprot/3000033', 'uniprot/9014268', 'sda/20']	1083:1092	1121:1127	annotator3	PA

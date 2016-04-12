@@ -1,0 +1,4 @@
+Target-Drug	True	concept	5-HT(1A)	16	24	annotator1,annotator2,annotator3	['sda/1', 'sda/5', 'sda/2']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	5-HT(1A)	67	75	annotator1,annotator2,annotator3	['sda/1', 'sda/5', 'sda/2']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	5-HT(1A)	352	360	annotator1,annotator2,annotator3	['sda/1', 'sda/5', 'sda/2']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	5-HT(1A)	852	860	annotator1,annotator2,annotator3	['sda/1', 'sda/5', 'sda/2']	12	Genes & Molecular Sequences

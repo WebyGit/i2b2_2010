@@ -1,0 +1,29 @@
+Target-Disorder	True	concept	myopia	46	52	annotator1,Computer,annotator2,annotator3	['umls/C0002936']	0	Diseases & Disorders
+Target-Disorder	True	concept	3q26	99	103	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	Refractive error	154	170	annotator1,Computer,annotator3	['umls/C0003813']	2	Diseases & Disorders
+Target-Disorder	True	concept	3q26	377	381	annotator1,annotator2,annotator3	['sda/1', 'sda/2']	3	Genes & Molecular Sequences
+Target-Disorder	False	concept		605	610	Computer	['uniprot/4001204']	15	Genes & Molecular Sequences
+Target-Disorder	False	concept		613	618	Computer	['uniprot/4001204']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept		703	708	Computer	['uniprot/3001779']	17	Genes & Molecular Sequences
+Target-Disorder	True	concept	MFN1	1020	1024	annotator1,Computer,annotator2,annotator3	['uniprot/3011481']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	SOX2OT	1138	1144	annotator1,Computer,annotator2,annotator3	['uniprot/2008509']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	PSARL	1189	1194	annotator1,Computer,annotator2,annotator3	['uniprot/3010239']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept		1307	1312	Computer	['uniprot/3001779']	18	Genes & Molecular Sequences
+Target-Disorder	True	concept	MFN1	1470	1474	annotator1,Computer,annotator2,annotator3	['uniprot/3011481']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	SOX2OT	1488	1494	annotator1,Computer,annotator2,annotator3	['uniprot/2008509']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	PSARL	1513	1518	annotator1,Computer,annotator2,annotator3	['uniprot/3010239']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	MFN1	1546	1550	annotator1,Computer,annotator2,annotator3	['uniprot/3011481']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	PSARL	1555	1560	annotator1,Computer,annotator2,annotator3	['uniprot/3010239']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	OPA1	1580	1584	annotator1,annotator1,Computer,annotator2,annotator3,annotator3	['umls/C0030544', 'uniprot/3014618', 'sda/3']	12	Genes & Molecular Sequences
+Target-Disorder	False	concept	OPA1	1580	1584	Computer	['umls/C0030544']	12	Diseases & Disorders
+Target-Disorder	False	concept		1597	1617	annotator3	['sda/3']	19	Diseases & Disorders
+Target-Disorder	False	concept		1626	1667	annotator3	['sda/2']	20	Diseases & Disorders
+Target-Disorder	True	concept	myopia	1776	1782	annotator1,Computer,annotator2,annotator3	['umls/C0002936']	13	Diseases & Disorders
+Target-Disorder	True	concept	myopia	1879	1885	annotator1,Computer,annotator2,annotator3	['umls/C0002936']	14	Diseases & Disorders
+Target-Disorder	True	relation	1	0	['sda/1', 'sda/2']	['umls/C0002936']	99:103	46:52	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	11	12	['uniprot/3010239']	['umls/C0030544', 'uniprot/3014618', 'sda/3']	1555:1560	1580:1584	Computer	PA
+Target-Disorder	False	relation	10	12	['uniprot/3011481']	['umls/C0030544', 'uniprot/3014618', 'sda/3']	1546:1550	1580:1584	Computer	PA
+Target-Disorder	False	relation	11	20	['uniprot/3010239']	['sda/2']	1555:1560	1626:1667	annotator3	PA
+Target-Disorder	False	relation	10	19	['uniprot/3011481']	['sda/3']	1546:1550	1597:1617	annotator3	PA
+Target-Disorder	False	relation	12	20	['umls/C0030544', 'uniprot/3014618', 'sda/3']	['sda/2']	1580:1584	1626:1667	annotator3	PA
+Target-Disorder	False	relation	12	19	['umls/C0030544', 'uniprot/3014618', 'sda/3']	['sda/3']	1580:1584	1597:1617	annotator3	PA

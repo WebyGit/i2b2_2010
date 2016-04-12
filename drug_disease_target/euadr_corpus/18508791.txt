@@ -1,0 +1,88 @@
+Target-Disorder	False	concept		24	35	annotator3	['sda/14']	38	Genes & Molecular Sequences
+Target-Disorder	False	concept		48	70	annotator3	['sda/23']	39	Genes & Molecular Sequences
+Target-Disorder	True	concept	myelodysplastic syndrome	74	98	annotator1,Computer,annotator2	['umls/C0002909', 'sda/40']	0	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	104	111	annotator1,Computer	['umls/C0150972']	1	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	104	111	annotator2	['umls/C0150972']	1	SNP & Sequence variations
+Target-Disorder	False	concept	del(5q)	104	111	annotator3	['sda/26']	1	Genes & Molecular Sequences
+Target-Disorder	True	concept	myelodysplastic syndrome del(5q)	280	312	annotator1,Computer,Computer,annotator2,annotator3	['sda/3', 'umls/C0002909', 'umls/C0150972', 'sda/40']	2	Diseases & Disorders
+Target-Disorder	False	concept		305	311	annotator2	['umls/C0150972']	36	SNP & Sequence variations
+Target-Disorder	False	concept		364	377	Computer	['umls/C0000013']	21	Diseases & Disorders
+Target-Disorder	False	concept		465	479	Computer	['umls/C0147577']	22	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	500	518	Computer	['umls/C0107937']	23	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	500	518	annotator3	['sda/17']	23	Genes & Molecular Sequences
+Target-Disorder	False	concept		560	568	Computer	['umls/C0158858']	24	Diseases & Disorders
+Target-Disorder	True	concept	myelodysplastic syndrome	622	646	annotator1,Computer,annotator2	['umls/C0002909', 'sda/40']	3	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	652	659	annotator1,Computer	['umls/C0150972']	4	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	652	659	annotator2	['umls/C0150972']	4	SNP & Sequence variations
+Target-Disorder	False	concept	del(5q)	652	659	annotator3	['sda/26']	4	Genes & Molecular Sequences
+Target-Disorder	True	concept	5q- syndrome	689	701	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	5	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	714	721	annotator1,Computer	['umls/C0150972']	6	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	714	721	annotator2	['umls/C0150972']	6	SNP & Sequence variations
+Target-Disorder	False	concept	del(5q)	714	721	annotator3	['sda/26']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	5q- syndrome	727	739	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	7	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	897	904	annotator1,Computer	['umls/C0150972']	8	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	897	904	annotator2	['umls/C0150972']	8	SNP & Sequence variations
+Target-Disorder	False	concept	del(5q)	897	904	annotator3	['sda/26']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	5q- syndrome	972	984	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	9	Diseases & Disorders
+Target-Disorder	True	concept	SH3TC2	1011	1017	annotator1,Computer,annotator2,annotator3	['uniprot/3011596']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	GLRA1	1042	1047	annotator1,Computer,annotator2,annotator3	['uniprot/3020083']	11	Genes & Molecular Sequences
+Target-Disorder	False	concept		1087	1098	annotator3	['sda/14']	40	Genes & Molecular Sequences
+Target-Disorder	False	concept	del(5q)	1126	1133	annotator1,Computer	['umls/C0150972']	12	Diseases & Disorders
+Target-Disorder	False	concept	del(5q)	1126	1133	annotator2	['umls/C0150972']	12	SNP & Sequence variations
+Target-Disorder	False	concept	del(5q)	1126	1133	annotator3	['sda/26']	12	Genes & Molecular Sequences
+Target-Disorder	True	concept	del(5q) myelodysplastic syndrome	1174	1206	annotator1,Computer,Computer,annotator2,annotator3	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	13	Diseases & Disorders
+Target-Disorder	False	concept	del(5q) myelodysplastic syndrome	1174	1206	annotator2	['umls/C0150972']	13	SNP & Sequence variations
+Target-Disorder	True	concept	5q- syndrome	1244	1256	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	14	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1283	1301	Computer	['umls/C0107937']	25	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1283	1301	annotator3	['sda/17']	25	Genes & Molecular Sequences
+Target-Disorder	True	concept	5q- syndrome	1395	1407	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	15	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1428	1446	Computer	['umls/C0107937']	26	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1428	1446	annotator3	['sda/17']	26	Genes & Molecular Sequences
+Target-Disorder	True	concept	del(5q) myelodysplastic syndrome	1536	1568	annotator1,Computer,Computer,annotator2,annotator3	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	16	Diseases & Disorders
+Target-Disorder	False	concept	del(5q) myelodysplastic syndrome	1536	1568	annotator2	['umls/C0150972']	16	SNP & Sequence variations
+Target-Disorder	False	concept	uniparental disomy	1573	1591	Computer	['umls/C0107937']	27	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1573	1591	annotator3	['sda/17']	27	Genes & Molecular Sequences
+Target-Disorder	False	concept	uniparental disomy	1616	1634	Computer	['umls/C0107937']	28	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1616	1634	annotator3	['sda/17']	28	Genes & Molecular Sequences
+Target-Disorder	False	concept	uniparental disomy	1696	1714	Computer	['umls/C0107937']	29	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1696	1714	annotator3	['sda/17']	29	Genes & Molecular Sequences
+Target-Disorder	False	concept	uniparental disomy	1751	1769	Computer	['umls/C0107937']	30	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1751	1769	annotator3	['sda/17']	30	Genes & Molecular Sequences
+Target-Disorder	False	concept	uniparental disomy	1896	1914	Computer	['umls/C0107937']	31	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	1896	1914	annotator3	['sda/17']	31	Genes & Molecular Sequences
+Target-Disorder	False	concept	uniparental disomy	2012	2030	Computer	['umls/C0107937']	32	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	2012	2030	annotator3	['sda/17']	32	Genes & Molecular Sequences
+Target-Disorder	False	concept		2034	2048	annotator2	['sda/7']	37	SNP & Sequence variations
+Target-Disorder	True	concept	5q- syndrome	2088	2100	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	17	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	2148	2166	Computer	['umls/C0107937']	33	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	2148	2166	annotator3	['sda/17']	33	Genes & Molecular Sequences
+Target-Disorder	True	concept	5q-syndrome	2202	2213	annotator1,Computer,annotator2,annotator3	['umls/C0082855']	18	Diseases & Disorders
+Target-Disorder	True	concept	del(5q) myelodysplastic syndrome	2218	2250	annotator1,Computer,Computer,annotator2,annotator3	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	19	Diseases & Disorders
+Target-Disorder	False	concept	del(5q) myelodysplastic syndrome	2218	2250	annotator2	['umls/C0150972']	19	SNP & Sequence variations
+Target-Disorder	False	concept	uniparental disomy	2278	2296	Computer	['umls/C0107937']	34	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	2278	2296	annotator3	['sda/17']	34	Genes & Molecular Sequences
+Target-Disorder	False	concept	uniparental disomy	2367	2385	Computer	['umls/C0107937']	35	Diseases & Disorders
+Target-Disorder	False	concept	uniparental disomy	2367	2385	annotator3	['sda/17']	35	Genes & Molecular Sequences
+Target-Disorder	True	concept	leukemia	2421	2429	annotator1,Computer,annotator2,annotator3	['umls/C0002496']	20	Diseases & Disorders
+Target-Disorder	True	relation	10	9	['uniprot/3011596']	['umls/C0082855']	1011:1017	972:984	Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	11	9	['uniprot/3020083']	['umls/C0082855']	1042:1047	972:984	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	1	0	['umls/C0150972', 'sda/26']	['umls/C0002909', 'sda/40']	104:111	74:98	annotator2	PA
+Target-Disorder	False	relation	36	2	['umls/C0150972']	['sda/3', 'umls/C0002909', 'umls/C0150972', 'sda/40']	305:311	280:312	annotator2	SA
+Target-Disorder	False	relation	6	7	['umls/C0150972', 'sda/26']	['umls/C0082855']	714:721	727:739	annotator2	PA
+Target-Disorder	False	relation	6	3	['umls/C0150972', 'sda/26']	['umls/C0002909', 'sda/40']	714:721	622:646	annotator2	PA
+Target-Disorder	False	relation	13	14	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	['umls/C0082855']	1174:1206	1244:1256	annotator2	PA
+Target-Disorder	False	relation	13	13	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	1174:1206	1174:1206	annotator2	PA
+Target-Disorder	False	relation	16	16	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	1536:1568	1536:1568	annotator2	PA
+Target-Disorder	False	relation	37	17	['sda/7']	['umls/C0082855']	2034:2048	2088:2100	annotator2	PA
+Target-Disorder	False	relation	19	18	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	['umls/C0082855']	2218:2250	2202:2213	annotator2	PA
+Target-Disorder	False	relation	19	19	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	2218:2250	2218:2250	annotator2	PA
+Target-Disorder	False	relation	40	14	['sda/14']	['umls/C0082855']	1087:1098	1244:1256	annotator3	NA
+Target-Disorder	False	relation	40	13	['sda/14']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	1087:1098	1174:1206	annotator3	PA
+Target-Disorder	False	relation	12	14	['umls/C0150972', 'sda/26']	['umls/C0082855']	1126:1133	1244:1256	annotator3	NA
+Target-Disorder	False	relation	12	13	['umls/C0150972', 'sda/26']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	1126:1133	1174:1206	annotator3	PA
+Target-Disorder	False	relation	26	15	['umls/C0107937', 'sda/17']	['umls/C0082855']	1428:1446	1395:1407	annotator3	PA
+Target-Disorder	False	relation	29	16	['umls/C0107937', 'sda/17']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	1696:1714	1536:1568	annotator3	PA
+Target-Disorder	False	relation	32	17	['umls/C0107937', 'sda/17']	['umls/C0082855']	2012:2030	2088:2100	annotator3	PA
+Target-Disorder	False	relation	34	18	['umls/C0107937', 'sda/17']	['umls/C0082855']	2278:2296	2202:2213	annotator3	PA
+Target-Disorder	False	relation	34	19	['umls/C0107937', 'sda/17']	['sda/4', 'umls/C0150972', 'umls/C0002909', 'sda/40', 'sda/28']	2278:2296	2218:2250	annotator3	PA
+Target-Disorder	False	relation	35	20	['umls/C0107937', 'sda/17']	['umls/C0002496']	2367:2385	2421:2429	annotator3	SA

@@ -1,0 +1,28 @@
+Drug-Disorder	False	concept	Trans-platinum(II)	0	18	annotator1,annotator5	['sda/1', 'sda/2']	0	Chemicals & Drugs
+Drug-Disorder	False	concept		34	49	annotator1	['sda/3']	1	Chemicals & Drugs
+Drug-Disorder	False	concept		53	70	annotator5	['sda/3']	20	Chemicals & Drugs
+Drug-Disorder	False	concept		78	86	Computer	['umls/C0002976']	16	Diseases & Disorders
+Drug-Disorder	False	concept	tumour	90	96	Computer,annotator5	['umls/C0002994']	17	Diseases & Disorders
+Drug-Disorder	False	concept	cisplatin	186	195	annotator4,annotator5	['uniprot/9019042', 'sda/4']	12	Chemicals & Drugs
+Drug-Disorder	True	concept	cisplatin	270	279	annotator1,annotator4,Computer,annotator5	['uniprot/4501141', 'uniprot/9019042', 'sda/4']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	platinum complexes	341	359	annotator1,annotator4,annotator5	['sda/4', 'sda/3', 'sda/5']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	platinum complexes	422	446	annotator1,annotator4,annotator5	['sda/5', 'sda/3']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	platinum complexes	581	605	annotator1,annotator4,annotator5	['sda/5', 'sda/3']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	trans-[PtCl2(cyclohexylamine)(dimethylamine)]	607	652	annotator1,annotator5	['sda/6']	7	Chemicals & Drugs
+Drug-Disorder	False	concept	trans-[PtCl2(OH)2(cyclohexylamine)(dimethylamine)]	657	707	annotator1,annotator5	['sda/7']	8	Chemicals & Drugs
+Drug-Disorder	False	concept		733	749	annotator5	['sda/8']	21	Chemicals & Drugs
+Drug-Disorder	False	concept	cancer	768	774	Computer,annotator5	['umls/C0002994']	18	Diseases & Disorders
+Drug-Disorder	True	concept	trans platinum compounds	804	828	annotator1,annotator4,annotator5	['sda/8', 'sda/4', 'sda/9']	9	Chemicals & Drugs
+Drug-Disorder	False	concept	tumoral	870	888	annotator4,annotator5	['sda/5', 'sda/10']	13	Diseases & Disorders
+Drug-Disorder	True	concept	cisplatin	940	949	annotator1,annotator4,Computer,annotator5	['uniprot/4501141', 'uniprot/9019042', 'sda/4']	10	Chemicals & Drugs
+Drug-Disorder	False	concept	tumour	1043	1049	Computer,annotator5	['umls/C0002994']	19	Diseases & Disorders
+Drug-Disorder	False	concept		1262	1274	annotator4	['umls/C0001212']	14	Diseases & Disorders
+Drug-Disorder	False	concept	necrosis	1466	1474	annotator4,Computer	['umls/C0002976']	15	Diseases & Disorders
+Drug-Disorder	False	relation	10	13	['uniprot/4501141', 'uniprot/9019042', 'sda/4']	['sda/5', 'sda/10']	940:949	870:888	annotator4	PA
+Drug-Disorder	False	relation	9	13	['sda/8', 'sda/4', 'sda/9']	['sda/5', 'sda/10']	804:828	870:888	annotator4,annotator5	PA
+Drug-Disorder	False	relation	0	17	['sda/1', 'sda/2']	['umls/C0002994']	0:18	90:96	annotator5	PA
+Drug-Disorder	False	relation	20	17	['sda/3']	['umls/C0002994']	53:70	90:96	annotator5	PA
+Drug-Disorder	False	relation	6	18	['sda/5', 'sda/3']	['umls/C0002994']	581:605	768:774	annotator5	PA
+Drug-Disorder	False	relation	7	18	['sda/6']	['umls/C0002994']	607:652	768:774	annotator5	PA
+Drug-Disorder	False	relation	8	18	['sda/7']	['umls/C0002994']	657:707	768:774	annotator5	PA
+Drug-Disorder	False	relation	21	18	['sda/8']	['umls/C0002994']	733:749	768:774	annotator5	PA

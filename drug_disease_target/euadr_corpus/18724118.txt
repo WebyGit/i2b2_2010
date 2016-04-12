@@ -1,0 +1,5 @@
+Drug-Disorder	False	concept		156	164	Computer	['umls/C0082281']	2	Diseases & Disorders
+Drug-Disorder	False	concept		394	402	Computer	['umls/C0082281']	3	Diseases & Disorders
+Drug-Disorder	False	concept		466	479	Computer	['umls/C0000923']	4	Diseases & Disorders
+Drug-Disorder	True	concept	postoperative anemia	496	528	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0104841', 'umls/C0000234']	0	Diseases & Disorders
+Drug-Disorder	True	concept	hematoma	597	615	annotator1,annotator4,Computer,annotator5	['sda/2', 'umls/C0001886']	1	Diseases & Disorders

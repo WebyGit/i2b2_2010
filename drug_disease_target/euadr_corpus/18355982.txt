@@ -1,0 +1,22 @@
+Drug-Disorder	False	concept		29	41	annotator4	['sda/2']	10	Chemicals & Drugs
+Drug-Disorder	False	concept		80	92	annotator4	['sda/2']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	prostate cancer	123	148	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0038332']	0	Diseases & Disorders
+Drug-Disorder	False	concept		248	260	annotator4	['sda/2']	12	Chemicals & Drugs
+Drug-Disorder	False	concept		262	264	annotator4	['sda/3']	13	Chemicals & Drugs
+Drug-Disorder	False	concept		306	308	annotator4	['sda/3']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	prostate cancer	373	398	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0038332']	2	Diseases & Disorders
+Drug-Disorder	True	concept	prostate cancer	550	565	annotator1,annotator4,Computer,annotator5	['umls/C0038332', 'sda/1']	3	Diseases & Disorders
+Drug-Disorder	False	concept		627	629	Computer	['uniprot/4501046']	20	Chemicals & Drugs
+Drug-Disorder	False	concept		851	863	annotator4	['sda/2']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		1220	1222	annotator4	['sda/3']	16	Chemicals & Drugs
+Drug-Disorder	False	concept		1389	1434	annotator5	['sda/2']	21	Diseases & Disorders
+Drug-Disorder	False	concept		1454	1456	annotator4	['sda/3']	17	Chemicals & Drugs
+Drug-Disorder	False	concept		1541	1563	annotator5	['sda/3']	22	Diseases & Disorders
+Drug-Disorder	True	concept	urinary incontinence	1580	1600	annotator1,annotator4,Computer,annotator5	['umls/C0004576']	6	Diseases & Disorders
+Drug-Disorder	True	concept	urinary frequency/urgency	1610	1635	annotator1,annotator4,Computer,annotator5	['umls/C0374085', 'sda/4']	7	Diseases & Disorders
+Drug-Disorder	False	concept	urinary retention	1649	1666	annotator1,annotator5	['sda/3', 'sda/5']	8	Diseases & Disorders
+Drug-Disorder	False	concept		1765	1787	annotator5	['sda/3']	23	Diseases & Disorders
+Drug-Disorder	False	concept		1883	1885	annotator4	['sda/3']	18	Chemicals & Drugs
+Drug-Disorder	False	concept		1925	1927	annotator4	['sda/3']	19	Chemicals & Drugs
+Drug-Disorder	False	relation	11	0	['sda/2']	['sda/1', 'umls/C0038332']	80:92	123:148	annotator4	PA
+Drug-Disorder	False	relation	20	3	['uniprot/4501046']	['umls/C0038332', 'sda/1']	627:629	550:565	Computer	PA

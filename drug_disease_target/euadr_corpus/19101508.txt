@@ -1,0 +1,35 @@
+Target-Disorder	True	concept	HCNP	49	53	annotator1,Computer,annotator2,annotator3	['uniprot/3005738']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	Alzheimer's disease	64	83	annotator1,Computer,annotator2,annotator3	['umls/C0000191']	1	Diseases & Disorders
+Target-Disorder	False	concept	Hippocampal cholinergic neurostimulating peptide	85	133	annotator1,annotator2	['sda/1']	2	Genes & Molecular Sequences
+Target-Disorder	True	concept	HCNP	135	139	annotator1,Computer,annotator2,annotator3	['uniprot/3005738']	3	Genes & Molecular Sequences
+Target-Disorder	True	concept	HCNP	275	297	annotator1,Computer,annotator2,annotator3	['sda/2', 'uniprot/3005738']	5	Genes & Molecular Sequences
+Target-Disorder	True	concept	HCNPpp	299	305	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	6	Genes & Molecular Sequences
+Target-Disorder	True	concept	phosphatidylethanolamine binding protein	322	362	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	7	Genes & Molecular Sequences
+Target-Disorder	True	concept	PEBP	364	368	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	8	Genes & Molecular Sequences
+Target-Disorder	True	concept	Raf kinase inhibitor protein	374	402	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	9	Genes & Molecular Sequences
+Target-Disorder	True	concept	RKIP	404	408	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	HCNPpp	462	468	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	11	Genes & Molecular Sequences
+Target-Disorder	True	concept	Alzheimer's disease	529	548	annotator1,Computer,annotator2,annotator3	['umls/C0000191']	12	Diseases & Disorders
+Target-Disorder	True	concept	AD	550	552	annotator1,annotator2,annotator3	['sda/3', 'uniprot/9008026', 'sda/1']	13	Diseases & Disorders
+Target-Disorder	True	concept	HCNP	594	598	annotator1,Computer,annotator2,annotator3	['uniprot/3005738']	14	Genes & Molecular Sequences
+Target-Disorder	False	concept		608	620	Computer	['umls/C0082204']	21	Diseases & Disorders
+Target-Disorder	True	concept	AD	624	626	annotator1,annotator2,annotator3	['sda/3', 'uniprot/9008026', 'sda/1']	15	Diseases & Disorders
+Target-Disorder	True	concept	HCNPpp	718	724	annotator1,Computer,annotator2,annotator3	['uniprot/3037637']	16	Genes & Molecular Sequences
+Target-Disorder	False	concept	mutations	782	791	Computer,annotator2	['umls/C0158858']	22	Diseases & Disorders
+Target-Disorder	True	concept	AD	828	830	annotator1,annotator2,annotator3	['sda/3', 'uniprot/9008026', 'sda/1']	17	Diseases & Disorders
+Target-Disorder	False	concept		898	908	annotator1	['sda/1']	18	Genes & Molecular Sequences
+Target-Disorder	False	concept		919	927	annotator1	['sda/2']	19	Genes & Molecular Sequences
+Target-Disorder	False	concept	disease	985	992	Computer,annotator3	['umls/C0001185']	23	Diseases & Disorders
+Target-Disorder	False	concept	mutations	1019	1028	Computer,annotator2	['umls/C0158858']	24	Diseases & Disorders
+Target-Disorder	True	relation	14	12	['uniprot/3005738']	['umls/C0000191']	594:598	529:548	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	14	15	['uniprot/3005738']	['sda/3', 'uniprot/9008026', 'sda/1']	594:598	624:626	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	11	12	['uniprot/3037637']	['umls/C0000191']	462:468	529:548	annotator1,Computer,annotator2,annotator3	PA
+Target-Disorder	True	relation	11	15	['uniprot/3037637']	['sda/3', 'uniprot/9008026', 'sda/1']	462:468	624:626	annotator1,annotator2,annotator3	PA
+Target-Disorder	False	relation	0	1	['uniprot/3005738']	['umls/C0000191']	49:53	64:83	Computer,annotator2	PA
+Target-Disorder	False	relation	14	21	['uniprot/3005738']	['umls/C0082204']	594:598	608:620	Computer	PA
+Target-Disorder	False	relation	11	21	['uniprot/3037637']	['umls/C0082204']	462:468	608:620	Computer	PA
+Target-Disorder	False	relation	16	22	['uniprot/3037637']	['umls/C0158858']	718:724	782:791	Computer,annotator2	PA
+Target-Disorder	False	relation	4	5	[]	['sda/2', 'uniprot/3005738']	157:170	275:297	annotator2	PA
+Target-Disorder	False	relation	4	10	[]	['uniprot/3037637']	157:170	404:408	annotator2	PA
+Target-Disorder	False	relation	4	2	[]	['sda/1']	157:170	85:133	annotator2	PA
+Target-Disorder	False	relation	16	17	['uniprot/3037637']	['sda/3', 'uniprot/9008026', 'sda/1']	718:724	828:830	annotator2,annotator3	PA

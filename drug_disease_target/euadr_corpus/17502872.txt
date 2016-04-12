@@ -1,0 +1,32 @@
+Target-Drug	False	concept		20	48	annotator1	['sda/1']	0	Chemicals & Drugs
+Target-Drug	False	concept	p75-Fc	27	33	annotator2	['sda/2']	17	Genes & Molecular Sequences
+Target-Drug	False	concept	p75-Fc	27	33	annotator3	['sda/9']	17	Chemicals & Drugs
+Target-Drug	False	concept	MP6-XT22	53	87	annotator1,annotator3	['sda/3', 'sda/2']	1	Chemicals & Drugs
+Target-Drug	False	concept	TNF-alpha	74	83	Computer,annotator2	['uniprot/3000496']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	tumor necrosis factor	185	206	annotator1,Computer,annotator2	['uniprot/3000496']	2	Genes & Molecular Sequences
+Target-Drug	False	concept	tumor necrosis factor	185	206	annotator3	['sda/4']	2	Chemicals & Drugs
+Target-Drug	True	concept	TNF	208	211	annotator1,Computer,annotator2	['uniprot/3000496']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	TNF	333	336	annotator1,Computer,annotator2	['uniprot/3000496']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	TNF	333	336	annotator3	['sda/8']	4	Chemicals & Drugs
+Target-Drug	False	concept		349	377	annotator1	['sda/1']	5	Chemicals & Drugs
+Target-Drug	False	concept	p75-FC	356	362	annotator2	['sda/2']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	p75-FC	356	362	annotator3	['sda/9']	18	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	392	402	annotator1,annotator3	['uniprot/3000829', 'sda/6']	6	Chemicals & Drugs
+Target-Drug	False	concept	etanercept	392	402	Computer,annotator2	['uniprot/3000829']	6	Genes & Molecular Sequences
+Target-Drug	False	concept	MP6-XT22	417	445	annotator1,annotator3	['sda/2']	7	Chemicals & Drugs
+Target-Drug	False	concept	TNF	438	441	Computer,annotator2	['uniprot/3000496']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	infliximab	460	470	annotator1,Computer,annotator2,annotator3	['uniprot/4500016']	8	Chemicals & Drugs
+Target-Drug	False	concept		513	534	annotator1	['sda/4']	9	Chemicals & Drugs
+Target-Drug	False	concept	p75-Fc	520	526	annotator2	['sda/2']	19	Genes & Molecular Sequences
+Target-Drug	False	concept	p75-Fc	520	526	annotator3	['sda/9']	19	Chemicals & Drugs
+Target-Drug	False	concept	MP6-XT22	539	556	annotator1,annotator3	['sda/5', 'sda/2']	10	Chemicals & Drugs
+Target-Drug	False	concept		883	904	annotator1	['sda/4']	13	Chemicals & Drugs
+Target-Drug	False	concept	p75-Fc	890	896	annotator2	['sda/2']	20	Genes & Molecular Sequences
+Target-Drug	False	concept	p75-Fc	890	896	annotator3	['sda/9']	20	Chemicals & Drugs
+Target-Drug	False	concept	MP6-XT22	950	967	annotator1,annotator3	['sda/5', 'sda/2']	14	Chemicals & Drugs
+Target-Drug	False	relation	6	4	['uniprot/3000829', 'sda/6']	['uniprot/3000496', 'sda/8']	392:402	333:336	annotator1	PA
+Target-Drug	True	relation	8	4	['uniprot/4500016']	['uniprot/3000496', 'sda/8']	460:470	333:336	annotator1,Computer,annotator2	PA
+Target-Drug	False	relation	5	4	['sda/1']	['uniprot/3000496', 'sda/8']	349:377	333:336	annotator1	PA
+Target-Drug	False	relation	7	4	['sda/2']	['uniprot/3000496', 'sda/8']	417:445	333:336	annotator1	PA
+Target-Drug	False	relation	8	6	['uniprot/4500016']	['uniprot/3000829', 'sda/6']	460:470	392:402	Computer,annotator2	PA
+Target-Drug	False	relation	8	18	['uniprot/4500016']	['sda/2', 'sda/9']	460:470	356:362	annotator2	SA

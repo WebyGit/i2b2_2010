@@ -1,0 +1,67 @@
+Target-Drug	True	concept	Gefitinib	0	9	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	0	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	43	54	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	1	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	71	76	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	breast cancer resistance protein ABCG2/BRCP1	155	216	annotator1,Computer,annotator2,annotator3	['sda/1', 'uniprot/3055852']	4	Genes & Molecular Sequences
+Target-Drug	False	concept	ABCG2	188	193	Computer,annotator3	['uniprot/3055852']	54	Genes & Molecular Sequences
+Target-Drug	False	concept		194	199	annotator3	['sda/1']	64	Genes & Molecular Sequences
+Target-Drug	True	concept	epidermal growth factor receptor	220	252	annotator1,Computer,annotator2,annotator3	['uniprot/3074545', 'sda/9']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	254	258	annotator1,Computer,annotator2	['uniprot/3074545']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	gefitinib	302	311	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	7	Chemicals & Drugs
+Target-Drug	False	concept	EGFR small molecule inhibitor	316	345	annotator1,annotator3	['sda/2', 'sda/11']	8	Chemicals & Drugs
+Target-Drug	False	concept	EGFR small molecule inhibitor	316	345	Computer,annotator2	['uniprot/3074545']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	doxorubicin hydrochloride	376	401	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	9	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	605	616	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	12	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	626	648	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3055852']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	gefitinib	679	688	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	14	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	762	767	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	ABCG2	773	778	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	16	Genes & Molecular Sequences
+Target-Drug	False	concept		793	796	Computer	['uniprot/3030955']	55	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	871	875	annotator1,Computer,annotator2,annotator3	['uniprot/3074545', 'sda/22']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	gefitinib	886	895	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	19	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	1086	1091	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	doxorubicin	1130	1141	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	21	Chemicals & Drugs
+Target-Drug	True	concept	gefitinib	1209	1218	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	22	Chemicals & Drugs
+Target-Drug	True	concept	gefitinib	1266	1275	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	24	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	1277	1288	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	25	Chemicals & Drugs
+Target-Drug	True	concept	EGFR	1347	1351	annotator1,Computer,annotator2,annotator3	['uniprot/3074545', 'sda/22']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	gefitinib	1371	1380	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	27	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	1413	1435	annotator1,Computer,annotator2,annotator3	['sda/3', 'uniprot/3055852']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	doxorubicin	1506	1517	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	30	Chemicals & Drugs
+Target-Drug	False	concept		1563	1566	Computer	['uniprot/3030955']	56	Genes & Molecular Sequences
+Target-Drug	True	concept	ABCG2	1601	1606	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	32	Genes & Molecular Sequences
+Target-Drug	True	concept	doxorubicin	1651	1662	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	33	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	1684	1689	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	34	Genes & Molecular Sequences
+Target-Drug	True	concept	gefitinib	1744	1753	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	35	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	1764	1775	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	36	Chemicals & Drugs
+Target-Drug	True	concept	Epidermal growth factor receptor	1871	1903	annotator1,Computer,annotator2,annotator3	['uniprot/3074545']	38	Genes & Molecular Sequences
+Target-Drug	True	concept		1951	1962	annotator1,Computer,annotator2,annotator3	['sda/4', 'uniprot/3055852']	39	Genes & Molecular Sequences
+Target-Drug	True	concept	ABCG2	1983	1988	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	40	Genes & Molecular Sequences
+Target-Drug	True	concept	EGFR	2036	2040	annotator1,Computer,annotator2,annotator3	['uniprot/3074545', 'sda/22']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	gefitinib	2051	2060	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	43	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	2097	2108	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	44	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	2189	2200	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	46	Chemicals & Drugs
+Target-Drug	True	concept	ABCG2	2220	2225	annotator1,Computer,annotator2,annotator3	['uniprot/3055852']	47	Genes & Molecular Sequences
+Target-Drug	True	concept	doxorubicin	2269	2280	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	48	Chemicals & Drugs
+Target-Drug	True	concept	gefitinib	2437	2446	annotator1,Computer,annotator2,annotator3	['uniprot/4500953', 'uniprot/9011935']	51	Chemicals & Drugs
+Target-Drug	True	concept	doxorubicin	2451	2462	annotator1,Computer,annotator2,annotator3	['uniprot/4500743', 'uniprot/6099213']	52	Chemicals & Drugs
+Target-Drug	True	relation	12	13	['uniprot/4500743', 'uniprot/6099213']	['sda/3', 'uniprot/3055852']	605:616	626:648	annotator1,Computer,annotator2	PA
+Target-Drug	True	relation	19	18	['uniprot/4500953', 'uniprot/9011935']	['uniprot/3074545', 'sda/22']	886:895	871:875	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	27	26	['uniprot/4500953', 'uniprot/9011935']	['uniprot/3074545', 'sda/22']	1371:1380	1347:1351	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	30	29	['uniprot/4500743', 'uniprot/6099213']	['sda/3', 'uniprot/3055852']	1506:1517	1413:1435	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	43	42	['uniprot/4500953', 'uniprot/9011935']	['uniprot/3074545', 'sda/22']	2051:2060	2036:2040	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	46	42	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3074545', 'sda/22']	2189:2200	2036:2040	annotator1,Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	48	47	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3055852']	2269:2280	2220:2225	annotator1,Computer,annotator2,annotator3	SA
+Target-Drug	True	relation	0	2	['uniprot/4500953', 'uniprot/9011935']	['uniprot/3055852']	0:9	71:76	Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	1	2	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3055852']	43:54	71:76	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	7	54	['uniprot/4500953', 'uniprot/9011935']	['uniprot/3055852']	302:311	188:193	Computer	PA
+Target-Drug	False	relation	7	8	['uniprot/4500953', 'uniprot/9011935']	['sda/2', 'uniprot/3074545', 'sda/11']	302:311	316:345	Computer,annotator2	PA
+Target-Drug	False	relation	9	54	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3055852']	376:401	188:193	Computer	PA
+Target-Drug	False	relation	9	8	['uniprot/4500743', 'uniprot/6099213']	['sda/2', 'uniprot/3074545', 'sda/11']	376:401	316:345	Computer,annotator2	PA
+Target-Drug	False	relation	14	13	['uniprot/4500953', 'uniprot/9011935']	['sda/3', 'uniprot/3055852']	679:688	626:648	Computer,annotator2	PA
+Target-Drug	True	relation	21	20	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3055852']	1130:1141	1086:1091	Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	27	29	['uniprot/4500953', 'uniprot/9011935']	['sda/3', 'uniprot/3055852']	1371:1380	1413:1435	Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	30	26	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3074545', 'sda/22']	1506:1517	1347:1351	Computer,annotator2,annotator3	PA
+Target-Drug	True	relation	33	34	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3055852']	1651:1662	1684:1689	Computer,annotator2,annotator3	PA
+Target-Drug	False	relation	33	56	['uniprot/4500743', 'uniprot/6099213']	['uniprot/3030955']	1651:1662	1563:1566	Computer	PA
+Target-Drug	False	relation	7	4	['uniprot/4500953', 'uniprot/9011935']	['sda/1', 'uniprot/3055852']	302:311	155:216	annotator2	SA
+Target-Drug	False	relation	9	4	['uniprot/4500743', 'uniprot/6099213']	['sda/1', 'uniprot/3055852']	376:401	155:216	annotator2	SA

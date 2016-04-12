@@ -1,0 +1,27 @@
+Target-Disorder	True	concept	TLR1	97	101	annotator1,Computer,annotator2,annotator3	['uniprot/3020694']	0	Genes & Molecular Sequences
+Target-Disorder	True	concept	leprosy	123	130	annotator1,Computer,annotator2,annotator3	['umls/C0002485']	1	Diseases & Disorders
+Target-Disorder	True	concept	TLRs	132	136	annotator1,annotator2,annotator3	['sda/1', 'sda/6']	2	Genes & Molecular Sequences
+Target-Disorder	False	concept		278	300	Computer	['umls/C0109901']	14	Diseases & Disorders
+Target-Disorder	False	concept	infection	311	320	annotator1,Computer	['umls/C0002244']	3	Diseases & Disorders
+Target-Disorder	True	concept	TLR1	336	340	annotator1,Computer,annotator2,annotator3	['uniprot/3020694']	4	Genes & Molecular Sequences
+Target-Disorder	False	concept	mycobacteria	422	434	Computer,annotator3	['umls/C0002898', 'sda/8']	15	Diseases & Disorders
+Target-Disorder	True	concept	I602S	466	471	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	5	SNP & Sequence variations
+Target-Disorder	True	concept	TLR1	520	524	annotator1,Computer,annotator2,annotator3	['uniprot/3020694']	6	Genes & Molecular Sequences
+Target-Disorder	False	concept	TLR1	713	717	Computer,annotator2	['uniprot/3020694']	16	Genes & Molecular Sequences
+Target-Disorder	True	concept	602S	718	722	annotator1,annotator2,annotator3	['sda/5', 'sda/2', 'sda/3']	7	SNP & Sequence variations
+Target-Disorder	True	concept	TLR1 602I	744	753	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/5']	8	SNP & Sequence variations
+Target-Disorder	False	concept	TLR1 602I	744	753	Computer,annotator2	['uniprot/3020694']	8	Genes & Molecular Sequences
+Target-Disorder	False	concept		785	797	Computer	['umls/C0009431']	17	Diseases & Disorders
+Target-Disorder	True	concept	602S	860	864	annotator1,annotator2,annotator3	['sda/5', 'sda/2']	9	SNP & Sequence variations
+Target-Disorder	True	concept	TLR	940	943	annotator1,annotator2,annotator3	['sda/6', 'sda/4', 'sda/7']	10	Genes & Molecular Sequences
+Target-Disorder	True	concept	602S	991	995	annotator1,annotator2,annotator3	['sda/5', 'sda/2']	11	SNP & Sequence variations
+Target-Disorder	True	concept	leprosy	1047	1054	annotator1,Computer,annotator2,annotator3	['umls/C0002485']	12	Diseases & Disorders
+Target-Disorder	False	concept	Mycobacterium leprae	1072	1092	Computer,annotator3	['umls/C0147476']	18	Diseases & Disorders
+Target-Disorder	True	concept	TLR	1106	1109	annotator1,annotator2,annotator3	['sda/6', 'sda/4', 'sda/7']	13	Genes & Molecular Sequences
+Target-Disorder	True	relation	11	12	['sda/5', 'sda/2']	['umls/C0002485']	991:995	1047:1054	annotator1,annotator2,annotator3	PA
+Target-Disorder	True	relation	0	1	['uniprot/3020694']	['umls/C0002485']	97:101	123:130	Computer,annotator2,annotator3	PA
+Target-Disorder	False	relation	4	15	['uniprot/3020694']	['umls/C0002898', 'sda/8']	336:340	422:434	Computer,annotator3	PA
+Target-Disorder	False	relation	16	17	['uniprot/3020694']	['umls/C0009431']	713:717	785:797	Computer	PA
+Target-Disorder	False	relation	13	12	['sda/6', 'sda/4', 'sda/7']	['umls/C0002485']	1106:1109	1047:1054	annotator2,annotator3	PA
+Target-Disorder	False	relation	11	18	['sda/5', 'sda/2']	['umls/C0147476']	991:995	1072:1092	annotator3	PA
+Target-Disorder	False	relation	13	18	['sda/6', 'sda/4', 'sda/7']	['umls/C0147476']	1106:1109	1072:1092	annotator3	PA

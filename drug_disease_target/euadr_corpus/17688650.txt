@@ -1,0 +1,16 @@
+Drug-Disorder	False	concept		27	33	annotator1	['sda/7']	0	Diseases & Disorders
+Drug-Disorder	False	concept		57	65	Computer	['umls/C0016775']	10	Diseases & Disorders
+Drug-Disorder	True	concept	Fetal Valproate Syndrome	69	93	annotator1,annotator4,Computer,annotator5	['umls/C0012945']	1	Diseases & Disorders
+Drug-Disorder	True	concept	teratogenicity	111	125	annotator4,Computer,annotator5	['sda/2', 'umls/C0011337']	9	Diseases & Disorders
+Drug-Disorder	True	concept	antiepileptic drugs	129	148	annotator1,annotator4,annotator5	['sda/4', 'sda/1']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	neural tube defects	234	253	annotator1,annotator4,Computer,annotator5	['umls/C0003034']	3	Diseases & Disorders
+Drug-Disorder	True	concept	antiepileptic drugs	258	277	annotator1,annotator4,annotator5	['sda/4', 'sda/1']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	congenital malformations	304	328	annotator1,annotator4,Computer,annotator5	['umls/C0000013']	5	Diseases & Disorders
+Drug-Disorder	True	concept	Fetal Valproate Syndrome	417	441	annotator1,annotator4,Computer,annotator5	['umls/C0012945']	6	Diseases & Disorders
+Drug-Disorder	False	concept	ocular	466	472	annotator1	['sda/7']	7	Diseases & Disorders
+Drug-Disorder	False	concept	ocular	466	472	annotator5	['sda/2']	7	Chemicals & Drugs
+Drug-Disorder	False	concept		477	504	annotator1	['sda/8']	8	Diseases & Disorders
+Drug-Disorder	True	relation	4	3	['sda/4', 'sda/1']	['umls/C0003034']	258:277	234:253	annotator1,annotator4,annotator5	PA
+Drug-Disorder	True	relation	4	5	['sda/4', 'sda/1']	['umls/C0000013']	258:277	304:328	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	2	9	['sda/4', 'sda/1']	['sda/2', 'umls/C0011337']	129:148	111:125	annotator4,annotator5	PA
+Drug-Disorder	False	relation	7	6	['sda/7', 'sda/2']	['umls/C0012945']	466:472	417:441	annotator5	PA

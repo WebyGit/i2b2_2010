@@ -1,0 +1,17 @@
+Drug-Disorder	False	concept		72	81	annotator5	['sda/1']	22	Diseases & Disorders
+Drug-Disorder	True	concept	coronary artery disease	85	108	annotator1,annotator4,Computer,annotator5	['umls/C0000984']	1	Diseases & Disorders
+Drug-Disorder	True	concept	cardiovascular disease	233	255	annotator1,annotator4,Computer,annotator5,annotator5	['umls/C0000675', 'sda/4']	2	Diseases & Disorders
+Drug-Disorder	False	concept		317	333	Computer	['umls/C0005067']	21	Diseases & Disorders
+Drug-Disorder	True	concept	graft disease	552	569	annotator1,annotator4,Computer,annotator5	['sda/1', 'umls/C0001185', 'sda/2']	4	Diseases & Disorders
+Drug-Disorder	False	concept	cardiovascular	642	663	annotator1,annotator5	['sda/2', 'sda/4']	6	Diseases & Disorders
+Drug-Disorder	False	concept		799	813	annotator5	['sda/4']	23	Diseases & Disorders
+Drug-Disorder	True	concept	CAD	1136	1151	annotator1,annotator4,Computer,annotator5	['sda/3', 'umls/C0198606']	10	Diseases & Disorders
+Drug-Disorder	False	concept		1411	1416	annotator5	['sda/5']	24	Diseases & Disorders
+Drug-Disorder	True	concept	myocardial infarction	1418	1439	annotator1,annotator4,Computer,annotator5	['umls/C0002926']	11	Diseases & Disorders
+Drug-Disorder	True	concept	refractory angina	1444	1461	annotator1,annotator4,Computer,annotator5	['umls/C0083351']	12	Diseases & Disorders
+Drug-Disorder	False	concept		2155	2169	annotator5	['sda/4']	25	Diseases & Disorders
+Drug-Disorder	False	concept		2170	2179	annotator5	['sda/1']	26	Diseases & Disorders
+Drug-Disorder	False	concept	still	2294	2299	annotator4,Computer	['umls/C0145980']	20	Diseases & Disorders
+Drug-Disorder	False	concept		2359	2373	annotator5	['sda/4']	27	Diseases & Disorders
+Drug-Disorder	True	concept	hypertension	2456	2468	annotator1,annotator4,Computer,annotator5	['umls/C0002137']	15	Diseases & Disorders
+Drug-Disorder	True	concept	diabetes	2470	2478	annotator1,annotator4,Computer,annotator5	['umls/C0001136']	16	Diseases & Disorders

@@ -1,0 +1,7 @@
+Drug-Disorder	True	concept	Photodynamic therapy	0	20	annotator4,annotator5	['sda/1']	0	Chemicals & Drugs
+Drug-Disorder	True	concept	photodynamic therapy	45	65	annotator4,annotator5	['sda/1']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	PDT	67	70	annotator5	['sda/2']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	PDT	145	148	annotator5	['sda/2']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	PDT	223	226	annotator5	['sda/2']	4	Chemicals & Drugs
+Drug-Disorder	False	concept	PDT	377	380	annotator5	['sda/2']	5	Chemicals & Drugs
+Drug-Disorder	False	concept	PDT	443	446	annotator5	['sda/2']	6	Chemicals & Drugs

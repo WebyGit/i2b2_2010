@@ -1,0 +1,46 @@
+Target-Drug	False	concept	Axin1	24	41	annotator1	['sda/1']	0	SNP & Sequence variations
+Target-Drug	True	concept	Axin1	24	41	Computer,annotator2,annotator3	['uniprot/3002614', 'sda/6', 'sda/4']	0	Genes & Molecular Sequences
+Target-Drug	False	concept	beta-catenin mutations	46	78	annotator1,annotator3	['sda/2', 'sda/3']	1	SNP & Sequence variations
+Target-Drug	False	concept	beta-catenin	56	68	Computer,annotator2	['uniprot/3001434', 'sda/7']	45	Genes & Molecular Sequences
+Target-Drug	False	concept	Wnt	136	139	annotator1,annotator2	['sda/3', 'sda/1']	3	Genes & Molecular Sequences
+Target-Drug	False	concept	beta-catenin mutations	244	277	annotator1,annotator3	['sda/4', 'sda/3']	6	SNP & Sequence variations
+Target-Drug	False	concept	beta-catenin	255	267	Computer,annotator2	['uniprot/3001434', 'sda/7']	46	Genes & Molecular Sequences
+Target-Drug	False	concept	mutations in Axin1	282	317	annotator1,annotator3	['sda/5']	7	SNP & Sequence variations
+Target-Drug	False	concept	mutations in Axin1	282	317	Computer,annotator2	['uniprot/3002614', 'sda/6']	7	Genes & Molecular Sequences
+Target-Drug	False	concept	Wnt	377	380	annotator1,annotator2	['sda/3', 'sda/1']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	HCC	392	395	annotator1,Computer,annotator2,annotator3	['uniprot/3057175']	9	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-catenin	427	439	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/7']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-catenin	470	482	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/7']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	HCC	527	530	annotator1,Computer,annotator2,annotator3	['uniprot/3057175']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-catenin	580	592	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/7']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	AXIN1	597	602	annotator1,Computer,annotator2,annotator3	['uniprot/3002614', 'sda/6', 'sda/4']	15	Genes & Molecular Sequences
+Target-Drug	False	concept	beta-catenin mutations	696	728	annotator1,annotator3	['sda/2', 'sda/3']	16	SNP & Sequence variations
+Target-Drug	False	concept	beta-catenin	706	718	Computer,annotator2	['uniprot/3001434', 'sda/7']	48	Genes & Molecular Sequences
+Target-Drug	True	concept	glutamine synthetase	777	797	annotator1,Computer,annotator2,annotator3	['uniprot/3037567']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	GS	799	801	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	G-protein-coupled receptor	804	830	annotator1,annotator2,annotator3	['sda/7', 'sda/2']	19	Genes & Molecular Sequences
+Target-Drug	False	concept	GPR)49	832	838	annotator1,annotator3	['sda/8']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	glutamate transporter	843	864	annotator1,annotator2,annotator3	['sda/10', 'sda/3', 'sda/9']	21	Genes & Molecular Sequences
+Target-Drug	False	concept		866	872	annotator1,annotator3	['sda/11', 'sda/10']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	ornithine aminotransferase	907	933	annotator1,Computer,annotator2,annotator3	['uniprot/3000231']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	LECT2	935	940	annotator1,Computer,annotator2,annotator3	['uniprot/3001730']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	c-myc	942	947	annotator1,Computer,annotator2,annotator3	['uniprot/3031092']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	cyclin D1	952	961	annotator1,Computer,annotator2,annotator3	['uniprot/3001334']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	GS	983	985	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-catenin	1026	1038	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/7']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	HCC	1053	1056	annotator1,Computer,annotator2,annotator3	['uniprot/3057175']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	GS	1095	1097	annotator1,annotator2,annotator3	['sda/6', 'sda/5']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	GPR49	1099	1104	annotator1,Computer,annotator2,annotator3	['uniprot/3020807']	31	Genes & Molecular Sequences
+Target-Drug	True	concept	GLT-1	1108	1113	annotator1,Computer,annotator2,annotator3	['uniprot/3003075', 'sda/10']	32	Genes & Molecular Sequences
+Target-Drug	False	concept	Axin1	1126	1143	annotator1	['sda/1']	33	SNP & Sequence variations
+Target-Drug	True	concept	Axin1	1126	1143	Computer,annotator2,annotator3	['uniprot/3002614', 'sda/6', 'sda/4']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	Beta-catenin	1152	1164	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/7']	35	Genes & Molecular Sequences
+Target-Drug	False	concept	Axin1	1209	1214	annotator2,annotator3	['sda/6', 'sda/4']	49	Genes & Molecular Sequences
+Target-Drug	True	concept	HCC	1223	1226	annotator1,Computer,annotator2,annotator3	['uniprot/3057175']	36	Genes & Molecular Sequences
+Target-Drug	False	concept		1262	1274	annotator2	['sda/7']	50	Genes & Molecular Sequences
+Target-Drug	True	concept	HCC	1332	1335	annotator1,Computer,annotator2,annotator3	['uniprot/3057175']	38	Genes & Molecular Sequences
+Target-Drug	True	concept	Axin1	1386	1391	annotator1,Computer,annotator2,annotator3	['uniprot/3002614', 'sda/6', 'sda/4']	39	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-catenin	1437	1449	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/7']	40	Genes & Molecular Sequences
+Target-Drug	True	concept	Axin1	1514	1519	annotator1,Computer,annotator2,annotator3	['uniprot/3002614', 'sda/6', 'sda/4']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	HCC	1523	1526	annotator1,Computer,annotator2,annotator3	['uniprot/3057175']	43	Genes & Molecular Sequences
+Target-Drug	False	concept	Wnt	1558	1561	annotator1,annotator2	['sda/3', 'sda/1']	44	Genes & Molecular Sequences

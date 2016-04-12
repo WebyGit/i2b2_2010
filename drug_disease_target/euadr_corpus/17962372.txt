@@ -1,0 +1,25 @@
+Target-Drug	True	concept	P-glycoprotein	9	23	annotator1,annotator2,annotator3	['sda/1']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	P-glycoprotein	70	84	annotator1,annotator2,annotator3	['sda/1']	1	Genes & Molecular Sequences
+Target-Drug	False	concept		103	125	annotator1	['sda/2']	2	Chemicals & Drugs
+Target-Drug	False	concept		168	190	annotator1	['sda/2']	3	Chemicals & Drugs
+Target-Drug	False	concept	drugs	192	209	annotator1	['sda/3']	4	Chemicals & Drugs
+Target-Drug	False	concept		244	268	annotator1	['sda/4']	5	Chemicals & Drugs
+Target-Drug	True	concept	P-glycoprotein	290	304	annotator1,annotator2,annotator3	['sda/1']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	306	310	annotator1,Computer,annotator2,annotator3	['uniprot/2106820']	7	Genes & Molecular Sequences
+Target-Drug	False	concept		364	368	annotator2	['uniprot/3055496']	18	Genes & Molecular Sequences
+Target-Drug	False	concept		385	390	annotator2	['uniprot/2106820']	19	Genes & Molecular Sequences
+Target-Drug	False	concept		403	409	annotator1	['sda/5']	8	Genes & Molecular Sequences
+Target-Drug	False	concept	calcein	415	425	annotator1,annotator2	['sda/7', 'sda/2']	9	Chemicals & Drugs
+Target-Drug	True	concept	P-gp	707	711	annotator1,Computer,annotator2,annotator3	['uniprot/2106820']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	risperidone	814	825	annotator1,Computer,annotator2,annotator3	['uniprot/4500924', 'uniprot/9011273']	11	Chemicals & Drugs
+Target-Drug	True	concept	9-hydroxyrisperidone	830	850	annotator1,Computer,annotator2,annotator3	['uniprot/4500695', 'uniprot/8520267']	12	Chemicals & Drugs
+Target-Drug	False	concept		971	975	annotator2	['uniprot/3055496']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	1116	1120	annotator1,Computer,annotator2,annotator3	['uniprot/2106820']	13	Genes & Molecular Sequences
+Target-Drug	False	concept		1212	1216	annotator2	['uniprot/3055496']	24	Genes & Molecular Sequences
+Target-Drug	False	concept		1226	1231	annotator2	['uniprot/2106820']	25	Genes & Molecular Sequences
+Target-Drug	False	concept		1328	1332	annotator2	['uniprot/3055496']	26	Genes & Molecular Sequences
+Target-Drug	False	concept		1348	1353	annotator2	['uniprot/2106820']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	1571	1575	annotator1,Computer,annotator2,annotator3	['uniprot/2106820']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	P-gp	1725	1729	annotator1,Computer,annotator2,annotator3	['uniprot/2106820']	15	Genes & Molecular Sequences
+Target-Drug	False	relation	11	22	['uniprot/4500924', 'uniprot/9011273']	['uniprot/3055496']	814:825	971:975	annotator2	PA
+Target-Drug	False	relation	12	22	['uniprot/4500695', 'uniprot/8520267']	['uniprot/3055496']	830:850	971:975	annotator2	PA

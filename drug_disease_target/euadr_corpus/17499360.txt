@@ -1,0 +1,17 @@
+Drug-Disorder	True	concept	succimer	10	18	annotator1,annotator4,Computer,annotator5	['uniprot/4500280', 'sda/2', 'sda/3']	0	Chemicals & Drugs
+Drug-Disorder	False	concept	lead	124	128	annotator1,annotator4	['sda/6', 'sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	succimer	171	179	annotator1,annotator4,Computer,annotator5	['uniprot/4500280', 'sda/2', 'sda/3']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	lead	231	235	annotator1,annotator4	['sda/6', 'sda/1']	3	Chemicals & Drugs
+Drug-Disorder	False	concept		247	277	annotator1	['sda/7']	4	Diseases & Disorders
+Drug-Disorder	False	concept		504	509	Computer	['umls/C0054140']	11	Diseases & Disorders
+Drug-Disorder	True	concept	succimer	566	574	annotator1,Computer,annotator5	['uniprot/4500280', 'sda/4']	5	Chemicals & Drugs
+Drug-Disorder	False	concept		806	814	Computer	['umls/C0022000']	12	Diseases & Disorders
+Drug-Disorder	True	concept	succimer	841	849	annotator1,Computer,annotator5	['uniprot/4500280']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	succimer	909	917	annotator1,Computer,annotator5	['uniprot/4500280', 'sda/4']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	succimer	1056	1064	annotator1,Computer,annotator5	['uniprot/4500280', 'sda/4']	8	Chemicals & Drugs
+Drug-Disorder	False	concept	lead	1082	1086	annotator1,annotator4	['sda/6', 'sda/1']	9	Chemicals & Drugs
+Drug-Disorder	True	concept	cerebellar deficits	1098	1117	annotator1,Computer,annotator5	['sda/8', 'umls/C0009431', 'sda/6']	10	Diseases & Disorders
+Drug-Disorder	False	relation	3	4	['sda/6', 'sda/1']	['sda/7']	231:235	247:277	annotator1	PA
+Drug-Disorder	True	relation	8	10	['uniprot/4500280', 'sda/4']	['sda/8', 'umls/C0009431', 'sda/6']	1056:1064	1098:1117	annotator1,Computer,annotator5	SA
+Drug-Disorder	False	relation	9	10	['sda/6', 'sda/1']	['sda/8', 'umls/C0009431', 'sda/6']	1082:1086	1098:1117	annotator1	PA
+Drug-Disorder	False	relation	6	12	['uniprot/4500280']	['umls/C0022000']	841:849	806:814	Computer	PA

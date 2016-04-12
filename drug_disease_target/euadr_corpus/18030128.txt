@@ -1,0 +1,9 @@
+Drug-Disorder	False	concept	silicone	9	24	annotator4,annotator5	['sda/1']	2	Chemicals & Drugs
+Drug-Disorder	False	concept	dacryocystorhinostomy failure	39	68	annotator1,annotator5	['sda/2']	0	Diseases & Disorders
+Drug-Disorder	False	concept		70	78	annotator5	['sda/1']	6	Chemicals & Drugs
+Drug-Disorder	False	concept		129	137	annotator5	['sda/1']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	tube prolapse	212	225	annotator4,Computer,annotator5	['sda/2', 'umls/C0003669', 'sda/4']	3	Diseases & Disorders
+Drug-Disorder	False	concept	silicone	236	251	annotator4,annotator5	['sda/1']	4	Chemicals & Drugs
+Drug-Disorder	False	concept		320	332	Computer	['umls/C0000923']	5	Diseases & Disorders
+Drug-Disorder	False	concept	dacryocystorhinostomy failure	477	506	annotator1,annotator5	['sda/2']	1	Diseases & Disorders
+Drug-Disorder	False	relation	7	3	['sda/1']	['sda/2', 'umls/C0003669', 'sda/4']	129:137	212:225	annotator5	PA

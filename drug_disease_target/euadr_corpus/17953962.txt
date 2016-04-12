@@ -1,0 +1,4 @@
+Target-Disorder	False	concept		0	9	Computer	['umls/C0009549']	1	Diseases & Disorders
+Target-Disorder	True	concept	secondary infertility	85	106	annotator1,Computer,annotator2,annotator3	['umls/C0063645', 'sda/1']	0	Diseases & Disorders
+Target-Disorder	False	concept		116	125	Computer	['umls/C0009549']	2	Diseases & Disorders
+Target-Disorder	False	concept		148	154	Computer	['umls/C0001083']	3	Diseases & Disorders

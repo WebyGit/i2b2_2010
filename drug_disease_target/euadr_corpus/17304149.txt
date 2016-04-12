@@ -1,0 +1,29 @@
+Target-Drug	True	concept	itraconazole	10	22	annotator1,Computer,annotator2,annotator3	['uniprot/4500909']	0	Chemicals & Drugs
+Target-Drug	True	concept	paroxetine	46	56	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	1	Chemicals & Drugs
+Target-Drug	False	concept	gut	70	86	annotator1,Computer	['sda/2', 'uniprot/3037271']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	paroxetine	127	137	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	3	Chemicals & Drugs
+Target-Drug	True	concept	P-glycoprotein	156	170	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	P-glycoprotein	244	258	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	paroxetine	286	296	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	6	Chemicals & Drugs
+Target-Drug	True	concept	itraconazole	350	362	annotator1,Computer,annotator2,annotator3	['uniprot/4500909']	7	Chemicals & Drugs
+Target-Drug	False	concept	P-glycoprotein inhibitor	366	390	annotator1,annotator3	['sda/6', 'sda/2']	8	Chemicals & Drugs
+Target-Drug	False	concept	P-glycoprotein inhibitor	366	390	annotator2	['sda/2']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	paroxetine	419	429	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	9	Chemicals & Drugs
+Target-Drug	True	concept	itraconazole	466	478	annotator1,Computer,annotator2,annotator3	['uniprot/4500909']	10	Chemicals & Drugs
+Target-Drug	True	concept	paroxetine	603	613	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	11	Chemicals & Drugs
+Target-Drug	True	concept	paroxetine	665	675	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	12	Chemicals & Drugs
+Target-Drug	True	concept	itraconazole	747	759	annotator1,Computer,annotator2,annotator3	['uniprot/4500909']	13	Chemicals & Drugs
+Target-Drug	True	concept	paroxetine	834	844	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	14	Chemicals & Drugs
+Target-Drug	True	concept	paroxetine	999	1009	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	15	Chemicals & Drugs
+Target-Drug	True	concept	paroxetine	1274	1284	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	16	Chemicals & Drugs
+Target-Drug	True	concept	itraconazole	1302	1314	annotator1,Computer,annotator2,annotator3	['uniprot/4500909']	17	Chemicals & Drugs
+Target-Drug	True	concept	P-glycoprotein	1353	1367	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/1']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	paroxetine	1395	1405	annotator1,Computer,annotator2,annotator3	['uniprot/4500846']	19	Chemicals & Drugs
+Target-Drug	True	relation	3	4	['uniprot/4500846']	['sda/3', 'sda/2', 'sda/1']	127:137	156:170	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	6	5	['uniprot/4500846']	['sda/3', 'sda/2', 'sda/1']	286:296	244:258	annotator1,annotator2	SA
+Target-Drug	True	relation	19	18	['uniprot/4500846']	['sda/3', 'sda/2', 'sda/1']	1395:1405	1353:1367	annotator1,annotator2,annotator3	SA
+Target-Drug	False	relation	0	2	['uniprot/4500909']	['sda/2', 'uniprot/3037271']	10:22	70:86	Computer	PA
+Target-Drug	False	relation	1	2	['uniprot/4500846']	['sda/2', 'uniprot/3037271']	46:56	70:86	Computer	PA
+Target-Drug	False	relation	7	8	['uniprot/4500909']	['sda/6', 'sda/2']	350:362	366:390	annotator2	PA
+Target-Drug	False	relation	9	8	['uniprot/4500846']	['sda/6', 'sda/2']	419:429	366:390	annotator2	PA
+Target-Drug	False	relation	17	18	['uniprot/4500909']	['sda/3', 'sda/2', 'sda/1']	1302:1314	1353:1367	annotator2	PA

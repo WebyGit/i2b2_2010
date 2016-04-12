@@ -1,0 +1,15 @@
+Drug-Disorder	True	concept	Chronic depression	0	18	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	0	Diseases & Disorders
+Drug-Disorder	True	concept	depressive disorders	102	122	annotator1,annotator4,Computer,annotator5	['umls/C0001111']	1	Diseases & Disorders
+Drug-Disorder	False	concept		123	129	Computer	['umls/C0079625']	11	Diseases & Disorders
+Drug-Disorder	True	concept	chronic depression	194	212	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	2	Diseases & Disorders
+Drug-Disorder	True	concept	Chronic depressions	214	233	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	3	Diseases & Disorders
+Drug-Disorder	True	concept	major depressive disorder	257	282	annotator1,annotator4,Computer,annotator5	['umls/C0004541']	4	Diseases & Disorders
+Drug-Disorder	True	concept	MDD	284	287	annotator1,annotator4,Computer,annotator5	['umls/C0112399']	5	Diseases & Disorders
+Drug-Disorder	True	concept	chronic depression	428	446	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	6	Diseases & Disorders
+Drug-Disorder	False	concept	Antidepressant	448	462	annotator1,annotator4	['sda/1', 'sda/2']	7	Chemicals & Drugs
+Drug-Disorder	True	concept	chronic depression	544	562	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	8	Diseases & Disorders
+Drug-Disorder	False	concept		673	678	Computer	['umls/C0145980']	12	Diseases & Disorders
+Drug-Disorder	True	concept	chronic depression	680	698	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	9	Diseases & Disorders
+Drug-Disorder	False	concept		799	807	Computer	['umls/C0148591']	13	Diseases & Disorders
+Drug-Disorder	True	concept	chronic depression	909	927	annotator1,annotator4,Computer,annotator5	['umls/C0076711']	10	Diseases & Disorders
+Drug-Disorder	False	relation	7	8	['sda/1', 'sda/2']	['umls/C0076711']	448:462	544:562	annotator1,annotator4	PA

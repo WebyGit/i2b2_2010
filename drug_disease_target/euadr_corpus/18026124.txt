@@ -1,0 +1,26 @@
+Target-Drug	True	concept	Endocannabinoids	0	16	annotator1,annotator2,annotator3	['sda/1']	0	Chemicals & Drugs
+Target-Drug	True	concept	cannabinoid receptors	21	42	annotator1,annotator2,annotator3	['sda/3', 'sda/2']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	endocannabinoids	365	381	annotator1,annotator2,annotator3	['sda/1']	4	Chemicals & Drugs
+Target-Drug	True	concept	CB1	456	459	annotator1,Computer,annotator2,annotator3	['uniprot/3007273', 'sda/9']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	CB2	460	463	annotator1,Computer,annotator2	['uniprot/3001389']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	endocannabinoids	555	571	annotator1,annotator2,annotator3	['sda/1']	7	Chemicals & Drugs
+Target-Drug	True	concept	synthetic CB1 receptor agonists	817	848	annotator1,annotator2,annotator3	['sda/4', 'sda/3', 'sda/16']	11	Chemicals & Drugs
+Target-Drug	False	concept		827	830	Computer	['uniprot/3007273']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	CB1	879	882	annotator1,Computer,annotator2,annotator3	['uniprot/3007273', 'sda/15']	12	Genes & Molecular Sequences
+Target-Drug	False	concept	CB1 receptor antagonists	1040	1064	annotator1,annotator2	['sda/5', 'sda/4']	13	Chemicals & Drugs
+Target-Drug	False	concept	CB1 receptor antagonists	1040	1064	Computer,annotator3	['uniprot/3007273', 'sda/15']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	CB2 receptor agonists	1125	1146	annotator1,annotator2,annotator3	['sda/6', 'sda/5', 'sda/13']	14	Chemicals & Drugs
+Target-Drug	False	concept	CB2 receptor agonists	1125	1146	Computer	['uniprot/3001389']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	CB2	1207	1210	annotator1,Computer,annotator2,annotator3	['uniprot/3001389', 'sda/8']	15	Genes & Molecular Sequences
+Target-Drug	False	concept		1428	1438	annotator1	['sda/7']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	endocannabinoids	1665	1681	annotator1,annotator2,annotator3	['sda/1']	20	Chemicals & Drugs
+Target-Drug	True	concept	CB receptors	1686	1698	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/14']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	CB2 receptor agonists	1883	1904	annotator1,annotator2,annotator3	['sda/6', 'sda/5', 'sda/13']	23	Chemicals & Drugs
+Target-Drug	False	concept	CB2 receptor agonists	1883	1904	Computer	['uniprot/3001389']	23	Genes & Molecular Sequences
+Target-Drug	True	relation	4	5	['sda/1']	['uniprot/3007273', 'sda/9']	365:381	456:459	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	4	6	['sda/1']	['uniprot/3001389']	365:381	460:463	annotator1,annotator2	PA
+Target-Drug	True	relation	11	12	['sda/4', 'sda/3', 'sda/16']	['uniprot/3007273', 'sda/15']	817:848	879:882	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	14	15	['sda/6', 'uniprot/3001389', 'sda/5', 'sda/13']	['uniprot/3001389', 'sda/8']	1125:1146	1207:1210	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	14	18	['sda/6', 'uniprot/3001389', 'sda/5', 'sda/13']	['sda/7']	1125:1146	1428:1438	annotator1	PA
+Target-Drug	False	relation	20	21	['sda/1']	['sda/8', 'sda/6', 'sda/14']	1665:1681	1686:1698	annotator2	PA
+Target-Drug	False	relation	23	21	['sda/6', 'uniprot/3001389', 'sda/5', 'sda/13']	['sda/8', 'sda/6', 'sda/14']	1883:1904	1686:1698	annotator2,annotator3	PA

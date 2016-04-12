@@ -1,0 +1,17 @@
+Drug-Disorder	False	concept		69	75	Computer	['umls/C0000983']	8	Diseases & Disorders
+Drug-Disorder	True	concept	thromboembolism	94	109	annotator1,annotator4,Computer,annotator5	['umls/C0004350']	0	Diseases & Disorders
+Drug-Disorder	True	concept	anticoagulant	220	233	annotator1,annotator4,annotator5	['sda/1']	1	Chemicals & Drugs
+Drug-Disorder	True	concept	thrombosis	263	273	annotator1,annotator4,Computer,annotator5	['umls/C0004352']	2	Diseases & Disorders
+Drug-Disorder	True	concept	anticoagulant	380	393	annotator1,annotator4,annotator5	['sda/1', 'sda/2']	3	Chemicals & Drugs
+Drug-Disorder	True	concept	heparin	410	417	annotator1,annotator4,Computer,annotator5	['uniprot/4500749']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	thromboembolism	485	500	annotator1,annotator4,Computer,annotator5	['umls/C0004350']	5	Diseases & Disorders
+Drug-Disorder	False	concept		529	538	annotator5	['sda/3']	9	Diseases & Disorders
+Drug-Disorder	False	concept	oral anticoagulation	575	595	annotator1,annotator5	['sda/2', 'sda/4']	6	Chemicals & Drugs
+Drug-Disorder	True	concept	thromboembolism	711	726	annotator1,annotator4,Computer,annotator5	['umls/C0004350']	7	Diseases & Disorders
+Drug-Disorder	False	relation	1	2	['sda/1']	['umls/C0004352']	220:233	263:273	annotator1,annotator5	PA
+Drug-Disorder	False	relation	6	7	['sda/2', 'sda/4']	['umls/C0004350']	575:595	711:726	annotator1	NA
+Drug-Disorder	True	relation	4	5	['uniprot/4500749']	['umls/C0004350']	410:417	485:500	annotator4,Computer,annotator5	PA
+Drug-Disorder	False	relation	3	5	['sda/1', 'sda/2']	['umls/C0004350']	380:393	485:500	annotator4,annotator5	PA
+Drug-Disorder	False	relation	4	9	['uniprot/4500749']	['sda/3']	410:417	529:538	annotator5	PA
+Drug-Disorder	False	relation	3	9	['sda/1', 'sda/2']	['sda/3']	380:393	529:538	annotator5	PA
+Drug-Disorder	False	relation	6	7	['sda/2', 'sda/4']	['umls/C0004350']	575:595	711:726	annotator5	PA

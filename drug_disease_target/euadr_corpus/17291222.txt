@@ -1,0 +1,33 @@
+Drug-Disorder	True	concept	Pulmonary alveolar proteinosis	0	30	annotator1,annotator4,Computer,annotator5	['umls/C0003741', 'sda/3']	0	Diseases & Disorders
+Drug-Disorder	False	concept	pulmonary toxicity	39	57	Computer,annotator5	['umls/C0105641']	19	Diseases & Disorders
+Drug-Disorder	True	concept	sirolimus	61	70	annotator1,annotator4,Computer,annotator5	['uniprot/4501015', 'uniprot/9013601']	1	Chemicals & Drugs
+Drug-Disorder	False	concept	pulmonary toxicity	119	137	Computer,annotator5	['umls/C0105641']	20	Diseases & Disorders
+Drug-Disorder	True	concept	sirolimus	141	150	annotator1,annotator4,Computer,annotator5	['uniprot/4501015', 'uniprot/9013601']	2	Chemicals & Drugs
+Drug-Disorder	True	concept	SRL	152	155	annotator1,annotator4,annotator5	['sda/1', 'uniprot/2008246']	3	Chemicals & Drugs
+Drug-Disorder	False	concept	acute rejection	276	309	annotator1,annotator5	['sda/2', 'sda/3']	4	Diseases & Disorders
+Drug-Disorder	False	concept	acute rejection	276	309	annotator5	['sda/2']	4	Chemicals & Drugs
+Drug-Disorder	True	concept	chronic allograft dysfunction	314	343	annotator1,annotator4,Computer,annotator5	['sda/3', 'sda/1', 'umls/C0027156', 'sda/4']	5	Diseases & Disorders
+Drug-Disorder	True	concept	SRL	372	375	annotator1,annotator4,annotator5	['sda/1', 'uniprot/2008246']	6	Chemicals & Drugs
+Drug-Disorder	False	concept	dyspnoea	417	425	annotator1,annotator5	['sda/4', 'sda/6']	7	Diseases & Disorders
+Drug-Disorder	True	concept	nonproductive cough	427	446	annotator4,Computer,annotator5	['umls/C0094464', 'umls/C0000993', 'sda/7']	16	Diseases & Disorders
+Drug-Disorder	True	concept	chest pain	448	458	annotator4,Computer,annotator5	['umls/C0000777']	17	Diseases & Disorders
+Drug-Disorder	False	concept	fever	463	478	annotator4,annotator5	['sda/2', 'sda/8']	18	Diseases & Disorders
+Drug-Disorder	True	concept	chronic allograft nephropathy	508	537	annotator1,annotator4,Computer,annotator5	['umls/C0040335']	8	Diseases & Disorders
+Drug-Disorder	True	concept	pulmonary alveolar proteinosis	940	970	annotator1,annotator4,Computer,annotator5	['umls/C0003741', 'sda/3']	9	Diseases & Disorders
+Drug-Disorder	True	concept	PAP	972	975	annotator1,annotator4,Computer,annotator5	['sda/5', 'sda/4', 'umls/C0201213', 'sda/9']	10	Diseases & Disorders
+Drug-Disorder	True	concept	SRL	1027	1030	annotator1,annotator4,annotator5	['sda/1', 'uniprot/2008246']	11	Chemicals & Drugs
+Drug-Disorder	True	concept	PAP	1120	1123	annotator1,annotator4,Computer,annotator5	['sda/5', 'sda/4', 'umls/C0201213', 'sda/9']	12	Diseases & Disorders
+Drug-Disorder	True	concept	PAP	1174	1177	annotator1,annotator4,Computer,annotator5	['sda/5', 'sda/4', 'umls/C0201213', 'sda/9']	13	Diseases & Disorders
+Drug-Disorder	False	concept		1193	1205	Computer	['umls/C0000923']	21	Diseases & Disorders
+Drug-Disorder	True	concept	SRL	1209	1212	annotator1,annotator4,annotator5	['sda/1', 'uniprot/2008246']	14	Chemicals & Drugs
+Drug-Disorder	True	concept	SRL	1268	1271	annotator1,annotator4,annotator5	['sda/1', 'uniprot/2008246']	15	Chemicals & Drugs
+Drug-Disorder	False	concept		1299	1316	annotator5	['sda/10']	22	Chemicals & Drugs
+Drug-Disorder	True	relation	1	0	['uniprot/4501015', 'uniprot/9013601']	['umls/C0003741', 'sda/3']	61:70	0:30	annotator1,annotator4,Computer,annotator5	PA
+Drug-Disorder	True	relation	14	13	['sda/1', 'uniprot/2008246']	['sda/5', 'sda/4', 'umls/C0201213', 'sda/9']	1209:1212	1174:1177	annotator1,annotator4,annotator5	PA
+Drug-Disorder	False	relation	6	16	['sda/1', 'uniprot/2008246']	['umls/C0094464', 'umls/C0000993', 'sda/7']	372:375	427:446	annotator4,annotator5	SA
+Drug-Disorder	False	relation	6	17	['sda/1', 'uniprot/2008246']	['umls/C0000777']	372:375	448:458	annotator4,annotator5	SA
+Drug-Disorder	False	relation	6	18	['sda/1', 'uniprot/2008246']	['sda/2', 'sda/8']	372:375	463:478	annotator4,annotator5	SA
+Drug-Disorder	False	relation	1	19	['uniprot/4501015', 'uniprot/9013601']	['umls/C0105641']	61:70	39:57	Computer	PA
+Drug-Disorder	False	relation	2	20	['uniprot/4501015', 'uniprot/9013601']	['umls/C0105641']	141:150	119:137	Computer	PA
+Drug-Disorder	False	relation	3	20	['sda/1', 'uniprot/2008246']	['umls/C0105641']	152:155	119:137	annotator5	PA
+Drug-Disorder	False	relation	6	7	['sda/1', 'uniprot/2008246']	['sda/4', 'sda/6']	372:375	417:425	annotator5	PA

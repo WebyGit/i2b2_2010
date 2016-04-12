@@ -1,0 +1,44 @@
+Target-Drug	False	concept	Cobaltous chloride	0	18	annotator1,annotator2	['sda/1']	0	Chemicals & Drugs
+Target-Drug	True	concept	aryl hydrocarbon receptor	39	64	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	2	Genes & Molecular Sequences
+Target-Drug	True	concept	aryl hydrocarbon receptor	112	137	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	4	Genes & Molecular Sequences
+Target-Drug	True	concept	AhR	139	142	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	estrogen receptor	160	177	annotator1,Computer,annotator2,annotator3	['uniprot/3047906']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	ER	179	181	annotator1,annotator2,annotator3	['sda/2', 'sda/1']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	2,3,7,8-tetrachlorodibenzo-p-dioxin	234	269	annotator1,annotator2,annotator3	['sda/3']	9	Chemicals & Drugs
+Target-Drug	True	concept	TCDD	271	275	annotator1,annotator2,annotator3	['sda/4', 'sda/2']	10	Chemicals & Drugs
+Target-Drug	True	concept	CYP1A1	285	291	annotator1,Computer,annotator2,annotator3	['uniprot/3068062']	11	Genes & Molecular Sequences
+Target-Drug	False	concept	AhR-ERalpha	346	357	annotator2,annotator3	['sda/8', 'sda/6']	45	Genes & Molecular Sequences
+Target-Drug	True	concept	AhR	481	484	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	13	Genes & Molecular Sequences
+Target-Drug	True	concept	TCDD	507	511	annotator1,annotator2,annotator3	['sda/4', 'sda/2']	14	Chemicals & Drugs
+Target-Drug	True	concept	AhR	587	590	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	AhR	630	633	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	16	Genes & Molecular Sequences
+Target-Drug	True	concept	CYP1A1	651	657	annotator1,Computer,annotator2,annotator3	['uniprot/3068062', 'sda/4']	17	Genes & Molecular Sequences
+Target-Drug	False	concept		691	700	annotator1	['sda/5']	18	Genes & Molecular Sequences
+Target-Drug	False	concept	hypoxia-inducible factor-1alpha	807	838	annotator1,annotator2	['sda/6', 'sda/5']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	AhR translocation	875	900	annotator1,Computer,annotator2,annotator3	['sda/7', 'uniprot/3001224']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	Arnt) protein	902	915	annotator1,Computer,annotator2,annotator3	['uniprot/3001261']	22	Genes & Molecular Sequences
+Target-Drug	True	concept	Arnt	939	943	annotator1,Computer,annotator2,annotator3	['uniprot/3001261']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	p65	997	1000	annotator1,Computer,annotator2,annotator3	['uniprot/2008615']	25	Genes & Molecular Sequences
+Target-Drug	True	concept	NFkappaB	1012	1020	annotator1,annotator2,annotator3	['sda/8', 'sda/6', 'sda/5']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	AhR	1036	1039	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	27	Genes & Molecular Sequences
+Target-Drug	True	concept	BRCA1	1241	1246	annotator1,Computer,annotator2,annotator3	['uniprot/3005276']	31	Genes & Molecular Sequences
+Target-Drug	True	concept	AhR	1263	1266	annotator1,Computer,annotator2,annotator3	['uniprot/3001224']	32	Genes & Molecular Sequences
+Target-Drug	True	concept	BRCA1	1433	1438	annotator1,Computer,annotator2,annotator3	['uniprot/3005276']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	CYP1A1	1475	1481	annotator1,Computer,annotator2,annotator3	['uniprot/3068062']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	TCDD	1485	1489	annotator1,annotator2,annotator3	['sda/4', 'sda/2']	37	Chemicals & Drugs
+Target-Drug	True	concept	TCDD	1551	1555	annotator1,annotator2,annotator3	['sda/4', 'sda/2']	38	Chemicals & Drugs
+Target-Drug	False	concept		1565	1592	annotator1	['sda/11']	39	Chemicals & Drugs
+Target-Drug	True	concept	cycloheximide	1593	1606	annotator1,annotator2,annotator3	['sda/10', 'sda/7', 'sda/11']	40	Chemicals & Drugs
+Target-Drug	True	concept	CYP1A1	1624	1630	annotator1,Computer,annotator2,annotator3	['uniprot/3068062']	41	Genes & Molecular Sequences
+Target-Drug	True	concept	cycloheximide	1907	1920	annotator1,annotator2,annotator3	['sda/10', 'sda/7', 'sda/11']	44	Chemicals & Drugs
+Target-Drug	False	relation	0	2	['sda/1']	['uniprot/3001224']	0:18	39:64	annotator1,annotator2	PA
+Target-Drug	True	relation	9	11	['sda/3']	['uniprot/3068062']	234:269	285:291	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	10	11	['sda/4', 'sda/2']	['uniprot/3068062']	271:275	285:291	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	14	13	['sda/4', 'sda/2']	['uniprot/3001224']	507:511	481:484	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	37	36	['sda/4', 'sda/2']	['uniprot/3068062']	1485:1489	1475:1481	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	38	41	['sda/4', 'sda/2']	['uniprot/3068062']	1551:1555	1624:1630	annotator1,annotator2,annotator3	PA
+Target-Drug	True	relation	40	41	['sda/10', 'sda/7', 'sda/11']	['uniprot/3068062']	1593:1606	1624:1630	annotator1,annotator2,annotator3	PA
+Target-Drug	False	relation	39	41	['sda/11']	['uniprot/3068062']	1565:1592	1624:1630	annotator1	PA
+Target-Drug	False	relation	9	45	['sda/3']	['sda/8', 'sda/6']	234:269	346:357	annotator2,annotator3	PA
+Target-Drug	False	relation	10	45	['sda/4', 'sda/2']	['sda/8', 'sda/6']	271:275	346:357	annotator2,annotator3	PA
+Target-Drug	False	relation	37	35	['sda/4', 'sda/2']	['uniprot/3005276']	1485:1489	1433:1438	annotator3	NA

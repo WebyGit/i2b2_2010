@@ -1,0 +1,48 @@
+Target-Drug	True	concept	Secreted frizzled-related protein 4	0	35	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	0	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	50	55	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	1	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnts	329	333	annotator1,annotator2,annotator3	['sda/3', 'sda/2', 'sda/6']	3	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	388	393	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	4	Genes & Molecular Sequences
+Target-Drug	False	concept		414	421	Computer	['uniprot/4501098']	38	Chemicals & Drugs
+Target-Drug	False	concept	Wnt	473	476	annotator1,annotator3	['sda/4', 'sda/7']	5	Genes & Molecular Sequences
+Target-Drug	True	concept	secreted frizzled-related protein 4	488	523	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	6	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	525	530	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	7	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	588	593	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	8	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	671	676	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	10	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	681	686	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	11	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	766	771	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	12	Genes & Molecular Sequences
+Target-Drug	True	concept	specific frizzled receptors	881	908	annotator1,annotator2,annotator3	['sda/5', 'sda/7', 'sda/2']	14	Genes & Molecular Sequences
+Target-Drug	True	concept	Fzd	910	913	annotator1,annotator2,annotator3	['sda/6', 'sda/8', 'sda/4']	15	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	925	930	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	16	Genes & Molecular Sequences
+Target-Drug	True	concept		983	992	annotator1,annotator2,annotator2,annotator3,annotator3	['sda/1', 'uniprot/3020969', 'sda/8', 'sda/4']	17	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	1064	1069	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	18	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	1131	1136	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	19	Genes & Molecular Sequences
+Target-Drug	True	concept	Fzd5	1163	1167	annotator1,Computer,annotator2,annotator3	['uniprot/3002590']	20	Genes & Molecular Sequences
+Target-Drug	True	concept	Fzd10	1169	1174	annotator1,Computer,annotator2,annotator3	['uniprot/3021411']	21	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	1180	1185	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	22	Genes & Molecular Sequences
+Target-Drug	False	concept		1189	1203	annotator3	['sda/8']	42	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	1205	1210	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	23	Genes & Molecular Sequences
+Target-Drug	True	concept	Fzd5	1222	1226	annotator1,Computer,annotator2,annotator3	['uniprot/3002590']	24	Genes & Molecular Sequences
+Target-Drug	True	concept	beta-catenin	1249	1261	annotator1,Computer,annotator2,annotator3	['uniprot/3001434', 'sda/9']	25	Genes & Molecular Sequences
+Target-Drug	False	concept		1272	1275	annotator1	['sda/4']	26	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	1335	1340	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	28	Genes & Molecular Sequences
+Target-Drug	True	concept	Fzd10	1363	1368	annotator1,Computer,annotator2,annotator3	['uniprot/3021411']	29	Genes & Molecular Sequences
+Target-Drug	True	concept	c-Jun	1392	1397	Computer,annotator2,annotator3	['uniprot/3001679', 'sda/10']	40	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	1438	1443	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	30	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	1469	1474	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	31	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	1553	1558	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	32	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	1590	1595	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	33	Genes & Molecular Sequences
+Target-Drug	True	concept	Wnt7a	1717	1722	annotator1,Computer,annotator2,annotator3	['uniprot/3020969']	35	Genes & Molecular Sequences
+Target-Drug	True	concept	Fzd	1769	1772	annotator1,annotator2,annotator3	['sda/6', 'sda/8', 'sda/4']	36	Genes & Molecular Sequences
+Target-Drug	True	concept	SFRP4	1820	1825	annotator1,Computer,annotator2,annotator3	['uniprot/3002267']	37	Genes & Molecular Sequences
+Target-Drug	False	relation	38	7	['uniprot/4501098']	['uniprot/3002267']	414:421	525:530	Computer	PA
+Target-Drug	False	relation	38	4	['uniprot/4501098']	['uniprot/3020969']	414:421	388:393	Computer	PA
+Target-Drug	False	relation	0	2	['uniprot/3002267']	[]	0:35	105:123	annotator2	PA
+Target-Drug	False	relation	1	2	['uniprot/3020969']	[]	50:55	105:123	annotator2	PA
+Target-Drug	False	relation	10	9	['uniprot/3002267']	[]	671:676	635:656	annotator2	PA
+Target-Drug	False	relation	11	9	['uniprot/3020969']	[]	681:686	635:656	annotator2	PA
+Target-Drug	False	relation	12	13	['uniprot/3020969']	[]	766:771	819:830	annotator2	PA
+Target-Drug	False	relation	12	41	['uniprot/3020969']	[]	766:771	801:814	annotator2	PA
+Target-Drug	False	relation	23	27	['uniprot/3020969']	[]	1205:1210	1299:1321	annotator2	PA
+Target-Drug	False	relation	24	27	['uniprot/3002590']	[]	1222:1226	1299:1321	annotator2	PA
+Target-Drug	False	relation	25	27	['uniprot/3001434', 'sda/9']	[]	1249:1261	1299:1321	annotator2	PA
+Target-Drug	False	relation	33	34	['uniprot/3002267']	[]	1590:1595	1626:1644	annotator2	PA
